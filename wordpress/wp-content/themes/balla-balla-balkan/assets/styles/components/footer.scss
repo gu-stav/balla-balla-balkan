@@ -1,0 +1,60 @@
+.footer {
+  padding-bottom: 4rem;
+  margin-top: 5rem;
+
+  &__person {
+    float: left;
+    padding: 1rem;
+    text-align: right;
+    width: 50%;
+
+    &-header {
+      &:before,
+      &:after {
+        content: " ";
+        display: table;
+      }
+
+      &:after {
+          clear: both;
+      }
+    }
+
+    &-image {
+      background: #f3f3f3;
+      border: 2px solid #e1e1e1;
+      border-radius: 100%;
+      display: block;
+      height: 10rem;
+      margin-bottom: 2.5rem;
+      margin-left: -2rem;
+      width: 10rem;
+      z-index: 10;
+    }
+
+    &-name {
+      font-family: Arial;
+      font-size: 1.3rem;
+      margin-bottom: 0;
+      margin-top: 0;
+      text-transform: uppercase;
+    }
+
+    &-teaser {
+      line-height: 1.45;
+      margin-bottom: 0;
+      margin-top: 1rem;
+    }
+  }
+
+  &__person:first-child &__person-image {
+    float: right;
+    margin-left: 0;
+    margin-right: -2rem;
+    z-index: 11;
+  }
+
+  &__person:last-child {
+    text-align: left;
+  }
+}

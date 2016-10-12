@@ -1,0 +1,43 @@
+.episode {
+  &__header {
+    background-color: #b0b6a8;
+    height: 30rem;
+    position: relative;
+  }
+
+  &__canvas {
+    background-image: linear-gradient(
+      to top, rgba(0, 0, 0, .5), transparent
+    );
+    bottom: 0;
+    left: 0;
+    padding: 1.5rem;
+    position: absolute;
+    width: 100%;
+  }
+
+  &__title {
+    color: white;
+    font-family: Arial;
+    font-size: 1.6rem;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-transform: uppercase;
+
+    > a {
+      color: currentColor;
+      text-decoration: none;
+    }
+  }
+
+  &__excerpt {
+    color: white;
+    line-height: 1.45;
+    margin-bottom: 0;
+    margin-top: 0;
+  }
+
+  & + & {
+    margin-top: 3rem;
+  }
+}

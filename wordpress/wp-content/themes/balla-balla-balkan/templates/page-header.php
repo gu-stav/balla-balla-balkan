@@ -1,5 +1,13 @@
 <?php use Roots\Sage\Titles; ?>
 
-<div class="page-header">
-  <h1><?= Titles\title(); ?></h1>
-</div>
+<?php
+$title = Titles\title();
+?>
+
+<?php if($title): ?>
+  <div class="page-header">
+    <h1 class="page-header__title">
+      <?= esc_html($title);  ?>
+    </h1>
+  </div>
+<?php endif; ?>
