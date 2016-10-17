@@ -5,8 +5,8 @@
       <div class="episode__canvas">
 
         <?php
-          $soundcloud_embed = get_field('image', get_the_ID());
-          echo $soundcloud_embed;
+          $soundcloud_embed = get_field('soundcloud-embed', get_the_ID());
+          echo htmlspecialchars_decode($soundcloud_embed);
         ?>
 
         <h2 class="episode__title">
