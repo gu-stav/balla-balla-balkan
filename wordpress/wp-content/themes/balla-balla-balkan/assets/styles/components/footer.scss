@@ -1,6 +1,16 @@
 .footer {
-  padding-bottom: 4rem;
+  margin-bottom: 6rem;
   margin-top: 5rem;
+
+  &:before,
+  &:after {
+    content: " ";
+    display: table;
+  }
+
+  &:after {
+      clear: both;
+  }
 
   &__person {
     float: left;
@@ -22,28 +32,45 @@
 
     &-image {
       background: #f3f3f3;
-      border: 2px solid #e1e1e1;
+      border: 2px solid black;
       border-radius: 100%;
       display: block;
-      height: 10rem;
+      height: 14rem;
       margin-bottom: 2.5rem;
       margin-left: -2rem;
-      width: 10rem;
+      width: 14rem;
       z-index: 10;
     }
 
     &-name {
-      font-family: Arial;
-      font-size: 1.3rem;
+      background-color: black;
+      color: yellow;
+      display: inline-block;
+      font-family: 'Erica One', cursive;
+      font-size: 1.35rem;
+      letter-spacing: .05rem;
       margin-bottom: 0;
       margin-top: 0;
+      padding: .4rem 1.3rem;
       text-transform: uppercase;
+      transform: rotate(3deg);
     }
 
     &-teaser {
-      line-height: 1.45;
+      font-family: 'Roboto', sans-serif;
+      font-size: 1.2rem;
+      line-height: 1.4;
       margin-bottom: 0;
-      margin-top: 1rem;
+      margin-top: 1.5rem;
+    }
+
+    &-link {
+      color: currentColor;
+      display: inline-block;
+      font-family: 'Roboto', sans-serif;
+      font-weight: bold;
+      margin-top: 1.5rem;
+      text-decoration: none;
     }
   }
 
@@ -52,6 +79,10 @@
     margin-left: 0;
     margin-right: -2rem;
     z-index: 11;
+  }
+
+  &__person:first-child &__person-name {
+    transform: rotate(-2deg);
   }
 
   &__person:last-child {

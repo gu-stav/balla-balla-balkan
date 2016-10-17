@@ -1,40 +1,88 @@
 .episode {
   &__header {
     background-color: #b0b6a8;
-    height: 30rem;
+    background-size: cover;
+    height: 40rem;
+    overflow: hidden;
     position: relative;
+
+    &:before {
+      background-color: rgba(0, 0, 0, .2);
+      content: ' ';
+      height: 100%;
+      left: 0;
+      position: absolute;
+      top: 0;
+      width: 100%;
+      z-index: 10;
+    }
   }
 
   &__canvas {
     background-image: linear-gradient(
-      to top, rgba(0, 0, 0, .5), transparent
+      to top, rgba(0, 0, 0, .7) 65%, transparent
     );
     bottom: 0;
     left: 0;
     padding: 1.5rem;
     position: absolute;
     width: 100%;
+    z-index: 20;
+
+    > iframe {
+      margin-bottom: 3rem;
+    }
   }
 
   &__title {
     color: white;
-    font-family: Arial;
-    font-size: 1.6rem;
-    margin-bottom: 0;
+    display: block;
+    font-family: 'Erica One', cursive;
+    font-size: 2.1rem;
+    letter-spacing: .03rem;
+    margin-bottom: .5rem;
     margin-top: 0;
     text-transform: uppercase;
 
     > a {
+      border-bottom: 7px solid rgb(255, 237, 0);
       color: currentColor;
+      display: block;
       text-decoration: none;
+      width: auto;
+
+      &:hover,
+      &:focus {
+        border-color: black;
+      }
     }
   }
 
   &__excerpt {
     color: white;
-    line-height: 1.45;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.05rem;
+    line-height: 1.25;
     margin-bottom: 0;
     margin-top: 0;
+    max-height: 11rem;
+
+    a {
+      color: currentColor;
+    }
+  }
+
+  &__content {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.35rem;
+    line-height: 1.4;
+    margin-top: 2rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+
+    a {
+      color: currentColor;
+    }
   }
 
   & + & {

@@ -1,10 +1,15 @@
 .header {
-  margin-bottom: 4rem;
+  margin-bottom: 2rem;
   text-align: center;
 
   &__logo-container {
     display: inline-block;
-    height: 20rem;
-    width: 35rem;
+    margin-top: -8rem;
+  }
+
+  &__logo {
+    height: 25rem;
+    max-width: 100%;
+    width: 25rem;
   }
 }
