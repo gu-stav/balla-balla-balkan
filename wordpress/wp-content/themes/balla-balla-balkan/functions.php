@@ -26,3 +26,22 @@ foreach ($sage_includes as $file) {
   require_once $filepath;
 }
 unset($file, $filepath);
+
+function cedaro_dequeue_jquery_migrate( $scripts ) {
+  if ( ! is_admin() && ! empty( $scripts->registered['jquery'] ) ) {
+    $jquery_dependencies = $scripts->registered['jquery']->deps;
+    $scripts->registered['jquery']->deps = array_diff( $jquery_dependencies, array( 'jquery-migrate' ) );
+  }
+}
+
+add_action( 'wp_default_scripts', 'cedaro_dequeue_jquery_migrate', 100 );
+
+function my_deregister_scripts(){
+  wp_deregister_script( 'wp-embed' );
+}
+add_action( 'wp_footer', 'my_deregister_scripts' );
+
+add_filter( 'emoji_svg_url', '__return_false' );
+
+remove_action( 'wp_head', 'print_emoji_detection_script', 7 );
+remove_action( 'wp_print_styles', 'print_emoji_styles' );
