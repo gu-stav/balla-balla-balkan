@@ -10,4 +10,9 @@
       <?php bloginfo('name'); ?>
     </span>
   </a>
+
+  <p class="header__tagline">
+    <?php echo get_bloginfo('description'); ?>
+  </p>
+
 </header>
