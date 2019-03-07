@@ -22,8 +22,6 @@
     </header>
 
     <div class="episode__content">
-      <script type="text/javascript" src="https://steadyhq.com/widget_loader/da5092ad-eb62-40e8-a5a9-b0e2ed4f7391"></script>
-
       <?php the_content(); ?>
 
       <script type="text/javascript" src="https://steadyhq.com/widget_loader/da5092ad-eb62-40e8-a5a9-b0e2ed4f7391"></script>
