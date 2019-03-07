@@ -14,7 +14,4 @@
   <p class="header__tagline">
     <?php echo get_bloginfo('description'); ?>
   </p>
-
-  <script type="text/javascript" src="https://steadyhq.com/widget_loader/da5092ad-eb62-40e8-a5a9-b0e2ed4f7391"></script>
-
 </header>
