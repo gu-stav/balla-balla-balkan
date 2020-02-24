@@ -1,3 +1,5 @@
+<?php while (have_posts()):
+        the_post(); ?>
 <article class="episode">
     <h2 class="episode__title">
       <?php the_title(); ?>
@@ -7,3 +9,5 @@
     <?php the_content(); ?>
   </div>
 </article>
+<?php
+      endwhile; ?>

@@ -9,7 +9,5 @@ $title = Titles\title();
     <h1 class="page-header__title">
       <?= esc_html($title);  ?>
     </h1>
-
-    <?php the_content(); ?>
   </div>
 <?php endif; ?>
