@@ -47,3 +47,8 @@ $user2_image = wp_get_attachment_image(get_field('image', 'user_' . $user2->ID),
     </a>
   </div>
 </footer>
+
+<?php wp_nav_menu( array(
+    'theme_location' => 'footer-menu',
+    'menu_class' => 'footer-menu'
+) ); ?>

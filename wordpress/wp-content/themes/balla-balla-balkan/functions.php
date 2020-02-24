@@ -45,3 +45,11 @@ add_filter( 'emoji_svg_url', '__return_false' );
 
 remove_action( 'wp_head', 'print_emoji_detection_script', 7 );
 remove_action( 'wp_print_styles', 'print_emoji_styles' );
+
+function register_my_menus() {
+  register_nav_menus(
+    array('footer-menu' => __( 'Footer Menu' ) )
+  );
+}
+
+add_action( 'init', 'register_my_menus' );
