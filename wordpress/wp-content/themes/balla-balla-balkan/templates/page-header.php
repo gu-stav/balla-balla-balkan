@@ -11,3 +11,14 @@ $title = Titles\title();
     </h1>
   </div>
 <?php endif; ?>
+
+<?php while (have_posts()):
+        the_post(); ?>
+  <article class="episode">
+    <div class="episode__content">
+      <?php the_content(); ?>
+    </div>
+  </article>
+<?php
+      endwhile; ?>
+
