@@ -1,2 +1,4 @@
-wordpress/wp-config.php
-wordpress/wp-content/uploads/*
+public/
+.cache/
+.linaria-cache/
+node_modules/
