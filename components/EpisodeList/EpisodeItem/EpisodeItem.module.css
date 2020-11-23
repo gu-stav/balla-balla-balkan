@@ -1,0 +1,35 @@
+.item {
+  display: grid;
+  font-family: var(--font-sans);
+  grid-gap: 2rem;
+  grid-template-columns: repeat(6, 1fr);
+}
+
+.link {
+  text-decoration: none;
+}
+
+.imageContainer {
+  grid-column: 2 / span 1;
+  position: relative;
+}
+
+.number {
+  background-color: white;
+  bottom: 0;
+  color: var(--color-brand);
+  font-size: 1.5rem;
+  font-weight: 700;
+  padding: 0.5rem;
+  position: absolute;
+  right: 0;
+}
+
+.contentContainer {
+  grid-column: 3 / span 4;
+}
+
+.excerpt {
+  font-size: 1.25rem;
+  line-height: 1.4;
+}

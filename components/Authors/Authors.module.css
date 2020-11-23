@@ -1,0 +1,13 @@
+.authors {
+  background-color: var(--color-brand);
+  color: white;
+  display: flex;
+  justify-content: center;
+}
+
+.inner {
+  composes: max-width from '../../public/styles/modules/max-width.css';
+
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}

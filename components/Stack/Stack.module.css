@@ -1,0 +1,7 @@
+.stack {
+  width: 100%;
+}
+
+.stack > * + * {
+  margin-top: 2rem;
+}

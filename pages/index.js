@@ -1,26 +1,26 @@
 import Authors from "../components/Authors";
 import EpisodeFeatured from "../components/EpisodeFeatured";
-import EpisodeItem from "../components/EpisodeItem";
+import EpisodeList from "../components/EpisodeList/EpisodeList";
 import Layout from "../components/Layout";
+import Stack from "../components/Stack";
 
 import { getAuthors } from "../lib/authors";
 import { getEpisodes } from "../lib/episodes";
 
-const HomePage = ({ authors, episodes }) => (
-  <Layout>
-    <EpisodeFeatured />
+const HomePage = ({ authors, episodes }) => {
+  const featuredEpisode = episodes.slice(0, 1)[0];
+  const recentEpisodes = episodes.slice(1, episodes.length);
 
-    <ul>
-      {episodes.map((episode) => (
-        <li>
-          <EpisodeItem {...episode} />
-        </li>
-      ))}
-    </ul>
-
-    <Authors authors={authors} />
-  </Layout>
-);
+  return (
+    <Layout>
+      <Stack>
+        <EpisodeFeatured {...featuredEpisode} />
+        <EpisodeList episodes={episodes} />
+        <Authors authors={authors} />
+      </Stack>
+    </Layout>
+  );
+}
 
 export async function getStaticProps() {
   const authors = getAuthors();

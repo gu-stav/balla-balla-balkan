@@ -1,5 +1,7 @@
 import Link from "next/link";
 
+import styles from './Header.module.css';
+
 const Header = ({
   name = "Ballaballa Balkan",
   items = [
@@ -7,7 +9,7 @@ const Header = ({
     ["/unterstuetzen", "Unterstützen"],
   ],
 }) => (
-  <header>
+  <header className={styles.header}>
     <Link href="/">
       <a>{name}</a>
     </Link>

@@ -1,0 +1,40 @@
+.base {
+  background: transparent;
+  border: 2px solid var(--color-brand);
+  border-radius: 1rem;
+  color: var(--color-brand);
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: 700;
+  line-height: 1;
+  padding: 0.75rem 1.75rem;
+}
+
+.link {
+  composes: base;
+}
+
+.button {
+  composes: base;
+}
+
+.link:hover,
+.link:focus,
+.button:hover,
+.button:focus {
+  background-color: var(--color-brand);
+  color: white;
+  cursor: pointer;
+}
+
+.invert {
+  background-color: var(--color-brand);
+  color: white;
+  border-color: white;
+}
+
+.invert:focus,
+.invert:hover {
+  background-color: white;
+  color: var(--color-brand);
+}
