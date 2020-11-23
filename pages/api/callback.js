@@ -1,4 +1,4 @@
-import { create, renderBody } from './_lib/oauth2';
+import { create, renderBody } from "./_lib/oauth2";
 
 export default async (req, res) => {
   const { code } = req.query;
@@ -15,12 +15,12 @@ export default async (req, res) => {
     const { token } = oauth2.accessToken.create(accessToken);
 
     res.status(200).send(
-      renderBody('success', {
+      renderBody("success", {
         token: token.access_token,
-        provider: 'github',
-      }),
+        provider: "github",
+      })
     );
   } catch (e) {
-    res.status(200).send(renderBody('error', e));
+    res.status(200).send(renderBody("error", e));
   }
 };

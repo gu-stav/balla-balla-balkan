@@ -1,17 +1,19 @@
-const EpisodeItem = ({ title, subtitle, excerpt, length, number }) => (
-  <div>
-    {length}
+import Link from "next/link";
 
-    <h2>
-      {number}
-      {title}
-      {subtitle && (
-        <span>{subtitle}</span>
-      )}
-    </h2>
+const EpisodeItem = ({ title, slug, subtitle, excerpt, length, number }) => (
+  <Link href={slug}>
+    <a>
+      {length}
 
-    <p>{excerpt}</p>
-  </div>
+      <h2>
+        {number}
+        {title}
+        {subtitle && <span>{subtitle}</span>}
+      </h2>
+
+      <p>{excerpt}</p>
+    </a>
+  </Link>
 );
 
 export default EpisodeItem;
