@@ -12,6 +12,8 @@
 
 .link {
   composes: base;
+
+  text-decoration: none;
 }
 
 .button {

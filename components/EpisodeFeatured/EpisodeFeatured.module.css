@@ -1,4 +1,10 @@
 .section {
+  margin-bottom: 10rem;
+  position: relative;
+  width: 100%;
+}
+
+.inner {
   composes: max-width from "../../public/styles/modules/max-width.css";
 
   background-color: var(--color-brand);
@@ -6,7 +12,11 @@
   display: grid;
   font-family: var(--font-sans);
   grid-template-columns: repeat(2, 1fr);
+  left: 50%;
   padding: 4rem;
+  position: absolute;
+  top: 15%;
+  transform: translateX(-50%);
 }
 
 .link {
@@ -21,4 +31,9 @@
 
 .title {
   color: black;
+}
+
+.link:hover .title,
+.link:focus .title {
+  text-decoration: underline;
 }

@@ -6,26 +6,32 @@ import Headline from "../Headline";
 
 import styles from "./EpisodeFeatured.module.css";
 
-const EpisodeFeatured = ({ title, slug, subtitle, image }) => (
+const EpisodeFeatured = ({ title, slug, subtitle, image, backgroundImage }) => (
   <section className={styles.section}>
-    <div>
-      <Link href={slug}>
-        <a className={styles.link}>
-          <Headline tag={2} as={1}>
-            <small className={styles.tagline}>Neueste Folge</small>
+    {backgroundImage && (
+      <Image src={backgroundImage} width={1500} height={500} layout="responsive" />
+    )}
 
-            <span className={styles.title}>{title}</span>
+    <div className={styles.inner}>
+      <div>
+        <Link href={slug}>
+          <a className={styles.link}>
+            <Headline tag={2} as={1}>
+              <small className={styles.tagline}>Neueste Folge</small>
 
-            {subtitle && <span>{subtitle}</span>}
-          </Headline>
-        </a>
-      </Link>
+              <span className={styles.title}>{title}</span>
 
-      <Button invert>Episode abspielen</Button>
-    </div>
+              {subtitle && <span>{subtitle}</span>}
+            </Headline>
+          </a>
+        </Link>
 
-    <div>
-      <Image src={image} width={400} height={400} />
+        <Button invert>Episode abspielen</Button>
+      </div>
+
+      <div>
+        <Image src={image} width={400} height={400} />
+      </div>
     </div>
   </section>
 );

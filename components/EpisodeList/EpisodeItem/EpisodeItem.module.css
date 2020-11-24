@@ -33,9 +33,12 @@
 .excerpt {
   font-size: 1.25rem;
   line-height: 1.4;
+  margin-bottom: 0;
+  margin-top: 0;
 }
 
 .titleContainer {
+  margin-bottom: 0;
   margin-top: 0;
 }
 

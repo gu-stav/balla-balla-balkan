@@ -1,25 +1,31 @@
 import Link from "next/link";
 
+import Button from '../Button';
+import Logo from './Logo';
+
 import styles from "./Header.module.css";
 
 const Header = ({
-  name = "Ballaballa Balkan",
   items = [
     ["/episoden", "Alle Episoden"],
     ["/unterstuetzen", "Unterstützen"],
   ],
 }) => (
   <header className={styles.header}>
-    <Link href="/">
-      <a>{name}</a>
-    </Link>
+    <nav className={styles.inner}>
+      <Link href={items[0][0]}>
+        <a>{items[0][1]}</a>
+      </Link>
 
-    <nav>
-      {items.map(([href, label]) => (
-        <Link href={href}>
-          <a>{label}</a>
-        </Link>
-      ))}
+      <Link href="/">
+        <a>
+          <Logo />
+        </a>
+      </Link>
+
+      <Button href={items[1][0]}>
+        {items[1][1]}
+      </Button>
     </nav>
   </header>
 );

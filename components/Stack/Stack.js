@@ -11,7 +11,11 @@ const Stack = ({
 }) => {
   const Tag = tagName;
 
-  return <Tag className={cn(styles.stack, { [styles.centered]: center }, className)}>{children}</Tag>;
+  return (
+    <Tag className={cn(styles.stack, { [styles.centered]: center }, className)}>
+      {children}
+    </Tag>
+  );
 };
 
 export default Stack;
