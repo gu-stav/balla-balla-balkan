@@ -6,6 +6,7 @@
 }
 
 .link {
+  display: block;
   text-decoration: none;
 }
 
@@ -32,4 +33,13 @@
 .excerpt {
   font-size: 1.25rem;
   line-height: 1.4;
+}
+
+.titleContainer {
+  margin-top: 0;
+}
+
+.link:hover .title,
+.link:focus .title {
+  text-decoration: underline;
 }

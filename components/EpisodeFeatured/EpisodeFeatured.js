@@ -1,10 +1,10 @@
-import Image from 'next/image';
-import Link from 'next/link';
+import Image from "next/image";
+import Link from "next/link";
 
-import Button from '../Button';
-import Headline from '../Headline';
+import Button from "../Button";
+import Headline from "../Headline";
 
-import styles from './EpisodeFeatured.module.css';
+import styles from "./EpisodeFeatured.module.css";
 
 const EpisodeFeatured = ({ title, slug, subtitle, image }) => (
   <section className={styles.section}>
@@ -21,9 +21,7 @@ const EpisodeFeatured = ({ title, slug, subtitle, image }) => (
         </a>
       </Link>
 
-      <Button invert>
-        Episode abspielen
-      </Button>
+      <Button invert>Episode abspielen</Button>
     </div>
 
     <div>

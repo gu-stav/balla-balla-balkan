@@ -5,3 +5,9 @@
 .stack > * + * {
   margin-top: 2rem;
 }
+
+.centered {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}

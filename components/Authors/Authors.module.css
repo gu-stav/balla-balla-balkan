@@ -3,10 +3,11 @@
   color: white;
   display: flex;
   justify-content: center;
+  width: 100%;
 }
 
 .inner {
-  composes: max-width from '../../public/styles/modules/max-width.css';
+  composes: max-width from "../../public/styles/modules/max-width.css";
 
   display: grid;
   grid-template-columns: repeat(2, 1fr);

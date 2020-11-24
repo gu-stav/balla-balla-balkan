@@ -1,4 +1,4 @@
 .list {
   composes: reset-list from "../../public/styles/modules/reset-list.css";
-  composes: max-width from "../../public/styles/modules/max-width.css"
+  composes: max-width from "../../public/styles/modules/max-width.css";
 }

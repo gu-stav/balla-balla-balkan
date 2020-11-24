@@ -1,12 +1,20 @@
-import Image from 'next/image';
+import Image from "next/image";
 import Link from "next/link";
 
-import Button from '../../Button';
-import Headline from '../../Headline';
+import Button from "../../Button";
+import Headline from "../../Headline";
 
-import styles from './EpisodeItem.module.css';
+import styles from "./EpisodeItem.module.css";
 
-const EpisodeItem = ({ title, slug, subtitle, excerpt, length, image, number }) => (
+const EpisodeItem = ({
+  title,
+  slug,
+  subtitle,
+  excerpt,
+  length,
+  image,
+  number,
+}) => (
   <div className={styles.item}>
     <div className={styles.imageContainer}>
       <Image src={image} objectFit="cover" layout="fill" />
@@ -19,19 +27,16 @@ const EpisodeItem = ({ title, slug, subtitle, excerpt, length, image, number }) 
         <a className={styles.link}>
           {length}
 
-          <Headline level={2}>
-            {title}
+          <Headline level={2} className={styles.titleContainer}>
+            <span className={styles.title}>{title}</span>
             {subtitle && <span>{subtitle}</span>}
           </Headline>
-
         </a>
       </Link>
 
       <p className={styles.excerpt}>{excerpt}</p>
 
-      <Button>
-        Episode abspielen
-      </Button>
+      <Button>Episode abspielen</Button>
     </div>
   </div>
 );

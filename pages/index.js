@@ -13,14 +13,14 @@ const HomePage = ({ authors, episodes }) => {
 
   return (
     <Layout>
-      <Stack>
+      <Stack center>
         <EpisodeFeatured {...featuredEpisode} />
         <EpisodeList episodes={episodes} />
         <Authors authors={authors} />
       </Stack>
     </Layout>
   );
-}
+};
 
 export async function getStaticProps() {
   const authors = getAuthors();

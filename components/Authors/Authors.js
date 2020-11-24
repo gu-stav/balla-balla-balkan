@@ -1,6 +1,6 @@
 import Author from "./Author";
 
-import styles from './Authors.module.css';
+import styles from "./Authors.module.css";
 
 const Authors = ({ authors }) => (
   <section className={styles.authors}>
