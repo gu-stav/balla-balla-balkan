@@ -4,6 +4,7 @@ import Link from "next/link";
 import Button from "../../Button";
 import FollowList from "../../FollowList";
 import Headline from "../../Headline";
+import Paragraph from "../../Paragraph";
 import Stack from "../../Stack";
 
 import styles from "./EpisodeItem.module.css";
@@ -36,7 +37,7 @@ const EpisodeItem = ({
         </a>
       </Link>
 
-      <p className={styles.excerpt}>{excerpt}</p>
+      <Paragraph>{excerpt}</Paragraph>
 
       <Stack direction="horizontal">
         <Button>Episode abspielen</Button>

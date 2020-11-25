@@ -3,6 +3,8 @@
   color: white;
   display: flex;
   justify-content: center;
+  padding-bottom: 4rem;
+  padding-top: 4rem;
   width: 100%;
 }
 
@@ -10,5 +12,6 @@
   composes: max-width from "../../public/styles/modules/max-width.css";
 
   display: grid;
+  grid-gap: 8rem;
   grid-template-columns: repeat(2, 1fr);
 }

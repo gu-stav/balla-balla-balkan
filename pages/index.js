@@ -31,8 +31,6 @@ export async function getStaticProps() {
   const episodes = getEpisodes(5);
   const settings = getSettings();
 
-  console.log(settings);
-
   return {
     props: {
       authors,
