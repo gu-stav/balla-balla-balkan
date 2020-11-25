@@ -1,3 +1,4 @@
+import About from "../components/About";
 import Authors from "../components/Authors";
 import EpisodeFeatured from "../components/EpisodeFeatured";
 import EpisodeList from "../components/EpisodeList/EpisodeList";
@@ -20,7 +21,11 @@ const HomePage = ({ authors, episodes, settings }) => {
           backgroundImage={settings?.image}
         />
         <EpisodeList episodes={recentEpisodes} />
-        <Authors authors={authors} />
+
+        <div style={{ width: '100%' }}>
+          <About {...settings} />
+          <Authors authors={authors} />
+        </div>
       </Stack>
     </Layout>
   );

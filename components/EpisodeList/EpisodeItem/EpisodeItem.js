@@ -39,7 +39,7 @@ const EpisodeItem = ({
 
       <Paragraph>{excerpt}</Paragraph>
 
-      <Stack direction="horizontal">
+      <Stack direction="horizontal" gap="tiny">
         <Button>Episode abspielen</Button>
 
         <FollowList

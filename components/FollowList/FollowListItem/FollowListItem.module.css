@@ -21,3 +21,12 @@
 .theme--light:focus {
   color: white;
 }
+
+.theme--brand {
+  color: var(--color-brand);
+}
+
+.theme--brand:hover,
+.theme--brand:focus {
+  color: black;
+}

@@ -38,7 +38,7 @@ const EpisodeFeatured = ({ title, slug, subtitle, image, backgroundImage }) => (
         <Image src={image} width={340} height={340} objectFit="cover" />
       </div>
 
-      <Stack direction="horizontal" className={styles.actionContainer}>
+      <Stack direction="horizontal" gap="tiny" className={styles.actionContainer}>
         <Button invert>Episode abspielen</Button>
 
         <FollowList
