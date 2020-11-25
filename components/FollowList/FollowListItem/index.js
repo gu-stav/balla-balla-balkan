@@ -1,1 +1,1 @@
-export { default } from './FollowListItem';
+export { default } from "./FollowListItem";

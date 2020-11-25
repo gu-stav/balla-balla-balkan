@@ -41,11 +41,14 @@ const EpisodeFeatured = ({ title, slug, subtitle, image, backgroundImage }) => (
       <Stack direction="horizontal" className={styles.actionContainer}>
         <Button invert>Episode abspielen</Button>
 
-        <FollowList theme="light" items={[
-          ['apple', 'https://apple.com', 'Apple'],
-          ['spotify', 'https://spotify.com', 'Spotify'],
-          ['soundcloud', 'https://soundcloud.com', 'Soundcloud']
-        ]} />
+        <FollowList
+          theme="light"
+          items={[
+            ["apple", "https://apple.com", "Apple"],
+            ["spotify", "https://spotify.com", "Spotify"],
+            ["soundcloud", "https://soundcloud.com", "Soundcloud"],
+          ]}
+        />
       </Stack>
     </div>
   </section>

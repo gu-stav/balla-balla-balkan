@@ -41,11 +41,13 @@ const EpisodeItem = ({
       <Stack direction="horizontal">
         <Button>Episode abspielen</Button>
 
-        <FollowList items={[
-          ['apple', 'https://apple.com', 'Apple'],
-          ['spotify', 'https://spotify.com', 'Spotify'],
-          ['soundcloud', 'https://soundcloud.com', 'Soundcloud']
-        ]} />
+        <FollowList
+          items={[
+            ["apple", "https://apple.com", "Apple"],
+            ["spotify", "https://spotify.com", "Spotify"],
+            ["soundcloud", "https://soundcloud.com", "Soundcloud"],
+          ]}
+        />
       </Stack>
     </div>
   </div>
