@@ -9,11 +9,13 @@ const Layout = ({ children }) => (
 
     <main className={styles.main}>{children}</main>
 
-    <Footer items={[
-      ['/impressum', 'Impressum'],
-      ['/datenschutz', 'Datenschutz'],
-      ['/unterstuetzen', 'Unterstützen']
-    ]} />
+    <Footer
+      items={[
+        ["/impressum", "Impressum"],
+        ["/datenschutz", "Datenschutz"],
+        ["/unterstuetzen", "Unterstützen"],
+      ]}
+    />
   </>
 );
 
