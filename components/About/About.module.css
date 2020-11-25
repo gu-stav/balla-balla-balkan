@@ -8,7 +8,7 @@
 }
 
 .inner {
-  composes: max-width from '../../public/styles/modules/max-width.css';
+  composes: max-width from "../../public/styles/modules/max-width.css";
 
   background-color: white;
   display: grid;

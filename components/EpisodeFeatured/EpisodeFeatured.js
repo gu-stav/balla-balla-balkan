@@ -8,7 +8,14 @@ import Stack from "../Stack";
 
 import styles from "./EpisodeFeatured.module.css";
 
-const EpisodeFeatured = ({ title, slug, subtitle, image, backgroundImage }) => (
+const EpisodeFeatured = ({
+  title,
+  path,
+  subtitle,
+  tagline,
+  image,
+  backgroundImage,
+}) => (
   <section className={styles.section}>
     {backgroundImage && (
       <Image
@@ -21,10 +28,10 @@ const EpisodeFeatured = ({ title, slug, subtitle, image, backgroundImage }) => (
 
     <div className={styles.inner}>
       <div className={styles.contentContainer}>
-        <Link href={slug}>
+        <Link href={path}>
           <a className={styles.link}>
             <Headline tag={2} as={1} className={styles.titleContainer}>
-              <small className={styles.tagline}>Neueste Folge</small>
+              <small className={styles.tagline}>{tagline}</small>
 
               <span className={styles.title}>{title}</span>
 
@@ -38,7 +45,11 @@ const EpisodeFeatured = ({ title, slug, subtitle, image, backgroundImage }) => (
         <Image src={image} width={340} height={340} objectFit="cover" />
       </div>
 
-      <Stack direction="horizontal" gap="tiny" className={styles.actionContainer}>
+      <Stack
+        direction="horizontal"
+        gap="tiny"
+        className={styles.actionContainer}
+      >
         <Button invert>Episode abspielen</Button>
 
         <FollowList

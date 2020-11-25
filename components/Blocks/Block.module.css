@@ -1,0 +1,3 @@
+.container {
+  composes: max-width from "../../public/styles/modules/max-width.css";
+}

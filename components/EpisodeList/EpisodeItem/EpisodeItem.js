@@ -11,7 +11,7 @@ import styles from "./EpisodeItem.module.css";
 
 const EpisodeItem = ({
   title,
-  slug,
+  path,
   subtitle,
   excerpt,
   length,
@@ -26,7 +26,7 @@ const EpisodeItem = ({
     </div>
 
     <div className={styles.contentContainer}>
-      <Link href={slug}>
+      <Link href={path}>
         <a className={styles.link}>
           {length}
 

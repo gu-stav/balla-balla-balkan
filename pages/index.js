@@ -17,12 +17,15 @@ const HomePage = ({ authors, episodes, settings }) => {
     <Layout>
       <Stack center>
         <EpisodeFeatured
-          {...featuredEpisode}
+          tagline="Neueste Folge"
+          title={featuredEpisode.title}
+          path={featuredEpisode.path}
+          image={featuredEpisode.image}
           backgroundImage={settings?.image}
         />
         <EpisodeList episodes={recentEpisodes} />
 
-        <div style={{ width: '100%' }}>
+        <div style={{ width: "100%" }}>
           <About {...settings} />
           <Authors authors={authors} />
         </div>
