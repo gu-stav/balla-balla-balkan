@@ -1,0 +1,25 @@
+.footer {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.nav {
+  composes: max-width from "../../public/styles/modules/max-width.css";
+
+  display: flex;
+  justify-content: center;
+  padding-bottom: 2rem;
+  padding-top: 2rem;
+}
+
+.item {
+  font-family: var(--font-sans);
+  font-size: 1.25rem;
+  text-decoration: none;
+}
+
+.item:hover,
+.item:focus {
+  text-decoration: underline;
+}
