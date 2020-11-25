@@ -1,13 +1,29 @@
 .stack {
+  display: flex;
   width: 100%;
 }
 
-.stack > * + * {
+.gap--regular.horizontal > * + * {
+  margin-left: 4rem;
+}
+
+.gap--tiny.horizontal > * + * {
+  margin-left: 1rem;
+}
+
+.gap--regular.vertical > * + * {
   margin-top: 4rem;
+}
+
+.gap--tiny.vertical > * + * {
+  margin-top: 1rem;
+}
+
+.vertical {
+  flex-direction: column;
 }
 
 .centered {
   align-items: center;
-  display: flex;
-  flex-direction: column;
+
 }

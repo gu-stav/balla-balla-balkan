@@ -2,7 +2,9 @@ import Image from "next/image";
 import Link from "next/link";
 
 import Button from "../../Button";
+import FollowList from "../../FollowList";
 import Headline from "../../Headline";
+import Stack from "../../Stack";
 
 import styles from "./EpisodeItem.module.css";
 
@@ -17,7 +19,7 @@ const EpisodeItem = ({
 }) => (
   <div className={styles.item}>
     <div className={styles.imageContainer}>
-      <Image src={image} objectFit="cover" layout="fill" />
+      <Image src={image} width={280} height={280} objectFit="cover" />
 
       <span className={styles.number}>{`${number}`.padStart(2, "0")}</span>
     </div>
@@ -36,7 +38,15 @@ const EpisodeItem = ({
 
       <p className={styles.excerpt}>{excerpt}</p>
 
-      <Button>Episode abspielen</Button>
+      <Stack direction="horizontal">
+        <Button>Episode abspielen</Button>
+
+        <FollowList items={[
+          ['apple', 'https://apple.com', 'Apple'],
+          ['spotify', 'https://spotify.com', 'Spotify'],
+          ['soundcloud', 'https://soundcloud.com', 'Soundcloud']
+        ]} />
+      </Stack>
     </div>
   </div>
 );

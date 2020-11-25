@@ -11,6 +11,7 @@
 }
 
 .imageContainer {
+  align-self: flex-start;
   grid-column: 2 / span 1;
   position: relative;
 }
@@ -31,10 +32,10 @@
 }
 
 .excerpt {
-  font-size: 1.25rem;
-  line-height: 1.4;
-  margin-bottom: 0;
-  margin-top: 0;
+  font-size: 1.3rem;
+  line-height: 1.3;
+  margin-bottom: 1.5rem;
+  margin-top: 0.5rem;
 }
 
 .titleContainer {

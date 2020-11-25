@@ -1,0 +1,23 @@
+.icon {
+  color: currentColor;
+  height: 1.75rem;
+  width: auto;
+}
+
+.theme--dark {
+  color: var(--color-grey-light);
+}
+
+.theme--dark:hover,
+.theme--dark:focus {
+  color: var(--color-brand);
+}
+
+.theme--light {
+  color: var(--color-brand-light);
+}
+
+.theme--light:hover,
+.theme--light:focus {
+  color: var(--color-brand-light);
+}

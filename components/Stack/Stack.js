@@ -6,13 +6,14 @@ const Stack = ({
   tagName = "div",
   direction = "vertical",
   center = false,
+  gap = "regular",
   children,
   className,
 }) => {
   const Tag = tagName;
 
   return (
-    <Tag className={cn(styles.stack, { [styles.centered]: center }, className)}>
+    <Tag className={cn(styles.stack, styles[direction], styles[`gap--${gap}`], { [styles.centered]: center }, className)}>
       {children}
     </Tag>
   );

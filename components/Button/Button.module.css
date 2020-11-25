@@ -7,7 +7,8 @@
   font-size: inherit;
   font-weight: 700;
   line-height: 1;
-  padding: 0.75rem 1.75rem;
+  padding: 0.85rem 1.75rem 0.8rem 1.75rem;
+  white-space: nowrap;
 }
 
 .link {

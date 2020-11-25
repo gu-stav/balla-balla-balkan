@@ -3,8 +3,8 @@
   display: flex;
   font-family: var(--font-sans);
   justify-content: center;
-  padding-bottom: 1.5rem;
-  padding-top: 1.5rem;
+  padding-bottom: 1rem;
+  padding-top: 1rem;
   width: 100%;
 }
 
@@ -14,6 +14,11 @@
   align-items: center;
   display: flex;
   justify-content: space-between;
-  padding-left: 15%;
-  padding-right: 15%;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+.item {
+  font-size: 1.5rem;
+  text-decoration: none;
 }

@@ -1,36 +1,38 @@
 .svg {
   height: auto;
-  margin-bottom: -5.5rem;
+  margin-bottom: -5rem;
   position: relative;
   width: 15rem;
   z-index: 10;
 }
 
-.st0{
-  fill:#fff;
+.st0 {
+  fill: #fff;
 }
 
-.st1,.st2,.st3{
-  fill:none;
-  stroke:#fff;
-  stroke-miterlimit:10;
+.st1,
+.st2,
+.st3 {
+  fill: none;
+  stroke: #fff;
+  stroke-miterlimit: 10;
 }
 
-.st2{
-  stroke-dasharray:12.2484,12.2484;
+.st2 {
+  stroke-dasharray: 12.2484, 12.2484;
 }
 
-.st3{
-  stroke-dasharray:11.7262,11.7262;
+.st3 {
+  stroke-dasharray: 11.7262, 11.7262;
 }
 
-.st8{
-  stroke:var(--color-brand);
-  stroke-miterlimit:10;
-  fill:var(--color-brand);
+.st8 {
+  stroke: var(--color-brand);
+  stroke-miterlimit: 10;
+  fill: var(--color-brand);
 }
 
 .ballaBallaText {
   fill: var(--color-brand);
-  stroke:var(--color-brand);
+  stroke: var(--color-brand);
 }

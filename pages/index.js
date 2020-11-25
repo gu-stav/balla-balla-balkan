@@ -15,7 +15,10 @@ const HomePage = ({ authors, episodes, settings }) => {
   return (
     <Layout>
       <Stack center>
-        <EpisodeFeatured {...featuredEpisode} backgroundImage={settings?.image} />
+        <EpisodeFeatured
+          {...featuredEpisode}
+          backgroundImage={settings?.image}
+        />
         <EpisodeList episodes={recentEpisodes} />
         <Authors authors={authors} />
       </Stack>
@@ -34,7 +37,7 @@ export async function getStaticProps() {
     props: {
       authors,
       episodes,
-      settings
+      settings,
     },
   };
 }

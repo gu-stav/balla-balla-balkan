@@ -1,7 +1,7 @@
 import Link from "next/link";
 
-import Button from '../Button';
-import Logo from './Logo';
+import Button from "../Button";
+import Logo from "./Logo";
 
 import styles from "./Header.module.css";
 
@@ -14,7 +14,7 @@ const Header = ({
   <header className={styles.header}>
     <nav className={styles.inner}>
       <Link href={items[0][0]}>
-        <a>{items[0][1]}</a>
+        <a className={styles.item}>{items[0][1]}</a>
       </Link>
 
       <Link href="/">
@@ -23,9 +23,7 @@ const Header = ({
         </a>
       </Link>
 
-      <Button href={items[1][0]}>
-        {items[1][1]}
-      </Button>
+      <Button href={items[1][0]}>{items[1][1]}</Button>
     </nav>
   </header>
 );
