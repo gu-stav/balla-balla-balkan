@@ -21,6 +21,7 @@ const EpisodePage = ({
       />
 
       <Blocks
+        gap="tiny"
         blocks={[
           {
             type: "richtext",
