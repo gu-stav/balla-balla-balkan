@@ -27,7 +27,7 @@ const Button = ({ href, children, invert = false, ...rest }) => {
   }
 
   return (
-    <button type="button" {...props}>
+    <button type="button" {...props} {...rest}>
       {children}
     </button>
   );

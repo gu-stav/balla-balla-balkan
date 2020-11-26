@@ -1,0 +1,28 @@
+.list {
+  composes: reset-list from "../../public/styles/modules/reset-list.css";
+}
+
+.listItem::before {
+  color: var(--color-brand);
+  content: "~";
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin-right: 0.5rem;
+}
+
+.listItem + .listItem {
+  margin-top: 0.25rem;
+}
+
+.item {
+  font-family: var(--font-sans);
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 1.3;
+  text-decoration: none;
+}
+
+.item:hover,
+.item:focus {
+  text-decoration: underline;
+}

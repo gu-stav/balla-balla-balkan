@@ -1,0 +1,58 @@
+.player {
+  background-color: white;
+  border-top: 0.2rem solid var(--color-brand);
+  bottom: 0;
+  display: flex;
+  justify-content: center;
+  left: 0;
+  position: fixed;
+  width: 100%;
+}
+
+.inner {
+  composes: max-width from "../../public/styles/modules/max-width.css";
+
+  display: grid;
+  grid-gap: 2rem;
+  grid-template-columns: repeat(12, 1fr);
+  position: relative;
+}
+
+.title {
+  color: black;
+  display: flex;
+  flex-direction: column;
+  font-family: var(--font-sans);
+  font-size: 1.25rem;
+  grid-column: 2 / span 3;
+  justify-content: center;
+  line-height: 1;
+}
+
+.tagline {
+  color: var(--color-brand);
+  display: block;
+  font-size: 1rem;
+}
+
+.close {
+  background: var(--color-brand);
+  border: 0;
+  color: white;
+  line-height: 1;
+  padding: 0.15rem;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.close:hover,
+.close:focus {
+  background-color: black;
+  cursor: pointer;
+}
+
+.closeIcon {
+  height: 1.15rem;
+  width: 1.15rem;
+}

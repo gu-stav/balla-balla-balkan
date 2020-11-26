@@ -14,7 +14,7 @@ const HomePage = ({ authors, episodes, settings }) => {
   const recentEpisodes = episodes.slice(1, episodes.length);
 
   return (
-    <Layout>
+    <Layout footerMargin={false}>
       <Stack center>
         <EpisodeFeatured
           tagline="Neueste Folge"
@@ -23,6 +23,7 @@ const HomePage = ({ authors, episodes, settings }) => {
           image={featuredEpisode.image}
           backgroundImage={settings?.image}
         />
+
         <EpisodeList episodes={recentEpisodes} />
 
         <div style={{ width: "100%" }}>

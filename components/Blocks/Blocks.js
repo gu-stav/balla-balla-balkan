@@ -17,7 +17,7 @@ const Blocks = ({ blocks }) => {
   }
 
   return (
-    <Stack className={styles.container}>
+    <Stack gap="tiny" className={styles.container}>
       {blocks.map((block) => {
         const { type, node, ...blockprops } = block;
 

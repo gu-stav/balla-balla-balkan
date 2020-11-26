@@ -3,6 +3,14 @@
   width: 100%;
 }
 
+.horizontal > * {
+  margin-left: 0;
+}
+
+.vertical > * {
+  margin-bottom: 0;
+}
+
 .gap--regular.horizontal > * + * {
   margin-left: 4rem;
 }
