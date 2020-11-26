@@ -34,8 +34,6 @@ const EpisodeItem = ({
       <div className={styles.contentContainer}>
         <Link href={path}>
           <a className={styles.link}>
-            {length}
-
             <Headline level={2} className={styles.titleContainer}>
               <span className={styles.title}>{title}</span>
               {subtitle && <span>{subtitle}</span>}
@@ -52,6 +50,7 @@ const EpisodeItem = ({
                 title,
                 image,
                 number,
+                length,
               })
             }
           >

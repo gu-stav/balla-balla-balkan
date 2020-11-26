@@ -35,6 +35,29 @@
   font-size: 1rem;
 }
 
+.sliderContainer {
+  align-items: center;
+  display: flex;
+  grid-column: 5 / span 6;
+}
+
+.sliderInner {
+  width: 100%;
+}
+
+.sliderContainer [data-reach-slider-range],
+.sliderContainer [data-reach-slider-handle] {
+  background-color: var(--color-brand);
+}
+
+.lengthContainer {
+  align-items: center;
+  display: flex;
+  font-family: var(--font-sans);
+  font-weight: 700;
+  grid-column: 11 / span 1;
+}
+
 .close {
   background: var(--color-brand);
   border: 0;

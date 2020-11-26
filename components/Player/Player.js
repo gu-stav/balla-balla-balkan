@@ -1,7 +1,9 @@
+import { Slider } from "@reach/slider";
 import Image from "next/image";
 
 import { usePlayer } from "../../store/player";
 
+import "@reach/slider/styles.css";
 import styles from "./Player.module.css";
 
 const Player = () => {
@@ -11,7 +13,7 @@ const Player = () => {
     return null;
   }
 
-  const { title, image, number } = episode;
+  const { title, image, number, length } = episode;
 
   return (
     <div className={styles.player}>
@@ -22,6 +24,14 @@ const Player = () => {
           <span className={styles.tagline}>Episode {number}</span>
           {title}
         </strong>
+
+        <div className={styles.sliderContainer}>
+          <div className={styles.sliderInner}>
+            <Slider />
+          </div>
+        </div>
+
+        <div className={styles.lengthContainer}>{length}</div>
 
         <button
           type="button"
