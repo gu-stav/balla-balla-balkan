@@ -15,9 +15,9 @@ const FollowList = ({ items = [], theme = "dark" }) => {
       tagName={"ul"}
       className={styles.list}
     >
-      {items.map(([type, href, label]) => (
+      {items.map(([type, href]) => (
         <li>
-          <FollowListItem type={type} href={href} label={label} theme={theme} />
+          <FollowListItem type={type} href={href} label={type} theme={theme} />
         </li>
       ))}
     </Stack>

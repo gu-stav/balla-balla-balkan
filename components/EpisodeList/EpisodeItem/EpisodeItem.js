@@ -19,6 +19,7 @@ const EpisodeItem = ({
   length,
   image,
   number,
+  externalLinks,
 }) => {
   const { setEpisode } = usePlayer();
 
@@ -27,7 +28,7 @@ const EpisodeItem = ({
       <div className={styles.imageContainer}>
         <Image src={image} width={280} height={280} objectFit="cover" />
 
-        <span className={styles.number}>{`${number}`.padStart(2, "0")}</span>
+        <span className={styles.number}>{number}</span>
       </div>
 
       <div className={styles.contentContainer}>
@@ -57,13 +58,7 @@ const EpisodeItem = ({
             Episode abspielen
           </Button>
 
-          <FollowList
-            items={[
-              ["apple", "https://apple.com", "Apple"],
-              ["spotify", "https://spotify.com", "Spotify"],
-              ["soundcloud", "https://soundcloud.com", "Soundcloud"],
-            ]}
-          />
+          <FollowList items={externalLinks} />
         </Stack>
       </div>
     </div>

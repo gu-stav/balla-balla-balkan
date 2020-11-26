@@ -10,6 +10,16 @@ import { usePlayer } from "../../store/player";
 
 import styles from "./EpisodeFeatured.module.css";
 
+const Title = ({ tagline, title, subtitle }) => (
+  <Headline tag={2} as={1} className={styles.titleContainer}>
+    <small className={styles.tagline}>{tagline}</small>
+
+    <span className={styles.title}>{title}</span>
+
+    {subtitle && <span>{subtitle}</span>}
+  </Headline>
+);
+
 const EpisodeFeatured = ({
   title,
   path,
@@ -18,6 +28,7 @@ const EpisodeFeatured = ({
   image,
   backgroundImage,
   number,
+  externalLinks,
 }) => {
   const { setEpisode } = usePlayer();
 
@@ -34,17 +45,15 @@ const EpisodeFeatured = ({
 
       <div className={styles.inner}>
         <div className={styles.contentContainer}>
-          <Link href={path}>
-            <a className={styles.link}>
-              <Headline tag={2} as={1} className={styles.titleContainer}>
-                <small className={styles.tagline}>{tagline}</small>
-
-                <span className={styles.title}>{title}</span>
-
-                {subtitle && <span>{subtitle}</span>}
-              </Headline>
-            </a>
-          </Link>
+          {path ? (
+            <Link href={path}>
+              <a className={styles.link}>
+                <Title title={title} subtitle={subtitle} tagline={tagline} />
+              </a>
+            </Link>
+          ) : (
+            <Title title={title} subtitle={subtitle} tagline={tagline} />
+          )}
         </div>
 
         <div className={styles.imageContainer}>
@@ -69,14 +78,7 @@ const EpisodeFeatured = ({
             Episode abspielen
           </Button>
 
-          <FollowList
-            theme="light"
-            items={[
-              ["apple", "https://apple.com", "Apple"],
-              ["spotify", "https://spotify.com", "Spotify"],
-              ["soundcloud", "https://soundcloud.com", "Soundcloud"],
-            ]}
-          />
+          <FollowList theme="light" items={externalLinks} />
         </Stack>
       </div>
     </section>

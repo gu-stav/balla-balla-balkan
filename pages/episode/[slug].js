@@ -17,7 +17,6 @@ const EpisodePage = ({
       <EpisodeFeatured
         tagline={`Episode ${number}`}
         title={title}
-        path={"/"}
         image={image}
         backgroundImage={settings.image}
       />
