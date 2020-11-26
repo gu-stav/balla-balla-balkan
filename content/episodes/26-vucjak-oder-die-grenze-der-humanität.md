@@ -2,6 +2,7 @@
 number: 26
 publication_at: 2019-08-19T15:42:27.682Z
 image: /images/upload/002-min.jpeg
+image_caption: "Foto: Felie Zernack"
 length: 00:46:00
 title: Vucjak oder Die Grenze der Humanität
 apple_link: https://podcasts.apple.com/de/podcast/neues-vom-ballaballa-balkan-episode-26-vu%C4%8Djak-oder/id1170436903?i=1000447271984
