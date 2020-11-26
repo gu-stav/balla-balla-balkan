@@ -1,5 +1,5 @@
 ---
-number: 40
+number: 39
 publication_at: 2020-08-17T14:59:50.188Z
 image: /images/upload/16_obljetnica_vojnoredarstvene_operacije_oluja_05082011_kninska_tvrdjava_155.jpeg
 length: 01:12:00
