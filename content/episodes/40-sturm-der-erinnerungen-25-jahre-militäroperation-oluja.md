@@ -1,6 +1,6 @@
 ---
 number: 40
-publication_at: 2020-11-26T15:59:50.188Z
+publication_at: 2020-08-17T14:59:50.188Z
 image: /images/upload/16_obljetnica_vojnoredarstvene_operacije_oluja_05082011_kninska_tvrdjava_155.jpeg
 length: 01:12:00
 title: Sturm der Erinnerungen - 25 Jahre Militäroperation Oluja
