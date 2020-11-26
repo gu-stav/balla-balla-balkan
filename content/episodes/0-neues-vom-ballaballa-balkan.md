@@ -2,7 +2,11 @@
 number: 0
 publication_at: 2016-10-17T13:58:18.840Z
 image: /images/upload/artworks-000182689395-db09l8-t500x500.jpeg
+length: 01:21:00
 title: Neues vom Ballaballa-Balkan
+apple_link: https://podcasts.apple.com/de/podcast/neues-vom-ballaballa-balkan-episode-00/id1170436903?i=1000377232689
+spotify_link: spotify:episode:750nKhMHTQyprh77UnHncO
+soundcloud_link: https://soundcloud.com/user-89524652/neues-vom-ballaballa-balkan-episode-00
 excerpt: Bei unserem Probelauf geht es um die politische Landschaft in Kroatien.
 blocks:
   - type: richtext
