@@ -21,25 +21,4 @@ blocks:
 
 
       Außerdem: Serbische Zeitschrift erfindet Interview mit Donald Trump, Referendum in Bosnien-Herzegowina und unsere neue Rubrik „Shit of the month“.
-links:
-  - url: http://www.tageswoche.ch/de/2016_42/international/732381/montenegriner-entscheiden-ueber-zukunft-von-djukanovic.htm
-    text: Potrait Milo Ðukanović
-  - url: https://www.occrp.org/personoftheyear/2015/
-    text: Man of the year in organized Crime
-  - url: http://www.tageswoche.ch/de/2016_43/international/732501/unregelmaessigkeiten-fuer-machthaber-djukanovi-haben-sogar-die-toten-gestimmt.htm
-    text: Wahltag in Montenegro
-  - url: https://rsf.org/en/news/montenegro-rsf-condemns-blocking-messaging-apps-election-day
-    text: "Montenegro: RSF condemns blocking of messaging apps on election day"
-  - url: http://wirtschaftsblatt.at/archiv/printimport/4994104/Investitionsboom-in-Montenegro
-    text: Konjunktur in Montenegro
-  - url: https://www.reporter-ohne-grenzen.de/montenegro/
-    text: Pressefreiheit in Montenegro
-  - url: http://www.nzz.ch/international/europa/brisante-recherchen-ein-journalist-stoert-ld.118014
-    text: Der Journalist, der in die Unterwelt hinabstieg
-  - url: https://kurier.at/politik/ausland/serbische-zeitschrift-erfindet-interview-mit-donald-trump/225.381.507
-    text: Serbische Zeitschrift erfindet Interview mit Trump
-  - text: Zur Geschichte der Feral Tribune
-    url: https://www.boell.de/de/2015/10/15/feral-tribune-die-geschichte-einer-permanenten-revolution
-  - url: http://www.suedosteuropa.uni-graz.at/de/people/univ-prof-dr-florian-bieber
-    text: Florian Bieber
 ---
