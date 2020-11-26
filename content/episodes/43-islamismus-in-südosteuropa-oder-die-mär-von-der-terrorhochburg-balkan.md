@@ -2,7 +2,11 @@
 number: 43
 publication_at: 2020-11-23T15:34:26.762Z
 image: /images/upload/is-dubnica.jpeg
+length: 01:03:00
 title: Islamismus in Südosteuropa oder die Mär von der Terrorhochburg Balkan
+apple_link: https://podcasts.apple.com/de/podcast/episode-43-islamismus-in-s%C3%BCdosteuropa-oder-die-m%C3%A4r/id1170436903?i=1000500004298
+spotify_link: spotify:episode:1RJcVDPNmZdzYGuzjoqjNZ
+soundcloud_link: https://soundcloud.com/user-89524652/episode-43-islamismus-in-sudosteuropa-oder-die-mar-von-der-terrorhochburg-balkan
 excerpt: Bismillah, Geschwister im Islam! Dass der Balkan ein Pulverfass ist,
   ist ja allenthalben bekannt. Aber wusstet Ihr auch, dass er ein islamistisches
   Pulverfass ist? Nein? Wir auch nicht. Aber Emanuel Macron weiß es. Und neben
