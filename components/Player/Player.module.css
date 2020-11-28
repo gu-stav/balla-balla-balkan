@@ -7,6 +7,7 @@
   left: 0;
   position: fixed;
   width: 100%;
+  z-index: 20;
 }
 
 .inner {
@@ -18,12 +19,16 @@
   position: relative;
 }
 
+.iframe {
+  display: none;
+}
+
 .title {
   color: black;
   display: flex;
   flex-direction: column;
   font-family: var(--font-sans);
-  font-size: 1.25rem;
+  font-size: 1.15rem;
   grid-column: 2 / span 3;
   justify-content: center;
   line-height: 1;
@@ -35,10 +40,35 @@
   font-size: 1rem;
 }
 
+.controlButtonContainer {
+  align-items: center;
+  display: flex;
+  grid-column: 5 / span 1;
+}
+
+.controlButton {
+  background: transparent;
+  border: 0;
+  color: var(--color-brand);
+  outline: 0;
+  padding: 0;
+}
+
+.controlButton:hover,
+.controlButton:focus {
+  color: black;
+  cursor: pointer;
+}
+
+.controlButtonIcon {
+  height: 2.5rem;
+  width: 2.5rem;
+}
+
 .sliderContainer {
   align-items: center;
   display: flex;
-  grid-column: 5 / span 6;
+  grid-column: 6 / span 5;
 }
 
 .sliderInner {
@@ -55,7 +85,8 @@
   display: flex;
   font-family: var(--font-sans);
   font-weight: 700;
-  grid-column: 11 / span 1;
+  grid-column: 11 / span 2;
+  white-space: nowrap;
 }
 
 .close {

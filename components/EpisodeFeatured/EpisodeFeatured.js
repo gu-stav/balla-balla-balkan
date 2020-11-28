@@ -30,18 +30,21 @@ const EpisodeFeatured = ({
   backgroundImage,
   number,
   externalLinks,
+  soundcloud_link,
 }) => {
   const { setEpisode } = usePlayer();
 
   return (
     <section className={styles.section}>
       {backgroundImage && (
-        <Image
-          src={backgroundImage}
-          width={1500}
-          height={500}
-          layout="responsive"
-        />
+        <div className={styles.backgroundImageContainer}>
+          <Image
+            src={backgroundImage}
+            width={1500}
+            height={500}
+            layout="responsive"
+          />
+        </div>
       )}
 
       <div className={styles.inner}>
@@ -74,6 +77,7 @@ const EpisodeFeatured = ({
                 image,
                 number,
                 length,
+                soundcloud_link,
               })
             }
           >

@@ -7,43 +7,46 @@ import EpisodeFeatured from "../../components/EpisodeFeatured";
 import EpisodeLinks from "../../components/EpisodeLinks";
 import Headline from "../../components/Headline";
 import Layout from "../../components/Layout";
+import Stack from "../../components/Stack";
 
 const EpisodePage = ({
-  episode: { title, number, excerpt, image, blocks, links },
+  episode: { title, number, excerpt, image, blocks, links, externalLinks },
   settings,
 }) => (
   <Layout>
-    <article>
+    <Stack gap="tiny" center>
       <EpisodeFeatured
         tagline={`Episode ${number}`}
         title={title}
         image={image}
         backgroundImage={settings.image}
+        externalLinks={externalLinks}
       />
+      <article>
+        <Article>
+          {blocks && (
+            <Blocks
+              blocks={[
+                {
+                  type: "richtext",
+                  richtext: `**${excerpt}**`,
+                },
 
-      <Article>
-        {blocks && (
-          <Blocks
-            blocks={[
-              {
-                type: "richtext",
-                richtext: `**${excerpt}**`,
-              },
+                ...blocks,
+              ]}
+            />
+          )}
 
-              ...blocks,
-            ]}
-          />
-        )}
+          {links && (
+            <>
+              <Headline level={2}>Episoden Links</Headline>
 
-        {links && (
-          <>
-            <Headline level={2}>Episoden Links</Headline>
-
-            <EpisodeLinks links={links} />
-          </>
-        )}
-      </Article>
-    </article>
+              <EpisodeLinks links={links} />
+            </>
+          )}
+        </Article>
+      </article>
+    </Stack>
   </Layout>
 );
 

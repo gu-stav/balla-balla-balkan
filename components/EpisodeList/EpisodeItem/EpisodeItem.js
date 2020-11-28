@@ -20,6 +20,7 @@ const EpisodeItem = ({
   image,
   number,
   externalLinks,
+  soundcloud_link,
 }) => {
   const { setEpisode } = usePlayer();
 
@@ -51,6 +52,7 @@ const EpisodeItem = ({
                 image,
                 number,
                 length,
+                soundcloud_link,
               })
             }
           >

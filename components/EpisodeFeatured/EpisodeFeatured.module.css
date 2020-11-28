@@ -1,6 +1,12 @@
 .section {
-  margin-bottom: 4rem;
   position: relative;
+  width: 100%;
+}
+
+.backgroundImageContainer {
+  left: 0;
+  position: absolute;
+  top: 0;
   width: 100%;
 }
 
@@ -14,12 +20,13 @@
   grid-column-gap: 2rem;
   grid-row-gap: 2rem;
   grid-template-columns: repeat(12, 1fr);
-  left: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5rem;
   padding-bottom: 4rem;
   padding-top: 4rem;
-  position: absolute;
-  top: 15%;
-  transform: translateX(-50%);
+  position: relative;
+  z-index: 10;
 }
 
 .contentContainer {
