@@ -3,3 +3,8 @@
   font-size: 1.3rem;
   line-height: 1.3;
 }
+
+.p > a:hover,
+.p > a:focus {
+  color: var(--color-brand);
+}
