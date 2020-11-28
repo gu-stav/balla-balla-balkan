@@ -1,27 +1,35 @@
 import { getPage, getPages } from "../lib/pages";
 
+import Article from "../components/Article";
+import Blocks from "../components/Blocks";
+import Headline from "../components/Headline";
 import Layout from "../components/Layout";
 import Stack from "../components/Stack";
 
-const Page = ({ title }) => (
+const Page = ({ page: { title, blocks } }) => (
   <Layout>
-    <Stack gap="tiny" center>
-      {title}
+    <Stack center>
+      <Article>
+        <Headline level={1}>{title}</Headline>
+        <Blocks blocks={blocks} />
+      </Article>
     </Stack>
   </Layout>
 );
 
-export function getStaticPaths() {
+export async function getStaticPaths() {
   return {
     fallback: false,
-    paths: getPages().map(({ path }) => path),
+    paths: getPages().map(({ slug }) => `/${slug}`),
   };
 }
 
-export function getStaticProps({ params: { slug } }) {
+export async function getStaticProps({ params: { slug } }) {
+  const page = getPage(slug[0]);
+
   return {
     props: {
-      ...getPage(slug),
+      page,
     },
   };
 }

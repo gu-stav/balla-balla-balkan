@@ -5,7 +5,9 @@ import Paragraph from "../Paragraph";
 import Stack from "../Stack";
 
 const renderers = {
-  heading: ({ level, children }) => <Headline tag={level}>{children}</Headline>,
+  heading: ({ level, children }) => (
+    <Headline level={level}>{children}</Headline>
+  ),
   paragraph: (props) => <Paragraph {...props} />,
 };
 
