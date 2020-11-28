@@ -30,29 +30,21 @@ blocks:
       Nebenbei erfahrt ihr, was genau da eigentlich in Montenegro gerade abgeht, wie es um die Flüchtlinge an der bosnisch-kroatischen Grenze steht und warum Aleksandar Vučić seit Neuestem die Schlüssel zum Weißen Haus in den Händen hält.
 
 
-      Danko Rabrenović (Youtube):["Anal vs. genital: So schimpfen Deutsche und Jugos"](https://www.youtube.com/watch?v=29iiilQUdxw)
+      - Danko Rabrenović (Youtube):["Anal vs. genital: So schimpfen Deutsche und Jugos"](https://www.youtube.com/watch?v=29iiilQUdxw)
 
+      - Dankos [Homepage und Tourdaten ](http://danko-rabrenovic.de/termine.htm)
 
-      Dankos [Homepage und Tourdaten ](http://danko-rabrenovic.de/termine.htm)
+      - Trovači - Balkan Ska Reggae Punk [Homepage ](http://trovaci.de)
 
+      - Goran Vojnović Roman: [Čefurji raus](http://traduki.eu/database/3454/cefurji-raus)
 
-      Trovači - Balkan Ska Reggae Punk [Homepage ](http://trovaci.de)
+      - [Zehntausende demonstrieren in Montenegro für Unabhängigkeit](https://www.tagesschau.de/ausland/montenegro-demonstrationen-101.html) (Tagesschau)
 
+      - [Serbien und Kosovo wollen Wirtschaftsbeziehungen normalisieren](http://derstandard.de/story/2000119804809/serbien-und-kosovo-wollen-laut-trump-wirtschaftsbeziehungen-normalisieren) (Der Standard)
 
-      Goran Vojnović Roman: [Čefurji raus](http://traduki.eu/database/3454/cefurji-raus)
+      - [Wie Trump sich als Vermittler auf dem Balkan inszenier](https://www.faz.net/aktuell/politik/ausland/usa-wie-trump-sich-als-vermittler-auf-dem-balkan-inszeniert-16940869.html)t (FAZ)
 
+      - [Von Trump überrumpelt? Spott über Serbiens Präsidenten](http://t-online.de/nachrichten/id_88523958/serbischer-praesident-vucic-von-trump-ueberrumpelt-spott-nach-kurioser-szene.html) (T-Online)
 
-      [Zehntausende demonstrieren in Montenegro für Unabhängigkeit](https://www.tagesschau.de/ausland/montenegro-demonstrationen-101.html) (Tagesschau)
-
-
-      [Serbien und Kosovo wollen Wirtschaftsbeziehungen normalisieren](http://derstandard.de/story/2000119804809/serbien-und-kosovo-wollen-laut-trump-wirtschaftsbeziehungen-normalisieren) (Der Standard)
-
-
-      [Wie Trump sich als Vermittler auf dem Balkan inszenier](https://www.faz.net/aktuell/politik/ausland/usa-wie-trump-sich-als-vermittler-auf-dem-balkan-inszeniert-16940869.html)t (FAZ)
-
-
-      [Von Trump überrumpelt? Spott über Serbiens Präsidenten](http://t-online.de/nachrichten/id_88523958/serbischer-praesident-vucic-von-trump-ueberrumpelt-spott-nach-kurioser-szene.html) (T-Online)
-
-
-      [Fünf Jahre Balkanroute: Gestrandet in Bosnien-Herzegowina](https://www.ard-wien.de/2020/08/25/fuenf-jahre-balkanroute-gestrandet-in-bosnien-und-herzegowina/) (ARD Wien)
+      - [Fünf Jahre Balkanroute: Gestrandet in Bosnien-Herzegowina](https://www.ard-wien.de/2020/08/25/fuenf-jahre-balkanroute-gestrandet-in-bosnien-und-herzegowina/) (ARD Wien)
 ---

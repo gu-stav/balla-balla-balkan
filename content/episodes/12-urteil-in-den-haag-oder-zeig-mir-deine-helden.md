@@ -28,27 +28,19 @@ blocks:
 
       ## Linkliste zur Sendung
 
+      - [Zum Selbstmord von Slobodan Praljak: (Krstos Artikel in die Welt)](https://www.welt.de/politik/ausland/article171104403/Fuer-die-kroatische-Regierung-ist-das-Urteil-brisant.html)
 
-      [Zum Selbstmord von Slobodan Praljak: (Krstos Artikel in die Welt)](https://www.welt.de/politik/ausland/article171104403/Fuer-die-kroatische-Regierung-ist-das-Urteil-brisant.html)
+      - [Serbische Fußballfans verehren den Völkermörder Mladic auch nach seiner Verurteilung](https://www.neues-deutschland.de/artikel/1071800.im-stadion-bleibt-der-kriegsverbrecher-ein-held.html) (Krstos Artikel im Neuen Deutschland)
 
+      - [In seiner Heimat gilt der verurteilte Kriegsverbrecher Mladic als Held](http://www.ostpol.de/beitrag/5044-ratko-mladic-ist-ein-verurteilter-volkermorder-in-seiner-heimat-) (Krstos Reportage bei Ostpol)
 
-      [Serbische Fußballfans verehren den Völkermörder Mladic auch nach seiner Verurteilung](https://www.neues-deutschland.de/artikel/1071800.im-stadion-bleibt-der-kriegsverbrecher-ein-held.html) (Krstos Artikel im Neuen Deutschland)
+      Buchempfehlung: Slavenka Drakulic: - [Keiner war dabei - Kriegsverbrecher auf dem Balkan vor Gericht](https://www.perlentaucher.de/buch/slavenka-drakulic/keiner-war-dabei.html)
 
+      - [Kroatische Gemeinde gibt Rechtsextremisten eine Bühne](http://www.fr.de/rhein-main/offenbach-auf-gottes-aeusserst-rechten-pfaden-a-1412695): (Danijels Text in der Frankfurter Rundschau)
 
-      [In seiner Heimat gilt der verurteilte Kriegsverbrecher Mladic als Held](http://www.ostpol.de/beitrag/5044-ratko-mladic-ist-ein-verurteilter-volkermorder-in-seiner-heimat-) (Krstos Reportage bei Ostpol)
+      - [BBC-Reporter über Slobodan Praljaks Zeugenaussage in Den Haag](http://www.bbc.co.uk/news/av/world-europe-42186725/jeremy-bowen-why-i-testified-against-praljak)
 
+      - [Freispruch für Ante Gotovina (taz](http://www.taz.de/!5079110/)):
 
-      Buchempfehlung: Slavenka Drakulic: [Keiner war dabei - Kriegsverbrecher auf dem Balkan vor Gericht](https://www.perlentaucher.de/buch/slavenka-drakulic/keiner-war-dabei.html)
-
-
-      [Kroatische Gemeinde gibt Rechtsextremisten eine Bühne](http://www.fr.de/rhein-main/offenbach-auf-gottes-aeusserst-rechten-pfaden-a-1412695): (Danijels Text in der Frankfurter Rundschau)
-
-
-      [BBC-Reporter über Slobodan Praljaks Zeugenaussage in Den Haag](http://www.bbc.co.uk/news/av/world-europe-42186725/jeremy-bowen-why-i-testified-against-praljak)
-
-
-      [Freispruch für Ante Gotovina (taz](http://www.taz.de/!5079110/)):
-
-
-      [Slowenien: Geheimdienst streikt wegen schlechter Bezahlung (Spiegel) ](http://www.spiegel.de/karriere/slowenien-geheimdienst-streikt-wegen-schlechter-bezahlung-a-1182368.html)
+      - [Slowenien: Geheimdienst streikt wegen schlechter Bezahlung (Spiegel) ](http://www.spiegel.de/karriere/slowenien-geheimdienst-streikt-wegen-schlechter-bezahlung-a-1182368.html)
 ---

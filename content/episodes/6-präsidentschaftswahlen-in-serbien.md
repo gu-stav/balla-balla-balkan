@@ -22,24 +22,17 @@ blocks:
     richtext: >-
       ## Linkliste zur Sendung
 
+      - [Vucics Vorbilder sitzen in Moskau und Ankara](http://www.ostpol.de/beitrag/4858-aleksandar-vucics-vorbilder-moskau-und-ankara)
 
-      [Vucics Vorbilder sitzen in Moskau und Ankara](http://www.ostpol.de/beitrag/4858-aleksandar-vucics-vorbilder-moskau-und-ankara)
+      - [Der Satirekandidat holt 9,4 Prozent der Stimmen](http://www.dasbiber.at/content/dieser-student-hat-den-serbischen-wahlkampf-aufgewirbelt)
 
+      - [Europe has a troubingly short memory over Aleksandar Vucic (by Robert Fisk)](<http://Europe has a troublingly short memory over Serbia’s Aleksander Vucic>)
 
-      [Der Satirekandidat holt 9,4 Prozent der Stimmen](http://www.dasbiber.at/content/dieser-student-hat-den-serbischen-wahlkampf-aufgewirbelt)
+      - [Procitajte lazi koje je Danijel Majic objavio o Hrvatima ](http://www.dnevno.hr/vijesti/hrvatska/procitajte-lazi-koje-je-danijel-majic-objavio-o-hrvatima-i-u-ime-obitelji-u-frankfurter-rundschau-1009546/)
 
+      - [I Njemacka ima u ime Obitelj (Novosti)](http://www.portalnovosti.com/danijel-majic-i-njemacka-ima-u-ime-obitelji)
 
-      [Europe has a troubingly short memory over Aleksandar Vucic (by Robert Fisk)](<http://Europe has a troublingly short memory over Serbia’s Aleksander Vucic>)
+      - [Deklaracija o Zajednickom Jeziku](http://jezicinacionalizmi.com/deklaracija/)
 
-
-      [Procitajte lazi koje je Danijel Majic objavio o Hrvatima ](http://www.dnevno.hr/vijesti/hrvatska/procitajte-lazi-koje-je-danijel-majic-objavio-o-hrvatima-i-u-ime-obitelji-u-frankfurter-rundschau-1009546/)
-
-
-      [I Njemacka ima u ime Obitelj (Novosti)](http://www.portalnovosti.com/danijel-majic-i-njemacka-ima-u-ime-obitelji)
-
-
-      [Deklaracija o Zajednickom Jeziku](http://jezicinacionalizmi.com/deklaracija/)
-
-
-      [Srbija pod Aleksandrom Vucicem: jedan Voda, jedan narod, jedan krah](<http://Srbija pod Aleksandrom Vučićem: Jedan vođa, jedan narod, jedan krah>)
+      - [Srbija pod Aleksandrom Vucicem: jedan Voda, jedan narod, jedan krah](<http://Srbija pod Aleksandrom Vučićem: Jedan vođa, jedan narod, jedan krah>)
 ---

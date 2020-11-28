@@ -25,15 +25,11 @@ blocks:
 
       ## Weiterführende Links
 
+      - [Die neue Balkanpolitik ist die ganz alte (Deutschlandfunk)](https://www.deutschlandfunk.de/die-neue-balkanpolitik-ist-die-ganz-alte-serbien-und-das.724.de.html?dram:article_id=428749)
 
-      [Die neue Balkanpolitik ist die ganz alte (Deutschlandfunk)](https://www.deutschlandfunk.de/die-neue-balkanpolitik-ist-die-ganz-alte-serbien-und-das.724.de.html?dram:article_id=428749)
+      - [Regierungstreu und homophob: Rumänische Medien und das Referendum (Übermedien)](https://uebermedien.de/32089/regierungstreu-homophob-rumaenische-medien-und-das-referendum/)
 
+      - [Die westliche Balkanpolitik erleidet in Mazedonien Schiffbruch (NZZ)](https://www.nzz.ch/meinung/die-westliche-balkanpolitik-erleidet-in-mazedonien-schiffbruch-ld.1424829)
 
-      [Regierungstreu und homophob: Rumänische Medien und das Referendum (Übermedien)](https://uebermedien.de/32089/regierungstreu-homophob-rumaenische-medien-und-das-referendum/)
-
-
-      [Die westliche Balkanpolitik erleidet in Mazedonien Schiffbruch (NZZ)](https://www.nzz.ch/meinung/die-westliche-balkanpolitik-erleidet-in-mazedonien-schiffbruch-ld.1424829)
-
-
-      [Interview mit der kroatischen Präsidentin (Kleine Zeitung)](https://www.kleinezeitung.at/politik/aussenpolitik/5494241/Fluechtlingskrise_GrabarKitarovic_Europa-war-zu-entspannt-und-zu-naiv)
+      - [Interview mit der kroatischen Präsidentin (Kleine Zeitung)](https://www.kleinezeitung.at/politik/aussenpolitik/5494241/Fluechtlingskrise_GrabarKitarovic_Europa-war-zu-entspannt-und-zu-naiv)
 ---

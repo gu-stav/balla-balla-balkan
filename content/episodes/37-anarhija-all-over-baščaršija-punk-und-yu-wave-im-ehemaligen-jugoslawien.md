@@ -27,35 +27,25 @@ blocks:
       Und wenn es dann gerade nicht um Musik geht erfahrt ihr, warum es in Kroatien nach wie vor kein Problem ist, faschistische Grußformeln zu verwenden, warum in Belgrad wieder Fußball vor großem Publikum stattfindet und was Ostern mit der wieder auflammenden Corona-Krise in Nord-Mazedonien zu tun hat.
 
 
-      [Die großartige Spotify-Playlist zur Sendung](https://open.spotify.com/playlist/1ZX6KujKkrAmi7X5Tczgy0?si=eyyCGbMZRJ2xmTSNGTznnA)
+      - [Die großartige Spotify-Playlist zur Sendung](https://open.spotify.com/playlist/1ZX6KujKkrAmi7X5Tczgy0?si=eyyCGbMZRJ2xmTSNGTznnA)
 
+      - Miljenko Jergović: [What Punk Rock Meant to Communist Yugoslavia](https://www.nytimes.com/2017/09/18/opinion/punk-rock-communist-yugoslavia.html) (New York Times)
 
-      Miljenko Jergović: [What Punk Rock Meant to Communist Yugoslavia](https://www.nytimes.com/2017/09/18/opinion/punk-rock-communist-yugoslavia.html) (New York Times)
+      - Rüdiger Rossig: [Singen für den Kriegsverbrecher](https://www.zeit.de/2010/43/Kusturica?page=3) (Zeit)
 
+      - Sammelband: [Warschauer Punk Pakt](https://www.ventil-verlag.de/titel/1797/warschauer-punk-pakt) (Ventil Verlag)
 
-      Rüdiger Rossig: [Singen für den Kriegsverbrecher](https://www.zeit.de/2010/43/Kusturica?page=3) (Zeit)
+      - Dokumentation zur Belgrader Szene: [EKV - Kao da je bilo nekad](https://www.youtube.com/watch?v=achqXtLAwzk) (Serbisch, ohne Untertitel)
 
+      - Dokumentation zur Zagreber Szene: [Sretno Dijete](https://www.youtube.com/watch?v=rwQ5g1Tfnq8) (mit englischen Untertiteln)
 
-      Sammelband: [Warschauer Punk Pakt](https://www.ventil-verlag.de/titel/1797/warschauer-punk-pakt) (Ventil Verlag)
+      - [25.000 bei Belgrad-Derby, trotz Covid-19  ](https://www.nzz.ch/sport/coronavirus-25-000-fans-bei-fussballspiel-in-serbien-ld.1560931)(NZZ)
 
+      - [Neue Ausgangssperren in Nordmazedonien wegen Covid-19  ](https://www.derstandard.at/story/2000117986412/nordmazedonien-hat-zu-frueh-aufgemacht)(Standard)
 
-      Dokumentation zur Belgrader Szene: [EKV - Kao da je bilo nekad](https://www.youtube.com/watch?v=achqXtLAwzk) (Serbisch, ohne Untertitel)
+      - [Kosovo hebt Strafmaßnahmen gegen Serbien auf (](https://www.faz.net/aktuell/politik/ausland/kosovo-hebt-strafmassnahmen-gegen-serbien-auf-16804560.html)FAZ)
 
+      - [Orbáns Schwäche für großungarische Phantasien](https://www.faz.net/aktuell/politik/ausland/orban-verstimmt-kroaten-mit-geschichtsnostalgischer-rede-16811051.html) (FAZ)
 
-      Dokumentation zur Zagreber Szene: [Sretno Dijete](https://www.youtube.com/watch?v=rwQ5g1Tfnq8) (mit englischen Untertiteln)
-
-
-      [25.000 bei Belgrad-Derby, trotz Covid-19  ](https://www.nzz.ch/sport/coronavirus-25-000-fans-bei-fussballspiel-in-serbien-ld.1560931)(NZZ)
-
-
-      [Neue Ausgangssperren in Nordmazedonien wegen Covid-19  ](https://www.derstandard.at/story/2000117986412/nordmazedonien-hat-zu-frueh-aufgemacht)(Standard)
-
-
-      [Kosovo hebt Strafmaßnahmen gegen Serbien auf (](https://www.faz.net/aktuell/politik/ausland/kosovo-hebt-strafmassnahmen-gegen-serbien-auf-16804560.html)FAZ)
-
-
-      [Orbáns Schwäche für großungarische Phantasien](https://www.faz.net/aktuell/politik/ausland/orban-verstimmt-kroaten-mit-geschichtsnostalgischer-rede-16811051.html) (FAZ)
-
-
-      [Kroatisches Gericht erlaubt Ustascha-Gruß](https://orf.at/stories/3168323/) (ORF)
+      - [Kroatisches Gericht erlaubt Ustascha-Gruß](https://orf.at/stories/3168323/) (ORF)
 ---

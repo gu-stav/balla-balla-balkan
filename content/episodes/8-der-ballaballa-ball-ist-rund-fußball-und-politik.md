@@ -26,21 +26,15 @@ blocks:
 
       ## Linkliste zur Sendung
 
+      - [Kroatische Fans wollen ihren Verein schädigen um ihn zu retten. (ZeitOnline)](http://www.zeit.de/sport/2016-06/fussball-em-kroatien-ausschreitungen-verband)
 
-      [Kroatische Fans wollen ihren Verein schädigen um ihn zu retten. (ZeitOnline)](http://www.zeit.de/sport/2016-06/fussball-em-kroatien-ausschreitungen-verband)
+      - [The "Maksimir Myth": 25 Years since the "Symbolic Dissolution" of Socialist Yugoslavia (Balkanist)](http://balkanist.net/the-maksimir-myth-25-years-since-the-symbolic-dissolution-of-socialist-yugoslavia/)
 
+      - [Kriegsverbrecherfreund gegen Kriegsverbrecherfreund (JungleWorld)](https://jungle.world/artikel/2013/13/kriegsverbrecherfreund-vs-kriegsverbrecherfreund)
 
-      [The "Maksimir Myth": 25 Years since the "Symbolic Dissolution" of Socialist Yugoslavia (Balkanist)](http://balkanist.net/the-maksimir-myth-25-years-since-the-symbolic-dissolution-of-socialist-yugoslavia/)
+      - [Ready for the homeland? Ritual, remeberance, and political extremism in Croatian football (Academic Paper)](http://www.tandfonline.com/doi/abs/10.1080/00905992.2015.1136996)
 
+      - [Rechtsextremismus und Rassismus im serbischen Fußball (Friedrich Ebert Stiftung)](http://library.fes.de/pdf-files/bueros/belgrad/13455-20170623.pdf)
 
-      [Kriegsverbrecherfreund gegen Kriegsverbrecherfreund (JungleWorld)](https://jungle.world/artikel/2013/13/kriegsverbrecherfreund-vs-kriegsverbrecherfreund)
-
-
-      [Ready for the homeland? Ritual, remeberance, and political extremism in Croatian football (Academic Paper)](http://www.tandfonline.com/doi/abs/10.1080/00905992.2015.1136996)
-
-
-      [Rechtsextremismus und Rassismus im serbischen Fußball (Friedrich Ebert Stiftung)](http://library.fes.de/pdf-files/bueros/belgrad/13455-20170623.pdf)
-
-
-      [Wahlen im Kosovo (NZZ)](https://www.nzz.ch/international/pristina-radikale-parteien-gewinnen-parlamentswahl-im-kosovo-mit-405-prozent-der-stimmen-ld.1300308)
+      - [Wahlen im Kosovo (NZZ)](https://www.nzz.ch/international/pristina-radikale-parteien-gewinnen-parlamentswahl-im-kosovo-mit-405-prozent-der-stimmen-ld.1300308)
 ---

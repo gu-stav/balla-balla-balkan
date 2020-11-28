@@ -26,30 +26,21 @@ blocks:
 
       ## Linkliste zur Sendung
 
+      - [Danijels Beitrag zum Film "Jasenovac - die Wahrheit"](http://www.fr.de/kultur/kino/jasenovac-die-wahrheit-kroatische-geschichtsfaelschung-auf-der-leinwand-a-1281531)
 
-      [Danijels Beitrag zum Film "Jasenovac - die Wahrheit"](http://www.fr.de/kultur/kino/jasenovac-die-wahrheit-kroatische-geschichtsfaelschung-auf-der-leinwand-a-1281531)
+      - [Bleiburg - Rechtsextreme willkommen, Journalisten nicht](http://derstandard.at/2000057908022/Bleiburg-Rechtsextreme-willkommen-Journalisten-nicht)
 
+      - [Bleiburg - Istina (Novosti)](http://www.portalnovosti.com/bleiburg-istina)
 
-      [Bleiburg - Rechtsextreme willkommen, Journalisten nicht](http://derstandard.at/2000057908022/Bleiburg-Rechtsextreme-willkommen-Journalisten-nicht)
+      - [Kroatien folgt Polen und Ungarn nach rechts](http://www.tageswoche.ch/de/2017_19/international/749719/)
 
+      - [Rijeka ist kroatischer Meister](https://sports.vice.com/de/article/wie-das-kleine-hnk-rijeka-die-korrupte-herrschaft-von-dinamo-zagreb-beendete)
 
-      [Bleiburg - Istina (Novosti)](http://www.portalnovosti.com/bleiburg-istina)
+      - [Frljics Stück "Unsere Gewalt und ihre Gewalt"](http://derstandard.at/2000037901613/Unsere-Gewalt-und-eure-Gewalt-Rache-ist-Schweinskopf)
 
+      - [Interview mit Zoran Zaev](https://www.welt.de/politik/ausland/article164118860/Sie-wollten-uns-toeten-das-war-ihr-einziges-Ziel.html)
 
-      [Kroatien folgt Polen und Ungarn nach rechts](http://www.tageswoche.ch/de/2017_19/international/749719/)
+      - [Wenn Politiker sich auf die Fresse geben](https://www.vice.com/de/article/wenn-politiker-sich-auf-die-fresse-geben)
 
-
-      [Rijeka ist kroatischer Meister](https://sports.vice.com/de/article/wie-das-kleine-hnk-rijeka-die-korrupte-herrschaft-von-dinamo-zagreb-beendete)
-
-
-      [Frljics Stück "Unsere Gewalt und ihre Gewalt"](http://derstandard.at/2000037901613/Unsere-Gewalt-und-eure-Gewalt-Rache-ist-Schweinskopf)
-
-
-      [Interview mit Zoran Zaev](https://www.welt.de/politik/ausland/article164118860/Sie-wollten-uns-toeten-das-war-ihr-einziges-Ziel.html)
-
-
-      [Wenn Politiker sich auf die Fresse geben](https://www.vice.com/de/article/wenn-politiker-sich-auf-die-fresse-geben)
-
-
-      [Schaffung des Kosovo-Tribunals](https://www.nzz.ch/international/das-neue-kosovo-tribunal-der-lange-weg-zur-gerechtigkeit-ld.1296016)
+      - [Schaffung des Kosovo-Tribunals](https://www.nzz.ch/international/das-neue-kosovo-tribunal-der-lange-weg-zur-gerechtigkeit-ld.1296016)
 ---

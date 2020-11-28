@@ -25,30 +25,21 @@ blocks:
 
       ## Linkliste zur Sendung
 
+      - [Kein Bock auf Kalifat - "Islamischer Staat" und Albanien](https://jungle.world/artikel/2017/37/kein-bock-auf-kalifat)
 
-      [Kein Bock auf Kalifat - "Islamischer Staat" und Albanien](https://jungle.world/artikel/2017/37/kein-bock-auf-kalifat)
+      - [Der Traum von Großalbanien](https://jungle.world/artikel/2017/37/es-kommt-auf-die-groesse)
 
+      - [Cannabisanbau in Albanien](https://jungle.world/artikel/2017/37/zu-gruen-fuer-die-eu)
 
-      [Der Traum von Großalbanien](https://jungle.world/artikel/2017/37/es-kommt-auf-die-groesse)
+      - [Pepa Hristovas Fotos der "eingeschworenen Jungfrauen" ](http://www.pepahristova.com/sworn-virgins/6/)
 
+      - [Krstos Recherche zu den "eingeschworenen Jungfrauen"](https://jungle.world/artikel/2017/37/der-albanische-jungfrauenzirkus)
 
-      [Cannabisanbau in Albanien](https://jungle.world/artikel/2017/37/zu-gruen-fuer-die-eu)
+      - [Kroatischer Nationalist mit Hitlerbärtchen](http://www.ostpol.de/beitrag/4992-wie-dieser-kroatische-nationalist-erklart-dass-er-kein-faschist-)
 
+      - [„Wer sind wir – Ustascha!“ Die HOS-Brigade marschiert 1995 unter Führung von „Hitlerbärtchen“ Marko Skejo durch Split.](https://www.youtube.com/watch?v=3I80tbKcCf8)
 
-      [Pepa Hristovas Fotos der "eingeschworenen Jungfrauen" ](http://www.pepahristova.com/sworn-virgins/6/)
+      - [Die Novosti über die Verwendung von „Za dom spremni“ in den 90er als offene Referenz an die Ustascha (serbokroatisch)](https://www.portalnovosti.com/hostaska-banda)
 
-
-      [Krstos Recherche zu den "eingeschworenen Jungfrauen"](https://jungle.world/artikel/2017/37/der-albanische-jungfrauenzirkus)
-
-
-      [Kroatischer Nationalist mit Hitlerbärtchen](http://www.ostpol.de/beitrag/4992-wie-dieser-kroatische-nationalist-erklart-dass-er-kein-faschist-)
-
-
-      [„Wer sind wir – Ustascha!“ Die HOS-Brigade marschiert 1995 unter Führung von „Hitlerbärtchen“ Marko Skejo durch Split.](https://www.youtube.com/watch?v=3I80tbKcCf8)
-
-
-      [Die Novosti über die Verwendung von „Za dom spremni“ in den 90er als offene Referenz an die Ustascha (serbokroatisch)](https://www.portalnovosti.com/hostaska-banda)
-
-
-      [„Kapetan Dragan“ verurteilt](http://www.sueddeutsche.de/politik/prozess-serbischer-milizenfuehrer-kapetan-dragan-verurteilt-1.3684196)
+      - [„Kapetan Dragan“ verurteilt](http://www.sueddeutsche.de/politik/prozess-serbischer-milizenfuehrer-kapetan-dragan-verurteilt-1.3684196)
 ---

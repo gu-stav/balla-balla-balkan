@@ -1,1 +1,1 @@
-export { default } from "./EpisodeLinks";
+export { EpisodeLinkItem, default } from "./EpisodeLinks";

@@ -23,39 +23,27 @@ blocks:
 
       Nebenbei erfahrt Ihr, wieso Krsto auf dem besten Weg zum Internetmeme ist, warum "Za dom spremni" nun auf einmal doch kein "alter kroatischer Gruß" mehr ist und warum die Tatsache, dass die serbische Ministerpräsidentin nun zusammen mit ihrer Partnerin ein Kind bekommen hat, nicht wirklich ein Hoffnungsschimmer für die LGBTIQ-Community in Serbien darstellt.
 
+      - [Kroatische Netflix-Serie Novine (The Paper)](https://www.fr.de/kultur/ende-freien-journalismus-10970619.html)
 
-      [Kroatische Netflix-Serie Novine (The Paper)](https://www.fr.de/kultur/ende-freien-journalismus-10970619.html)
+      - [Krstos Text zur Lage der Pressefreiheit in Serbien (Ostpol)](https://ostpol.de/beitrag/5029-so-sieht-es-aus-wenn-es-keine-freien-medien-gibt)
 
+      - [Die Homepage von KRIK (Englisch/Serbisch)](https://www.krik.rs/en/)
 
-      [Krstos Text zur Lage der Pressefreiheit in Serbien (Ostpol)](https://ostpol.de/beitrag/5029-so-sieht-es-aus-wenn-es-keine-freien-medien-gibt)
+      - [Jovo Martinovic Montenegro criticised over jail sentence for investigative journalist (The Guardian)](https://www.theguardian.com/world/2019/jan/16/montenegro-criticised-jail-sentence-investigative-journalist-jovo-martinovic)
 
+      - [Todesschüsse in Wien: Abrechnung des Montenegro-Kartells (Die Presse)](https://diepresse.com/home/panorama/wien/5550586/Todesschuesse-in-Wien_Abrechnung-des-MontenegroKartells)
 
-      [Die Homepage von KRIK (Englisch/Serbisch)](https://www.krik.rs/en/)
+      - [https://balkaninsight.com/2019/02/21/brnabic-baby-wont-help-us-serbias-lgbti-groups-warn/ (Balkan Insight)](https://balkaninsight.com/2019/02/21/brnabic-baby-wont-help-us-serbias-lgbti-groups-warn/)
 
+      - [Neuer Name "Republik Nordmazedonien" nun offiziell in Kraft (Der Standard/APA)](https://derstandard.at/2000097777886/Neuer-Name-Republik-Nordmazedonien-nun-offiziell-in-Kraft)
 
-      [Jovo Martinovic Montenegro criticised over jail sentence for investigative journalist (The Guardian)](https://www.theguardian.com/world/2019/jan/16/montenegro-criticised-jail-sentence-investigative-journalist-jovo-martinovic)
+      - [Rangliste der Pressefreiheit von Reporter ohne Grenzen](https://www.reporter-ohne-grenzen.de/rangliste/2018/)
 
+      - [In Montenegro leben Journalisten gefährlich (NZZ)](https://www.nzz.ch/international/in-montenegro-leben-journalisten-gefaehrlich-ld.1384899)
 
-      [Todesschüsse in Wien: Abrechnung des Montenegro-Kartells (Die Presse)](https://diepresse.com/home/panorama/wien/5550586/Todesschuesse-in-Wien_Abrechnung-des-MontenegroKartells)
+      - [Der Fall Mislav Šimatović in Kroatien (24 Sata)](https://www.24sata.hr/news/ovrha-kriminalac-ga-blokirao-zbog-teksta-kojeg-nije-napisao-559803)
 
+      - [KOLINDA: „ZA DOM SPREMNI“ IST KEIN ALTER KROATISCHER GRUSS (Kosmo)](https://www.kosmo.at/kolinda-za-dom-spremni-ist-doch-kein-alter-kroatischer-grussvideo/)
 
-      [https://balkaninsight.com/2019/02/21/brnabic-baby-wont-help-us-serbias-lgbti-groups-warn/ (Balkan Insight)](https://balkaninsight.com/2019/02/21/brnabic-baby-wont-help-us-serbias-lgbti-groups-warn/)
-
-
-      [Neuer Name "Republik Nordmazedonien" nun offiziell in Kraft (Der Standard/APA)](https://derstandard.at/2000097777886/Neuer-Name-Republik-Nordmazedonien-nun-offiziell-in-Kraft)
-
-
-      [Rangliste der Pressefreiheit von Reporter ohne Grenzen](https://www.reporter-ohne-grenzen.de/rangliste/2018/)
-
-
-      [In Montenegro leben Journalisten gefährlich (NZZ)](https://www.nzz.ch/international/in-montenegro-leben-journalisten-gefaehrlich-ld.1384899)
-
-
-      [Der Fall Mislav Šimatović in Kroatien (24 Sata)](https://www.24sata.hr/news/ovrha-kriminalac-ga-blokirao-zbog-teksta-kojeg-nije-napisao-559803)
-
-
-      [KOLINDA: „ZA DOM SPREMNI“ IST KEIN ALTER KROATISCHER GRUSS (Kosmo)](https://www.kosmo.at/kolinda-za-dom-spremni-ist-doch-kein-alter-kroatischer-grussvideo/)
-
-
-      [Gebrauchtkampfflugzeughandel zwischen Kroatien und Israel geplatzt (Telepolis)](https://www.heise.de/tp/features/Gebrauchtkampfflugzeughandel-zwischen-Kroatien-und-Israel-geplatzt-4271755.html)
+      - [Gebrauchtkampfflugzeughandel zwischen Kroatien und Israel geplatzt (Telepolis)](https://www.heise.de/tp/features/Gebrauchtkampfflugzeughandel-zwischen-Kroatien-und-Israel-geplatzt-4271755.html)
 ---

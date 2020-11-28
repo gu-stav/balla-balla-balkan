@@ -1,23 +1,17 @@
-import Link from "next/link";
+import Paragraph from "../Paragraph";
 
 import styles from "./EpisodeLinks.module.css";
 
-const EpisodeLinks = ({ links = [] }) => {
-  if (!links || links.length === 0) {
-    return null;
-  }
+export const EpisodeLinkItem = ({ children, ...props }) => (
+  <li className={styles.listItem} {...props}>
+    <Paragraph>{children}</Paragraph>
+  </li>
+);
 
-  return (
-    <ul className={styles.list}>
-      {links.map(({ text, url }) => (
-        <li className={styles.listItem}>
-          <Link href={url}>
-            <a className={styles.item}>{text}</a>
-          </Link>
-        </li>
-      ))}
-    </ul>
-  );
-};
+const EpisodeLinks = ({ children, ...props }) => (
+  <ul className={styles.list} {...props}>
+    {children}
+  </ul>
+);
 
 export default EpisodeLinks;

@@ -25,33 +25,23 @@ blocks:
 
       In dieser Episode geht es ausschließlich um Srebrenica. Krsto und Danijel versuchen einen Überblick über die Geschehnisse vor, während und nach dem Völkermord zu geben. Vor allem aber kommen zwei Überlebende zu Wort: Selma Jahić, die das Grauen von Srebrenica als Kind miterlebte, und Emir Suljagić, der überlebte, weil er als Dolmetscher für die UN arbeitete und der heute das Srebrenica Genocide Memorial Center leitet.
 
+      - [Das komplette Interview mit Selma Jahić](https://soundcloud.com/user-89524652/extra-im-gesprach-mit-der-srebrenica-uberlebenden-selma-jahic) (40 Minuten)
 
-      [Das komplette Interview mit Selma Jahić](https://soundcloud.com/user-89524652/extra-im-gesprach-mit-der-srebrenica-uberlebenden-selma-jahic) (40 Minuten)
+      - [Unsere 12. Folge:](https://ballaballa-balkan.de/12-urteil-in-den-haag-oder-zeig-mir-deine-helden/) Urteil in Den Haag oder zeig mir deine Helden
 
+      - [Targeting ‘Turks’: How Karadžić Laid the Foundations for Genocide](https://balkaninsight.com/2019/04/15/targeting-turks-how-karadzic-laid-the-foundations-for-genocide/) (Emir Suljagić, Balkan Insight)
 
-      [Unsere 12. Folge:](https://ballaballa-balkan.de/12-urteil-in-den-haag-oder-zeig-mir-deine-helden/) Urteil in Den Haag oder zeig mir deine Helden
+      - [Srebrenica: Chronologie eines Völkermords ](<http://: https://www.hamburger-edition.de/buecher-e-books/artikel-detail/srebrenica/d/1962/Srebrenica/8/>)(Matthias Fink, Hamburger Edition)
 
+      - [Postcards from the Grave ](https://www.goodreads.com/book/show/855555.Postcards_from_the_Grave)(Emir Suljagić, Saqi Books)
 
-      [Targeting ‘Turks’: How Karadžić Laid the Foundations for Genocide](https://balkaninsight.com/2019/04/15/targeting-turks-how-karadzic-laid-the-foundations-for-genocide/) (Emir Suljagić, Balkan Insight)
+      - [Under The UN Flag: The International Community and the Srebrenica Genocide](https://www.goodreads.com/book/show/17277366-under-the-un-flag) (Hasan Nuhanović, DES Sarajevo)
 
+      - [The last Refuge: A true story of War, Survival and Life under Siege in Srebrenica](https://www.faz.net/aktuell/politik/politische-buecher/kriegsverbrechen-das-massaker-von-srebrenic-16527487.html) (Hasan Nuhanović, Peter Owen)
 
-      [Srebrenica: Chronologie eines Völkermords ](<http://: https://www.hamburger-edition.de/buecher-e-books/artikel-detail/srebrenica/d/1962/Srebrenica/8/>)(Matthias Fink, Hamburger Edition)
+      - [Keiner war dabei](https://www.hanser-literaturverlage.de/autor/slavenka-drakulic/) (Slavenka Drakulić, Hanser)
 
+      - [Dossier: 25 Jahre nach Srebrenica](https://www.boell.de/de/25-jahre-nach-srebrenica?dimension1=startseite) (Heinrich Böll Stiftung)
 
-      [Postcards from the Grave ](https://www.goodreads.com/book/show/855555.Postcards_from_the_Grave)(Emir Suljagić, Saqi Books)
-
-
-      [Under The UN Flag: The International Community and the Srebrenica Genocide](https://www.goodreads.com/book/show/17277366-under-the-un-flag) (Hasan Nuhanović, DES Sarajevo)
-
-
-      [The last Refuge: A true story of War, Survival and Life under Siege in Srebrenica](https://www.faz.net/aktuell/politik/politische-buecher/kriegsverbrechen-das-massaker-von-srebrenic-16527487.html) (Hasan Nuhanović, Peter Owen)
-
-
-      [Keiner war dabei](https://www.hanser-literaturverlage.de/autor/slavenka-drakulic/) (Slavenka Drakulić, Hanser)
-
-
-      [Dossier: 25 Jahre nach Srebrenica](https://www.boell.de/de/25-jahre-nach-srebrenica?dimension1=startseite) (Heinrich Böll Stiftung)
-
-
-      [Massaker von Srebrenica: Niederlande mitverantwortlich für Mord an 350 Muslimen](https://de.euronews.com/2019/07/19/massaker-von-srebrenica-niederlande-mitverantwortlich-fur-mord-an-350-muslimen) (Euronews)
+      - [Massaker von Srebrenica: Niederlande mitverantwortlich für Mord an 350 Muslimen](https://de.euronews.com/2019/07/19/massaker-von-srebrenica-niederlande-mitverantwortlich-fur-mord-an-350-muslimen) (Euronews)
 ---

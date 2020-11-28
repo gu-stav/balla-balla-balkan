@@ -21,6 +21,5 @@ blocks:
       macht, warum ein Skandal, den es vermutlich nie gegeben hat, die
       Beziehungen zwischen Serbien und Kroatien belastet.
 
-
-      [Belgrad - Der Subkultur droht die Abrissbirne von Krsto](https://tageswoche.ch/politik/der-subkultur-droht-die-abrissbirne/)
+      - [Belgrad - Der Subkultur droht die Abrissbirne von Krsto](https://tageswoche.ch/politik/der-subkultur-droht-die-abrissbirne/)
 ---

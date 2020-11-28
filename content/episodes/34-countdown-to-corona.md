@@ -28,33 +28,23 @@ blocks:
 
       Und in einer neuen Kolumne gibt es wertvolle Tipps für den Umgang mit Corona - vom großartigen Doktor hc. Ante Kvazić.
 
+      - [Das Finale des Déjà-vu Geschichte Quiz 2020 mit Krstos großem Sieg ](https://www.ralfgrabuschnig.com/mitratequiz-2020-finale/)
 
-      [Das Finale des Déjà-vu Geschichte Quiz 2020 mit Krstos großem Sieg ](https://www.ralfgrabuschnig.com/mitratequiz-2020-finale/)
+      - [Direktor des Klinikums Mostar wird zum Meme (N1, auf bosnisch) ](https://www.nacional.hr/during-the-coronavirus-pandemic-jansas-slovenia-is-turning-into-a-military-state-overnight/?fbclid=IwAR200y0ZshVvMiCffhN7EHhe8nMzrANJPHhwMtsfGoVyyjCM4Sohzd96Rfg)
 
+      - [Jeder stirbt für sich alleine -  Der 91-jährige Holocaustüberlebende Ivan Ivanji macht sich Gedanken über die Maßnahmen (taz) ](https://taz.de/Corona-Isolation-in-Serbien/!5672855/)
 
-      [Direktor des Klinikums Mostar wird zum Meme (N1, auf bosnisch) ](https://www.nacional.hr/during-the-coronavirus-pandemic-jansas-slovenia-is-turning-into-a-military-state-overnight/?fbclid=IwAR200y0ZshVvMiCffhN7EHhe8nMzrANJPHhwMtsfGoVyyjCM4Sohzd96Rfg)
+      - [Corona in Serbien: Erst Lachnummer, jetzt Panik (MDR) ](https://www.mdr.de/nachrichten/osteuropa/ostblogger/corona-ausnahmezustand-serbien-100.html)
 
+      - [No Joke! Serbian President Makes Light Of Coronavirus As One More Reason To Hit The Bottle (Radio Free Europe) ](https://www.rferl.org/a/serbian-president-makes-light-of-coronavirus-as-one-more-reason-to-hit-the-bottle/30468925.html)
 
-      [Jeder stirbt für sich alleine -  Der 91-jährige Holocaustüberlebende Ivan Ivanji macht sich Gedanken über die Maßnahmen (taz) ](https://taz.de/Corona-Isolation-in-Serbien/!5672855/)
+      - [Faktencheck zu Aussagen der serbischen Regierung (Danas, auf Serbisch) ](https://www.danas.rs/bbc-news-serbian/korona-virus-alkohol-smrtnost-soping-u-italiji-i-bioloski-rat-koliko-su-tacne-izjave-zvanicnika/)
 
+      - [Serbien ruft Ärzte aus dem Ausland zurück: Bloß nicht zurück in die Heimat (Tagesspiegel)  ](https://www.tagesspiegel.de/politik/serbien-ruft-aerzte-aus-aus-dem-ausland-zurueck-bloss-nicht-zurueck-in-die-heimat/25705374.html)
 
-      [Corona in Serbien: Erst Lachnummer, jetzt Panik (MDR) ](https://www.mdr.de/nachrichten/osteuropa/ostblogger/corona-ausnahmezustand-serbien-100.html)
+      - [Potrait des neuen slowenischen Ministerpräsidenten Janez Janša (Spiegel)](https://www.spiegel.de/politik/ausland/slowenien-janez-jansa-wird-neuer-regierungschef-a-c60826e6-887a-46c8-9923-c3d1a0e69f01)
 
+      - [During the coronavirus pandemic Janša’s Slovenia is turning into a military state overnight (nacional.hr) ](https://www.nacional.hr/during-the-coronavirus-pandemic-jansas-slovenia-is-turning-into-a-military-state-overnight/?fbclid=IwAR200y0ZshVvMiCffhN7EHhe8nMzrANJPHhwMtsfGoVyyjCM4Sohzd96Rfg)
 
-      [No Joke! Serbian President Makes Light Of Coronavirus As One More Reason To Hit The Bottle (Radio Free Europe) ](https://www.rferl.org/a/serbian-president-makes-light-of-coronavirus-as-one-more-reason-to-hit-the-bottle/30468925.html)
-
-
-      [Faktencheck zu Aussagen der serbischen Regierung (Danas, auf Serbisch) ](https://www.danas.rs/bbc-news-serbian/korona-virus-alkohol-smrtnost-soping-u-italiji-i-bioloski-rat-koliko-su-tacne-izjave-zvanicnika/)
-
-
-      [Serbien ruft Ärzte aus dem Ausland zurück: Bloß nicht zurück in die Heimat (Tagesspiegel)  ](https://www.tagesspiegel.de/politik/serbien-ruft-aerzte-aus-aus-dem-ausland-zurueck-bloss-nicht-zurueck-in-die-heimat/25705374.html)
-
-
-      [Potrait des neuen slowenischen Ministerpräsidenten Janez Janša (Spiegel)](https://www.spiegel.de/politik/ausland/slowenien-janez-jansa-wird-neuer-regierungschef-a-c60826e6-887a-46c8-9923-c3d1a0e69f01)
-
-
-      [During the coronavirus pandemic Janša’s Slovenia is turning into a military state overnight (nacional.hr) ](https://www.nacional.hr/during-the-coronavirus-pandemic-jansas-slovenia-is-turning-into-a-military-state-overnight/?fbclid=IwAR200y0ZshVvMiCffhN7EHhe8nMzrANJPHhwMtsfGoVyyjCM4Sohzd96Rfg)
-
-
-      [Direktor des Klinikums Mostar wird zum Meme (N1, auf bosnisch) ](https://www.nacional.hr/during-the-coronavirus-pandemic-jansas-slovenia-is-turning-into-a-military-state-overnight/?fbclid=IwAR200y0ZshVvMiCffhN7EHhe8nMzrANJPHhwMtsfGoVyyjCM4Sohzd96Rfg)
+      - [Direktor des Klinikums Mostar wird zum Meme (N1, auf bosnisch) ](https://www.nacional.hr/during-the-coronavirus-pandemic-jansas-slovenia-is-turning-into-a-military-state-overnight/?fbclid=IwAR200y0ZshVvMiCffhN7EHhe8nMzrANJPHhwMtsfGoVyyjCM4Sohzd96Rfg)
 ---

@@ -27,27 +27,20 @@ blocks:
       kommen als erwartet und wie man es anstellt, dass serbische Popen
       Bodyguard spielen.
 
-
-      [Biografie und Publikationen von Ljiljana Radonić](https://www.oeaw.ac.at/ikt/team/ljiljana-radonic/)
-
-
-      Jelena Đureinović: [The Politics of Memory of the Second World War in Contemporary Serbia: Collaboration, Resistance and Retribution](https://twitter.com/Rout_PoliticsIR/status/1202208252794150914)
+      - [Biografie und Publikationen von Ljiljana Radonić](https://www.oeaw.ac.at/ikt/team/ljiljana-radonic/)
 
 
-      [Kroatiens Präsident verlässt Staatsakt wegen NS-Symbolik (Stuttgarter Zeitung)](https://www.stuttgarter-zeitung.de/inhalt.zoran-milanovic-kroatiens-praesident-verlaesst-staatsakt-wegen-ns-symbolik.b3be44fa-d9f1-4f3d-9635-f6eccac6b3ba.html)
+      - Jelena Đureinović: [The Politics of Memory of the Second World War in Contemporary Serbia: Collaboration, Resistance and Retribution](https://twitter.com/Rout_PoliticsIR/status/1202208252794150914)
 
+      - [Kroatiens Präsident verlässt Staatsakt wegen NS-Symbolik (Stuttgarter Zeitung)](https://www.stuttgarter-zeitung.de/inhalt.zoran-milanovic-kroatiens-praesident-verlaesst-staatsakt-wegen-ns-symbolik.b3be44fa-d9f1-4f3d-9635-f6eccac6b3ba.html)
 
-      [Demonstration in Sarajevo gegen Gedenken an faschistische Ustascha-Bewegung (Handelsblatt) ](<http://Demonstration in Sarajevo gegen Gedenken an faschistische Ustascha-Bewegung>)
+      - [Demonstration in Sarajevo gegen Gedenken an faschistische Ustascha-Bewegung (Handelsblatt) ](<http://Demonstration in Sarajevo gegen Gedenken an faschistische Ustascha-Bewegung>)
 
+      - [Franjo Tuđman 1992 über die HOS ](<http://Franjo Tuđman kod Romana Bolkovića 1992 o HOS u>)
 
-      [Franjo Tuđman 1992 über die HOS ](<http://Franjo Tuđman kod Romana Bolkovića 1992 o HOS u>)
+      - [Serbien, Ungarn und Montenegro keine Demokratien mehr (Balkan Insight) ](https://balkaninsight.com/2020/05/06/freedom-house-serbia-montenegro-hungary-no-longer-democracies/)
 
+      - [Slowenien erklärt Corona für beendet (Standard)](https://www.derstandard.at/story/2000117525456/slowenien-oeffnet-grenzen-fuer-eu-buerger)
 
-      [Serbien, Ungarn und Montenegro keine Demokratien mehr (Balkan Insight) ](https://balkaninsight.com/2020/05/06/freedom-house-serbia-montenegro-hungary-no-longer-democracies/)
-
-
-      [Slowenien erklärt Corona für beendet (Standard)](https://www.derstandard.at/story/2000117525456/slowenien-oeffnet-grenzen-fuer-eu-buerger)
-
-
-      [Trotz Corona: Wahlen in Kroatien schon im Sommer (Kosmo)](https://www.kosmo.at/trotz-corona-wahlen-in-kroatien-schon-im-sommer/)
+      - [Trotz Corona: Wahlen in Kroatien schon im Sommer (Kosmo)](https://www.kosmo.at/trotz-corona-wahlen-in-kroatien-schon-im-sommer/)
 ---

@@ -26,33 +26,24 @@ blocks:
 
       Und wir lassen ein paar Prominente zu Wort kommen. Deniz Yücel klärt über die Vokalungerechtigkeit im ehemaligen Jugoslawien auf. Und Kroatiens bekanntester Rechtsradikaler, TV-Moderator Velimir Bujanec (der mit dem Koks), kommt auch zu Wort.
 
+      - [Krsto über die Aufführung von „Jasenovac – Istina“ in den kroatischen Gemeinden in Deutschland (Jungle World)](https://jungle.world/artikel/2016/19/im-namen-der-ustascha)
 
-      [Krsto über die Aufführung von „Jasenovac – Istina“ in den kroatischen Gemeinden in Deutschland (Jungle World)](https://jungle.world/artikel/2016/19/im-namen-der-ustascha)
+      - [Alles was zu Jasenovac  - Istina noch zu sagen war von Danijel (Frankfurter Rundschau)](http://www.fr.de/kultur/kino/jasenovac-die-wahrheit-kroatische-geschichtsfaelschung-auf-der-leinwand-a-1281531)
 
+      - [Danijels Artikel über die Stuttgarter Gemeinde:](https://www.kontextwochenzeitung.de/gesellschaft/360/seelsorge-mit-schlagseite-4919.html?pk_campaign=KONTEXT-per-EMail&pk_kwd=Ausgabe-360) (Kontext Wochenzeitung)
 
-      [Alles was zu Jasenovac  - Istina noch zu sagen war von Danijel (Frankfurter Rundschau)](http://www.fr.de/kultur/kino/jasenovac-die-wahrheit-kroatische-geschichtsfaelschung-auf-der-leinwand-a-1281531)
+      - [noch ein Artikel von Danijel über die Stuttgarter Gemeinde](https://www.kontextwochenzeitung.de/medien/364/besuch-angedroht-4981.html) (Kontext Wochenzeitung)
 
-
-      [Danijels Artikel über die Stuttgarter Gemeinde:](https://www.kontextwochenzeitung.de/gesellschaft/360/seelsorge-mit-schlagseite-4919.html?pk_campaign=KONTEXT-per-EMail&pk_kwd=Ausgabe-360) (Kontext Wochenzeitung)
-
-
-      [noch ein Artikel von Danijel über die Stuttgarter Gemeinde](https://www.kontextwochenzeitung.de/medien/364/besuch-angedroht-4981.html) (Kontext Wochenzeitung)
-
-
-      [Große Reportage über die kosovarische Opposition von Krsto und Franziska Tschinderle (Die Republik)](https://www.republik.ch/2018/02/16/kosovo-unabhaengigkeit)
+      - [Große Reportage über die kosovarische Opposition von Krsto und Franziska Tschinderle (Die Republik)](https://www.republik.ch/2018/02/16/kosovo-unabhaengigkeit)
 
 
       ## Bujanec in Rhein-Main
 
+      - <http://www.fr.de/rhein-main/velimir-bujanec-jubilaeum-mit-einem-hetzer-a-1378617>
 
-      <http://www.fr.de/rhein-main/velimir-bujanec-jubilaeum-mit-einem-hetzer-a-1378617>
+      - <http://www.fr.de/rhein-main/extremismus-in-hessen-rechtsradikaler-hetzer-darf-in-hessen-auftreten-a-1443855>
 
+      - Keine politischen Veranstaltungen mehr in kroatischen Gemeinden <http://www.fr.de/rhein-main/kroatische-gemeinden-in-rhein-main-keine-kirchenraeume-fuer-nationalisten-a-1456323>
 
-      <http://www.fr.de/rhein-main/extremismus-in-hessen-rechtsradikaler-hetzer-darf-in-hessen-auftreten-a-1443855>
-
-
-      Keine politischen Veranstaltungen mehr in kroatischen Gemeinden <http://www.fr.de/rhein-main/kroatische-gemeinden-in-rhein-main-keine-kirchenraeume-fuer-nationalisten-a-1456323>
-
-
-      Demonstration in Zagreb gegen die Istanbul-Konvention: <http://www.dw.com/de/tausende-kroaten-protestieren-gegen-drittes-geschlecht-und-homo-ehe/a-43118290>
+      - Demonstration in Zagreb gegen die Istanbul-Konvention: <http://www.dw.com/de/tausende-kroaten-protestieren-gegen-drittes-geschlecht-und-homo-ehe/a-43118290>
 ---

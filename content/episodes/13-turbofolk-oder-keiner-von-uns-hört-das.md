@@ -26,36 +26,26 @@ blocks:
 
       ## **Linkliste zur Sendung** 
 
+      - [Turbofolk: Soundtrack zum Zerfall Jugoslawiens](https://www.ventil-verlag.de/titel/1777/turbofolk) - Buch von Sonja Vogel, erschienen im Ventil Verlag
 
-      [Turbofolk: Soundtrack zum Zerfall Jugoslawiens](https://www.ventil-verlag.de/titel/1777/turbofolk) - Buch von Sonja Vogel, erschienen im Ventil Verlag
+      - [Interview mit Sonja Vogel](http://www.deutschlandfunk.de/turbofolk-der-soundtrack-zum-zerfall-jugoslawiens.807.de.html?dram:article_id=395444) im Deutschlandfunk
 
+      - [Queer as Turbofolk](http://balkanist.net/queer-as-turbofolk-part-i-eastern-europe-is-homophobic/) (Balkanist)
 
-      [Interview mit Sonja Vogel](http://www.deutschlandfunk.de/turbofolk-der-soundtrack-zum-zerfall-jugoslawiens.807.de.html?dram:article_id=395444) im Deutschlandfunk
+      - [Sechs Kugeln stoppen den Friedensprozess im Kosovo](https://www.welt.de/politik/ausland/article172563063/Politiker-Mord-Sechs-Kugeln-stoppen-den-Friedensprozess-im-Kosovo.html) (Krstos Artikel über die Ermordung von Oliver Ivanovic)
 
+      - [Politik für Warlords](https://www.woz.ch/1807/kosovo-und-eu/politik-fuer-warlords) (Krstos Artikel über den zehnten Unabhängigkeitstag im Kosovo)
 
-      [Queer as Turbofolk](http://balkanist.net/queer-as-turbofolk-part-i-eastern-europe-is-homophobic/) (Balkanist)
-
-
-      [Sechs Kugeln stoppen den Friedensprozess im Kosovo](https://www.welt.de/politik/ausland/article172563063/Politiker-Mord-Sechs-Kugeln-stoppen-den-Friedensprozess-im-Kosovo.html) (Krstos Artikel über die Ermordung von Oliver Ivanovic)
-
-
-      [Politik für Warlords](https://www.woz.ch/1807/kosovo-und-eu/politik-fuer-warlords) (Krstos Artikel über den zehnten Unabhängigkeitstag im Kosovo)
-
-
-      [Oprostajni govor Boris Dezulovica na sahrani Lucicu](http://ba.n1info.com/a237388/Svijet/Regija/Oprostajni-govor-Borisa-Dezulovica-na-sahrani-Lucicu.html) (Rede von Boris Dezulovic auf der Beerdigung von Predrag Lucic im kroatischen Original).
+      - [Oprostajni govor Boris Dezulovica na sahrani Lucicu](http://ba.n1info.com/a237388/Svijet/Regija/Oprostajni-govor-Borisa-Dezulovica-na-sahrani-Lucicu.html) (Rede von Boris Dezulovic auf der Beerdigung von Predrag Lucic im kroatischen Original).
 
 
       ### **Songs** 
 
+      - Jelena Karleusa: - [Sodoma i Gomora](https://www.youtube.com/watch?v=SREKcneLsKw)
 
-      Jelena Karleusa: [Sodoma i Gomora](https://www.youtube.com/watch?v=SREKcneLsKw)
+      - Ceca: - [Znam](https://www.youtube.com/watch?v=DcIpZN3i4Gs)
 
+      - Lepa Brena: - [Jugoslovenka ](https://www.youtube.com/watch?v=gsKn5KX6XnU)
 
-      Ceca: [Znam](https://www.youtube.com/watch?v=DcIpZN3i4Gs)
-
-
-      Lepa Brena: [Jugoslovenka ](https://www.youtube.com/watch?v=gsKn5KX6XnU)
-
-
-      Dragana Mirkovic: [Bas tebe volim ja](https://www.youtube.com/watch?v=v5H1Ff_IqnM)
+      - Dragana Mirkovic: - [Bas tebe volim ja](https://www.youtube.com/watch?v=v5H1Ff_IqnM)
 ---

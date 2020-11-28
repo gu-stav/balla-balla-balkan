@@ -27,23 +27,17 @@ blocks:
       Nebenbei erfahrt ihr, wieso es jetzt auch ein slowenisches "Kettensägenmassaker" gibt, warum die kroatische Präsidentschaftswahl in diesem Jahr immer mehr zum Wettlauf skurriller Gestalten mutiert und wer von den beiden Moderatoren eigentlich wirklich "Großserbe" ist.
 
 
-      Spendenaufruf: [Humanitäre Hilfe für Flüchtlinge in Bosnien-Herzegowina ](https://www.leetchi.com/c/humanitaere-hilfe-fuer-fluechtlingscamps-in-bosnien-und-herzegowina)
+      - Spendenaufruf: [Humanitäre Hilfe für Flüchtlinge in Bosnien-Herzegowina ](https://www.leetchi.com/c/humanitaere-hilfe-fuer-fluechtlingscamps-in-bosnien-und-herzegowina)
 
+      - [History of Yugoslavia-Podcast -https://www.youtube.com/watch?v=vu5qvsloewU mit ausführlichen Kapiteln zur Garasanin und seiner Idee von Großserbien](https://historyofyugoslavia.libsyn.com/)
 
-      [History of Yugoslavia-Podcast -https://www.youtube.com/watch?v=vu5qvsloewU mit ausführlichen Kapiteln zur Garasanin und seiner Idee von Großserbien](https://historyofyugoslavia.libsyn.com/)
+      - [Die gesamte Rede von Aleksandar Vučić  in Glina 1995](https://www.youtube.com/watch?v=vu5qvsloewU)
 
+      - [Rede von Aleksandar Vučić im Jahre 2000 zur Karlobag-Ogulin-Karlovac-Virovitica-Greze](https://www.youtube.com/watch?v=b2CUONXlxQ8)
 
-      [Die gesamte Rede von Aleksandar Vučić  in Glina 1995](https://www.youtube.com/watch?v=vu5qvsloewU)
+      - [Rede von Vojislav Šešelj vor Anhängern in Belgrad 1990](https://www.youtube.com/watch?v=XrX1bmTN1i4)
 
+      - [Die bunte Wende: Krstos Reportage über die erste Pride in Nordmazedonien (Republik)](https://www.republik.ch/2019/07/04/die-bunte-wende)
 
-      [Rede von Aleksandar Vučić im Jahre 2000 zur Karlobag-Ogulin-Karlovac-Virovitica-Greze](https://www.youtube.com/watch?v=b2CUONXlxQ8)
-
-
-      [Rede von Vojislav Šešelj vor Anhängern in Belgrad 1990](https://www.youtube.com/watch?v=XrX1bmTN1i4)
-
-
-      [Die bunte Wende: Krstos Reportage über die erste Pride in Nordmazedonien (Republik)](https://www.republik.ch/2019/07/04/die-bunte-wende)
-
-
-      [Faschisten unter der Decke der Kirche: Lügen mit Gottes Segen (Krstos Reportage über die kroatischen Gemeinden in der taz) ](https://taz.de/Faschisten-unter-der-Decke-der-Kirche/!5604086/)
+      - [Faschisten unter der Decke der Kirche: Lügen mit Gottes Segen (Krstos Reportage über die kroatischen Gemeinden in der taz) ](https://taz.de/Faschisten-unter-der-Decke-der-Kirche/!5604086/)
 ---

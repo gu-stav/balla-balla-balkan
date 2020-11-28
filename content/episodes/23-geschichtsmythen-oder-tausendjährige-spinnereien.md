@@ -28,15 +28,11 @@ blocks:
 
       ## Weiterführende Links
 
+      - [Der Podcast von Ralf Grabuschnig](https://ralfgrabuschnig.com/deja-vu-geschichte-podcast/)
 
-      [Der Podcast von Ralf Grabuschnig](https://ralfgrabuschnig.com/deja-vu-geschichte-podcast/)
+      - [Buchempfehlung zum Thema: UMKÄMPFTE VERGANGENHEITEN. DIE KULTUR DER ERINNERUNG IM POSTJUGOSLAWISCHEN RAUM (Todor Kujlic)](https://www.verbrecherverlag.de/book.php?id=368)
 
+      - [Gay Pride Sarajevo (Neues Deutschland)](https://www.neues-deutschland.de/artikel/1116248.csd-erste-gay-pride-bosnien-herzegowina.html)
 
-      [Buchempfehlung zum Thema: UMKÄMPFTE VERGANGENHEITEN. DIE KULTUR DER ERINNERUNG IM POSTJUGOSLAWISCHEN RAUM (Todor Kujlic)](https://www.verbrecherverlag.de/book.php?id=368)
-
-
-      [Gay Pride Sarajevo (Neues Deutschland)](https://www.neues-deutschland.de/artikel/1116248.csd-erste-gay-pride-bosnien-herzegowina.html)
-
-
-      [Eine Frau mit Ehrgeiz für zwei: Mirjana Markovic, die Witwe von Milosevic, ist tot (NZZ)](https://www.nzz.ch/international/eine-frau-mit-ehrgeiz-fuer-zwei-mirjana-markovic-die-witwe-milosevics-ist-tot-ld.1475407)
+      - [Eine Frau mit Ehrgeiz für zwei: Mirjana Markovic, die Witwe von Milosevic, ist tot (NZZ)](https://www.nzz.ch/international/eine-frau-mit-ehrgeiz-fuer-zwei-mirjana-markovic-die-witwe-milosevics-ist-tot-ld.1475407)
 ---

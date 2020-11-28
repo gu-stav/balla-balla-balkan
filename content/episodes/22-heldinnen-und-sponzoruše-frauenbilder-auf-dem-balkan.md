@@ -25,33 +25,23 @@ blocks:
 
       ## Weiterführende Links
 
+      - [Die geniale Kolumne von Olivera Stajić (Der Standard)](https://derstandard.at/r2000095623385/Gemist---Olivera-Stajic)
 
-      [Die geniale Kolumne von Olivera Stajić (Der Standard)](https://derstandard.at/r2000095623385/Gemist---Olivera-Stajic)
+      - [Der Twitteraccount von Olivera Stajić](https://twitter.com/OliveraStajic)
 
+      - [Der Twitteraccount von Tanja Malle](https://twitter.com/scharlatanja)
 
-      [Der Twitteraccount von Olivera Stajić](https://twitter.com/OliveraStajic)
+      - [Wer sind eigentlich diese Kärntner Slowenen?](https://de.wikipedia.org/wiki/K%C3%A4rntner_Slowenen)
 
+      - [Croatian women challenge brutal pregnancy 'care' (BBC)](https://www.bbc.com/news/world-europe-46803178)
 
-      [Der Twitteraccount von Tanja Malle](https://twitter.com/scharlatanja)
+      - [How women in the Balkans are using social media to fight sexism ](https://europeanwesternbalkans.com/2018/12/25/brain-drain-important-migration-issue-western-balkans/)
 
+      - [Brain drain: The most important migration issue of the Western Balkans](https://europeanwesternbalkans.com/2018/12/25/brain-drain-important-migration-issue-western-balkans/)
 
-      [Wer sind eigentlich diese Kärntner Slowenen?](https://de.wikipedia.org/wiki/K%C3%A4rntner_Slowenen)
+      - [Study: Violence against women widespread in Eastern Europe (Politico):](https://www.politico.eu/article/study-violence-against-women-widespread-in-eastern-europe/)
 
+      - [Buch: Žene BiH (Bosnisch)](http://zenebih.ba/)
 
-      [Croatian women challenge brutal pregnancy 'care' (BBC)](https://www.bbc.com/news/world-europe-46803178)
-
-
-      [How women in the Balkans are using social media to fight sexism ](https://europeanwesternbalkans.com/2018/12/25/brain-drain-important-migration-issue-western-balkans/)
-
-
-      [Brain drain: The most important migration issue of the Western Balkans](https://europeanwesternbalkans.com/2018/12/25/brain-drain-important-migration-issue-western-balkans/)
-
-
-      [Study: Violence against women widespread in Eastern Europe (Politico):](https://www.politico.eu/article/study-violence-against-women-widespread-in-eastern-europe/)
-
-
-      [Buch: Žene BiH (Bosnisch)](http://zenebih.ba/)
-
-
-      [Das neue von Saša Stanišić, Herkunft, erscheint am 18.03.2019 ](https://www.randomhouse.de/Buch/HERKUNFT/Sasa-Stanisic/Luchterhand-Literaturverlag/e472733.rhd)
+      - [Das neue von Saša Stanišić, Herkunft, erscheint am 18.03.2019 ](https://www.randomhouse.de/Buch/HERKUNFT/Sasa-Stanisic/Luchterhand-Literaturverlag/e472733.rhd)
 ---

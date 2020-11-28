@@ -27,23 +27,23 @@ blocks:
       Außerdem: Serbische Zeitschrift erfindet Interview mit Donald Trump, Referendum in Bosnien-Herzegowina und unsere neue Rubrik „Shit of the month“.
 
 
-      * [Potrait Milo Ðukanović](http://www.tageswoche.ch/de/2016_42/international/732381/montenegriner-entscheiden-ueber-zukunft-von-djukanovic.htm)
+      - [Potrait Milo Ðukanović](http://www.tageswoche.ch/de/2016_42/international/732381/montenegriner-entscheiden-ueber-zukunft-von-djukanovic.htm)
 
-      * [Man of the year in organized Crime](https://www.occrp.org/personoftheyear/2015/)
+      - [Man of the year in organized Crime](https://www.occrp.org/personoftheyear/2015/)
 
-      * [Wahltag in Montenegro](http://www.tageswoche.ch/de/2016_43/international/732501/unregelmaessigkeiten-fuer-machthaber-djukanovi-haben-sogar-die-toten-gestimmt.htm)
+      - [Wahltag in Montenegro](http://www.tageswoche.ch/de/2016_43/international/732501/unregelmaessigkeiten-fuer-machthaber-djukanovi-haben-sogar-die-toten-gestimmt.htm)
 
-      * [Montenegro: RSF condemns blocking of messaging apps on election day](https://rsf.org/en/news/montenegro-rsf-condemns-blocking-messaging-apps-election-day)
+      - [Montenegro: RSF condemns blocking of messaging apps on election day](https://rsf.org/en/news/montenegro-rsf-condemns-blocking-messaging-apps-election-day)
 
-      * [Konjunktur in Montenegro](http://wirtschaftsblatt.at/archiv/printimport/4994104/Investitionsboom-in-Montenegro)
+      - [Konjunktur in Montenegro](http://wirtschaftsblatt.at/archiv/printimport/4994104/Investitionsboom-in-Montenegro)
 
-      * [Pressefreiheit in Montenegro](https://www.reporter-ohne-grenzen.de/montenegro/)
+      - [Pressefreiheit in Montenegro](https://www.reporter-ohne-grenzen.de/montenegro/)
 
-      * [Der Journalist, der in die Unterwelt hinabstieg](http://www.nzz.ch/international/europa/brisante-recherchen-ein-journalist-stoert-ld.118014)
+      - [Der Journalist, der in die Unterwelt hinabstieg](http://www.nzz.ch/international/europa/brisante-recherchen-ein-journalist-stoert-ld.118014)
 
-      * [Serbische Zeitschrift erfindet Interview mit Trump](https://kurier.at/politik/ausland/serbische-zeitschrift-erfindet-interview-mit-donald-trump/225.381.507)
+      - [Serbische Zeitschrift erfindet Interview mit Trump](https://kurier.at/politik/ausland/serbische-zeitschrift-erfindet-interview-mit-donald-trump/225.381.507)
 
-      * [Zur Geschichte der Feral Tribune](https://www.boell.de/de/2015/10/15/feral-tribune-die-geschichte-einer-permanenten-revolution)
+      - [Zur Geschichte der Feral Tribune](https://www.boell.de/de/2015/10/15/feral-tribune-die-geschichte-einer-permanenten-revolution)
 
-      * [Florian Bieber](http://www.suedosteuropa.uni-graz.at/de/people/univ-prof-dr-florian-bieber)
+      - [Florian Bieber](http://www.suedosteuropa.uni-graz.at/de/people/univ-prof-dr-florian-bieber)
 ---

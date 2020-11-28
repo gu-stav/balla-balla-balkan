@@ -27,24 +27,17 @@ blocks:
 
       ## Weiterführende Links
 
+      - [Bosniens toter Junge - Krstos Reportage über den Fall David Dragicevic (Republik)](https://www.republik.ch/2018/11/12/bosniens-toter-junge?utm_medium=social&utm_source=445&utm_campaign=daviddragicevic&fbclid=IwAR0X4agpG8DNXQuxcMrqPx087vpv6inkzSc8F0tl4-TdF0xQuT8a_L2pkUw)
 
-      [Bosniens toter Junge - Krstos Reportage über den Fall David Dragicevic (Republik)](https://www.republik.ch/2018/11/12/bosniens-toter-junge?utm_medium=social&utm_source=445&utm_campaign=daviddragicevic&fbclid=IwAR0X4agpG8DNXQuxcMrqPx087vpv6inkzSc8F0tl4-TdF0xQuT8a_L2pkUw)
+      - [Krstos Kommentar zur Flucht Nikola Gruevskis nach Ungarn ](https://www.dw.com/de/mein-europa-fl%C3%BCchtling-gruevski-und-die-neue-balkanroute/a-46329093)
 
+      - [Crowdfunding der Youth Initiative for Human Rights - Silencing War Criminals](https://www.indiegogo.com/projects/ratni-zlocinci-da-zacute-silence-war-criminals?fbclid=IwAR0srU-MIK5e7g3VYIJPIBGECw4TwVVEuGc_KtyZPO32YotCHgM8lXa6w-M#/)
 
-      [Krstos Kommentar zur Flucht Nikola Gruevskis nach Ungarn ](https://www.dw.com/de/mein-europa-fl%C3%BCchtling-gruevski-und-die-neue-balkanroute/a-46329093)
+      - [Interview mit Serbiens Premierministerin Ana Brnabic (Deutsche Welle)](https://www.dw.com/en/serbian-pm-ana-brnabic-on-conflict-zone/av-46299156)
 
+      - [Spannungen zwischen Serbien und Kosovo (Balkan Insight) ](http://www.balkaninsight.com/en/article/resolution-for-kosovo-serbia-deadlock-remains-uncertain-11-28-2018)
 
-      [Crowdfunding der Youth Initiative for Human Rights - Silencing War Criminals](https://www.indiegogo.com/projects/ratni-zlocinci-da-zacute-silence-war-criminals?fbclid=IwAR0srU-MIK5e7g3VYIJPIBGECw4TwVVEuGc_KtyZPO32YotCHgM8lXa6w-M#/)
+      - [Kroatische Präsidentin und Regierung streiten über UN-Migrationspakt (Presse) ](https://diepresse.com/home/ausland/aussenpolitik/5525219/Kroatische-Praesidentin-und-Regierung-streiten-ueber-UNMigrationspakt)
 
-
-      [Interview mit Serbiens Premierministerin Ana Brnabic (Deutsche Welle)](https://www.dw.com/en/serbian-pm-ana-brnabic-on-conflict-zone/av-46299156)
-
-
-      [Spannungen zwischen Serbien und Kosovo (Balkan Insight) ](http://www.balkaninsight.com/en/article/resolution-for-kosovo-serbia-deadlock-remains-uncertain-11-28-2018)
-
-
-      [Kroatische Präsidentin und Regierung streiten über UN-Migrationspakt (Presse) ](https://diepresse.com/home/ausland/aussenpolitik/5525219/Kroatische-Praesidentin-und-Regierung-streiten-ueber-UNMigrationspakt)
-
-
-      [Kroatien mischt sich in bosnische Innenpolitik ein (taz)](https://www.taz.de/!5550191/)
+      - [Kroatien mischt sich in bosnische Innenpolitik ein (taz)](https://www.taz.de/!5550191/)
 ---

@@ -1,5 +1,7 @@
+import { node } from "prop-types";
 import Markdown from "react-markdown";
 
+import EpisodeLinks, { EpisodeLinkItem } from "../EpisodeLinks";
 import Headline from "../Headline";
 import Paragraph from "../Paragraph";
 import Stack from "../Stack";
@@ -7,6 +9,12 @@ import Stack from "../Stack";
 const renderers = {
   heading: ({ level, children }) => (
     <Headline level={level}>{children}</Headline>
+  ),
+  list: ({ children, ...props }) => (
+    <EpisodeLinks {...props}>{children}</EpisodeLinks>
+  ),
+  listItem: ({ children, ...props }) => (
+    <EpisodeLinkItem {...props}>{children}</EpisodeLinkItem>
   ),
   paragraph: (props) => <Paragraph {...props} />,
 };

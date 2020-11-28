@@ -27,24 +27,17 @@ blocks:
 
       Dazu zählen die Vorgeschichte von der Gründung der "Serbischen Autonomen Oblast Krajina" bis zu ihrem Ende. Außerdem erklären sie, warum in diesem Jahr die Gedenkfeiern etwas anders abliefen, als in den vergangenen Jahren. Daneben erfahrt ihr, warum Fascho-Rocker Thompson nicht mehr so gut auf die FAZ zu sprechen ist, warum sich der Start der slowenischen Fußballliga verschiebt und warum in Serbien unter Vucic auf einmal gegen investigative Journalistennetzwerke ermittelt wird.
 
+      - [Oluja](https://www.goodreads.com/book/show/8879778-oluja) - Davor Marijan (Kroatisch)
 
-      [Oluja](https://www.goodreads.com/book/show/8879778-oluja) - Davor Marijan (Kroatisch)
+      - [Pad Krajine](https://www.youtube.com/watch?v=XtR4Ip-aEQU) - Dokumentation von Vreme (Serbisch)
 
+      - [Tudjmanrede in Knin 1995](https://www.youtube.com/watch?v=3i9MCq5OCKs) (Kroatisch)
 
-      [Pad Krajine](https://www.youtube.com/watch?v=XtR4Ip-aEQU) - Dokumentation von Vreme (Serbisch)
+      - [Weiße Weste, schwarzes Hemd](https://www.faz.net/aktuell/politik/marko-perkovi-alias-thompson-wie-ist-er-wirklich-16866765.html?premium) - Potrait und Interview mit Thompson (FAZ)
 
+      - [Vucics Angriffe auf Reste der Freiheit](https://www.spiegel.de/politik/ausland/serbien-aleksandar-vucics-angriff-auf-die-reste-der-freiheit-a-b6303bc7-03f8-4809-9eb2-bf0d55c8d542?sara_ecid=soci_upd_KsBF0AFjflf0DZCxpPYDCQgO1dEMph) (Spiegel)
 
-      [Tudjmanrede in Knin 1995](https://www.youtube.com/watch?v=3i9MCq5OCKs) (Kroatisch)
+      - [Kroatiens Parlament stimmt für neue Regierung](https://de.reuters.com/article/koatien-regierung-idDEKCN24P0N2) (Reuters)
 
-
-      [Weiße Weste, schwarzes Hemd](https://www.faz.net/aktuell/politik/marko-perkovi-alias-thompson-wie-ist-er-wirklich-16866765.html?premium) - Potrait und Interview mit Thompson (FAZ)
-
-
-      [Vucics Angriffe auf Reste der Freiheit](https://www.spiegel.de/politik/ausland/serbien-aleksandar-vucics-angriff-auf-die-reste-der-freiheit-a-b6303bc7-03f8-4809-9eb2-bf0d55c8d542?sara_ecid=soci_upd_KsBF0AFjflf0DZCxpPYDCQgO1dEMph) (Spiegel)
-
-
-      [Kroatiens Parlament stimmt für neue Regierung](https://de.reuters.com/article/koatien-regierung-idDEKCN24P0N2) (Reuters)
-
-
-      [Erstmals nach zwölf Jahren gibt es wieder Wahlen in Mostar](https://www.derstandard.de/story/2000119312471/erstmals-nach-zwoelf-jahrenwahlen-in-mostar) (Standard)
+      - [Erstmals nach zwölf Jahren gibt es wieder Wahlen in Mostar](https://www.derstandard.de/story/2000119312471/erstmals-nach-zwoelf-jahrenwahlen-in-mostar) (Standard)
 ---

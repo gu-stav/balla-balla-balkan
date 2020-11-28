@@ -30,48 +30,34 @@ blocks:
 
       ## Partisanenfilme
 
+      - [China loves this obscure 1972 Yugoslavian Movie (Quartzy) ](https://qz.com/quartzy/1589664/chinas-love-for-old-yugoslav-war-movie-fuels-balkan-tourism-boom/)
 
-      [China loves this obscure 1972 Yugoslavian Movie (Quartzy) ](https://qz.com/quartzy/1589664/chinas-love-for-old-yugoslav-war-movie-fuels-balkan-tourism-boom/)
+      - [Valter verteidigt Sarajevo als Comic](https://www.piqd.de/literatenfunk/vom-lesen-in-fremden-landern-valter-verteidigt-sarajevo)
 
+      - [Cinema Komunisto](http://www.cinemakomunisto.com/)
 
-      [Valter verteidigt Sarajevo als Comic](https://www.piqd.de/literatenfunk/vom-lesen-in-fremden-landern-valter-verteidigt-sarajevo)
+      - [Schlacht an der Neretva](https://www.imdb.com/title/tt0064091/)
 
+      - [Schlacht an der Sutjeska](https://www.imdb.com/title/tt0070758/)
 
-      [Cinema Komunisto](http://www.cinemakomunisto.com/)
+      - [Boško Buha](https://www.imdb.com/title/tt0078897/)
 
-
-      [Schlacht an der Neretva](https://www.imdb.com/title/tt0064091/)
-
-
-      [Schlacht an der Sutjeska](https://www.imdb.com/title/tt0070758/)
-
-
-      [Boško Buha](https://www.imdb.com/title/tt0078897/)
-
-
-      [Igmanski marš](https://www.imdb.com/title/tt0085713/)
+      - [Igmanski marš](https://www.imdb.com/title/tt0085713/)
 
 
       ## Palaver und Newsflash
 
+      - [Stanišić erhält deutschen Buchpreis ](https://www.tagesschau.de/inland/buchpreis-113.html)
 
-      [Stanišić erhält deutschen Buchpreis ](https://www.tagesschau.de/inland/buchpreis-113.html)
+      - [Handke und der Balkan - Nobelpreis in den falschen Händen (Deutsche Welle)](https://www.dw.com/de/handke-und-der-balkan-nobelpreis-in-den-falschen-h%C3%A4nden/a-50794184)
 
+      - [Wider dem Literaturnobelpreis für Handke (FAZ)](https://www.faz.net/aktuell/politik/ausland/wider-den-literaturnobelpreis-fuer-peter-handke-16431005.html)
 
-      [Handke und der Balkan - Nobelpreis in den falschen Händen (Deutsche Welle)](https://www.dw.com/de/handke-und-der-balkan-nobelpreis-in-den-falschen-h%C3%A4nden/a-50794184)
+      - [Kritik am Nobelpreis für Handke: Kunst dient den Nackten (taz)](https://taz.de/Kritik-an-Nobelpreis-fuer-Peter-Handke/!5631663/)
 
+      - [Bosnias Mayor`s threat to Migrant Camp Sparks Crisis Fears (Balkan Insight)](https://balkaninsight.com/2019/10/21/bosnia-mayors-threat-to-migrant-camp-sparks-crisis-fears/)
 
-      [Wider dem Literaturnobelpreis für Handke (FAZ)](https://www.faz.net/aktuell/politik/ausland/wider-den-literaturnobelpreis-fuer-peter-handke-16431005.html)
+      - [Wie die EU Nordmazedonien und Albanien enttäuschte (Süddeutsche Zeitung)](https://www.sueddeutsche.de/politik/europaeische-union-eu-balkan-albanien-nordmazedonien-1.4654189)
 
-
-      [Kritik am Nobelpreis für Handke: Kunst dient den Nackten (taz)](https://taz.de/Kritik-an-Nobelpreis-fuer-Peter-Handke/!5631663/)
-
-
-      [Bosnias Mayor`s threat to Migrant Camp Sparks Crisis Fears (Balkan Insight)](https://balkaninsight.com/2019/10/21/bosnia-mayors-threat-to-migrant-camp-sparks-crisis-fears/)
-
-
-      [Wie die EU Nordmazedonien und Albanien enttäuschte (Süddeutsche Zeitung)](https://www.sueddeutsche.de/politik/europaeische-union-eu-balkan-albanien-nordmazedonien-1.4654189)
-
-
-      [Wahlen im Kosovo (Süddeutsche Zeitung)](https://www.sueddeutsche.de/politik/kosovo-absage-an-die-korruption-1.4630758)
+      - [Wahlen im Kosovo (Süddeutsche Zeitung)](https://www.sueddeutsche.de/politik/kosovo-absage-an-die-korruption-1.4630758)
 ---

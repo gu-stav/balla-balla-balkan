@@ -23,18 +23,13 @@ blocks:
 
       Darüber hinaus erklären Euch Krsto und Danijel, was eigentlich der Unterschied zwischen katholischen und orthodoxen Weihnachten ist, wie die Präsidentschaftswahlen in Kroatien ausgegangen sind und was sich im berüchtigten Flüchtlingslager Vučjak getan hat. Und schließlich erfahrt Ihr wie Krsto wirklich, wirklich, wirklich in einer echten Kirche getauft wurde.
 
+      - [Religion als Konfliktpotential im jugoslawischen Zerfallsprozess (OWEP)](http://owep.de/artikel/463/religion-als-konfliktpotenzial-im-jugoslawischen-zerfallsprozess-und-waehrend-des)
 
-      [Religion als Konfliktpotential im jugoslawischen Zerfallsprozess (OWEP)](http://owep.de/artikel/463/religion-als-konfliktpotenzial-im-jugoslawischen-zerfallsprozess-und-waehrend-des)
+      - [Vom Tischtennisturnier ins Flüchtlingslager (ARD)](https://www.ard-wien.de/2019/12/06/vom-tischtennisturnier-ins-fluechtlingslager-kroatien/)
 
+      - [Bosnische Behörden lösen Elendslager auf (Spiegel Online)](https://www.spiegel.de/politik/ausland/bosnien-behoerden-loesen-elendslager-vucjak-auf-a-1300586.html)
 
-      [Vom Tischtennisturnier ins Flüchtlingslager (ARD)](https://www.ard-wien.de/2019/12/06/vom-tischtennisturnier-ins-fluechtlingslager-kroatien/)
+      - [Wahlen in Kroatien (Tagesschau)](https://www.tagesschau.de/multimedia/video/video-637509.html)
 
-
-      [Bosnische Behörden lösen Elendslager auf (Spiegel Online)](https://www.spiegel.de/politik/ausland/bosnien-behoerden-loesen-elendslager-vucjak-auf-a-1300586.html)
-
-
-      [Wahlen in Kroatien (Tagesschau)](https://www.tagesschau.de/multimedia/video/video-637509.html)
-
-
-      [Angelika Mlinar: Früher für Österreich im Europaparlament, heute Ministerin in Slowenien (Handelsblatt)](https://www.handelsblatt.com/politik/international/doppelte-staatsbuergerschaft-angelika-mlinar-frueher-fuer-oesterreich-im-europaparlament-heute-ministerin-in-slowenien/25356004.html?ticket=ST-38566601-Od2ubqW9Y2sbmJTigqdb-ap1)
+      - [Angelika Mlinar: Früher für Österreich im Europaparlament, heute Ministerin in Slowenien (Handelsblatt)](https://www.handelsblatt.com/politik/international/doppelte-staatsbuergerschaft-angelika-mlinar-frueher-fuer-oesterreich-im-europaparlament-heute-ministerin-in-slowenien/25356004.html?ticket=ST-38566601-Od2ubqW9Y2sbmJTigqdb-ap1)
 ---

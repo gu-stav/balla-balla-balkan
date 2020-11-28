@@ -27,33 +27,23 @@ blocks:
 
       Außerdem erfahrt ihr warum sich in Kroatien Staatspräsident und Premierminister wüst beschimpfen, wie in Serbien versucht wird einen antinationalistischen Schriftsteller mundtot zu machen und warum nun auch Bulgarien ein Problem mit einem möglichen EU-Beitritts Nordmazedoniens hat.
 
+      - Franziska Tschinderles Buch: [Unterwegs in Albanien ](https://www.buecher.de/shop/abenteuer--reiseberichte/unterwegs-in-albanien-dumont-reiseabenteuer/tschinderle-franziska/products_products/detail/prod_id/59308013/)
 
-      Franziska Tschinderles Buch: [Unterwegs in Albanien ](https://www.buecher.de/shop/abenteuer--reiseberichte/unterwegs-in-albanien-dumont-reiseabenteuer/tschinderle-franziska/products_products/detail/prod_id/59308013/)
+      - Franzi ist auch Teil des neuen journalistischen [Selbstlaut Kollektivs ](https://twitter.com/selbstlaut_k/status/1313770683005128704)
 
+      - Fëllanza Podrimja [auf Twitter ](https://twitter.com/FPodrimja)
 
-      Franzi ist auch Teil des neuen journalistischen [Selbstlaut Kollektivs ](https://twitter.com/selbstlaut_k/status/1313770683005128704)
+      - [Kosovo bekommt einen Lake Trump](https://www.politico.eu/article/kosovo-lake-donald-trump-gazivode-ujman/) (Politico)
 
+      - [Abkommen zwischen Serbien und Kosovo wirft Fragen auf](https://taz.de/Abkommen-mit-US-Vermittlung/!5708098/) (taz)
 
-      Fëllanza Podrimja [auf Twitter ](https://twitter.com/FPodrimja)
+      - [Reportage zu zehn Jahren Unabhängigkeit von Krsto, Franzi und Martin](https://www.republik.ch/2018/02/16/kosovo-unabhaengigkeit) (Republik)
 
+      - [Schauergeschichten über wilde Bergvölker im Südosten Europas](https://uebermedien.de/34075/schauergeschichten-ueber-wilde-bergvoelker-im-suedosten-europas/) (Übermedien)
 
-      [Kosovo bekommt einen Lake Trump](https://www.politico.eu/article/kosovo-lake-donald-trump-gazivode-ujman/) (Politico)
+      - [Kroatien: Die neue Rechte wird immer extremer](https://www.dw.com/de/kroatien-die-neue-rechte-wird-immer-extremer/a-55373246) (Deutsche Welle)
 
+      - [Kontroverse um Literaturpreis für Saša Ilić in Serbien](https://www.derstandard.de/story/2000121107321/kontroverse-um-literaturpreis-fuer-sasa-ilicin-serbien) (Der Standard)
 
-      [Abkommen zwischen Serbien und Kosovo wirft Fragen auf](https://taz.de/Abkommen-mit-US-Vermittlung/!5708098/) (taz)
-
-
-      [Reportage zu zehn Jahren Unabhängigkeit von Krsto, Franzi und Martin](https://www.republik.ch/2018/02/16/kosovo-unabhaengigkeit) (Republik)
-
-
-      [Schauergeschichten über wilde Bergvölker im Südosten Europas](https://uebermedien.de/34075/schauergeschichten-ueber-wilde-bergvoelker-im-suedosten-europas/) (Übermedien)
-
-
-      [Kroatien: Die neue Rechte wird immer extremer](https://www.dw.com/de/kroatien-die-neue-rechte-wird-immer-extremer/a-55373246) (Deutsche Welle)
-
-
-      [Kontroverse um Literaturpreis für Saša Ilić in Serbien](https://www.derstandard.de/story/2000121107321/kontroverse-um-literaturpreis-fuer-sasa-ilicin-serbien) (Der Standard)
-
-
-      [Bulgarien fordert: EU soll mazedonische Nation und Sprache nicht anerkennen](https://www.dw.com/de/bulgarien-fordert-eu-soll-mazedonische-nation-und-sprache-nicht-anerkennen/a-55013884) (Deutsche Welle)
+      - [Bulgarien fordert: EU soll mazedonische Nation und Sprache nicht anerkennen](https://www.dw.com/de/bulgarien-fordert-eu-soll-mazedonische-nation-und-sprache-nicht-anerkennen/a-55013884) (Deutsche Welle)
 ---

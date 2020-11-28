@@ -19,30 +19,21 @@ blocks:
     richtext: >-
       ## Linkliste zur Sendung
 
+      - [Bosnien-Herzegowina: 20 Jahre Frieden](http://www.tageswoche.ch/themen/20%20Jahre%20Dayton-Abkommen)
 
-      [Bosnien-Herzegowina: 20 Jahre Frieden](http://www.tageswoche.ch/themen/20%20Jahre%20Dayton-Abkommen)
+      - [Proteste in Bosnien 2014 (JungleWorld)](http://jungle-world.com/artikel/2014/17/49732.html)
 
+      - [Proteste in Bosnien 2014 (TagesWoche)](http://www.tageswoche.ch/de/2014_14/international/655199/)
 
-      [Proteste in Bosnien 2014 (JungleWorld)](http://jungle-world.com/artikel/2014/17/49732.html)
+      - [Danijels Artikel über Mahnwache gegen Abtreibungen](http://www.fr.de/frankfurt/fundamentalismus-mahnwache-gegen-abtreibungen-a-1220250)
 
+      - [Kroatische Rechte decken Danijels Lügenpresse auf](http://narod.hr/eu/procitajte-lazi-koje-danijel-majic-objavio-hrvatima-ime-obitelji-frankfurter-rundschau)
 
-      [Proteste in Bosnien 2014 (TagesWoche)](http://www.tageswoche.ch/de/2014_14/international/655199/)
+      - [Kroatisches Staatsunternehmen in der Krise](http://derstandard.at/2000054096355/Agrokor-und-Ina-machen-Kroatien-zu-schaffen)
 
+      - [Verfassungskrise in Mazedonien](http://www.tageswoche.ch/de/2017_10/international/744724/)
 
-      [Danijels Artikel über Mahnwache gegen Abtreibungen](http://www.fr.de/frankfurt/fundamentalismus-mahnwache-gegen-abtreibungen-a-1220250)
+      - [Wollte Russland den Premierminister von Montenegro ermorden lassen?](http://www.tageswoche.ch/de/2017_9/international/744039/wollte-russland-einen-premierminister-ermorden.htm)
 
-
-      [Kroatische Rechte decken Danijels Lügenpresse auf](http://narod.hr/eu/procitajte-lazi-koje-danijel-majic-objavio-hrvatima-ime-obitelji-frankfurter-rundschau)
-
-
-      [Kroatisches Staatsunternehmen in der Krise](http://derstandard.at/2000054096355/Agrokor-und-Ina-machen-Kroatien-zu-schaffen)
-
-
-      [Verfassungskrise in Mazedonien](http://www.tageswoche.ch/de/2017_10/international/744724/)
-
-
-      [Wollte Russland den Premierminister von Montenegro ermorden lassen?](http://www.tageswoche.ch/de/2017_9/international/744039/wollte-russland-einen-premierminister-ermorden.htm)
-
-
-      [Die Wahrheit über Krstos schweres Leben](http://daz.asia/blog/einfach-machen/)
+      - [Die Wahrheit über Krstos schweres Leben](http://daz.asia/blog/einfach-machen/)
 ---

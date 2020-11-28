@@ -26,24 +26,17 @@ blocks:
 
       Nebenbei erfahrt Ihr, warum in Montenegro auf einmal über Religion gestritten wird, was der Heimat-Horst von der kroatischen Grenzpolizei hält und wie man demnächst komfortabel die 250 Kilometer zwischen Belgrad und Priština überwinden kann. Und außerdem erklärt euch Olivera Stajić endlich den Unterschied zwischen ć und č.
 
+      - [Wahlen in Slowenen. Ein Rechtsruck? Interview von Krsto mit Detektor.fm](https://detektor.fm/politik/wahlen-slowenien)
 
-      [Wahlen in Slowenen. Ein Rechtsruck? Interview von Krsto mit Detektor.fm](https://detektor.fm/politik/wahlen-slowenien)
+      - [Slowenien als Insel des Linksliberalismus (Der rechte Rand)](https://www.der-rechte-rand.de/archive/4695/slowenien-liberalismus-zwischen-rechten-nachbarn/)
 
+      - [Krstos Reportage von der Balkanroute im Oktober 2015 in Slowenien (Welt) ](https://www.welt.de/politik/ausland/article147905574/Wir-wissen-nicht-mehr-was-wir-tun-sollen.html)
 
-      [Slowenien als Insel des Linksliberalismus (Der rechte Rand)](https://www.der-rechte-rand.de/archive/4695/slowenien-liberalismus-zwischen-rechten-nachbarn/)
+      - [Krstos zweite Reportage von der Balkanroute im Oktober 2015 in Slowenien (Welt) ](https://www.welt.de/politik/ausland/article147964157/Fuer-jeden-der-weiterdarf-kommen-zwei-Neue-an.html)
 
+      - [EU-Innenminister üben keine Kritik an Grenzgewalt (ARD)](https://www.ard-wien.de/2020/01/24/eu-innenminister-ueben-keine-kritik-an-grenzgewalt/)
 
-      [Krstos Reportage von der Balkanroute im Oktober 2015 in Slowenien (Welt) ](https://www.welt.de/politik/ausland/article147905574/Wir-wissen-nicht-mehr-was-wir-tun-sollen.html)
+      - [Direktflüge zwischen Serbien und Kosovo (Deutsche Welle)](https://www.dw.com/de/verbunden-in-der-luft-serbien-und-kosovo/a-52077608)
 
-
-      [Krstos zweite Reportage von der Balkanroute im Oktober 2015 in Slowenien (Welt) ](https://www.welt.de/politik/ausland/article147964157/Fuer-jeden-der-weiterdarf-kommen-zwei-Neue-an.html)
-
-
-      [EU-Innenminister üben keine Kritik an Grenzgewalt (ARD)](https://www.ard-wien.de/2020/01/24/eu-innenminister-ueben-keine-kritik-an-grenzgewalt/)
-
-
-      [Direktflüge zwischen Serbien und Kosovo (Deutsche Welle)](https://www.dw.com/de/verbunden-in-der-luft-serbien-und-kosovo/a-52077608)
-
-
-      [Kirchenstreit in Montenegro (Deutsche Welle)](https://www.dw.com/de/kirchenstreit-in-montenegro/a-52032224)
+      - [Kirchenstreit in Montenegro (Deutsche Welle)](https://www.dw.com/de/kirchenstreit-in-montenegro/a-52032224)
 ---

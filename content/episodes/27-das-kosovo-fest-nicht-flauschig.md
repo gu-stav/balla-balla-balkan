@@ -23,24 +23,17 @@ blocks:
       ihr erfahrt mehr über die Gay-Pride in Sarajevo, Krstos Kroatientour und
       den jüngsten Ärger mit dem slowenischen Atomkraftwerk Krško.
 
+      - [Im Land mit dem niemand glücklich ist von Franziska Tschinderle und Krsto (Die Republik)](https://www.republik.ch/2018/02/16/kosovo-unabhaengigkeit)
 
-      [Im Land mit dem niemand glücklich ist von Franziska Tschinderle und Krsto (Die Republik)](https://www.republik.ch/2018/02/16/kosovo-unabhaengigkeit)
+      - [Ein Kommandant kehrt zurück - Potrait Ramush Haradinaj (WoZ)](http://static.woz.ch/1807/zehn-jahre-unabhaengiger-kosovo/ein-kommandant-kehrt-zurueck)
 
+      - [Interview mit Ramush Haradinaj (FAZ) ](https://www.faz.net/aktuell/politik/ausland/ramush-haradinaj-ueber-den-vorwurf-der-kriegsverbrechen-16322555.html)
 
-      [Ein Kommandant kehrt zurück - Potrait Ramush Haradinaj (WoZ)](http://static.woz.ch/1807/zehn-jahre-unabhaengiger-kosovo/ein-kommandant-kehrt-zurueck)
+      - [Krsto über Gay Pride in Sarajevo (Der Freitag)](https://www.freitag.de/autoren/der-freitag/zwischen-mittelfinger-und-kuessen)
 
+      - [Inhaftierung des kroatischen Journalisten Gordan Duhaček (ORF)](https://orf.at/stories/3137500/)
 
-      [Interview mit Ramush Haradinaj (FAZ) ](https://www.faz.net/aktuell/politik/ausland/ramush-haradinaj-ueber-den-vorwurf-der-kriegsverbrechen-16322555.html)
+      - [Reportage aus dem Flüchtlingslager/Müllhalde Vučjak (taz)](https://taz.de/Gefluechtete-an-der-EU-Aussengrenze/!5626469/)
 
-
-      [Krsto über Gay Pride in Sarajevo (Der Freitag)](https://www.freitag.de/autoren/der-freitag/zwischen-mittelfinger-und-kuessen)
-
-
-      [Inhaftierung des kroatischen Journalisten Gordan Duhaček (ORF)](https://orf.at/stories/3137500/)
-
-
-      [Reportage aus dem Flüchtlingslager/Müllhalde Vučjak (taz)](https://taz.de/Gefluechtete-an-der-EU-Aussengrenze/!5626469/)
-
-
-      [Update zu Lage in Vučjak (BalkanStories)](https://balkanstories.net/2019/09/28/behorden-schliesen-einzige-medizinische-versorgung/)
+      - [Update zu Lage in Vučjak (BalkanStories)](https://balkanstories.net/2019/09/28/behorden-schliesen-einzige-medizinische-versorgung/)
 ---

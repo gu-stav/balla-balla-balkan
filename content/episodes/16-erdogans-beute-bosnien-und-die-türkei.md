@@ -28,18 +28,13 @@ blocks:
 
       ## Weiterführende Links
 
+      - [Kritik an Izetbegović-Rede nach Erdoğan-Besuch in Sarajevo](https://derstandard.at/2000080125386/Kritik-an-Izetbegovics-Rede-nach-Erdogans-Besuch-in-Sarajevo)
 
-      [Kritik an Izetbegović-Rede nach Erdoğan-Besuch in Sarajevo](https://derstandard.at/2000080125386/Kritik-an-Izetbegovics-Rede-nach-Erdogans-Besuch-in-Sarajevo)
+      - [Jasmin Mujanovic: Hunger and Fury - The crisis of democracy in the balkans](http://www.jasminmujanovic.com/book.html)
 
+      - [Krsto im Interview zu den Slowenienwahlen](https://detektor.fm/politik/wahlen-slowenien)
 
-      [Jasmin Mujanovic: Hunger and Fury - The crisis of democracy in the balkans](http://www.jasminmujanovic.com/book.html)
+      - [Sarajevo wirft sich für den "großen Bruder" Erdoğan in Pose (Der Standard)](<http://Sarajevo wirft sich für den "großen Bruder" Erdoğan in Pose>)
 
-
-      [Krsto im Interview zu den Slowenienwahlen](https://detektor.fm/politik/wahlen-slowenien)
-
-
-      [Sarajevo wirft sich für den "großen Bruder" Erdoğan in Pose (Der Standard)](<http://Sarajevo wirft sich für den "großen Bruder" Erdoğan in Pose>)
-
-
-      [Erdogans Heimspiel in Sarajevo (Deutsche Welle)](http://www.dw.com/de/erdogans-heimspiel-in-sarajevo/a-43836627)
+      - [Erdogans Heimspiel in Sarajevo (Deutsche Welle)](http://www.dw.com/de/erdogans-heimspiel-in-sarajevo/a-43836627)
 ---

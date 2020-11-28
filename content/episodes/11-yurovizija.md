@@ -28,24 +28,17 @@ blocks:
 
       ## Linkliste zur Sendung
 
+      - [Danijels Eindrücke von der Frankfurter Buchmesse](http://www.fr.de/kultur/buchmesse-frankfurt/buchmesse-vor-ort/antaios-auf-der-buchmesse-die-landnahme-a-1369283)
 
-      [Danijels Eindrücke von der Frankfurter Buchmesse](http://www.fr.de/kultur/buchmesse-frankfurt/buchmesse-vor-ort/antaios-auf-der-buchmesse-die-landnahme-a-1369283)
+      - [Velimir Bujanec tritt bei der kroatisch-katholischen Gemeinde in Mainz auf](http://www.fr.de/rhein-main/velimir-bujanec-jubilaeum-mit-einem-hetzer-a-1378617)
 
+      - [Proteste gegen Herta Müller in Serbien](http://www.faz.net/aktuell/feuilleton/debatten/nobelpreistraegerin-in-belgrad-proteststurm-gegen-herta-mueller-15266577.html)
 
-      [Velimir Bujanec tritt bei der kroatisch-katholischen Gemeinde in Mainz auf](http://www.fr.de/rhein-main/velimir-bujanec-jubilaeum-mit-einem-hetzer-a-1378617)
+      - [Agrokor wächst sich zur Staatskrise aus](http://derstandard.at/2000066728090/Agrokor-Gruender-Todoric-droht-Verhaftung)
 
+      - [Agrokor-Chef Todoric in London festgenommen](http://www.handelsblatt.com/my/unternehmen/management/agrokor-chef-ivica-todori-festgenommen-too-big-to-fail/20555944.html?ticket=ST-2987578-stFxAZfabz7lFr34mfsS-ap4)
 
-      [Proteste gegen Herta Müller in Serbien](http://www.faz.net/aktuell/feuilleton/debatten/nobelpreistraegerin-in-belgrad-proteststurm-gegen-herta-mueller-15266577.html)
+      - [Boris Pahor in Slowenien erneut zum Präsidenten gewählt](http://www.spiegel.de/politik/ausland/slowenien-praesident-borut-pahor-wiedergewaehlt-a-1177644.html)
 
-
-      [Agrokor wächst sich zur Staatskrise aus](http://derstandard.at/2000066728090/Agrokor-Gruender-Todoric-droht-Verhaftung)
-
-
-      [Agrokor-Chef Todoric in London festgenommen](http://www.handelsblatt.com/my/unternehmen/management/agrokor-chef-ivica-todori-festgenommen-too-big-to-fail/20555944.html?ticket=ST-2987578-stFxAZfabz7lFr34mfsS-ap4)
-
-
-      [Boris Pahor in Slowenien erneut zum Präsidenten gewählt](http://www.spiegel.de/politik/ausland/slowenien-praesident-borut-pahor-wiedergewaehlt-a-1177644.html)
-
-
-      [Was hinter dem „Nafri-Jugo“ steckt](https://www.berliner-zeitung.de/berlin/kommentar-hilfe--ich-sehe-aus-wie-ein-nafri-mit-schiefen-zaehnen--25475966)
+      - [Was hinter dem „Nafri-Jugo“ steckt](https://www.berliner-zeitung.de/berlin/kommentar-hilfe--ich-sehe-aus-wie-ein-nafri-mit-schiefen-zaehnen--25475966)
 ---

@@ -2,12 +2,19 @@
   composes: reset-list from "../../public/styles/modules/reset-list.css";
 }
 
+.listItem {
+  padding-left: 2rem;
+  position: relative;
+}
+
 .listItem::before {
   color: var(--color-brand);
   content: "~";
   font-size: 1.5rem;
   font-weight: 700;
-  margin-right: 0.5rem;
+  left: 0;
+  position: absolute;
+  top: 0;
 }
 
 .listItem + .listItem {

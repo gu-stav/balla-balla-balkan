@@ -25,18 +25,13 @@ blocks:
 
       Nebenbei erfahrt Ihr noch, wie Tennislegende Novak Đoković zur Ausbreitung von Corona in Kroatien beigetragten (und das obwohl er gar nicht an Corona glaubt), warum das wiederum die Regierung Plenković in Bedrängnis bringt, und warum "Nole" trotzdem die Welt retten wird... zusammen mit Dennis Rodman.
 
+      - [Parlamentswahl in Serbien Vučićs](https://www.tagesschau.de/ausland/serbien-wahl-vucic-101.html) Partei kann Macht ausbauen (Tagesschau) 
 
-      [Parlamentswahl in Serbien Vučićs](https://www.tagesschau.de/ausland/serbien-wahl-vucic-101.html) Partei kann Macht ausbauen (Tagesschau) 
+      - [Serbia Under-Reported COVID-19 Deaths and Infections, Data Shows](https://balkaninsight.com/2020/06/22/serbia-under-reported-covid-19-deaths-and-infections-data-shows/) (Balkan Insight)
 
+      - [Serbien machte in den letzten vier Jahren kaum Schritte in Richtung EU](https://www.derstandard.de/story/2000118175909/serbien-machte-in-den-letzten-vier-jahren-kaum-schritte-in) (Der Standard)
 
-      [Serbia Under-Reported COVID-19 Deaths and Infections, Data Shows](https://balkaninsight.com/2020/06/22/serbia-under-reported-covid-19-deaths-and-infections-data-shows/) (Balkan Insight)
+      - [Kosovos Präsident wegen Kriegsverbrechen angeklagt](https://www.spiegel.de/politik/ausland/kosovo-hashim-thaci-wegen-kriegsverbrechen-angeklagt-a-0cfd85f5-adb9-4f28-82dd-cce94c7321f5) (Der Spiegel)
 
-
-      [Serbien machte in den letzten vier Jahren kaum Schritte in Richtung EU](https://www.derstandard.de/story/2000118175909/serbien-machte-in-den-letzten-vier-jahren-kaum-schritte-in) (Der Standard)
-
-
-      [Kosovos Präsident wegen Kriegsverbrechen angeklagt](https://www.spiegel.de/politik/ausland/kosovo-hashim-thaci-wegen-kriegsverbrechen-angeklagt-a-0cfd85f5-adb9-4f28-82dd-cce94c7321f5) (Der Spiegel)
-
-
-      [Montenegros Präsident wirft serbisch-orthodoxer Kirche Plan für Gottesstaat vor](https://www.derstandard.de/story/2000118329568/montenegros-praesident-wirft-serbisch-orthodoxer-kirche-plan-fuer-gottesstaat-vor) (Der Standard)
+      - [Montenegros Präsident wirft serbisch-orthodoxer Kirche Plan für Gottesstaat vor](https://www.derstandard.de/story/2000118329568/montenegros-praesident-wirft-serbisch-orthodoxer-kirche-plan-fuer-gottesstaat-vor) (Der Standard)
 ---

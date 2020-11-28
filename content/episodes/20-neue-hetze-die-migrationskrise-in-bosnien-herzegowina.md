@@ -24,15 +24,11 @@ blocks:
 
       Nebenbei regt sich Krsto tierisch über die Balkan-Reportagen von Claas Relotius auf. Also wirklich tierisch. Ihr erfahrt warum überall auf dem Balkan demonstriert wird und warum ein bestimmter Feiertag dieses Jahr besonders umstritten war.
 
+      - [Spenden für direkte Hilfe vor Ort: Verein Netzwerk Asyl Aargau ](https://www.helpnowswitzerland.ch/?fbclid=IwAR3DvjaS9aaVfbLZ0WWmAtKb1YtSP0E6Cq3p41z_H77vtE3qhz-rjUC1w9k)
 
-      [Spenden für direkte Hilfe vor Ort: Verein Netzwerk Asyl Aargau ](https://www.helpnowswitzerland.ch/?fbclid=IwAR3DvjaS9aaVfbLZ0WWmAtKb1YtSP0E6Cq3p41z_H77vtE3qhz-rjUC1w9k)
+      - [Krstos Hintergrund zur Situation an der kroatisch-bosnischen Grenze (Welt)](https://www.welt.de/politik/ausland/plus185674414/Gewaltvorwuerfe-Kroatien-der-Tuersteher-Europas.html)
 
+      - [Ein Blick auf Relotius "Reportagen" aus Südosteuropa (Übermedien)](https://uebermedien.de/34075/schauergeschichten-ueber-wilde-bergvoelker-im-suedosten-europas/)
 
-      [Krstos Hintergrund zur Situation an der kroatisch-bosnischen Grenze (Welt)](https://www.welt.de/politik/ausland/plus185674414/Gewaltvorwuerfe-Kroatien-der-Tuersteher-Europas.html)
-
-
-      [Ein Blick auf Relotius "Reportagen" aus Südosteuropa (Übermedien)](https://uebermedien.de/34075/schauergeschichten-ueber-wilde-bergvoelker-im-suedosten-europas/)
-
-
-      [Die Fernsehmoderatorin Barbara Životić geht in Serbien viral](https://www.youtube.com/watch?v=v9Hi6geNxK8)
+      - [Die Fernsehmoderatorin Barbara Životić geht in Serbien viral](https://www.youtube.com/watch?v=v9Hi6geNxK8)
 ---

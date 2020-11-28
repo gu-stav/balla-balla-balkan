@@ -26,18 +26,13 @@ blocks:
 
       ## Weiterführende Links
 
+      - [Danijels Reportage aus Belvil (Berliner Zeitung)](https://www.berliner-zeitung.de/politik/roma-in-serbien-roma-familien-leben-in-belgrader-slums-4190114)
 
-      [Danijels Reportage aus Belvil (Berliner Zeitung)](https://www.berliner-zeitung.de/politik/roma-in-serbien-roma-familien-leben-in-belgrader-slums-4190114)
+      - [Danijels Potrait unserer Interviewpartnerin Lidija Mirkovic ](<http://Lidija Mirkovic>)
 
+      - ["Arme Roma, Böse Zigeuner" von Norbert Mappes-Niedieck](https://www.youtube.com/watch?v=_e435Ao5zt8)
 
-      [Danijels Potrait unserer Interviewpartnerin Lidija Mirkovic ](<http://Lidija Mirkovic>)
+      - [Das Roma-Ghetto „Stolipinovo“. Eine sozialräumliche Situationsbeschreibung von Andreas Kurz (balkanbiro) ](http://balkanbiro.org/analysen/roma-stolipinovo)
 
-
-      ["Arme Roma, Böse Zigeuner" von Norbert Mappes-Niedieck](https://www.youtube.com/watch?v=_e435Ao5zt8)
-
-
-      [Das Roma-Ghetto „Stolipinovo“. Eine sozialräumliche Situationsbeschreibung von Andreas Kurz (balkanbiro) ](http://balkanbiro.org/analysen/roma-stolipinovo)
-
-
-      [Krstos Reportage über aus Deutschland nach Bosnien-Herzegowina abgeschobene Familie ](https://www.proasyl.de/hintergrund/reportage-ohne-ruecksicht-auf-verluste/)
+      - [Krstos Reportage über aus Deutschland nach Bosnien-Herzegowina abgeschobene Familie ](https://www.proasyl.de/hintergrund/reportage-ohne-ruecksicht-auf-verluste/)
 ---

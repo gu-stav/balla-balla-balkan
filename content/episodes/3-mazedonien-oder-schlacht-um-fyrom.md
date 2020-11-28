@@ -13,29 +13,21 @@ excerpt: Episode 3 befasst sich mit den Wahlen in Mazedonien. Dem Ausgang, der
 blocks:
   - type: richtext
     richtext: >-
-      [Skopje 2014](http://www.balkaninsight.com/en/page/skopje-2014)
+      - [Skopje 2014](http://www.balkaninsight.com/en/page/skopje-2014)
 
+      - [Namensstreit mit Griechenland](https://de.wikipedia.org/wiki/Streit_um_den_Namen_Mazedonien)
 
-      [Namensstreit mit Griechenland](https://de.wikipedia.org/wiki/Streit_um_den_Namen_Mazedonien)
+      - [Nikola Gruevski](https://www.welt.de/politik/ausland/article156773921/Mazedoniens-starker-Mann-agiert-wie-Erdogan.html)
 
+      - ["Bunte Revolution" 2016](https://www.woz.ch/-6f22)
 
-      [Nikola Gruevski](https://www.welt.de/politik/ausland/article156773921/Mazedoniens-starker-Mann-agiert-wie-Erdogan.html)
+      - [Hintergründe zu den Protesten 2015](http://www.tageswoche.ch/de/2015_21/international/688797/)
 
+      - [Kumanovo](http://www.tageswoche.ch/de/2015_19/international/687572/)
 
-      ["Bunte Revolution" 2016](https://www.woz.ch/-6f22)
+      - [Amnestie für alle Politiker Mazedoniens](https://www.welt.de/politik/ausland/article154520329/Wo-auch-Tote-in-den-Waehlerverzeichnissen-stehen.html)
 
+      - [Thompsonkonzert in Filderstadt](http://www.kontextwochenzeitung.de/kultur/296/rechtsrock-in-filderstadt-4026.html)
 
-      [Hintergründe zu den Protesten 2015](http://www.tageswoche.ch/de/2015_21/international/688797/)
-
-
-      [Kumanovo](http://www.tageswoche.ch/de/2015_19/international/687572/)
-
-
-      [Amnestie für alle Politiker Mazedoniens](https://www.welt.de/politik/ausland/article154520329/Wo-auch-Tote-in-den-Waehlerverzeichnissen-stehen.html)
-
-
-      [Thompsonkonzert in Filderstadt](http://www.kontextwochenzeitung.de/kultur/296/rechtsrock-in-filderstadt-4026.html)
-
-
-      [Die Tragödie von Parndorf und die Westbalkankonferenz 2015](http://www.tageswoche.ch/de/2015_35/international/697164/)
+      - [Die Tragödie von Parndorf und die Westbalkankonferenz 2015](http://www.tageswoche.ch/de/2015_35/international/697164/)
 ---

@@ -35,27 +35,19 @@ blocks:
 
       ## Linkliste zur Sendung
 
+      - [Gestrandet in Belgrad - Reportage von Alicia Lindhof](http://www.fr-online.de/panorama/fluechtlinge-gestrandet-in-serbien,1472782,34992080.html)
 
-      [Gestrandet in Belgrad - Reportage von Alicia Lindhof](http://www.fr-online.de/panorama/fluechtlinge-gestrandet-in-serbien,1472782,34992080.html)
+      - [Krstos Gastkolumne in der Deutschen Welle](http://www.dw.com/de/dann-ist-das-nicht-mehr-mein-europa/a-37111308)
 
+      - [Reportage aus Belgrad - Ostpol](http://www.ostpol.de/beitrag/4803-im-grossten-informellen-fluchtlingslager-europas)
 
-      [Krstos Gastkolumne in der Deutschen Welle](http://www.dw.com/de/dann-ist-das-nicht-mehr-mein-europa/a-37111308)
+      - [Reportage aus Belgrad - JungleWorld](http://jungle-world.com/artikel/2017/04/55615.html)
 
+      - [Streit um serbischen Zug](https://www.welt.de/politik/ausland/article161249091/Wie-die-serbische-Fuehrung-mit-einem-Passagierzug-provoziert.html)
 
-      [Reportage aus Belgrad - Ostpol](http://www.ostpol.de/beitrag/4803-im-grossten-informellen-fluchtlingslager-europas)
+      - [Interview mit Hashim Thaci](http://www.dw.com/de/hashim-tha%C3%A7i-serbien-verteilt-waffen-im-norden-des-kosovo/a-37287107)
 
+      - [Die unerwünschte Anne Frank](http://diepresse.com/home/zeitgeschichte/5158326/Kroatien_Die-unerwuenschte-Anne-Frank)
 
-      [Reportage aus Belgrad - JungleWorld](http://jungle-world.com/artikel/2017/04/55615.html)
-
-
-      [Streit um serbischen Zug](https://www.welt.de/politik/ausland/article161249091/Wie-die-serbische-Fuehrung-mit-einem-Passagierzug-provoziert.html)
-
-
-      [Interview mit Hashim Thaci](http://www.dw.com/de/hashim-tha%C3%A7i-serbien-verteilt-waffen-im-norden-des-kosovo/a-37287107)
-
-
-      [Die unerwünschte Anne Frank](http://diepresse.com/home/zeitgeschichte/5158326/Kroatien_Die-unerwuenschte-Anne-Frank)
-
-
-      [Sanktionen gegen Milorad Dodik](http://derstandard.at/2000050910079/Washington-verhaengt-Sanktionen-gegen-Dodik)
+      - [Sanktionen gegen Milorad Dodik](http://derstandard.at/2000050910079/Washington-verhaengt-Sanktionen-gegen-Dodik)
 ---
