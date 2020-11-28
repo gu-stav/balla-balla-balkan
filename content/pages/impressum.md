@@ -6,11 +6,9 @@ blocks:
       ## **Angaben gemäß § 5 TMG**
 
 
-      Krsto Lazarević und Danijel Majić
+      Krsto Lazarević und Danijel Majić\
 
-
-      Moosdorfstraße 7-9
-
+      Moosdorfstraße 7-9\
 
       12435 Berlin
 

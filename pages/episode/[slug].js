@@ -50,14 +50,14 @@ const EpisodePage = ({
   </Layout>
 );
 
-export const getStaticPaths = () => {
+export async function getStaticPaths() {
   const episodes = getEpisodes();
 
   return {
     fallback: false,
     paths: episodes.map(({ path }) => path),
   };
-};
+}
 
 export async function getStaticProps({ params: { slug } }) {
   const episode = getEpisode(slug);
