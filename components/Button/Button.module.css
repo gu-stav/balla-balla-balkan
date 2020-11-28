@@ -1,13 +1,13 @@
 .base {
   background: transparent;
   border: 2px solid var(--color-brand);
-  border-radius: 1rem;
+  border-radius: 0.65rem;
   color: var(--color-brand);
   font-family: inherit;
   font-size: inherit;
   font-weight: 700;
   line-height: 1;
-  padding: 0.85rem 1.75rem 0.8rem 1.75rem;
+  padding: 0.8rem 1.75rem 0.75rem 1.75rem;
   white-space: nowrap;
 }
 

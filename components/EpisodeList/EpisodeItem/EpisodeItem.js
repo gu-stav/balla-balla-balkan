@@ -42,7 +42,7 @@ const EpisodeItem = ({
           </a>
         </Link>
 
-        <Paragraph>{excerpt}</Paragraph>
+        <Paragraph className={styles.excerpt}>{excerpt}</Paragraph>
 
         <Stack direction="horizontal" gap="tiny">
           <Button

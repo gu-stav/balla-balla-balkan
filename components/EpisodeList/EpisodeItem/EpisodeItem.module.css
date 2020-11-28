@@ -20,7 +20,7 @@
   background-color: white;
   bottom: 0;
   color: var(--color-brand);
-  font-size: 1.5rem;
+  font-size: 1.25rem;
   font-weight: 700;
   padding: 0.5rem;
   position: absolute;
@@ -39,4 +39,8 @@
 .link:hover .title,
 .link:focus .title {
   text-decoration: underline;
+}
+
+.excerpt {
+  margin-top: 1rem;
 }
