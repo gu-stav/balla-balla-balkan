@@ -3,7 +3,7 @@
   display: flex;
   font-family: var(--font-sans);
   justify-content: center;
-  padding-bottom: 1.5rem;
+  padding-bottom: 1rem;
   padding-top: 0.5rem;
   position: relative;
   width: 100%;
@@ -20,11 +20,19 @@
 .inner {
   composes: max-width from "../../public/styles/modules/max-width.css";
 
-  align-items: flex-start;
+  align-items: center;
   display: flex;
+  flex-direction: row-reverse;
   justify-content: space-between;
   padding-left: 10%;
   padding-right: 10%;
+}
+
+@media (min-width: 768px) {
+  .inner {
+    align-items: flex-start;
+    flex-direction: row;
+  }
 }
 
 .item {
@@ -36,17 +44,17 @@
 @media (min-width: 768px) {
   .item {
     font-size: 1.35rem;
-    margin-top: 1.45rem;
+    margin-top: 1.85rem;
   }
 }
 
 .ctaContainer {
   display: none;
-  margin-top: 1.5rem;
 }
 
 @media (min-width: 768px) {
   .ctaContainer {
     display: flex;
+    margin-top: 1rem;
   }
 }

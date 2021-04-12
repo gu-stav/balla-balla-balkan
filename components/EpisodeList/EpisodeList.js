@@ -9,7 +9,7 @@ const EpisodeList = ({ episodes, moreLabel, moreHref }) => (
   <>
     <Stack tagName="ul" className={styles.list}>
       {episodes.map((episode) => (
-        <li>
+        <li key={`episode-${episode.number}`}>
           <EpisodeItem {...episode} />
         </li>
       ))}

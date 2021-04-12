@@ -6,7 +6,7 @@ const Authors = ({ authors }) => (
   <section className={styles.authors}>
     <div className={styles.inner}>
       {authors.map((author) => (
-        <Author {...author} />
+        <Author key={`author-${author.title}`} {...author} />
       ))}
     </div>
   </section>
