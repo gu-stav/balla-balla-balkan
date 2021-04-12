@@ -10,7 +10,7 @@ import Layout from "../../components/Layout";
 import Stack from "../../components/Stack";
 
 const EpisodePage = ({
-  episode: { title, number, excerpt, image, blocks, links, externalLinks },
+  episode: { title, number, excerpt, image, blocks, links, externalLinks, soundcloud_link },
   settings,
 }) => (
   <Layout>
@@ -21,6 +21,8 @@ const EpisodePage = ({
         image={image}
         backgroundImage={settings.image}
         externalLinks={externalLinks}
+        number={number}
+        soundcloud_link={soundcloud_link}
       />
       <article>
         <Article>

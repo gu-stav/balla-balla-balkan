@@ -1,4 +1,4 @@
-import { useState, useEffect, useRef, memo } from "react";
+import { useState, useEffect, useRef, memo, forwardRef } from "react";
 import { Slider } from "@reach/slider";
 import Image from "next/image";
 import Script from "react-load-script";
@@ -107,6 +107,15 @@ const CloseButton = memo(({ onClick = () => {}}) => {
   </button>
 });
 
+const Iframe = memo(forwardRef(({ soundcloud_link }, ref) => {
+  return <iframe
+    ref={ref}
+    className={styles.iframe}
+    allow="autoplay"
+    src={`https://w.soundcloud.com/player/?url=${soundcloud_link}`}
+  />
+}));
+
 const Player = () => {
   const {
     episode,
@@ -176,12 +185,7 @@ const Player = () => {
         onLoad={() => setApiLoaded(true)}
       />
 
-      <iframe
-        ref={iframeRef}
-        className={styles.iframe}
-        allow="autoplay"
-        src={`https://w.soundcloud.com/player/?url=${soundcloud_link}`}
-      />
+      <Iframe soundcloud_link={soundcloud_link} ref={iframeRef} />
 
       <div className={styles.player}>
         <div className={styles.inner}>

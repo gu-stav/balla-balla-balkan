@@ -9,11 +9,6 @@ export const Provider = ({ children }) => {
   const [timing, setTiming] = useState(0);
   const [episode, setEpisode] = useState({});
 
-  useEffect(() => {
-    setTiming(0);
-    setPlayState(null);
-  }, [episode]);
-
   return (
     <PlayerProvider
       value={{

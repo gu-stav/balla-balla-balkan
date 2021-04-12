@@ -23,7 +23,7 @@
   composes: max-width from "../../public/styles/modules/max-width.css";
 
   display: grid;
-  grid-gap: 2rem;
+  grid-gap: 1.5rem;
   grid-template-columns: repeat(12, 1fr);
   position: relative;
 }
@@ -88,8 +88,8 @@
 
 @media (min-width: 768px) {
   .controlButtonIcon {
-    height: 2.5rem;
-    width: 2.5rem;
+    height: auto;
+    width: 2.75rem;
   }
 }
 
@@ -114,12 +114,24 @@
   background-color: var(--color-brand);
 }
 
+.sliderContainer [data-reach-slider-handle]:hover,
+.sliderContainer [data-reach-slider-handle]:focus {
+  background-color: black;
+  cursor: pointer;
+}
+
+.sliderContainer [data-reach-slider-track] {
+  background-color: var(--color-grey-light);
+}
+
 .lengthContainer {
   align-items: center;
   display: none;
   font-family: var(--font-sans);
+  font-size: 0.9rem;
   font-weight: 700;
   grid-column: 11 / span 2;
+  letter-spacing: 0.035rem;
   white-space: nowrap;
 }
 
