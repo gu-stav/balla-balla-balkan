@@ -1,5 +1,6 @@
 .section {
-  background-color: var(--color-grey-light);
+  background-image: url('data:image/svg+xml;charset=UTF-8,<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" ><path d="M11 11V0h1v11h11v1H12v11h-1V12H0v-1h11z"/></svg>');
+  background-repeat: repeat;
   display: grid;
   justify-content: center;
   padding-bottom: 5%;

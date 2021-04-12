@@ -25,7 +25,10 @@ const HomePage = ({ authors, episodes, settings }) => {
           backgroundImage={settings?.image}
         />
 
-        <EpisodeList episodes={recentEpisodes} />
+        <EpisodeList
+          episodes={recentEpisodes}
+          moreLabel="Ältere Episoden"
+          moreHref="/episoden/" />
 
         <div style={{ width: "100%" }}>
           <About {...settings} />

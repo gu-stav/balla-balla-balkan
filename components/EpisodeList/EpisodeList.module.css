@@ -2,3 +2,33 @@
   composes: reset-list from "../../public/styles/modules/reset-list.css";
   composes: max-width from "../../public/styles/modules/max-width.css";
 }
+
+.moreContainer {
+  composes: max-width from "../../public/styles/modules/max-width.css";
+  display: flex;
+  flex-direction: column;
+}
+
+.more {
+  align-items: center;
+  align-self: flex-end;
+  color: var(--color-brand);
+  display: flex;
+  font-family: var(--font-sans);
+  font-size: 1.5rem;
+  justify-self: flex-end;
+  margin-bottom: 2rem;
+  margin-top: 2rem;
+  text-decoration: none;
+}
+
+.more:hover,
+.more:focus {
+  text-decoration: underline;
+}
+
+.more > svg {
+  height: auto;
+  margin-left: 1rem;
+  width: 3rem;
+}

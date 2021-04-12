@@ -1,7 +1,7 @@
 .item {
   display: grid;
   font-family: var(--font-sans);
-  grid-gap: 2rem;
+  grid-gap: 1rem;
   grid-template-columns: repeat(1, 1fr);
   padding-left: 1.5rem;
   padding-right: 1.5rem;
@@ -9,6 +9,7 @@
 
 @media (min-width: 768px) {
   .item {
+    grid-gap: 2rem;
     grid-template-columns: repeat(6, 1fr);
     padding-left: 0;
     padding-right: 0;
@@ -22,13 +23,17 @@
 
 .imageContainer {
   align-self: flex-start;
+  display: flex;
   grid-column: 1;
   position: relative;
+  max-width: 75%;
 }
 
 @media (min-width: 768px) {
   .imageContainer {
-    grid-column: 2 / span 1;
+    grid-column: 1 / span 2;
+    justify-self: flex-end;
+    max-width: 75%;
   }
 }
 

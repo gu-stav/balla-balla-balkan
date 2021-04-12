@@ -10,6 +10,15 @@
   z-index: 20;
 }
 
+.player::before {
+  background-image: linear-gradient(to bottom, transparent, rgba(0, 0, 0, 0.15));
+  bottom: 100%;
+  content: "";
+  height: 0.5rem;
+  position: absolute;
+  width: 100%;
+}
+
 .inner {
   composes: max-width from "../../public/styles/modules/max-width.css";
 
@@ -25,13 +34,19 @@
 
 .title {
   color: black;
-  display: flex;
+  display: none;
   flex-direction: column;
   font-family: var(--font-sans);
   font-size: 1.15rem;
   grid-column: 2 / span 3;
   justify-content: center;
   line-height: 1;
+}
+
+@media (min-width: 768px) {
+  .title {
+    display: flex;
+  }
 }
 
 .tagline {
@@ -43,32 +58,51 @@
 .controlButtonContainer {
   align-items: center;
   display: flex;
-  grid-column: 5 / span 1;
+  grid-column: 2 / span 1;
+}
+
+@media (min-width: 768px) {
+  .controlButtonContainer {
+    grid-column: 5 / span 1;
+  }
 }
 
 .controlButton {
   background: transparent;
   border: 0;
-  color: var(--color-brand);
+  color: black;
   outline: 0;
   padding: 0;
 }
 
 .controlButton:hover,
 .controlButton:focus {
-  color: black;
+  color: var(--color-brand);
   cursor: pointer;
 }
 
 .controlButtonIcon {
-  height: 2.5rem;
-  width: 2.5rem;
+  height: 2.75rem;
+  width: 2.75rem;
+}
+
+@media (min-width: 768px) {
+  .controlButtonIcon {
+    height: 2.5rem;
+    width: 2.5rem;
+  }
 }
 
 .sliderContainer {
   align-items: center;
   display: flex;
-  grid-column: 6 / span 5;
+  grid-column: 3 / span 8;
+}
+
+@media (min-width: 768px) {
+  .sliderContainer {
+    grid-column: 6 / span 5;
+  }
 }
 
 .sliderInner {
@@ -82,11 +116,17 @@
 
 .lengthContainer {
   align-items: center;
-  display: flex;
+  display: none;
   font-family: var(--font-sans);
   font-weight: 700;
   grid-column: 11 / span 2;
   white-space: nowrap;
+}
+
+@media (min-width: 768px) {
+  .lengthContainer {
+    display: flex;
+  }
 }
 
 .close {
