@@ -8,9 +8,9 @@ import Player from "../components/Player";
 import "../public/styles/fonts.css";
 import "../public/styles/global.css";
 
-const App = ({ Component, pageProps }) => {
-  const MemoizedPlayer = memo(Player);
+const MemoizedPlayer = memo(Player);
 
+const App = ({ Component, pageProps }) => {
   return (
     <PlayerProvider>
       <Component {...pageProps} />

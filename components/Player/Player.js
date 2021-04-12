@@ -23,17 +23,18 @@ const msToTime = (s) => {
 };
 
 const Player = () => {
-  const { episode, setEpisode } = usePlayer();
-
-  if (Object.keys(episode).length === 0) {
-    return null;
-  }
+  const {
+    episode,
+    setEpisode,
+    timing,
+    setTiming,
+    playState,
+    setPlayState,
+  } = usePlayer();
 
   const { title, image, number, length, soundcloud_link } = episode;
 
   const [actualDuration, setActualDuration] = useState(0);
-  const [currentPosition, setCurrentPosition] = useState(0);
-  const [playState, setPlayState] = useState(null);
   const [widget, setWidget] = useState(null);
   const [soundcloudReady, setSoundcloudReady] = useState(false);
   const iframeRef = useRef(null);
@@ -48,27 +49,40 @@ const Player = () => {
   }, [iframeRef, apiLoaded]);
 
   useEffect(() => {
-    if (widget) {
-      widget.bind(window.SC.Widget.Events.READY, () => {
-        setSoundcloudReady(true);
-
-        widget.getDuration((duration) => setActualDuration(duration));
-        widget.play();
-
-        widget.bind(window.SC.Widget.Events.PLAY_PROGRESS, () => {
-          widget.getPosition((position) => setCurrentPosition(position));
-        });
-
-        widget.bind(window.SC.Widget.Events.PAUSE, () => {
-          setPlayState("pause");
-        });
-
-        widget.bind(window.SC.Widget.Events.PLAY, () => {
-          setPlayState("play");
-        });
-      });
+    if (!widget) {
+      return;
     }
+
+    widget.bind(window.SC.Widget.Events.READY, () => {
+      setSoundcloudReady(true);
+
+      if (timing > 0) {
+        widget.seekTo(timing);
+      }
+
+      widget.getDuration((duration) => setActualDuration(duration));
+
+      if (playState === null || playState === "play") {
+        widget.play();
+      }
+
+      widget.bind(window.SC.Widget.Events.PLAY_PROGRESS, () => {
+        widget.getPosition((position) => setTiming(position));
+      });
+
+      widget.bind(window.SC.Widget.Events.PAUSE, () => {
+        setPlayState("pause");
+      });
+
+      widget.bind(window.SC.Widget.Events.PLAY, () => {
+        setPlayState("play");
+      });
+    });
   }, [widget]);
+
+  if (Object.keys(episode).length === 0) {
+    return null;
+  }
 
   return (
     <>
@@ -86,7 +100,9 @@ const Player = () => {
 
       <div className={styles.player}>
         <div className={styles.inner}>
-          <Image src={image} width={100} height={100} layout="fixed" />
+          {image && (
+            <Image src={image} width={100} height={100} layout="fixed" />
+          )}
 
           <strong className={styles.title}>
             <span className={styles.tagline}>Episode {number}</span>
@@ -142,7 +158,7 @@ const Player = () => {
                   )}
                 </>
               ) : (
-                <>{"Loading"}</>
+                <>{"Lade Episode ..."}</>
               )}
             </button>
           </div>
@@ -151,7 +167,7 @@ const Player = () => {
             <div className={styles.sliderInner}>
               <Slider
                 min={0}
-                value={currentPosition}
+                value={timing}
                 max={actualDuration}
                 disabled={!soundcloudReady}
                 onChange={(value) => widget.seekTo(value)}
@@ -162,7 +178,7 @@ const Player = () => {
           <div className={styles.lengthContainer}>
             {soundcloudReady && (
               <>
-                {msToTime(currentPosition)}/{msToTime(actualDuration)}
+                {msToTime(timing)}/{msToTime(actualDuration)}
               </>
             )}
           </div>
