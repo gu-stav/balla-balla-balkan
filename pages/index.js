@@ -3,6 +3,7 @@ import Authors from "../components/Authors";
 import EpisodeFeatured from "../components/EpisodeFeatured";
 import EpisodeList from "../components/EpisodeList/EpisodeList";
 import Layout from "../components/Layout";
+import SEO from "../components/SEO";
 import Stack from "../components/Stack";
 
 import { getAuthors } from "../lib/authors";
@@ -15,6 +16,8 @@ const HomePage = ({ authors, episodes, settings }) => {
 
   return (
     <Layout footerMargin={false}>
+      <SEO />
+
       <Stack center>
         <EpisodeFeatured
           tagline="Neueste Folge"

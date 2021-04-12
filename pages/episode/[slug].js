@@ -7,6 +7,7 @@ import EpisodeFeatured from "../../components/EpisodeFeatured";
 import EpisodeLinks from "../../components/EpisodeLinks";
 import Headline from "../../components/Headline";
 import Layout from "../../components/Layout";
+import SEO from "../../components/SEO";
 import Stack from "../../components/Stack";
 
 const EpisodePage = ({
@@ -14,6 +15,8 @@ const EpisodePage = ({
   settings,
 }) => (
   <Layout>
+    <SEO title={title} />
+
     <Stack gap="tiny" center>
       <EpisodeFeatured
         tagline={`Episode ${number}`}
