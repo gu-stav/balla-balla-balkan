@@ -18,13 +18,13 @@ const Footer = ({ marginTop = true, items = [] }) => {
         { [styles.withPlayer]: Object.keys(episode).length !== 0 }
       )}
     >
-      <Stack tagName="nav" direction="horizontal" className={styles.nav}>
+      <nav className={styles.nav}>
         {items.map(([href, label]) => (
           <Link href={href}>
             <a className={styles.item}>{label}</a>
           </Link>
         ))}
-      </Stack>
+      </nav>
     </footer>
   );
 };

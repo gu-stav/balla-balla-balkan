@@ -12,9 +12,15 @@
 
   background-color: white;
   display: grid;
-  grid-template-columns: repeat(12, 1fr);
-  padding-bottom: 3rem;
-  padding-top: 2rem;
+  grid-template-columns: repeat(1, 1fr);
+  padding: 2rem 1.5rem;
+}
+
+@media (min-width: 768px) {
+  .inner {
+    grid-template-columns: repeat(12, 1fr);
+    padding-bottom: 3rem;
+  }
 }
 
 .contentContainer {

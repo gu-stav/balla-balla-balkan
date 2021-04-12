@@ -1,7 +1,13 @@
 .icon {
   color: currentColor;
-  height: 1.75rem;
+  height: 1.5rem;
   width: auto;
+}
+
+@media (min-width: 768px) {
+  .icon {
+    height: 1.75rem;
+  }
 }
 
 .theme--dark {

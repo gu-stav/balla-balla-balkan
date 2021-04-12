@@ -1,16 +1,28 @@
 .section {
-  margin-top: -6.5rem;
   position: relative;
   width: 100%;
 }
 
+@media (min-width: 768px) {
+  .section {
+    margin-top: -6.5rem;
+  }
+}
+
 .backgroundImageContainer {
-  left: 0;
-  max-height: 85%;
-  overflow: hidden;
-  position: absolute;
-  top: 0;
+  display: none;
   width: 100%;
+}
+
+@media (min-width: 768px) {
+  .backgroundImageContainer {
+    display: block;
+    left: 0;
+    max-height: 85%;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+  }
 }
 
 .inner {
@@ -22,26 +34,48 @@
   font-family: var(--font-sans);
   grid-column-gap: 2rem;
   grid-row-gap: 2rem;
-  grid-template-columns: repeat(12, 1fr);
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 5rem;
-  padding-bottom: 4rem;
-  padding-top: 4rem;
+  grid-template-columns: repeat(1, 1fr);
+  padding-bottom: 2rem;
+  padding-top: 2rem;
   position: relative;
   z-index: 10;
 }
 
+@media (min-width: 768px) {
+  .inner {
+    grid-template-columns: repeat(12, 1fr);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5rem;
+    padding-bottom: 4rem;
+    padding-top: 4rem;
+  }
+}
+
 .contentContainer {
-  grid-column: 2 / span 5;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+
+@media (min-width: 768px) {
+  .contentContainer {
+    grid-column: 2 / span 5;
+    padding-left: 0;
+    padding-right: 0;
+  }
 }
 
 .imageContainer {
   align-items: center;
   display: grid;
-  grid-column: 8 / span 3;
   position: relative;
-  transform: translateY(2.5rem);
+}
+
+@media (min-width: 768px) {
+  .imageContainer {
+    grid-column: 8 / span 3;
+    transform: translateY(2.5rem);
+  }
 }
 
 .link {
@@ -50,8 +84,14 @@
 
 .tagline {
   display: block;
-  font-size: 1.35rem;
+  font-size: 1.15rem;
   margin-bottom: 0.5rem;
+}
+
+@media (min-width: 768px) {
+  .tagline {
+    font-size: 1.35rem;
+  }
 }
 
 .titleContainer {
@@ -69,5 +109,15 @@
 }
 
 .actionContainer {
-  grid-column: 2 / span 11;
+  grid-column: 1;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+
+@media (min-width: 768px) {
+  .actionContainer {
+    grid-column: 2 / span 11;
+    padding-left: 0;
+    padding-right: 0;
+  }
 }

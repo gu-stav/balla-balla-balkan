@@ -1,7 +1,13 @@
 .svg {
   height: auto;
-  width: 12rem;
+  width: 8rem;
   z-index: 10;
+}
+
+@media (min-width: 768px) {
+  .svg {
+    width: 12rem;
+  }
 }
 
 .st0 {

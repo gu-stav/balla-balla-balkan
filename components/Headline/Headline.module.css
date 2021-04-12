@@ -7,15 +7,27 @@
 .h1 {
   composes: base;
 
-  font-size: 2.75rem;
+  font-size: 2.15rem;
   line-height: 1.1;
+}
+
+@media (min-width: 768px) {
+  .h1 {
+    font-size: 2.75rem;
+  }
 }
 
 .h2 {
   composes: base;
 
   color: var(--color-brand);
-  font-size: 1.95rem;
+  font-size: 1.65rem;
+}
+
+@media (min-width: 768px) {
+  .h2 {
+    font-size: 1.95rem;
+  }
 }
 
 .h3 {

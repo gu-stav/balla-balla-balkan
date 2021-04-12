@@ -3,11 +3,18 @@
   display: flex;
   font-family: var(--font-sans);
   justify-content: center;
-  padding-bottom: 3rem;
-  padding-top: 1rem;
+  padding-bottom: 1.5rem;
+  padding-top: 0.5rem;
   position: relative;
   width: 100%;
   z-index: 10;
+}
+
+@media (min-width: 768px) {
+  .header {
+    padding-bottom: 3rem;
+    padding-top: 1rem;
+  }
 }
 
 .inner {
@@ -21,11 +28,25 @@
 }
 
 .item {
-  font-size: 1.35rem;
-  margin-top: 1.45rem;
+  font-size: 1.15rem;
+  margin-top: 0.3rem;
   text-decoration: none;
 }
 
+@media (min-width: 768px) {
+  .item {
+    font-size: 1.35rem;
+    margin-top: 1.45rem;
+  }
+}
+
 .ctaContainer {
+  display: none;
   margin-top: 1.5rem;
+}
+
+@media (min-width: 768px) {
+  .ctaContainer {
+    display: flex;
+  }
 }
