@@ -23,7 +23,9 @@ const Header = ({
         </a>
       </Link>
 
-      <Button href={items[1][0]}>{items[1][1]}</Button>
+      <div className={styles.ctaContainer}>
+        <Button href={items[1][0]}>{items[1][1]}</Button>
+      </div>
     </nav>
   </header>
 );

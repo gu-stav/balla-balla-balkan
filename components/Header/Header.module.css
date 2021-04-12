@@ -3,15 +3,17 @@
   display: flex;
   font-family: var(--font-sans);
   justify-content: center;
-  padding-bottom: 1rem;
+  padding-bottom: 3rem;
   padding-top: 1rem;
+  position: relative;
   width: 100%;
+  z-index: 10;
 }
 
 .inner {
   composes: max-width from "../../public/styles/modules/max-width.css";
 
-  align-items: center;
+  align-items: flex-start;
   display: flex;
   justify-content: space-between;
   padding-left: 10%;
@@ -19,6 +21,11 @@
 }
 
 .item {
-  font-size: 1.5rem;
+  font-size: 1.35rem;
+  margin-top: 1.45rem;
   text-decoration: none;
+}
+
+.ctaContainer {
+  margin-top: 1.5rem;
 }
