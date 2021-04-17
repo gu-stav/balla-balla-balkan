@@ -4,6 +4,7 @@ import Image from "next/image";
 import Script from "react-load-script";
 
 import { usePlayer } from "../../store/player";
+import Spinner from './Spinner';
 
 import "@reach/slider/styles.css";
 import styles from "./Player.module.css";
@@ -72,14 +73,13 @@ const ControlContainer = memo(({ widget, playState }) => {
   </div>;
 })
 
-const TitleContainer = memo(({ image, number, title }) => {
+const TitleContainer = memo(({ image, title }) => {
   return <>
     {image && (
       <Image src={image} width={100} height={100} layout="fixed" />
     )}
 
     <strong className={styles.title}>
-      <span className={styles.tagline}>Episode {number}</span>
       {title}
     </strong>
   </>
@@ -189,12 +189,14 @@ const Player = () => {
 
       <div className={styles.player}>
         <div className={styles.inner}>
-          <TitleContainer image={image} title={title} number={number} />
+          <TitleContainer image={image} title={title} />
 
           {soundcloudReady ? (
             <ControlContainer widget={widget} playState={playState} />
           ) : (
-            <>{"Lade Episode ..."}</>
+            <div className={styles.spinnerContainer}>
+              <Spinner />
+            </div>
           )}
 
           <div className={styles.sliderContainer}>
@@ -212,7 +214,7 @@ const Player = () => {
           <div className={styles.lengthContainer}>
             {soundcloudReady && (
               <>
-                {msToTime(timing)}/{msToTime(actualDuration)}
+                {msToTime(actualDuration - timing)}
               </>
             )}
           </div>

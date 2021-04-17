@@ -55,14 +55,17 @@
   font-size: 1rem;
 }
 
-.controlButtonContainer {
+.controlButtonContainer,
+.spinnerContainer {
   align-items: center;
   display: flex;
   grid-column: 2 / span 1;
+  justify-content: center;
 }
 
 @media (min-width: 768px) {
-  .controlButtonContainer {
+  .controlButtonContainer,
+  .spinnerContainer {
     grid-column: 5 / span 1;
   }
 }
@@ -86,17 +89,10 @@
   width: 2.75rem;
 }
 
-@media (min-width: 768px) {
-  .controlButtonIcon {
-    height: auto;
-    width: 2.75rem;
-  }
-}
-
 .sliderContainer {
   align-items: center;
   display: flex;
-  grid-column: 3 / span 8;
+  grid-column: 3 / span 9;
 }
 
 @media (min-width: 768px) {
@@ -130,7 +126,7 @@
   font-family: var(--font-sans);
   font-size: 0.9rem;
   font-weight: 700;
-  grid-column: 11 / span 2;
+  grid-column: 11 / span 1;
   letter-spacing: 0.035rem;
   white-space: nowrap;
 }
