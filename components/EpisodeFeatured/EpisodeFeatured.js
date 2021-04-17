@@ -26,7 +26,6 @@ const EpisodeFeatured = ({
   subtitle,
   tagline,
   image,
-  length,
   backgroundImage,
   number,
   externalLinks,
@@ -76,7 +75,6 @@ const EpisodeFeatured = ({
                 title,
                 image,
                 number,
-                length,
                 soundcloud_link,
               })
             }

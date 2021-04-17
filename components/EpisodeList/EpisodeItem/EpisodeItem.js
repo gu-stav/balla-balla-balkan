@@ -51,7 +51,6 @@ const EpisodeItem = ({
                 title,
                 image,
                 number,
-                length,
                 soundcloud_link,
               })
             }
