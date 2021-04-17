@@ -28,7 +28,7 @@
   padding-right: 10%;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 620px) {
   .inner {
     align-items: flex-start;
     flex-direction: row;
@@ -41,7 +41,7 @@
   text-decoration: none;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 620px) {
   .item {
     font-size: 1.35rem;
     margin-top: 1.85rem;
@@ -52,7 +52,7 @@
   display: none;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 620px) {
   .ctaContainer {
     display: flex;
     margin-top: 1rem;
