@@ -6,14 +6,11 @@ apple_link: https://podcasts.apple.com/de/podcast/ballaballa-balkan-liest-das-ac
 spotify_link: "https://open.spotify.com/episode/5P6M1SDTP3PFdSfW0SQYOk?si=972627fa9fc24b25 "
 soundcloud_link: https://soundcloud.com/user-89524652/ballaballa-balkan-liest-das-achte-kind-insomnia-mein-mann
 excerpt: "Nach dem großen Interesse unserer Literaturfolge im März 2020 starten
-  wir nun den Piloten für unser zweites Format: Ballaballa-Balkan liest. Wir
-  stellen drei Bücher vor"
+  wir nun den Piloten für unser zweites Format: Ballaballa-Balkan liest. "
 blocks:
   - type: richtext
     richtext: >-
-      Nach dem großen Interesse unserer Literaturfolge im März 2020 starten wir
-      nun den Piloten für unser zweites Format: Ballaballa-Balkan liest. Wir
-      stellen drei Bücher vor und es geht um Männer. Männer die keine guten
+      Wir stellen drei Bücher vor und es geht um Männer. Männer die keine guten
       Väter sind, Männer die von ihren Frauen wenig schmeichelhaft beschrieben
       werden und einen bekannten Mann, der nicht gut schlafen konnte.
 
