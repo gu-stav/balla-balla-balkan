@@ -39,11 +39,6 @@ collections:
           widget: "string"
           required: false
 
-        - label: "Länge"
-          name: "length"
-          widget: "string"
-          required: true
-
         - label: "Titel"
           name: "title"
           widget: "string"

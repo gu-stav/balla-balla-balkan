@@ -2,7 +2,6 @@
 number: "45"
 publication_at: 2021-01-26T11:45:27.788Z
 image: /images/upload/artworks-8gpywnvlmxhika3w-dfyzcw-t500x500.jpg
-length: 01:13:08
 title: Bešte Dunk! Ballaballa-Basketball All Stars
 apple_link: https://podcasts.apple.com/de/podcast/episode-45-be%C5%A1te-dunk-ballaballa-basketball-all-stars/id1170436903?i=1000506686302
 spotify_link: https://open.spotify.com/episode/4d1zTj44IEucopk2QfG2vz?si=Ji7V4SRySWa7GK1Qv9fjBA

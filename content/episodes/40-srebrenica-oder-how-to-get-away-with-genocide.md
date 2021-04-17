@@ -2,7 +2,6 @@
 number: 40
 publication_at: 2020-07-09T15:07:29.246Z
 image: /images/upload/srebrenica-min.jpeg
-length: 01:05:00
 title: Srebrenica oder How to get away with Genocide
 apple_link: https://podcasts.apple.com/de/podcast/episode-39-srebrenica-oder-how-to-get-away-with-genocide/id1170436903?i=1000483916278
 spotify_link: spotify:episode:4fRI8afWsEH1eESxKMlcxW

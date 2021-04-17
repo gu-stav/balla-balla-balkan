@@ -2,7 +2,6 @@
 number: "8"
 publication_at: 2017-07-05T16:29:26.494Z
 image: /images/upload/19451723_10212804533606606_855945019_o.jpeg
-length: 01:16:00
 title: Der Ballaballa-Ball ist rund! Fußball und Politik
 apple_link: https://podcasts.apple.com/de/podcast/neues-vom-ballaballa-balkan-episode-08-der-ballaballa/id1170436903?i=1000389372526
 spotify_link: spotify:episode:0mkxnGlSm7eh2sJ20VSd9a

@@ -2,7 +2,6 @@
 number: 29
 publication_at: 2019-11-27T16:34:17.184Z
 image: /images/upload/macron.jpeg
-length: 00:50:00
 title: SEE EU LATER! Die merkwürdige Westbalkanpolitik der EU
 apple_link: https://podcasts.apple.com/de/podcast/neues-vom-ballaballa-balkan-episode-29-see-eu-later/id1170436903?i=1000458077326
 spotify_link: spotify:episode:3HsYN6qzQenrnk8chn7Wex

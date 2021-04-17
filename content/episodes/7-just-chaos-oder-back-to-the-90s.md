@@ -3,7 +3,6 @@ number: "7"
 publication_at: 2017-05-30T16:31:40.363Z
 image: /images/upload/jungle_kosovo_riots-10.jpeg
 image_caption: "Foto: Ruben Neugebauer"
-length: 00:58:00
 title: Just Chaos oder Back to the 90s
 apple_link: https://podcasts.apple.com/de/podcast/neues-vom-ballaballa-balkan-episode-07-just-chaos-oder/id1170436903?i=1000385948252
 spotify_link: spotify:episode:5Ki8hi92B01jijacZ2in2R

@@ -2,7 +2,6 @@
 number: 3
 publication_at: 2016-12-21T16:15:26.798Z
 image: /images/upload/protest7.jpeg
-length: 01:03:00
 title: "Mazedonien oder: Schlacht um FYROM"
 apple_link: https://podcasts.apple.com/de/podcast/neues-vom-ballaballa-balkan-episode-3-mazedonien-oder/id1170436903?i=1000379211291
 spotify_link: spotify:episode:7plUPWODA916sxF67elBno

@@ -2,7 +2,6 @@
 number: 42
 publication_at: 2020-10-29T15:54:59.734Z
 image: /images/upload/logo1.jpeg
-length: 01:21:00
 title: Sweet Home Albania oder was ist die Albanosphäre?
 subtitle: ""
 apple_link: https://podcasts.apple.com/de/podcast/episode-42-sweet-home-albania-oder-was-ist-die-albanosph%C3%A4re/id1170436903?i=1000496565021

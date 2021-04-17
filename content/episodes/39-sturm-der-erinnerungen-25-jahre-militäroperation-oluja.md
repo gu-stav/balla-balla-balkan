@@ -2,7 +2,6 @@
 number: 39
 publication_at: 2020-08-17T14:59:50.188Z
 image: /images/upload/16_obljetnica_vojnoredarstvene_operacije_oluja_05082011_kninska_tvrdjava_155.jpeg
-length: 01:12:00
 title: Sturm der Erinnerungen - 25 Jahre Militäroperation Oluja
 apple_link: https://podcasts.apple.com/de/podcast/episode-40-sturm-der-erinnerungen-25-jahre-milit%C3%A4roperation/id1170436903?i=1000488431599
 spotify_link: spotify:episode:2TG1Q5lw4ydaUpPZfw3gQY

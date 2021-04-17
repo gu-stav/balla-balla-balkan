@@ -2,7 +2,6 @@
 number: 36
 publication_at: 2020-04-26T15:20:44.593Z
 image: /images/upload/keinplan2.jpeg
-length: 01:03:00
 title: Clueless oder die deutsche Linke & Jugoslawien
 apple_link: https://podcasts.apple.com/de/podcast/neues-vom-ballaballa-balkan-episode-35-clueless-oder/id1170436903?i=1000472739191
 spotify_link: spotify:episode:5epxJ01pOhAKvMzyktfVge

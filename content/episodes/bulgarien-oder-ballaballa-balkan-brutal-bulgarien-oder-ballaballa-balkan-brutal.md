@@ -2,7 +2,6 @@
 number: "46"
 publication_at: 2021-02-23T11:42:06.872Z
 image: /images/upload/artworks-5wuacfwgdonymmvk-bhjwzg-t500x500.jpg
-length: 01:17:05
 title: Bulgarien oder Ballaballa-Balkan Brutal
 apple_link: https://podcasts.apple.com/de/podcast/episode-46-bulgarien-oder-ballaballa-balkan-brutal/id1170436903?i=1000510238282
 spotify_link: https://open.spotify.com/episode/6iPtqF5LJWEQ7XdKT2FwmP?si=cbo2JStDSKWK9NYaI8rMqQ

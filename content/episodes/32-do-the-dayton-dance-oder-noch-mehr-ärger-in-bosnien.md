@@ -2,7 +2,6 @@
 number: 32
 publication_at: 2020-02-28T16:27:52.930Z
 image: /images/upload/do-the-dayton-dance.jpeg
-length: 00:54:00
 title: Do the Dayton-Dance oder Noch mehr Ärger in Bosnien
 apple_link: https://podcasts.apple.com/de/podcast/neues-vom-ballaballa-balkan-episode-32-do-dayton-dance/id1170436903?i=1000466946363
 spotify_link: spotify:episode:1OmxOl2VBaYFcYEHVajNLq

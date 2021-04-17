@@ -2,7 +2,6 @@
 number: 12
 publication_at: 2018-01-05T17:14:24.079Z
 image: /images/upload/mladic.jpeg
-length: 00:50:00
 title: Urteil in Den Haag oder Zeig mir Deine Helden!
 apple_link: https://podcasts.apple.com/de/podcast/neues-vom-ballaballa-balkan-episode-12-urteil-in-den/id1170436903?i=1000399032363
 spotify_link: spotify:episode:0FobYusbRt5vQ15P0xEZ1D

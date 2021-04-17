@@ -2,7 +2,6 @@
 number: 21
 publication_at: 2019-02-26T16:54:41.629Z
 image: /images/upload/txpq7sfa.jpeg
-length: 00:56:00
 title: Fresse, Freiheit! Zur Lage der Medien auf dem Balkan
 apple_link: https://podcasts.apple.com/de/podcast/neues-vom-ballaballa-balkan-episode-21-fresse-freiheit/id1170436903?i=1000430614950
 spotify_link: spotify:episode:6mtOC0nSVZBeJQF9oZehoj

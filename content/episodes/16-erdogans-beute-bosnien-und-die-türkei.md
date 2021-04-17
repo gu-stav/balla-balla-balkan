@@ -2,7 +2,6 @@
 number: 16
 publication_at: 2018-06-24T16:06:24.705Z
 image: /images/upload/erdballa.jpeg
-length: 01:03:00
 title: Erdogans Beute? Bosnien und die Türkei
 apple_link: https://podcasts.apple.com/de/podcast/neues-vom-ballaballa-balkan-episode-16-erdogans-beute/id1170436903?i=1000414376245
 spotify_link: spotify:episode:7wQNOAtPY6PNgL7j94vRXn

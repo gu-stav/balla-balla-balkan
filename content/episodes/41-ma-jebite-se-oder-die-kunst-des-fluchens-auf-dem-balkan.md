@@ -2,7 +2,6 @@
 number: 41
 publication_at: 2020-09-08T14:57:25.354Z
 image: /images/upload/logoquer.jpeg
-length: 00:56:00
 title: Ma jebite se! oder die Kunst des Fluchens auf dem Balkan
 apple_link: https://podcasts.apple.com/de/podcast/episode-41-ma-jebite-se-oder-die-kunst-des-fluchens/id1170436903?i=1000490537556
 spotify_link: spotify:episode:5sby030Tojg2EjULJ5g4jq

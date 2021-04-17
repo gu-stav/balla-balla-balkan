@@ -2,7 +2,6 @@
 number: 2
 publication_at: 2016-11-21T16:08:30.316Z
 image: /images/upload/img_0514.jpeg
-length: 01:14:00
 title: Wie schwul ist der Balkan?
 subtitle: ""
 apple_link: https://podcasts.apple.com/de/podcast/neues-vom-ballaballa-balkan-episode-02-wie-schwul-ist/id1170436903?i=1000378093014

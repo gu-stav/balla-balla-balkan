@@ -2,7 +2,6 @@
 number: 13
 publication_at: 2018-03-14T17:12:25.734Z
 image: /images/upload/turbofolk.jpeg
-length: 00:57:00
 title: Turbofolk oder keiner von uns hört das
 apple_link: https://podcasts.apple.com/de/podcast/neues-vom-ballaballa-balkan-episode-13-turbofolk-oder/id1170436903?i=1000404854946
 spotify_link: spotify:episode:1n6avguFJ3k9HwcpSjfqTm

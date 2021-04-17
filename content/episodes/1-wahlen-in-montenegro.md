@@ -2,7 +2,6 @@
 number: 1
 publication_at: 2016-10-17T15:01:25.245Z
 image: /images/upload/balla_01.jpeg
-length: 00:59:00
 title: Wahlen in Montenegro
 apple_link: https://podcasts.apple.com/de/podcast/neues-vom-ballaballa-balkan-episode-01-montenegro/id1170436903?i=1000377232688
 spotify_link: spotify:episode:5Z6igs7Mn5vX1kRYBCYKAf

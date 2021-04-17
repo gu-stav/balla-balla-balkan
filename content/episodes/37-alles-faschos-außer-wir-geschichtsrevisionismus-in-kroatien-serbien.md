@@ -2,7 +2,6 @@
 number: 37
 publication_at: 2020-05-18T15:17:52.806Z
 image: /images/upload/geschichtsrevisionismus-breit.jpeg
-length: 01:03:00
 title: Alles Faschos außer wir! Geschichtsrevisionismus in Kroatien & Serbien
 apple_link: https://podcasts.apple.com/de/podcast/episode-36-alles-faschos-au%C3%9Fer-wir-geschichtsrevisionismus/id1170436903?i=1000475014146
 spotify_link: spotify:episode:1hkrtUziEU2F0gpUHDOqAn

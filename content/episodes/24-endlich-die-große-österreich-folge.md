@@ -2,7 +2,6 @@
 number: 24
 publication_at: 2019-06-20T15:48:27.266Z
 image: /images/upload/austrija.jpeg
-length: 01:03:00
 title: ENDLICH! Die große Österreich-Folge!
 apple_link: https://podcasts.apple.com/de/podcast/neues-vom-ballaballa-balkan-episode-24-endlich-die/id1170436903?i=1000442112697
 spotify_link: spotify:episode:1Yhw08VSDi32hlmu5O599G

@@ -2,7 +2,6 @@
 number: 19
 publication_at: 2018-11-29T16:58:37.407Z
 image: /images/upload/durchgestrichen.jpeg
-length: 01:12:00
 title: Sprachen oder Was labert ihr da eigentlich
 apple_link: https://podcasts.apple.com/de/podcast/neues-vom-ballaballa-balkan-episode-19-sprache-n-oder/id1170436903?i=1000424783602
 spotify_link: spotify:episode:0mywcqCljUhdy1VNZZrBTz

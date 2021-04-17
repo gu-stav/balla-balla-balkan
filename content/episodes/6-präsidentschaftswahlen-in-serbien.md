@@ -2,7 +2,6 @@
 number: "6"
 publication_at: 2017-04-05T16:33:41.907Z
 image: /images/upload/vucic.jpeg
-length: 00:47:00
 title: Präsidentschaftswahlen in Serbien
 apple_link: https://podcasts.apple.com/de/podcast/episode-06-das-system-aleksandar-vucic-oder-der-pro/id1170436903?i=1000383992325
 spotify_link: spotify:episode:7060sPPWStshYIrgTcPBdL

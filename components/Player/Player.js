@@ -130,7 +130,7 @@ const Player = () => {
     return null;
   }
 
-  const { title, image, number, length, soundcloud_link } = episode;
+  const { title, image, number, soundcloud_link } = episode;
 
   const [actualDuration, setActualDuration] = useState(0);
   const [widget, setWidget] = useState(null);
@@ -177,10 +177,6 @@ const Player = () => {
       });
     });
   }, [widget]);
-
-  if (Object.keys(episode).length === 0) {
-    return null;
-  }
 
   return (
     <>

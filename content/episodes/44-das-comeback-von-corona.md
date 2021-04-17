@@ -2,7 +2,6 @@
 number: "44"
 publication_at: 2020-12-17T11:48:05.089Z
 image: /images/upload/artworks-z0wedmhp059yaq6y-yeyypg-t500x500.jpg
-length: 00:51:54
 title: Das Comeback von Corona
 apple_link: https://podcasts.apple.com/de/podcast/episode-44-das-comeback-von-corona/id1170436903?i=1000502763355
 spotify_link: https://open.spotify.com/episode/79j5k01yeOYkj81KugX7Wk?si=Wxgd7R4bRXKir5ist2L5_A

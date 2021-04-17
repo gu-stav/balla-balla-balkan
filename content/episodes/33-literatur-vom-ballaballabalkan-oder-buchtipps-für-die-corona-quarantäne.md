@@ -2,7 +2,6 @@
 number: 33
 publication_at: 2020-03-25T16:25:27.820Z
 image: /images/upload/20200325_164825_resized.jpeg
-length: 01:37:00
 title: Literatur Vom BallaballaBalkan oder Buchtipps für die Corona-Quarantäne
 apple_link: https://podcasts.apple.com/de/podcast/neues-vom-ballaballabalkan-episode-33-literaturtipps/id1170436903?i=1000469511982
 spotify_link: spotify:episode:3GD7qdJOIj5a8AfeQZTPEX

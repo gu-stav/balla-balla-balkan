@@ -2,7 +2,6 @@
 number: 37
 publication_at: 2020-06-12T15:13:05.736Z
 image: /images/upload/pk_punk.jpeg
-length: 01:19:00
 title: Anarhija All Over Baščaršija - Punk und Yu-Wave im ehemaligen Jugoslawien
 apple_link: https://podcasts.apple.com/de/podcast/episode-37-anarhija-all-over-ba%C5%A1%C4%8Dar%C5%A1ija-punk-und-yu/id1170436903?i=1000477790548
 spotify_link: spotify:episode:1XOXVNEqHyPe5p2Ne00lJa

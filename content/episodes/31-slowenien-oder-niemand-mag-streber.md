@@ -2,7 +2,6 @@
 number: 31
 publication_at: 2020-01-26T16:29:45.686Z
 image: /images/upload/laibach.jpeg
-length: 01:04:00
 title: Slowenien oder Niemand mag Streber!
 apple_link: https://podcasts.apple.com/de/podcast/neues-vom-ballaballa-balkan-episode-31-slowenien-oder/id1170436903?i=1000463774196
 spotify_link: spotify:episode:4KiXiRw9hFUJjtvoK0u7TC

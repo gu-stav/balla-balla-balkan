@@ -2,7 +2,6 @@
 number: 23
 publication_at: 2019-04-17T15:50:31.811Z
 image: /images/upload/petar_lubarda_kosovski_boj_1953_svecana_sala_novi_dvor_beograd.jpeg
-length: 01:10:00
 title: Geschichtsmythen oder Tausendjährige Spinnereien
 apple_link: https://podcasts.apple.com/de/podcast/neues-vom-ballaballa-balkan-episode-23-geschichtsmythen/id1170436903?i=1000435160030
 spotify_link: spotify:episode:1HnYy8KNJe5PJv0Ho0pvCt

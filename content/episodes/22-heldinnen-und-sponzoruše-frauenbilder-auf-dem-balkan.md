@@ -2,7 +2,6 @@
 number: 22
 publication_at: 2019-04-07T15:52:42.203Z
 image: /images/upload/ballaballa_frauentag.jpeg
-length: 00:47:00
 title: Heldinnen und Sponzoruše - Frauenbilder auf dem Balkan
 apple_link: https://podcasts.apple.com/de/podcast/neues-vom-ballaballa-balkan-episode-22-heldinnen-und/id1170436903?i=1000431337823
 spotify_link: spotify:episode:2tvy3Ygmj3eyILLLveWoq4

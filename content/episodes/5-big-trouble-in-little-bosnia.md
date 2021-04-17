@@ -3,7 +3,6 @@ number: "5"
 publication_at: 2017-03-23T17:35:41.380Z
 image: /images/upload/ein-junger-mann-blickt-auf-seine-heimatstadt.jpeg
 image_caption: "Foto: Ruben Neugebauer"
-length: 01:10:00
 title: Big Trouble in little Bosnia
 apple_link: https://podcasts.apple.com/de/podcast/neues-vom-ballaballa-balkan-episode-05-big-trouble/id1170436903?i=1000382987333
 spotify_link: spotify:episode:1oZsdXLMl7nsWK3EHhtXqS

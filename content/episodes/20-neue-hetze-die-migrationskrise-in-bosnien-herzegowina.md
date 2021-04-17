@@ -2,7 +2,6 @@
 number: 20
 publication_at: 2019-01-19T16:56:45.179Z
 image: /images/upload/bihac.jpeg
-length: 01:00:00
 title: Neue Hetze. Die "Migrationskrise" in Bosnien-Herzegowina
 apple_link: https://podcasts.apple.com/de/podcast/neues-vom-ballaballa-balkan-episode-20-neue-hetze-die/id1170436903?i=1000427967625
 spotify_link: spotify:episode:0luKKcICNdSVpENRXicnRu

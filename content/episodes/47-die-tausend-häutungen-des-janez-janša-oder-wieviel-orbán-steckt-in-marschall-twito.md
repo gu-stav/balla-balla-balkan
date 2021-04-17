@@ -2,7 +2,6 @@
 number: "47"
 publication_at: 2021-03-28T10:05:21.172Z
 image: /images/upload/artworks-c1ry7kkxso5qjgrk-yoab6g-t500x500.jpg
-length: 01:09:59
 title: Die tausend Häutungen des Janez Janša oder wieviel Orbán steckt in
   Marschall Twito?
 apple_link: https://podcasts.apple.com/de/podcast/episode-47-die-tausend-h%C3%A4utungen-des-janez-jan%C5%A1a-oder/id1170436903?i=1000514777909

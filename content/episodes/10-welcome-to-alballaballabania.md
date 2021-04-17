@@ -3,7 +3,6 @@ number: 10
 publication_at: 2017-09-29T16:18:29.012Z
 image: /images/upload/hoxhapyramide.jpeg
 image_caption: Hoxhapyramide
-length: 00:48:00
 title: Welcome to Alballaballabania
 apple_link: https://podcasts.apple.com/de/podcast/neues-vom-ballaballa-balkan-episode-10-welcome-to-alballaballabania/id1170436903?i=1000392862786
 spotify_link: spotify:episode:3W0yTwT9uQWdsIDIFD2jky

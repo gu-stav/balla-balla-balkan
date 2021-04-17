@@ -3,7 +3,6 @@ number: 17
 publication_at: 2018-09-09T16:03:05.659Z
 image: /images/upload/nils.jpeg
 image_caption: Von Roma bewohntes Haus in Belgrad. Inzwischen abgerissen
-length: 01:03:00
 title: No Land's Men. Die Roma und der Balkan
 apple_link: https://podcasts.apple.com/de/podcast/neues-vom-ballaballa-balkan-episode-17-no-lands-men/id1170436903?i=1000419214412
 spotify_link: spotify:episode:4UuI2Ro5SLLDAWja4sIdKe

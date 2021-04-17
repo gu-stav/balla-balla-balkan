@@ -2,7 +2,6 @@
 number: 34
 publication_at: 2020-04-07T15:23:13.767Z
 image: /images/upload/titelep34.jpeg
-length: 00:57:00
 title: Countdown to Corona
 apple_link: https://podcasts.apple.com/de/podcast/neues-vom-ballaballa-balkan-episode-34-countdown-to-corona/id1170436903?i=1000470752669
 spotify_link: spotify:episode:66Z9jFR59P1poSXG2zXulM

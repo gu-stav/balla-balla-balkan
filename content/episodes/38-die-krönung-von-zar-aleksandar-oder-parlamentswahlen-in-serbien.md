@@ -2,7 +2,6 @@
 number: 38
 publication_at: 2020-06-27T15:11:10.374Z
 image: /images/upload/vucic-38.jpeg
-length: 00:42:00
 title: Die Krönung von Zar Aleksandar oder Parlamentswahlen in Serbien
 apple_link: https://podcasts.apple.com/de/podcast/episode-38-die-kr%C3%B6nung-von-zar-aleksandar-oder-parlamentswahlen/id1170436903?i=1000479930780
 spotify_link: spotify:episode:4Qhmkb3oPZftG0S4b5gRhc

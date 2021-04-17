@@ -2,7 +2,6 @@
 number: 27
 publication_at: 2019-09-30T15:40:36.538Z
 image: /images/upload/kosovo.jpeg
-length: 01:06:00
 title: Das Kosovo - Fest nicht flauschig
 apple_link: https://podcasts.apple.com/de/podcast/neues-vom-ballaballa-balkan-episode-27-das-kosovo-fest/id1170436903?i=1000451841884
 spotify_link: spotify:episode:6JGLGKNBuZJrn0egfZd2VR

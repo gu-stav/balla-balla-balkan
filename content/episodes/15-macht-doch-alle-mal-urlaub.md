@@ -2,7 +2,6 @@
 number: 15
 publication_at: 2018-05-24T16:08:19.974Z
 image: /images/upload/lazarevic-mostar-war-vor-dem-bosnienkrieg-die-am-meisten-besuchte-stadt-bihs.-heute-ist-mostar-zwischen-bosniaken-und-kroaten-geteilt..jpeg
-length: 01:07:00
 title: macht doch alle mal Urlaub!
 apple_link: https://podcasts.apple.com/de/podcast/neues-vom-ballaballa-balkan-episode-15-macht-doch-alle/id1170436903?i=1000410787163
 spotify_link: spotify:episode:5s2sE0aR7qiryNfelVO9PG

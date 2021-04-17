@@ -2,7 +2,6 @@
 number: 18
 publication_at: 2018-10-10T16:00:57.590Z
 image: /images/upload/titelbild1.jpeg
-length: 00:50:00
 title: Spiel mit Grenzen
 apple_link: https://podcasts.apple.com/de/podcast/neues-vom-ballaballa-balkan-episode-18-spiel-mit-grenzen/id1170436903?i=1000421163258
 spotify_link: spotify:episode:1eXMzF3WqqggviTRYkqmvT

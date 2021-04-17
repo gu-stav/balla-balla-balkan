@@ -10,7 +10,6 @@ image_caption: "Belgrad, Serbien - 21.01.2017 - Ungefähr 10000 Geflüchtete
   Geflüchtete wohnen in Baracken am Belgrader Hauptbahnhof unter schlechten
   Bedingungen. Andere sind in Camps untergebracht. Bild zeigt: Geflüchtete in
   den Baracken in Belgrad. Foto: Erik Marquardt"
-length: 00:59:00
 title: Neues von der Balkanroute - Gestrandet in Belgrad
 apple_link: https://podcasts.apple.com/de/podcast/neues-vom-ballaballa-balkan-episode-04-gestrandet-in/id1170436903?i=1000380546709
 spotify_link: spotify:episode:7JWJKooMMnYAlsGITa6tpK

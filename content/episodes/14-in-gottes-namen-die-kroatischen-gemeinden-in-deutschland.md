@@ -2,7 +2,6 @@
 number: 14
 publication_at: 2018-03-30T16:10:16.832Z
 image: /images/upload/praljak_jv_171130-3589.jpeg
-length: 00:53:00
 title: In Gottes Namen! Die kroatischen Gemeinden in Deutschland
 apple_link: https://podcasts.apple.com/de/podcast/neues-vom-ballaballa-balkan-episode-14-in-gottes-namen/id1170436903?i=1000407797499
 spotify_link: spotify:episode:6N0qqlvfUj13Acq1OpPiiK

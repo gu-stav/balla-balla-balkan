@@ -2,7 +2,6 @@
 number: 25
 publication_at: 2019-07-21T15:46:18.227Z
 image: /images/upload/episodencover25.jpeg
-length: 00:56:00
 title: Klein, kleiner, Großserbien - Geschichte eines Versagens
 apple_link: https://podcasts.apple.com/de/podcast/neues-vom-ballaballa-balkan-episode-25-klein-kleiner/id1170436903?i=1000444993046
 spotify_link: spotify:episode:63WAW2feZz5xkD9gblNICy

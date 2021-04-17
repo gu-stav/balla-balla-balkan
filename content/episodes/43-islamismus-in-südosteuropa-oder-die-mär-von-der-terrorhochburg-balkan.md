@@ -2,7 +2,6 @@
 number: 43
 publication_at: 2020-11-23T15:34:26.762Z
 image: /images/upload/is-dubnica.jpeg
-length: 01:03:00
 title: Islamismus in Südosteuropa oder die Mär von der Terrorhochburg Balkan
 apple_link: https://podcasts.apple.com/de/podcast/episode-43-islamismus-in-s%C3%BCdosteuropa-oder-die-m%C3%A4r/id1170436903?i=1000500004298
 spotify_link: spotify:episode:1RJcVDPNmZdzYGuzjoqjNZ

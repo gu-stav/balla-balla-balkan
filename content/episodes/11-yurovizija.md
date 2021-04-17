@@ -2,7 +2,6 @@
 number: 11
 publication_at: 2017-11-17T17:16:22.037Z
 image: /images/upload/yurovizija.png
-length: 01:04:00
 title: YUROVIZIJA
 apple_link: https://podcasts.apple.com/de/podcast/neues-vom-ballaballa-balkan-episode-11-yurovizija/id1170436903?i=1000394699997
 spotify_link: spotify:episode:5LxCRmxAQe4xMBnuvtowxf

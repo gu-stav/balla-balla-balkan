@@ -2,7 +2,6 @@
 number: 28
 publication_at: 2019-10-24T15:38:05.380Z
 image: /images/upload/partisan_1.jpeg
-length: 01:39:00
 title: Partisanenfilme oder ganz großes Ballaballa-Kino
 apple_link: https://podcasts.apple.com/de/podcast/neues-vom-ballaballa-balkan-episode-28-partisanenfilme/id1170436903?i=1000454812676
 spotify_link: spotify:episode:1vZ0sa3ZCOndVu8UuMqIEU

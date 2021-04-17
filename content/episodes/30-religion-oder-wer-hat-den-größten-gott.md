@@ -2,7 +2,6 @@
 number: 30
 publication_at: 2019-12-23T16:32:20.442Z
 image: /images/upload/titelep30-kopie.jpeg
-length: 01:01:00
 title: Religion - Oder wer hat den Größten... Gott?
 apple_link: https://podcasts.apple.com/de/podcast/neues-vom-ballaballa-balkan-episode-30-religionen-oder/id1170436903?i=1000460597237
 spotify_link: spotify:episode:0WwnrECmswMnXKmasIH30i
