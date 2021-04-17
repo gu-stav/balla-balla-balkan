@@ -181,9 +181,6 @@ collections:
                 name: "type"
                 widget: "select"
                 options:
-                  - label: "Instagram"
-                    value: "instagram"
-
                   - label: "Apple Podcast"
                     value: "apple"
 
