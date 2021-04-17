@@ -22,10 +22,13 @@ const HomePage = ({ authors, episodes, settings }) => {
         <EpisodeFeatured
           tagline="Neueste Folge"
           title={featuredEpisode.title}
+          image={featuredEpisode.image}
           path={featuredEpisode.path}
           image={featuredEpisode.image}
           externalLinks={featuredEpisode.externalLinks}
           backgroundImage={settings?.image}
+          number={featuredEpisode.number}
+          soundcloud_link={featuredEpisode.soundcloud_link}
         />
 
         <EpisodeList
