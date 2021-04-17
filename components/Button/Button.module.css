@@ -6,16 +6,16 @@
   color: var(--color-brand);
   display: flex;
   font-family: inherit;
-  font-size: inherit;
+  font-size: 1.15rem;
   font-weight: 700;
   line-height: 1;
-  padding: 0.75rem 1.5rem 0.6rem 1.5rem;
+  padding: 0.75rem 1.5rem 0.7rem 1.5rem;
   white-space: nowrap;
 }
 
 @media (min-width: 768px) {
   .base {
-    padding: 0.8rem 1.75rem 0.75rem 1.75rem;
+    padding: 0.85rem 1.5rem 0.65rem 1.5rem;
   }
 }
 
