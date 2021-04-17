@@ -1,7 +1,7 @@
 backend:
   name: github
   branch: develop
-  repo: jib-collective/balla-balla-balkan
+  repo: gustavpursche/balla-balla-balkan
   base_url: https://neu.ballaballa-balkan.de
   auth_endpoint: api/auth
 
@@ -29,6 +29,16 @@ collections:
           time_format: false
           required: true
 
+        - label: "Titel"
+          name: "title"
+          widget: "string"
+          required: true
+
+        - label: "Untertitel"
+          name: "subtitle"
+          widget: "string"
+          required: false
+
         - label: "Bild"
           name: "image"
           widget: "image"
@@ -39,15 +49,6 @@ collections:
           widget: "string"
           required: false
 
-        - label: "Titel"
-          name: "title"
-          widget: "string"
-          required: true
-
-        - label: "Untertitel"
-          name: "subtitle"
-          widget: "string"
-          required: false
 
         - label: "Apple Link"
           name: "apple_link"
