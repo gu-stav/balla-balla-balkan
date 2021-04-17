@@ -15,6 +15,10 @@
   margin-left: 4rem;
 }
 
+.gap--mini.horizontal > * + * {
+  margin-left: 2rem;
+}
+
 .gap--tiny.horizontal > * + * {
   margin-left: 1rem;
 }

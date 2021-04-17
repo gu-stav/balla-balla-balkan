@@ -77,3 +77,11 @@
     font-size: 1.2rem;
   }
 }
+
+.actionIcon {
+  height: auto;
+  margin-left: 1rem;
+  position: relative;
+  top: -0.075rem;
+  width: 1.15rem;
+}

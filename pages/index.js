@@ -20,7 +20,7 @@ const HomePage = ({ authors, episodes, settings }) => {
 
       <Stack center>
         <EpisodeFeatured
-          tagline="Neueste Folge"
+          tagline="Neueste Episode"
           title={featuredEpisode.title}
           image={featuredEpisode.image}
           path={featuredEpisode.path}
