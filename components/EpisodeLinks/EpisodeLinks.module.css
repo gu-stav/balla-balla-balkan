@@ -3,18 +3,30 @@
 }
 
 .listItem {
-  padding-left: 2rem;
+  padding-left: 1.5rem;
   position: relative;
+}
+
+@media (min-width: 768px) {
+  .listItem {
+    padding-left: 2rem;
+  }
 }
 
 .listItem::before {
   color: var(--color-brand);
   content: "~";
-  font-size: 1.5rem;
+  font-size: 1.15rem;
   font-weight: 700;
   left: 0;
   position: absolute;
   top: 0;
+}
+
+@media (min-width: 768px) {
+  .listItem::before {
+    font-size: 1.5rem;
+  }
 }
 
 .listItem + .listItem {

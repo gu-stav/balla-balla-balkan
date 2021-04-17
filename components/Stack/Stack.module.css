@@ -16,7 +16,13 @@
 }
 
 .gap--mini.horizontal > * + * {
-  margin-left: 2rem;
+  margin-left: 1.5rem;
+}
+
+@media (min-width: 768xp) {
+  .gap--mini.horizontal > * + * {
+    margin-left: 2rem;
+  }
 }
 
 .gap--tiny.horizontal > * + * {

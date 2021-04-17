@@ -1,7 +1,13 @@
 .p {
   font-family: var(--font-sans);
-  font-size: 1.3rem;
+  font-size: 1.2rem;
   line-height: 1.3;
+}
+
+@media (min-width: 500px) {
+  .p {
+    font-size: 1.3rem;
+  }
 }
 
 .p > a:hover,

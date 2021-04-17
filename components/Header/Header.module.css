@@ -24,14 +24,16 @@
   display: flex;
   flex-direction: row-reverse;
   justify-content: space-between;
-  padding-left: 10%;
-  padding-right: 10%;
+  padding-left: 1.25rem;
+  padding-right: 1.5rem;
 }
 
 @media (min-width: 620px) {
   .inner {
     align-items: flex-start;
     flex-direction: row;
+    padding-left: 10%;
+    padding-right: 10%;
   }
 }
 
