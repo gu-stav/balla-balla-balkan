@@ -79,7 +79,7 @@ const EpisodeFeatured = ({
               })
             }
           >
-            Episode abspielen
+            Anhören
           </Button>
 
           <FollowList theme="light" items={externalLinks} />

@@ -55,7 +55,7 @@ const EpisodeItem = ({
               })
             }
           >
-            Episode abspielen
+            Anhören
           </Button>
 
           <FollowList items={externalLinks} />
