@@ -126,6 +126,10 @@ const Player = () => {
     setPlayState,
   } = usePlayer();
 
+  if (Object.keys(episode).length === 0) {
+    return null;
+  }
+
   const { title, image, number, length, soundcloud_link } = episode;
 
   const [actualDuration, setActualDuration] = useState(0);
