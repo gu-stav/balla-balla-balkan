@@ -21,8 +21,7 @@ blocks:
       In diesem Jahr entbrannte in Österreich erstmals eine breite öffentliche Kontroverse um die Veranstaltung...und die Organisatoren standen unter besonderer Beobachtung. Zeit sich vor Ort ein Bild zu machen, dachten sich Krsto, Danijel und Tanja.
 
 
-      [Krstos Reportage aus "der Standard"](<http://<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/443232108&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>>)
+      * \[Krstos Reportage aus "der Standard"](<http://<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/443232108&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>>)
 
-
-      [Danijels Reportage aus "Frankfurter Rundschau"](http://www.fr.de/politik/kroatien-die-ustascha-im-herzen-a-1505508)
+      * [Danijels Reportage aus "Frankfurter Rundschau"](http://www.fr.de/politik/kroatien-die-ustascha-im-herzen-a-1505508)
 ---
