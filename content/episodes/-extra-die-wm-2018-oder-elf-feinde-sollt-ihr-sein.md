@@ -22,17 +22,13 @@ blocks:
       Weiterführende Links:
 
 
-      [Sind wir wirklich so erbärmlich? - Krstos Kolumne zum WM-Treiben (Deutsche Welle)](https://www.dw.com/de/mein-europa-der-balkan-und-die-wm-sind-wir-wirklich-so-erb%C3%A4rmlich/a-44462654)
+      * [Sind wir wirklich so erbärmlich? - Krstos Kolumne zum WM-Treiben (Deutsche Welle)](https://www.dw.com/de/mein-europa-der-balkan-und-die-wm-sind-wir-wirklich-so-erb%C3%A4rmlich/a-44462654)
 
+      * [Das toxische Element im kroatischen Fußball - Dario Brentin in (FAZ)](http://www.faz.net/aktuell/sport/fussball-wm/mamic-das-toxische-element-im-kroatischen-fussball-15650580.html)
 
-      [Das toxische Element im kroatischen Fußball - Dario Brentin in (FAZ)](http://www.faz.net/aktuell/sport/fussball-wm/mamic-das-toxische-element-im-kroatischen-fussball-15650580.html)
+      * [Interview mit Dario Brentin in der Standard](https://derstandard.at/2000080795720/Party-Patriotismus-und-Schizophrenie-beim-Nationalteam)
 
+      * [Die Nati zeigte den Nazis den Vogel (WoZ) ](https://www.woz.ch/-8e0b)
 
-      [Interview mit Dario Brentin in der Standard](https://derstandard.at/2000080795720/Party-Patriotismus-und-Schizophrenie-beim-Nationalteam)
-
-
-      [Die Nati zeigte den Nazis den Vogel (WoZ) ](https://www.woz.ch/-8e0b)
-
-
-      [Der wirklich unglaublich saudumme Text im Politico](https://www.politico.eu/blogs/the-linesman/2018/06/serbia-switzerland-kosovo-world-cup-where-kosovar-eagles-dare/)
+      * [Der wirklich unglaublich saudumme Text im Politico](https://www.politico.eu/blogs/the-linesman/2018/06/serbia-switzerland-kosovo-world-cup-where-kosovar-eagles-dare/)
 ---
