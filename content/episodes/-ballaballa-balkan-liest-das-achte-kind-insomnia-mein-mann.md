@@ -16,51 +16,29 @@ blocks:
       werden und einen bekannten Mann, der nicht gut schlafen konnte.
 
 
-      Die Bücher und weiterführende Links findet ihr hier:
+      Die Bücher und weiterführende Links findet ihr hier: 
 
 
-      * [](https://www.hanser-literaturverlage.de/buch/das-achte-kind/978-3-446-26796-1/)Das achte Kind (Hanser) 
+      [Das achte Kind](https://www.hanser-literaturverlage.de/buch/das-achte-kind/978-3-446-26796-1/) (Hanser)
 
 
+      [Interview in Stichworten mit Alem Grabovac](https://taz.de/Alem-Grabovac-im-Stichwort-Interview/!5743996/) (taz)
 
 
+      [Mein Mann](https://www.suhrkamp.de/buecher/mein_mann-rumena_buzarovska_42976.html) (Suhrkamp)
 
 
-      Das achte Kind (Hanser)
+      [Vorstellung von „Mein Mann“ mit kurzen Inteview mit Rumena Bužarovska](https://www.suhrkamp.de/buecher/mein_mann-rumena_buzarovska_42976.html) (Ö1)
 
 
-      Interview in Stichworten mit Alem Grabovac (taz)
+      [Interview mit Benjamin Langer, Übesetzer von „Mein Mann“](https://www1.wdr.de/radio/wdr3/programm/sendungen/wdr3-gutenbergs-welt/welt-reinlassen-100.html) – ab Minute 9:00 (WDR 3)
 
 
-      Mein Mann (Suhrkamp)
+      [Insomnia](https://www.hanser-literaturverlage.de/buch/insomnia/978-3-552-05973-3/) (Zsolnay)
 
 
-      Vorstellung von „Mein Mann“ mit kurzen Inteview mit Rumena Bužarovska (Ö1)
+      [Besprechung von Insomnia in der SZ](https://www.sueddeutsche.de/kultur/ivo-andric-insomnia-nobelpreis-literatur-rezension-1.5171925)
 
 
-      Interview mit Benjamin Langer, Übesetzer von „Mein Mann“ – ab Minute 9:00 (WDR 3)
-
-
-      Insomnia (Zsolnay)
-
-
-      Besprechung von Insomnia in der SZ
-
-
-      Besprechung von Insomnia im Deutschlandfunk
-
-
-      Außerdem könnt ihr die Bücher gewinnen, wenn ihr ein Abo auf Steady habt oder uns an anderer Stelle mal unterstützt habt. Wir verlosen je ein Buch und möchten, dass ihr dafür eine Frage beantwortet.
-
-
-      Für „Das achte Kind“ antwortet ihr auf die Frage: Wie heißen die drei Vaterfiguren in dem Buch von Alem Grabovac?
-
-
-      Für „Mein Mann“: für welches Fach ist die Autorin Professorin in Skopje?
-
-
-      Für „Insomnia“: Welche drei Werke hat Ivo Andrić während der Besetzung Belgrads durch die Nazis in den Jahren 1941 und 1944 verfasst?
-
-
-      Einsendeschluss ist der 31. März, sendet die Antwort an neuesvom@ballaballa-balkan.de. Wenn sie richtig ist, nehmt ihr automatisch an der Verlosung teil. Jede Person kann immer nur eines der drei Bücher gewinnen. Also sucht euch aus auf welche Frage ihr antwortet wollt.
+      [Besprechung von Insomnia im Deutschlandfunk](https://www.deutschlandfunk.de/ivo-andric-insomnia-der-naechtliche-gruebler.700.de.html?dram:article_id=492548)
 ---
