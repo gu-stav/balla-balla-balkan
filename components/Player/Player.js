@@ -53,7 +53,7 @@ const ControlContainer = memo(({ widget, playState }) => {
           </svg>
         )}
 
-        {playState === "play" && (
+        {(playState === "play" || playState === null) && (
           <svg
             aria-hidden="true"
             focusable="false"
