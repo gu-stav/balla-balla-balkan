@@ -1,5 +1,4 @@
 ---
 title: Danijel Majic
 ---
-
-Danijel kann sich trotz harter Arbeit als Lohnschreiberling für die Frankfurter Rundschau (FR) auch mit 35 Jahren noch keinen Benz leisten, sondern nur einen popeligen Peugeot. Deshalb gilt er in der Herzegowina, wo seine Familie herstammt, auch nur als „Kroate“ in Anführungszeichen. Für die FR schreibt er regelmäßig über Islamismus, Rechts- und Ausländerextremismus. Und hat es dabei nicht selten mit „Landsleuten“ zu tun.
+Die Familie von Danijel Majić stammt ursprünglich aus Tomislavgrad. Das liegt zwar in Bosnien-Herzegowina, soll aber irgendwie doch eine kroatische "Stadt" sein. Inzwischen dürfte Danijel direkt nach König Tomislav der zweitbekannteste Mensch mit Tomislavgradbezug auf diesem Planeten sein. Trotzdem scheint man den "stolzen Vaterlandsverräter" in der Herzegowina nicht sonderlich leiden zu können. Danijel vermutet, dass es damit zusammenhängt, dass er sich auch nach mehr als 10 Jahren als Journalist immer noch keinen anständigen BMW leisten kann. Vielleicht fungiert er deshalb in patridiotischen Medien nur als "Kroate" in Anführungszeichen.
