@@ -10,11 +10,11 @@ const renderers = {
   heading: ({ level, children }) => (
     <Headline level={level}>{children}</Headline>
   ),
-  list: ({ children, ...props }) => (
-    <EpisodeLinks {...props}>{children}</EpisodeLinks>
+  list: ({ children }) => (
+    <EpisodeLinks>{children}</EpisodeLinks>
   ),
-  listItem: ({ children, ...props }) => (
-    <EpisodeLinkItem {...props}>{children}</EpisodeLinkItem>
+  listItem: ({ children }) => (
+    <EpisodeLinkItem>{children}</EpisodeLinkItem>
   ),
   paragraph: (props) => <Paragraph {...props} />,
 };

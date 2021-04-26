@@ -4,14 +4,12 @@ import { getSettings } from "../../lib/settings";
 import Article from "../../components/Article";
 import Blocks from "../../components/Blocks";
 import EpisodeFeatured from "../../components/EpisodeFeatured";
-import EpisodeLinks from "../../components/EpisodeLinks";
-import Headline from "../../components/Headline";
 import Layout from "../../components/Layout";
 import SEO from "../../components/SEO";
 import Stack from "../../components/Stack";
 
 const EpisodePage = ({
-  episode: { title, number, excerpt, image, blocks, links, externalLinks, soundcloud_link },
+  episode: { title, number, excerpt, image, blocks, externalLinks, soundcloud_link },
   settings,
 }) => (
   <Layout>
@@ -40,14 +38,6 @@ const EpisodePage = ({
                 ...blocks,
               ]}
             />
-          )}
-
-          {links && (
-            <>
-              <Headline level={2}>Episoden Links</Headline>
-
-              <EpisodeLinks links={links} />
-            </>
           )}
         </Article>
       </article>

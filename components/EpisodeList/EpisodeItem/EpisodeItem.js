@@ -14,9 +14,7 @@ import styles from "./EpisodeItem.module.css";
 const EpisodeItem = ({
   title,
   path,
-  subtitle,
   excerpt,
-  length,
   image,
   number,
   externalLinks,
@@ -29,7 +27,9 @@ const EpisodeItem = ({
       <div className={styles.imageContainer}>
         <Image src={image} width={280} height={280} objectFit="cover" />
 
-        <span className={styles.number}>{number}</span>
+        {number && (
+          <span className={styles.number}>{number}</span>
+        )}
       </div>
 
       <div className={styles.contentContainer}>
@@ -37,14 +37,13 @@ const EpisodeItem = ({
           <a className={styles.link}>
             <Headline level={2} className={styles.titleContainer}>
               <span className={styles.title}>{title}</span>
-              {subtitle && <span>{subtitle}</span>}
             </Headline>
           </a>
         </Link>
 
         <Paragraph className={styles.excerpt}>{excerpt}</Paragraph>
 
-        <Stack direction="horizontal" gap="mini">
+        <Stack direction="horizontal" gap="mini" className={styles.fauxLinkStandout}>
           <Button
             onClick={() =>
               setEpisode({
@@ -65,6 +64,12 @@ const EpisodeItem = ({
           <FollowList items={externalLinks} />
         </Stack>
       </div>
+
+      <Link href={path}>
+        <a className={styles.fauxLink} tabIndex="-1" aria-hidden="true">
+          {title}
+        </a>
+      </Link>
     </div>
   );
 };

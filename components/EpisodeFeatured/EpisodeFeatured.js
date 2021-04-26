@@ -10,20 +10,17 @@ import { usePlayer } from "../../store/player";
 
 import styles from "./EpisodeFeatured.module.css";
 
-const Title = ({ tagline, title, subtitle }) => (
+const Title = ({ tagline, title }) => (
   <Headline tag={2} as={1} className={styles.titleContainer}>
     <small className={styles.tagline}>{tagline}</small>
 
     <span className={styles.title}>{title}</span>
-
-    {subtitle && <span>{subtitle}</span>}
   </Headline>
 );
 
 const EpisodeFeatured = ({
   title,
   path,
-  subtitle,
   tagline,
   image,
   backgroundImage,
@@ -51,11 +48,11 @@ const EpisodeFeatured = ({
           {path ? (
             <Link href={path}>
               <a className={styles.link}>
-                <Title title={title} subtitle={subtitle} tagline={tagline} />
+                <Title title={title} tagline={tagline} />
               </a>
             </Link>
           ) : (
-            <Title title={title} subtitle={subtitle} tagline={tagline} />
+            <Title title={title} tagline={tagline} />
           )}
         </div>
 
@@ -66,7 +63,7 @@ const EpisodeFeatured = ({
         <Stack
           direction="horizontal"
           gap="mini"
-          className={styles.actionContainer}
+          className={`${styles.actionContainer} ${styles.fauxLinkStandout}`}
         >
           <Button
             invert
@@ -88,6 +85,14 @@ const EpisodeFeatured = ({
 
           <FollowList theme="light" items={externalLinks} />
         </Stack>
+
+        {path && (
+          <Link href={path}>
+            <a className={styles.fauxLink} tabIndex="-1" aria-hidden="true">
+              {title}
+            </a>
+          </Link>
+        )}
       </div>
     </section>
   );

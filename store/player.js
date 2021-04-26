@@ -8,6 +8,7 @@ export const Provider = ({ children }) => {
   const [playState, setPlayState] = useState(null);
   const [timing, setTiming] = useState(0);
   const [episode, setEpisode] = useState({});
+  const [apiLoaded, setApiLoaded] = useState(false);
 
   return (
     <PlayerProvider
@@ -15,9 +16,11 @@ export const Provider = ({ children }) => {
         episode,
         timing,
         playState,
+        apiLoaded,
         setEpisode,
         setTiming,
-        setPlayState
+        setPlayState,
+        setApiLoaded
       }}
     >
       {children}
@@ -27,6 +30,4 @@ export const Provider = ({ children }) => {
 
 export default PlayerContext;
 
-export const usePlayer = () => {
-  return useContext(PlayerContext);
-};
+export const usePlayer = () => useContext(PlayerContext);

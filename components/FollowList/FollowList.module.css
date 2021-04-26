@@ -2,4 +2,5 @@
   composes: reset-list from "../../public/styles/modules/reset-list.css";
 
   align-items: center;
+  flex: 0;
 }

@@ -22,7 +22,6 @@
 
   align-items: center;
   display: flex;
-  flex-direction: row-reverse;
   justify-content: space-between;
   padding-left: 1.25rem;
   padding-right: 1.5rem;
@@ -38,6 +37,7 @@
 }
 
 .item {
+  display: none;
   font-size: 1.15rem;
   margin-top: 0.3rem;
   text-decoration: none;
@@ -45,18 +45,18 @@
 
 @media (min-width: 620px) {
   .item {
+    display: flex;
     font-size: 1.35rem;
     margin-top: 1.85rem;
   }
 }
 
 .ctaContainer {
-  display: none;
+  margin-top: -2rem;
 }
 
 @media (min-width: 620px) {
   .ctaContainer {
-    display: flex;
     margin-top: 1rem;
   }
 }

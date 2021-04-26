@@ -26,7 +26,13 @@
 }
 
 .gap--tiny.horizontal > * + * {
-  margin-left: 1rem;
+  margin-left: 1.15rem;
+}
+
+@media (min-width: 768xp) {
+  .gap--tiny.horizontal > * + * {
+    margin-left: 1rem;
+  }
 }
 
 .gap--regular.vertical > * + * {

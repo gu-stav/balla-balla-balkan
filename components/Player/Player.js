@@ -124,25 +124,20 @@ const Player = () => {
     setTiming,
     playState,
     setPlayState,
+    apiLoaded,
+    setApiLoaded
   } = usePlayer();
 
-  if (Object.keys(episode).length === 0) {
-    return null;
-  }
-
-  const { title, image, number, soundcloud_link } = episode;
+  const { title, image, soundcloud_link } = episode;
 
   const [actualDuration, setActualDuration] = useState(0);
   const [widget, setWidget] = useState(null);
   const [soundcloudReady, setSoundcloudReady] = useState(false);
   const iframeRef = useRef(null);
-  const [apiLoaded, setApiLoaded] = useState(false);
 
   useEffect(() => {
-    if (iframeRef?.current && apiLoaded) {
-      const widget = window.SC.Widget(iframeRef.current);
-
-      setWidget(widget);
+    if (apiLoaded && iframeRef?.current) {
+      setWidget(window.SC.Widget(iframeRef.current));
     }
   }, [iframeRef, apiLoaded]);
 
@@ -178,12 +173,18 @@ const Player = () => {
     });
   }, [widget]);
 
+  if (Object.keys(episode).length === 0) {
+    return null;
+  }
+
   return (
     <>
-      <Script
-        url="https://w.soundcloud.com/player/api.js"
-        onLoad={() => setApiLoaded(true)}
-      />
+      {!apiLoaded && (
+        <Script
+          url="https://w.soundcloud.com/player/api.js"
+          onLoad={() => setApiLoaded(true)}
+        />
+      )}
 
       <Iframe soundcloud_link={soundcloud_link} ref={iframeRef} />
 

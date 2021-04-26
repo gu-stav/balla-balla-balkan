@@ -15,7 +15,7 @@ const About = ({ title, description, social_media }) => {
 
           <Stack direction="horizontal" gap="tiny" center>
             <Paragraph className={styles.followLabel}>
-              Folge dem Podcast auf
+              Podcast abonnieren
             </Paragraph>
             <FollowList
               theme="brand"
@@ -26,6 +26,6 @@ const About = ({ title, description, social_media }) => {
       </div>
     </section>
   );
-
 }
+
 export default About;

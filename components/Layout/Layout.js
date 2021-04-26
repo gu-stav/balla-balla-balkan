@@ -1,13 +1,11 @@
 import Footer from "../Footer";
 import Header from "../Header";
 
-import styles from "./Layout.module.css";
-
 const Layout = ({ footerMargin, children }) => (
   <>
     <Header />
 
-    <main className={styles.main}>{children}</main>
+    <main>{children}</main>
 
     <Footer
       marginTop={footerMargin}

@@ -34,11 +34,6 @@ collections:
           widget: "string"
           required: true
 
-        - label: "Untertitel"
-          name: "subtitle"
-          widget: "string"
-          required: false
-
         - label: "Bild"
           name: "image"
           widget: "image"

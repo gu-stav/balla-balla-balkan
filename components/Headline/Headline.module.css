@@ -7,13 +7,14 @@
 .h1 {
   composes: base;
 
-  font-size: 2.15rem;
-  line-height: 1.1;
+  font-size: 1.95rem;
+  line-height: 1;
 }
 
 @media (min-width: 768px) {
   .h1 {
     font-size: 2.75rem;
+    line-height: 1.1;
   }
 }
 
