@@ -1,6 +1,6 @@
 backend:
   name: github
-  branch: develop
+  branch: master
   repo: gustavpursche/balla-balla-balkan
   base_url: https://neu.ballaballa-balkan.de
   auth_endpoint: api/auth
