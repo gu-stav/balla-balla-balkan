@@ -1,5 +1,5 @@
 ---
-image: /images/upload/1500x500-1.png
+image: /images/upload/signal-2021-04-25-225125.jpeg
 title: Neues vom Ballaballa-Balkan
 description: Der Podcast für Polemik und Palaver vom Ballaballa-Balkan. Mit dem
   grimmigen „Kroaten“ Danijel Majić und dem Nationalismusbehinderten Krsto
