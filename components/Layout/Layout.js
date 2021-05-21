@@ -11,7 +11,7 @@ const Layout = ({ footerMargin, children }) => (
       marginTop={footerMargin}
       items={[
         ["/impressum", "Impressum"],
-        ["/datenschutz", "Datenschutz"],
+        ["/datenschutzerklaerung", "Datenschutz"],
         ["/unterstuetzen", "Unterstützen"],
       ]}
     />
