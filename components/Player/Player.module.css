@@ -85,14 +85,21 @@
 }
 
 .controlButtonIcon {
-  height: 2.75rem;
-  width: 2.75rem;
+  height: 2.5rem;
+  width: 2.5rem;
+}
+
+@media (min-width: 768px) {
+  .controlButtonIcon {
+    height: 2.75rem;
+    width: 2.75rem;
+  }
 }
 
 .sliderContainer {
   align-items: center;
   display: flex;
-  grid-column: 3 / span 9;
+  grid-column: 3 / span 7;
 }
 
 @media (min-width: 768px) {
