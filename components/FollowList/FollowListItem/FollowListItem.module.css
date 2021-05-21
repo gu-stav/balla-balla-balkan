@@ -11,7 +11,13 @@
 }
 
 .theme--dark {
-  color: var(--color-grey-light);
+  color: black;
+}
+
+@media (min-width: 768px) {
+  .theme--dark {
+    color: var(--color-grey-light);
+  }
 }
 
 .theme--dark:hover,
