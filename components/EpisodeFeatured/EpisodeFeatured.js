@@ -34,12 +34,14 @@ const EpisodeFeatured = ({
     <section className={styles.section}>
       {backgroundImage && (
         <div className={styles.backgroundImageContainer}>
-          <Image
-            src={backgroundImage}
-            objectFit="cover"
-            layout="fill"
-            className={styles.backgroundImage}
-          />
+          <div className={styles.backgroundImageInnerContainer}>
+            <Image
+              src={backgroundImage}
+              objectFit="cover"
+              layout="fill"
+              className={styles.backgroundImage}
+            />
+          </div>
         </div>
       )}
 
