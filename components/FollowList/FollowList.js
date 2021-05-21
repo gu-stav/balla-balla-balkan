@@ -3,7 +3,7 @@ import Stack from "../Stack";
 
 import styles from "./FollowList.module.css";
 
-const FollowList = ({ items = [], theme = "dark" }) => {
+const FollowList = ({ items = [], theme = "dark", prefix }) => {
   if (!items || items.length === 0) {
     return null;
   }
@@ -17,7 +17,7 @@ const FollowList = ({ items = [], theme = "dark" }) => {
     >
       {items.map(([type, href]) => (
         <li>
-          <FollowListItem type={type} href={href} label={type} theme={theme} />
+          <FollowListItem type={type} href={href} label={type} theme={theme} prefix={prefix} />
         </li>
       ))}
     </Stack>

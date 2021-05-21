@@ -61,7 +61,7 @@ const EpisodeItem = ({
             </svg>
           </Button>
 
-          <FollowList items={externalLinks} />
+          <FollowList items={externalLinks} prefix="episode" />
         </Stack>
       </div>
 

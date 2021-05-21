@@ -51,7 +51,7 @@ const SoundcloudIcon = () => (
   </svg>
 );
 
-const FollowListItem = ({ type, href, label, theme }) => {
+const FollowListItem = ({ type, href, label, theme, prefix = 'podcast' }) => {
   const iconMap = {
     apple: PodcastIcon,
     soundcloud: SoundcloudIcon,
@@ -59,12 +59,14 @@ const FollowListItem = ({ type, href, label, theme }) => {
   };
 
   const Icon = iconMap[type] || null;
+  const prefixLabel = prefix === 'podcast' ? 'Dem Podcast' : 'Die Episode';
+  const postfixLabel = prefix === 'podcast' ? 'folgen' : 'anhören';
 
   return (
     <Link href={href}>
       <a
         className={cn(styles.link, styles[`theme--${theme}`])}
-        aria-label={`Folge dem Podcast auf ${label}`}
+        aria-label={`${prefixLabel} auf ${label} ${postfixLabel}.`}
       >
         <Icon />
       </a>
