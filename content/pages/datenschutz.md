@@ -1,5 +1,5 @@
 ---
-title: "# Datenschutzerklärung"
+title: Datenschutzerklärung
 blocks:
   - type: richtext
     richtext: >-
