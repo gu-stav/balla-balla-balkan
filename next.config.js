@@ -1,6 +1,7 @@
+const withFonts = require('next-fonts');
 const withPlugins = require('next-compose-plugins');
 
-module.exports = withPlugins([], {
+module.exports = withPlugins([withFonts()], {
   async redirects() {
     const redirects = require('./redirects.json');
 
