@@ -18,13 +18,20 @@
 @media (min-width: 768px) {
   .backgroundImageContainer {
     display: block;
+    height: 85%;
     left: 0;
-    max-height: 85%;
     overflow: hidden;
     position: absolute;
     top: 0;
     width: 100%;
   }
+}
+
+.backgroundImage {
+  filter: blur(0.2rem);
+  height: 100%;
+  object-position: top center;
+  width: calc(100% + 2rem);
 }
 
 .inner {
