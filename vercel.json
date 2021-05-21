@@ -1,6 +1,6 @@
 {
   "functions": {
-    "api/og.js": {
+    "api/og": {
       "includeFiles": "_aws/og/**"
     }
   }
