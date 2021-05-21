@@ -27,7 +27,7 @@ const EpisodeItem = ({
       <div className={styles.imageContainer}>
         <Image src={image} width={280} height={280} objectFit="cover" />
 
-        {number && (
+        {number && number !== 'undefined' && (
           <span className={styles.number}>{number}</span>
         )}
       </div>
