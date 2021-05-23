@@ -14,7 +14,7 @@ const Header = ({
   <header className={styles.header}>
     <nav className={styles.inner}>
       <Link href={items[0][0]}>
-        <a className={styles.item}>{items[0][1]}</a>
+        <a className={styles.item} aria-label="Zur Ballaballa-Balkan Startseite">{items[0][1]}</a>
       </Link>
 
       <Link href="/">

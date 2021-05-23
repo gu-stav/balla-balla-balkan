@@ -40,6 +40,7 @@ const EpisodeFeatured = ({
               objectFit="cover"
               layout="fill"
               className={styles.backgroundImage}
+              alt=""
             />
           </div>
         </div>
