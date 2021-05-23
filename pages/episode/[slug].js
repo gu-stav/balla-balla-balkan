@@ -9,11 +9,11 @@ import SEO from "../../components/SEO";
 import Stack from "../../components/Stack";
 
 const EpisodePage = ({
-  episode: { title, number, image, blocks, externalLinks, soundcloud_link },
+  episode: { title, number, image, blocks, excerpt, externalLinks, soundcloud_link },
   settings,
 }) => (
   <Layout>
-    <SEO title={title} />
+    <SEO title={title} description={excerpt} />
 
     <Stack gap="tiny" center>
       <EpisodeFeatured
