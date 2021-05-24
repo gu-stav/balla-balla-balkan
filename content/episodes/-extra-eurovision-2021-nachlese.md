@@ -2,6 +2,7 @@
 publication_at: 2021-05-24T21:40:56.913Z
 title: "Extra: Eurovision 2021 Nachlese "
 image: /images/upload/esc-update.jpg
+apple_link: https://podcasts.apple.com/de/podcast/extra-eurovision-2021-nachlese/id1170436903?i=1000522966101
 spotify_link: https://open.spotify.com/episode/3mt9b0AR8RYMirAdjGsaMn?si=E8tf8cN2S2esc3nDxhCRrA
 soundcloud_link: https://soundcloud.com/user-89524652/extra-eurovision-2021-nachlese
 excerpt: Der Balkan hat beim diesjährigen Eurovision ziemlich abgelost.
