@@ -9,7 +9,7 @@ export default function SEO({ title = null, description = "Der Podcast für Pole
     <meta name="description" content={description} />
 
     <meta name="twitter:title" content={title} />
-    <meta name="twitter:description" content="description" />
+    <meta name="twitter:description" content={description} />
 
     {ogImage && (
       <>
@@ -19,7 +19,7 @@ export default function SEO({ title = null, description = "Der Podcast für Pole
     )}
 
     <meta name="og:title" content={title} />
-    <meta name="og:description" content="description" />
+    <meta name="og:description" content={description} />
 
     {ogImage && (
       <>
