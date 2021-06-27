@@ -3,12 +3,13 @@ title: Unterstützen
 blocks:
   - type: richtext
     richtext: >-
-      ## Liebe Hörerinnen und Hörer 
+      ## Liebe Hörerinnen und Hörer
 
 
-      \
+      Seit September 2016 ist "Neues vom Ballaballa-Balkan" auf Sendung. Mindestens einmal im Monat sprechen wir über Politik, Kultur, Sport und vieles Mehr, das irgendeinen Bezug zum Balkan aufweist.
 
-      Seit September 2016 ist "Neues vom Ballaballa-Balkan" auf Sendung. Mindestens einmal im Monat sprechen wir über Politik, Kultur, Sport und vieles Mehr, das irgendeinen Bezug zum Balkan aufweist.\
+
+      [Unterstütze uns bei Stead](https://steadyhq.com/en/neuesvomballaballabalkan)[y](https://www.paypal.com/donate?hosted_button_id=5XG4BHCCM2GPC) oder [via Paypal](https://www.paypal.com/donate?hosted_button_id=5XG4BHCCM2GPC)\
 
       \
 
@@ -20,8 +21,11 @@ blocks:
 
       \
 
-      Zum Beispiel hoffen wir in Zukunft mit Eurer Unterstützung, des Öfteren nicht nur über den Balkan zu berichten, sondern wenn notwendig auch von dort. Wir sammeln also schon mal etwas Geld für einen Balkantrip, nachdem wir Corona endlich besiegt haben. 
+      Zum Beispiel hoffen wir in Zukunft mit Eurer Unterstützung, des Öfteren nicht nur über den Balkan zu berichten, sondern wenn notwendig auch von dort. Wir sammeln also schon mal etwas Geld für einen Balkantrip, nachdem wir Corona endlich besiegt haben.
 
 
       [Unterstütze uns bei Steady](https://steadyhq.com/en/neuesvomballaballabalkan)
+
+
+      [Unterstütze uns via Paypal](https://www.paypal.com/donate?hosted_button_id=5XG4BHCCM2GPC)
 ---
