@@ -45,7 +45,7 @@ collections:
           name: "og_image"
           widget: "image"
           hint:
-            "Das Bild sollte 1200x600px als Abmessung haben."
+            "Das Bild sollte 1200x600px als Abmessung haben. Wenn kein Bild eingegeben wurde, wird das Coverbild als Vorschau verwendet. Von allen Bildern, die flacher als 3:2 im Format sind, werden Ausschnitte aus der Bildmitte verwendet."
           required: false
 
         - label: "Bild Caption"
