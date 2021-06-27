@@ -9,7 +9,7 @@ blocks:
       Seit September 2016 ist "Neues vom Ballaballa-Balkan" auf Sendung. Mindestens einmal im Monat sprechen wir über Politik, Kultur, Sport und vieles Mehr, das irgendeinen Bezug zum Balkan aufweist.
 
 
-      [Unterstütze uns bei Stead](https://steadyhq.com/en/neuesvomballaballabalkan)[y](https://www.paypal.com/donate?hosted_button_id=5XG4BHCCM2GPC) oder [via Paypal](https://www.paypal.com/donate?hosted_button_id=5XG4BHCCM2GPC)\
+      [Unterstütze uns bei Steady](https://steadyhq.com/en/neuesvomballaballabalkan) oder [via Paypal](https://www.paypal.com/donate?hosted_button_id=5XG4BHCCM2GPC)\
 
       \
 
