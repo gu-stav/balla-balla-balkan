@@ -18,7 +18,7 @@ const Header = ({
       </Link>
 
       <Link href="/">
-        <a>
+        <a aria-label="Zur Ballaballa-Balkan Startseite">
           <Logo />
         </a>
       </Link>

@@ -1,6 +1,7 @@
+const withFonts = require('next-fonts');
 const withPlugins = require('next-compose-plugins');
 
-module.exports = withPlugins([], {
+module.exports = withPlugins([withFonts()], {
   async redirects() {
     const redirects = require('./redirects.json');
 
@@ -9,7 +10,7 @@ module.exports = withPlugins([], {
         return null;
       }
 
-      console.log(`Create redirect: ${source} -> ${destination}`);
+      console.log(`Redirect: ${source} > ${destination}`);
 
       return {
         source,
@@ -19,7 +20,9 @@ module.exports = withPlugins([], {
     }).filter(Boolean);
   },
 
-  future: {
-    webpack5: true
-  }
+  webpack5: true,
+
+  eslint: {
+    ignoreDuringBuilds: true,
+  },
 });

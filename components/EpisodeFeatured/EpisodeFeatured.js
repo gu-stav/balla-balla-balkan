@@ -40,6 +40,7 @@ const EpisodeFeatured = ({
               objectFit="cover"
               layout="fill"
               className={styles.backgroundImage}
+              alt=""
             />
           </div>
         </div>
@@ -59,7 +60,7 @@ const EpisodeFeatured = ({
         </div>
 
         <div className={styles.imageContainer}>
-          <Image src={image} width={340} height={340} objectFit="cover" />
+          <Image src={image} width={340} height={340} objectFit="cover" alt="" />
         </div>
 
         <Stack

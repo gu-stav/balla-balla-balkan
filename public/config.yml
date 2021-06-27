@@ -2,7 +2,7 @@ backend:
   name: github
   branch: master
   repo: gustavpursche/balla-balla-balkan
-  base_url: https://neu.ballaballa-balkan.de
+  base_url: https://ballaballa-balkan.de
   auth_endpoint: api/auth
 
 media_folder: public/images/upload
