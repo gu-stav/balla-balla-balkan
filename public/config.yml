@@ -41,18 +41,10 @@ collections:
           widget: "image"
           required: true
 
-        - label: "Social Media Vorschau"
-          name: "og_image"
-          widget: "image"
-          hint:
-            "Das Bild sollte 1200x600px als Abmessung haben. Wenn kein Bild eingegeben wurde, wird das Coverbild als Vorschau verwendet. Von allen Bildern, die flacher als 3:2 im Format sind, werden Ausschnitte aus der Bildmitte verwendet."
-          required: false
-
         - label: "Bild Caption"
           name: "image_caption"
           widget: "string"
           required: false
-
 
         - label: "Apple Link"
           name: "apple_link"
@@ -96,6 +88,27 @@ collections:
                     - "bulleted-list"
                   modes:
                     - "rich_text"
+
+        - label: "Social Media Vorschau Bild"
+          name: "og_image"
+          widget: "image"
+          hint:
+            "Das Bild sollte 1200x600px als Abmessung haben. Wenn kein Bild eingegeben wurde, wird das Coverbild als Vorschau verwendet. Von allen Bildern, die flacher als 3:2 im Format sind, werden Ausschnitte aus der Bildmitte verwendet."
+          required: false
+
+        - label: "Social Media Titel"
+          name: "og_title"
+          widget: "string"
+          hint:
+            "Überschreibt den Titel der Episode für die Vorschau auf Twitter und Facebook. Der Titel sollte so kurz wie möglich sein."
+          required: false
+
+        - label: "Social Media Beschreibung"
+          name: "og_description"
+          widget: "string"
+          hint:
+            "Überschreibt die Einleitung der Episode für die Vorschau auf Twitter und Facebook. Die Beschreibung sollte so kurz wie möglich sein."
+          required: false
 
   - name: "authors"
     label: "Autoren"
