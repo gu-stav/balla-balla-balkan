@@ -64,7 +64,7 @@ async function resizeImage(url, size) {
   return await sharp(imageBuffer)
     .resize(...getSize(size), {
       fit: getImageFit(dimensions?.width, dimensions?.height),
-      background: { r: 255, g: 255, b: 255 }
+      background: { r: 254, g: 111, b: 94 }
     })
     .toFormat(getImageMimeType(url))
     .toBuffer();
