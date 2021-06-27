@@ -8,6 +8,8 @@ backend:
 media_folder: public/images/upload
 public_folder: /images/upload
 
+publish_mode: editorial_workflow
+
 collections:
   - name: "episodes"
     label: "Episoden"
