@@ -1,5 +1,5 @@
 import { serializeError } from 'serialize-error';
-import imageSize from 'request-image-size';
+import sizeOf from 'buffer-image-size';
 import path from 'path';
 import sharp from 'sharp';
 
@@ -54,13 +54,16 @@ function getImageMimeType(url) {
   return filename.split('.').pop().toLocaleLowerCase();
 }
 
-async function resizeImage(url, size) {
-  const imageBuffer = await fetch(url).then((res) => res.arrayBuffer());
-  const imgSize = await imageSize(url);
 
-  return await sharp(Buffer.from(imageBuffer))
+async function resizeImage(url, size) {
+  const image = await fetch(url)
+    .then((res) => res.arrayBuffer());
+  const imageBuffer = Buffer.from(image);
+  const dimensions = sizeOf(imageBuffer);
+
+  return await sharp(imageBuffer)
     .resize(...getSize(size), {
-      fit: getImageFit(imgSize?.width, imgSize?.height),
+      fit: getImageFit(dimensions?.width, dimensions?.height),
       background: { r: 255, g: 255, b: 255 }
     })
     .toFormat(getImageMimeType(url))

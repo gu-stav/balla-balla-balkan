@@ -19,6 +19,7 @@
   "homepage": "https://ballaballa-balkan.de",
   "dependencies": {
     "@reach/slider": "^0.15.0",
+    "buffer-image-size": "^0.6.4",
     "classnames": "^2.3.1",
     "eslint": "^7.29.0",
     "eslint-plugin-import": "^2.23.4",
@@ -38,7 +39,6 @@
     "react-dom": "^17.0.2",
     "react-load-script": "0.0.6",
     "react-markdown": "^5.0.3",
-    "request-image-size": "^2.2.0",
     "serialize-error": "^8.1.0",
     "sharp": "^0.28.3",
     "simple-oauth2": "^2.5.2",
