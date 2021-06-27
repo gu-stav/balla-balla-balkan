@@ -20,5 +20,9 @@ module.exports = withPlugins([withFonts()], {
     }).filter(Boolean);
   },
 
-  webpack5: true
+  webpack5: true,
+
+  eslint: {
+    ignoreDuringBuilds: true,
+  },
 });
