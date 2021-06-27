@@ -47,11 +47,15 @@ function getImageFit(width, height) {
   return value;
 }
 
-async function resizeImage(url, size) {
-  const imageBuffer = await fetch(url).then((res) => res.arrayBuffer());
+function getImageMimeType(url) {
   const parsedUrl = new URL(url);
   const filename = path.extname(parsedUrl.pathname);
-  const filenameWithoutDot = filename.split('.').pop();
+
+  return filename.split('.').pop().toLocaleLowerCase();
+}
+
+async function resizeImage(url, size) {
+  const imageBuffer = await fetch(url).then((res) => res.arrayBuffer());
   const imgSize = await imageSize(url);
 
   return await sharp(Buffer.from(imageBuffer))
@@ -59,7 +63,7 @@ async function resizeImage(url, size) {
       fit: getImageFit(imgSize?.width, imgSize?.height),
       background: { r: 255, g: 255, b: 255 }
     })
-    .toFormat(filenameWithoutDot)
+    .toFormat(getImageMimeType(url))
     .toBuffer();
 }
 
@@ -77,7 +81,7 @@ export default async function handler(req, res) {
           'Cache-Control',
           `max-age=${60 * 60 * 24 * 30}, public, immutable`
         );
-        res.setHeader('Content-Type', 'image/jpg');
+        res.setHeader('Content-Type', `image/${getImageMimeType(url)}`);
         res.status(200).send(image);
       } else {
         throw new Error('The size parameter is invalid.');
