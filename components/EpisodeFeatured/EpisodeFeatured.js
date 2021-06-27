@@ -31,7 +31,7 @@ const EpisodeFeatured = ({
   const { setEpisode } = usePlayer();
 
   return (
-    <section className={styles.section}>
+    <section className={styles.section} id="featured">
       {backgroundImage && (
         <div className={styles.backgroundImageContainer}>
           <div className={styles.backgroundImageInnerContainer}>
