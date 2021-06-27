@@ -20,7 +20,7 @@ function isValidURL(url) {
   const { hostname } = new URL(url);
   const ALLOWED_HOSTS = [
     'localhost',
-    'ballaballa-balkan'
+    'ballaballa-balkan.de'
   ];
 
   return hostname.endsWith('gustavpursche.vercel.app') || ALLOWED_HOSTS.includes(hostname);
