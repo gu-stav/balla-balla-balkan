@@ -39,6 +39,13 @@ collections:
           widget: "image"
           required: true
 
+        - label: "Social Media Vorschau"
+          name: "og_image"
+          widget: "image"
+          hint:
+            "Das Bild sollte 1200x600px als Abmessung haben."
+          required: false
+
         - label: "Bild Caption"
           name: "image_caption"
           widget: "string"
