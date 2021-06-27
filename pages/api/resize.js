@@ -23,7 +23,7 @@ function isValidURL(url) {
     'ballaballa-balkan'
   ];
 
-  return hostname.endsWith('ballaballa-balkan.vercel.app') || ALLOWED_HOSTS.includes(hostname);
+  return hostname.endsWith('gustavpursche.vercel.app') || ALLOWED_HOSTS.includes(hostname);
 }
 
 function getImageFit(width, height) {
