@@ -16,7 +16,7 @@ const HomePage = ({ authors, episodes, settings }) => {
 
   return (
     <Layout footerMargin={false}>
-      <SEO ogImage={settings?.image} />
+      <SEO ogImage="/images/og-logo.png" />
 
       <Stack center>
         <EpisodeFeatured
