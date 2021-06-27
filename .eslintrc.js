@@ -5,11 +5,7 @@ module.exports = {
     node: true,
   },
   extends: [
-    "eslint:recommended",
-    "plugin:react/recommended",
-    "airbnb",
-    "plugin:prettier/recommended",
-    "plugin:prettier/react",
+    "next"
   ],
   parserOptions: {
     ecmaFeatures: {

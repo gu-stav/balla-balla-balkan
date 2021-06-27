@@ -6,7 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint '**/*.js' --fix",
+    "lint": "next lint",
     "format": "prettier --write './**/*.{js,jsx,ts,tsx,css,md,json}'"
   },
   "repository": {
@@ -57,6 +57,7 @@
     ]
   },
   "devDependencies": {
+    "eslint-config-next": "^11.0.1",
     "eslint-config-prettier": "^8.3.0"
   }
 }
