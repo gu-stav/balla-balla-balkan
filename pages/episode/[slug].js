@@ -13,7 +13,7 @@ const EpisodePage = ({
   settings,
 }) => (
   <Layout>
-    <SEO title={title} description={excerpt} ogImage={og_image} />
+    <SEO title={title} description={excerpt} ogImage={og_image || image} />
 
     <Stack gap="tiny" center>
       <EpisodeFeatured

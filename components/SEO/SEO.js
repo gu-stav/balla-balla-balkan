@@ -1,6 +1,9 @@
 import Head from 'next/head';
 
 export default function SEO({ title = null, description = "Der Podcast für Polemik und Palaver vom Ballaballa-Balkan. Mit dem grimmigen „Kroaten“ Danijel Majić und dem Nationalismusbehinderten Krsto Lazarević.", ogImage }) {
+  const vercelUrl = process.env.NEXT_PUBLIC_VERCEL_URL ? (`https://${process.env.NEXT_PUBLIC_VERCEL_ENV === 'production' ? 'ballaballa-balkan.de' : process.env.NEXT_PUBLIC_VERCEL_URL}`) : 'http://localhost:3000';
+  const resizeBaseUrl = `${vercelUrl}/api/resize?url=${vercelUrl}${ogImage}`;
+
   return <Head>
     <title>
       {title ? `${title} | Ballaballa-Balkan Podcast` : 'Neues vom Ballaballa-Balkan'}
@@ -15,7 +18,7 @@ export default function SEO({ title = null, description = "Der Podcast für Pole
     {ogImage && (
       <>
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:image" content={ogImage} />
+        <meta name="twitter:image" content={`${resizeBaseUrl}&size=twitter`} />
       </>
     )}
 
@@ -24,7 +27,7 @@ export default function SEO({ title = null, description = "Der Podcast für Pole
 
     {ogImage && (
       <>
-        <meta name="og:image" content={ogImage} />
+        <meta name="og:image" content={`${resizeBaseUrl}&size=facebook`} />
       </>
     )}
   </Head>
