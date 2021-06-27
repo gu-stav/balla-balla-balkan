@@ -24,7 +24,6 @@ const HomePage = ({ authors, episodes, settings }) => {
           title={featuredEpisode.title}
           image={featuredEpisode.image}
           path={featuredEpisode.path}
-          image={featuredEpisode.image}
           externalLinks={featuredEpisode.externalLinks}
           backgroundImage={settings?.image}
           number={featuredEpisode.number}
