@@ -10,6 +10,7 @@ export default function SEO({ title = null, description = "Der Podcast für Pole
 
     <meta name="twitter:title" content={title} />
     <meta name="twitter:description" content={description} />
+    <meta name="twitter:site" content="ballaballablkn" />
 
     {ogImage && (
       <>
