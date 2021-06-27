@@ -10,7 +10,7 @@ module.exports = withPlugins([withFonts()], {
         return null;
       }
 
-      console.log(`Create redirect: ${source} -> ${destination}`);
+      console.log(`Redirect: ${source} > ${destination}`);
 
       return {
         source,
@@ -20,7 +20,5 @@ module.exports = withPlugins([withFonts()], {
     }).filter(Boolean);
   },
 
-  future: {
-    webpack5: true
-  }
+  webpack5: true
 });
