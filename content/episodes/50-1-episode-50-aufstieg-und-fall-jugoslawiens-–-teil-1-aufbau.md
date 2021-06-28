@@ -1,7 +1,7 @@
 ---
 number: "50.1"
 publication_at: 2021-06-28T18:41:59.207Z
-title: "Episode 50: Aufstieg und Fall Jugoslawiens – Teil 1: Aufbau"
+title: "Aufstieg und Fall Jugoslawiens – Teil 1: Aufbau"
 image: /images/upload/sfrj_yugoslavia_grunge_flag_3_0_by_syndikata_np-d5qmzun.jpg
 soundcloud_link: https://soundcloud.com/user-89524652/episode-50-aufstieg-und-fall-jugoslawiens-teil-1-aufbau
 excerpt: Neues vom Ballaballa-Balkan feiert sei erstes großes Jubiläum. 50
