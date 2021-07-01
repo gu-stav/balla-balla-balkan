@@ -1,8 +1,10 @@
 ---
 number: "50.1"
 publication_at: 2021-06-28T18:41:59.207Z
-title: "Aufstieg und Fall Jugoslawiens – Teil 1: Aufbau"
+title: "Episode 50: Aufstieg und Fall Jugoslawiens – Teil 1: Aufbau"
 image: /images/upload/sfrj_yugoslavia_grunge_flag_3_0_by_syndikata_np-d5qmzun.jpg
+apple_link: https://podcasts.apple.com/de/podcast/episode-50-aufstieg-und-fall-jugoslawiens-teil-1-aufbau/id1170436903?i=1000527167654
+spotify_link: https://open.spotify.com/episode/6vLk9u2TTQ0i6CZoMEFOFL?si=8c680106a9b74ada
 soundcloud_link: https://soundcloud.com/user-89524652/episode-50-aufstieg-und-fall-jugoslawiens-teil-1-aufbau
 excerpt: Neues vom Ballaballa-Balkan feiert sei erstes großes Jubiläum. 50
   Episoden haben Krsto und Danijel bislang zu Stande gebracht.
