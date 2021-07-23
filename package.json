@@ -18,10 +18,10 @@
   "license": "ISC",
   "homepage": "https://ballaballa-balkan.de",
   "dependencies": {
-    "@reach/slider": "^0.15.0",
+    "@reach/slider": "^0.15.3",
     "buffer-image-size": "^0.6.4",
     "classnames": "^2.3.1",
-    "eslint": "^7.29.0",
+    "eslint": "^7.31.0",
     "eslint-plugin-import": "^2.23.4",
     "eslint-plugin-jsx-a11y": "^6.4.1",
     "eslint-plugin-prettier": "^3.4.0",
@@ -29,9 +29,9 @@
     "eslint-plugin-react-hooks": "^4.2.0",
     "gray-matter": "^4.0.3",
     "husky": "^6.0.0",
-    "lint-staged": "^11.0.0",
-    "netlify-cms-app": "^2.15.20",
-    "next": "^11.0.1",
+    "lint-staged": "^11.1.0",
+    "netlify-cms-app": "^2.15.28",
+    "next": "^11.0.2-canary.20",
     "next-compose-plugins": "^2.2.1",
     "next-fonts": "^1.5.1",
     "prettier": "^2.3.2",
@@ -42,7 +42,7 @@
     "serialize-error": "^8.1.0",
     "sharp": "^0.28.3",
     "simple-oauth2": "^2.5.2",
-    "slugify": "^1.5.3"
+    "slugify": "^1.6.0"
   },
   "husky": {
     "hooks": {
