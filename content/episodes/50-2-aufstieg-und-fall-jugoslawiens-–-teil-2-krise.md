@@ -46,6 +46,6 @@ blocks:
       * Dickes Brett #10: [Franziska Grillmeier zur Situation auf Lesbo](https://erik-marquardt.eu/podcasts/dickes-brett-10-franziska-grillmeier-zur-situation-auf-lesbos/)s
 og_image: /images/upload/burnedflag.jpg
 og_title: "Jugoslawien – Teil 2: Krise"
-og_description: "Diesmal geht es um die Krisenerscheinungen, die zum Zerfall
-  Jugoslawiens beigetragen haben. "
+og_description: "In dieser Episode geht es um die Krisenerscheinungen, die zum
+  Zerfall Jugoslawiens beigetragen haben. "
 ---
