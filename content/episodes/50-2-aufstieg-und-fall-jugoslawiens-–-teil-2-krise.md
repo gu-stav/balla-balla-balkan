@@ -9,8 +9,16 @@ soundcloud_link: https://soundcloud.com/user-89524652/episode-502-aufstieg-und-f
 excerpt: Es geht weiter mit unserem großen Jubiläums-Dreierpack.
 blocks:
   - type: richtext
-    richtext: >-2
-       Nachdem Krsto und Danijel im ersten Teil erklärt haben, was das sozialistische Jugoslawien besonders und bemerkenswert machte, gehen sie im zweiten Teil der Frage nach, was eigentlich die großen Probleme dieses Staatsgebildes waren. Und wie sich bei näherer Betrachtung zeigt, sind es sehr oft gerade die Besonderheiten, die jene Probleme verursacht haben, mit denen das zweite Jugoslawien zeit seines Bestehens zu kämpfen hatte – und die möglicherweise bereits die Grundlage für den späteren Verfall legten. 
+    richtext: >-
+      Nachdem Krsto und Danijel im ersten Teil erklärt haben, was das
+      sozialistische Jugoslawien besonders und bemerkenswert machte, gehen sie
+      im zweiten Teil der Frage nach, was eigentlich die großen Probleme dieses
+      Staatsgebildes waren. Und wie sich bei näherer Betrachtung zeigt, sind es
+      sehr oft gerade die Besonderheiten, die jene Probleme verursacht haben,
+      mit denen das zweite Jugoslawien zeit seines Bestehens zu kämpfen hatte –
+      und die möglicherweise bereits die Grundlage für den späteren Verfall
+      legten. 
+
 
       Es geht also um die Schwächen der Arbeiterselbstverwaltung, um die Hypothek von Nachkriegsverbrechen und immer wieder um das mehr oder minder erfolgreiche Bemühen um den Ausgleich zwischen den Interessen der einzelnen Teilrepubliken und Regionen. Es lief also beileibe auch schon vor der großen Krise in den 80ern nicht alles rund in Jugoslawien. Und weil sich unsere beiden Moderatoren nicht nur auf ihre eigene Expertise verlassen wollen, haben sie die Historikerin Marie-Janine Calic um die eine oder andere Einschätzung gebeten.
 
