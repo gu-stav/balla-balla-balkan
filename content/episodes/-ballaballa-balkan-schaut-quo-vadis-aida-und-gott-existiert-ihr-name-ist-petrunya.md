@@ -6,7 +6,7 @@ image: /images/upload/quo-vadis-aida.jpg
 apple_link: https://podcasts.apple.com/de/podcast/ballaballa-balkan-schaut-quo-vadis-aida-und-gott-existiert/id1170436903?i=1000531032485
 spotify_link: https://open.spotify.com/episode/1YmvNJ1eYW8RMKnJEJjOns?si=fa682f84f26e44e2
 soundcloud_link: https://soundcloud.com/user-89524652/ballaballa-balkan-schaut-quo-vadis-aida-und-gott-existiert-ihr-name-ist-petrunya
-excerpt: "In dieser kurzen Episode stellt Krsto euch zwei Filme vor. "
+excerpt: In dieser kurzen Episode stellt Krsto euch zwei Filme vor.
 blocks:
   - type: richtext
     richtext: >-
