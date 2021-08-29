@@ -1,7 +1,7 @@
 ---
 number: "50.3"
 publication_at: 2021-08-29T21:23:05.837Z
-title: "Episode 50.3 – Aufstieg und Fall Jugoslawiens – Teil 3: Zerfall"
+title: "Aufstieg und Fall Jugoslawiens – Teil 3: Zerfall"
 image: /images/upload/jugoslawien_50.3.jpg
 apple_link: https://podcasts.apple.com/de/podcast/episode-50-3-aufstieg-und-fall-jugoslawiens-teil-3-zerfall/id1170436903?i=1000533476492
 spotify_link: https://open.spotify.com/episode/0yO1UdEMwuwancom6x7Xr0?si=93c6e54994b14a13
