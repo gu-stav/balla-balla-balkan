@@ -51,5 +51,5 @@ blocks:
 og_image: /images/upload/jugoslawien_50.3.jpg
 og_title: "Aufstieg und Fall Jugoslawiens – Teil 3: Zerfall"
 og_description: "Jetzt sind wir endgültig am Ende...also zumindest was unseren
-  Dreiteiler zum Aufstieg und Fall Jugoslawiens angeht. "
+  Dreiteiler angeht. "
 ---
