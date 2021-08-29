@@ -6,8 +6,7 @@ image: /images/upload/jugoslawien_50.3.jpg
 apple_link: https://podcasts.apple.com/de/podcast/episode-50-3-aufstieg-und-fall-jugoslawiens-teil-3-zerfall/id1170436903?i=1000533476492
 spotify_link: https://open.spotify.com/episode/0yO1UdEMwuwancom6x7Xr0?si=93c6e54994b14a13
 soundcloud_link: https://soundcloud.com/user-89524652/episode-503-aufstieg-und-fall-jugoslawiens-teil-3-zerfall
-excerpt: Jetzt sind wir endgültig am Ende...also zumindest was unseren großen
-  Dreiteiler zum Aufstieg und Fall Jugoslawiens angeht.
+excerpt: ""
 blocks:
   - type: richtext
     richtext: >-
