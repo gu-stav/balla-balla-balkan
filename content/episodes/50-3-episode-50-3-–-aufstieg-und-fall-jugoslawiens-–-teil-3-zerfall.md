@@ -49,8 +49,7 @@ blocks:
 
       * [Chinesen bauen Brücke in Kroatien, die EU bezahlt](https://www.faz.net/aktuell/wirtschaft/kroatien-china-baut-peljesac-bruecke-und-die-eu-zahlt-17461739.html) (FAZ)
 og_image: /images/upload/jugoslawien_50.3.jpg
-og_title: "Jetzt sind wir endgültig am Ende...also zumindest was unseren großen
-  Dreiteiler zum Aufstieg und Fall Jugoslawiens angeht. "
+og_title: "Aufstieg und Fall Jugoslawiens – Teil 3: Zerfall"
 og_description: "Jetzt sind wir endgültig am Ende...also zumindest was unseren
-  großen Dreiteiler zum Aufstieg und Fall Jugoslawiens angeht. "
+  Dreiteiler zum Aufstieg und Fall Jugoslawiens angeht. "
 ---
