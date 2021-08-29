@@ -48,6 +48,8 @@ blocks:
       * [Von Kabul in den Kosovo ](https://www.profil.at/meinung/franziska-tschinderle-von-kabul-in-den-kosovo/401485171)(Kommentar zu Aufnahme afghanischer Geflüchteter durch Albanien und Kosovo im Profil) 
 
       * [Chinesen bauen Brücke in Kroatien, die EU bezahlt](https://www.faz.net/aktuell/wirtschaft/kroatien-china-baut-peljesac-bruecke-und-die-eu-zahlt-17461739.html) (FAZ)
+
+      * [Montenegro: Proteste gegen serbisch-orthodoxe Kirche](https://religion.orf.at/stories/3208289/) (ORF)
 og_image: /images/upload/jugoslawien_50.3.jpg
 og_title: "Aufstieg und Fall Jugoslawiens – Teil 3: Zerfall"
 og_description: "Jetzt sind wir endgültig am Ende...also zumindest was unseren
