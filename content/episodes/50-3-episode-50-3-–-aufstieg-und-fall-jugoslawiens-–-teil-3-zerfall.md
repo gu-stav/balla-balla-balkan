@@ -26,8 +26,6 @@ blocks:
       Nebenbei erfahrt ihr noch, wie es kroatischen Geschichtsrevisionisten gelungen ist, einen Artikel in der Jerusalem Post zu platzieren, der die Verbrechen der Ustascha in Abrede stellt, warum in Montenegro wieder demonstriert wird und warum man den Slowenen an vielem die Schuld geben kann aber nicht am Zerfall Jugoslawiens.... oder zumindest nicht nur ihnen.
 
 
-
-
       **Shownotes** 
 
 
@@ -38,6 +36,8 @@ blocks:
       * [Geschichte Jugoslawiens im 20. Jahrhundert](https://www.chbeck.de/calic-janine-geschichte-jugoslawiens-20-jahrhundert/product/32095) (Marie-Janine Calic, C.H. Beck, 415 S.)
 
       * [Dodik: Issues in BiH should be solved with help of Erdogan, Vucic, Milanovic ](https://rs.n1info.com/english/news/dodik-issues-in-bih-should-be-solved-with-help-of-erdogan-vucic-milanovic/)(N1) 
+
+      * [Danijels Thread zur Relativierung von Ustascha-Verbrechen in der Jerusalem Post ](https://twitter.com/DanijelMajic/status/1428830962364858368)
 
       * [The Serb "truth commissions" and their Israeli helpers ](https://www.haaretz.com/world-news/.premium-abusing-the-holocaust-to-deny-genocide-serb-nationalists-and-their-israeli-helpers-1.10098782)(Aleksandar Brezar in Haaretz) 
 
