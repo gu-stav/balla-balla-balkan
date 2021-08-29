@@ -6,8 +6,8 @@ image: /images/upload/jugoslawien_50.3.jpg
 apple_link: https://podcasts.apple.com/de/podcast/episode-50-3-aufstieg-und-fall-jugoslawiens-teil-3-zerfall/id1170436903?i=1000533476492
 spotify_link: https://open.spotify.com/episode/0yO1UdEMwuwancom6x7Xr0?si=93c6e54994b14a13
 soundcloud_link: https://soundcloud.com/user-89524652/episode-503-aufstieg-und-fall-jugoslawiens-teil-3-zerfall
-excerpt: "Jetzt sind wir endgültig am Ende...also zumindest was unseren großen
-  Dreiteiler zum Aufstieg und Fall Jugoslawiens angeht. "
+excerpt: Jetzt sind wir endgültig am Ende...also zumindest was unseren großen
+  Dreiteiler zum Aufstieg und Fall Jugoslawiens angeht.
 blocks:
   - type: richtext
     richtext: >-
@@ -25,6 +25,30 @@ blocks:
 
 
       Nebenbei erfahrt ihr noch, wie es kroatischen Geschichtsrevisionisten gelungen ist, einen Artikel in der Jerusalem Post zu platzieren, der die Verbrechen der Ustascha in Abrede stellt, warum in Montenegro wieder demonstriert wird und warum man den Slowenen an vielem die Schuld geben kann aber nicht am Zerfall Jugoslawiens.... oder zumindest nicht nur ihnen.
+
+
+
+
+      **Shownotes** 
+
+
+      * [Yubilej - EU i Jugoslavija](https://pescanik.net/yubilej-eu-i-jugoslavija/) (Dejan Jović in Peščanik) 
+
+      * [Yugoslavija: A state that Withered away ](https://www.amazon.de/Yugoslavia-Withered-Central-European-Studies/dp/1557534950)(Dejan Jović) 
+
+      * [Geschichte Jugoslawiens im 20. Jahrhundert](https://www.chbeck.de/calic-janine-geschichte-jugoslawiens-20-jahrhundert/product/32095) (Marie-Janine Calic, C.H. Beck, 415 S.)
+
+      * [Dodik: Issues in BiH should be solved with help of Erdogan, Vucic, Milanovic ](https://rs.n1info.com/english/news/dodik-issues-in-bih-should-be-solved-with-help-of-erdogan-vucic-milanovic/)(N1) 
+
+      * [The Serb "truth commissions" and their Israeli helpers ](https://www.haaretz.com/world-news/.premium-abusing-the-holocaust-to-deny-genocide-serb-nationalists-and-their-israeli-helpers-1.10098782)(Aleksandar Brezar in Haaretz) 
+
+      * [Calling ](https://podcasts.apple.com/be/podcast/calling/id1582613511)- der neue Podcast von Aleksandar Brezar 
+
+      * [Drei Balkanstaaten nehmen Geflüchtete aus Afghanistan auf ](https://www.tagesschau.de/ausland/europa/westbalkan-fluechtlinge-101.html)(Tagesschau) 
+
+      * [Von Kabul in den Kosovo ](https://www.profil.at/meinung/franziska-tschinderle-von-kabul-in-den-kosovo/401485171)(Kommentar zu Aufnahme afghanischer Geflüchteter durch Albanien und Kosovo im Profil) 
+
+      * [Chinesen bauen Brücke in Kroatien, die EU bezahlt](https://www.faz.net/aktuell/wirtschaft/kroatien-china-baut-peljesac-bruecke-und-die-eu-zahlt-17461739.html) (FAZ)
 og_image: /images/upload/jugoslawien_50.3.jpg
 og_title: "Jetzt sind wir endgültig am Ende...also zumindest was unseren großen
   Dreiteiler zum Aufstieg und Fall Jugoslawiens angeht. "
