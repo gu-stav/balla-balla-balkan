@@ -52,6 +52,6 @@ blocks:
       * [Montenegro: Proteste gegen serbisch-orthodoxe Kirche](https://religion.orf.at/stories/3208289/) (ORF)
 og_image: /images/upload/jugoslawien_50.3.jpg
 og_title: "Jugoslawien – Teil 3: Zerfall"
-og_description: "Wir sind endgültig am Ende ... also mit unserem großen
+og_description: "Jetzt sind wir endgültig am Ende ... also mit unserem großen
   Dreiteiler zu Jugoslawien "
 ---
