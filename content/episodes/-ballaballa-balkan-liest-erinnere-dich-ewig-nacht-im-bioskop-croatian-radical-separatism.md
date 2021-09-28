@@ -2,7 +2,7 @@
 publication_at: 2021-09-24T22:11:32.542Z
 title: "Ballaballa-Balkan liest: Erinnere Dich ewig, Nacht im Bioskop, Croatian
   Radical Separatism"
-image: /images/upload/bbb-liest-tisma.jpg
+image: /images/upload/tisma-klein.jpg
 apple_link: https://podcasts.apple.com/de/podcast/ballaballa-balkan-liest-erinnere-dich-ewig-nacht-im/id1170436903?i=1000536530638
 spotify_link: https://open.spotify.com/episode/2KJf7gUlFaGvqhPWfqaLpN?si=7312204448f24a76
 soundcloud_link: https://soundcloud.com/user-89524652/ballaballa-balkan-liest-erinnere-dich-ewig-nacht-im-bioskop-croatian-radical-separatism
@@ -30,7 +30,7 @@ blocks:
 
 
       Mate Nikola Tokić: Croatian Radical Separatism and Diaspora Terrorism during the Cold War
-og_image: /images/upload/ballaballa-liest.jpg
+og_image: /images/upload/tisma-groß.jpg
 og_title: Ballaballa-Balkan liest
 og_description: Erinnere Dich ewig, Nacht im Bioskop, Croatian Radical Separatism
 ---
