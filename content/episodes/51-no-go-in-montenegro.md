@@ -29,6 +29,45 @@ blocks:
 
 
       Nebenbei erfahrt ihr den neuesten Gossip aus dem berühmt-berüchtigten Balkanforum, den Hintergrund der aktuellen Spannungen zwischen Kosovo und Serbien und warum Reisen nach Slowenien derzeit noch weniger zu empfehlen sind, als sonst...
+
+
+      **Shownotes** 
+
+
+      [Florian Bieber auf Twitter ](https://twitter.com/fbieber)
+
+
+      [Zentrum für Osteuropastudien in Graz ](https://suedosteuropa.uni-graz.at/de/)
+
+
+      [Proteste gegen neues Kirchenoberhaupt in Montenegro ](https://www.tagesschau.de/ausland/europa/proteste-montenegro-101.html)(tagesschau) 
+
+
+      [Wie Scharfmacher die Geschichte instrumentalisieren ](https://www.faz.net/aktuell/politik/ausland/in-montenegro-fuehrt-kirchenstreit-zu-gewaltausbruechen-17526163.html)(FAZ über den Kirchenkonflikt in Montenegro) 
+
+
+      [Krstos Potrait zu Jelena Đurović (Der Standard) ](<Krstos Potrait von Jelena Đurović (Der Standard)>)
+
+
+      [Serbien verlegt Truppen an die Grenze zu Montenegro](https://www.tagesschau.de/ausland/europa/serbien-kosovo-111.html) (tagesschau) 
+
+
+      [Konflikt zwischen Serbien und Kosovo](https://taz.de/Konflikt-zwischen-Serbien-und-Kosovo/!5800352/) (taz) 
+
+
+      [Tausende demonstrieren in Sarajevo wegen unaufgeklärter Verbrechen](https://www.faz.net/aktuell/politik/ausland/grossdemonstration-in-bosnien-wegen-unaufgeklaerter-verbrechen-17532934.html) (FAZ) 
+
+
+      [Bosniens toter Junge - Krstos Reportage zum Tod von David Dragičević](https://www.republik.ch/2018/11/12/bosniens-toter-junge) (Republik) 
+
+
+      [Bosnische Serben wollen eigene Armee](https://www.dw.com/de/bosnische-serben-wollen-eigene-armee/a-59340390) (Deutsche Welle) 
+
+
+      [Slowenien wird Corona-Hochrisikogebiet ](https://www.stern.de/reise/service/bundesregierung-stuft-slowenien-neu-als-hochrisikogebiet-ein-9554118.html)(Stern) 
+
+
+      [Aktuelle Coronazahlen weltweit mit Serbien und Montenegro weit oben](https://de.statista.com/statistik/daten/studie/1249197/umfrage/laender-mit-der-hoechsten-corona-7-tage-inzidenz-weltweit/) (Statista)
 og_image: /images/upload/1200x600-mne.jpg
 og_title: No-Go in Montenegro
 og_description: "Mit Florian Bieber erklären wir warum Geistliche aus
