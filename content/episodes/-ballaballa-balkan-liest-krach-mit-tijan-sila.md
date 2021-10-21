@@ -21,6 +21,6 @@ excerpt: >-
   Mit Tijan Sila sprechen wir darüber, wie Identitäten und Zugehörigkeit Ende der 90er verhandelt wurden und warum er neben Deutsch und Bosnisch auch auf Pfälzisch schreibt.
 og_image: /images/upload/tijan-sila_foto.jpg
 og_title: "Ballaballa-Balkan liest Krach mit Tijan Sila "
-og_description: "Tijan Sila über Krach, Zugehörigkeit und eine Jugend als
-  bosnischer Punk in der Pfalz. "
+og_description: "Tijan Sila über Krach, Baseballschlägerjahre und eine Jugend
+  als bosnischer Punk in der Pfalz. "
 ---
