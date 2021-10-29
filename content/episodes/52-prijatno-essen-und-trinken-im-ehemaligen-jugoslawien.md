@@ -22,14 +22,12 @@ blocks:
       Nebenbei erfahrt ihr, wieso Danijel manchmal serbische Restaurants kroatischen vorzieht, warum Krsto doch noch manchmal als Journalist arbeitet und was Alfred Biolek eigentlich zu jugoslawischer Küche zu sagen hatte.
 
 
-
-
       **Shownotes** 
 
 
       * [Samovino - Wein und Rakija aus Südosteuropa ](https://www.samovino.com/)
 
-      * [Mahlzeit Deutschland (ARD, 2009): Ab Minute 20 lästert Biolek über deutsche und jugoslawische Restaurants](<* https://www.youtube.com/watch?v=c8N9TBIwp3g&t=1216s>)
+      * [Mahlzeit Deutschland (ARD, 2009): Ab Minute 20 lästert Biolek über deutsche und jugoslawische Restaurants](https://www.youtube.com/watch?v=c8N9TBIwp3g&t=1216s)
 
       * [Kosovarische Boxer dürfen nicht zur Amateur-WM nach Belgrad](<* https://www.spiegel.de/sport/boxen-serbien-verwehrt-boxern-aus-kosovo-die-einreise-a-7560ad1a-98e7-474f-be7f-bc58376927cf>) (Spiegel) 
 
