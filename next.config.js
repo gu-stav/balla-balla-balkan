@@ -2,6 +2,10 @@ const withFonts = require('next-fonts');
 const withPlugins = require('next-compose-plugins');
 
 module.exports = withPlugins([withFonts()], {
+  images: {
+    formats: ['image/avif', 'image/webp']
+  },
+
   async redirects() {
     const redirects = require('./redirects.json');
 
@@ -19,8 +23,6 @@ module.exports = withPlugins([withFonts()], {
       }
     }).filter(Boolean);
   },
-
-  webpack5: true,
 
   eslint: {
     ignoreDuringBuilds: true,
