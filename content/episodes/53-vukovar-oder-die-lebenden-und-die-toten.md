@@ -19,12 +19,10 @@ blocks:
       Vukovar ist ein kroatisches Trauma. Heute zählt die Stadt nicht einmal mehr die Hälfte ihrer ursprünglichen Einwohnerschaft. In Kroatien hat sie den Status eines nationalen Heiligtums. Zugleich ist sie eine zutiefst gespaltene Gemeinde, in der Kroaten und Serben meistens eher nebeneinander her als miteinander leben.
 
 
-      Neues vom Ballaballa-Balkan hat Vukovar besucht, mit Leuten vor Ort gesprochen. Daher geht es in dieser Episode nicht nur um die Geschichte, sondern auch um die Gegenwart Vukovars - und warum beides nicht vonei[\* https://www.tagesschau.de/ausland/europa/bulgarien-praesidentenwahl-parlamentswahl-107.html](<* https://www.tagesschau.de/ausland/europa/bulgarien-praesidentenwahl-parlamentswahl-107.html>)nander zu trennen ist.
+      Neues vom Ballaballa-Balkan hat Vukovar besucht, mit Leuten vor Ort gesprochen. Daher geht es in dieser Episode nicht nur um die Geschichte, sondern auch um die Gegenwart Vukovars - und warum beides nicht vonei[](<* https://www.tagesschau.de/ausland/europa/bulgarien-praesidentenwahl-parlamentswahl-107.html>)nander zu trennen ist.
 
 
       Nebenbei erfahrt Ihr, warum Wandbilder bei Nationalisten auf dem Balkan so beliebt sind, wie die mittlerweile dritte Parlamentswahl in Bulgarien in diesem Jahr ausgegangen ist und wie man mit einer kleinen Kolumne nicht nur Patridioten, sondern auch die kroatische Regierung gegen sich aufbringt.
-
-
 
 
       **Shownotes**
