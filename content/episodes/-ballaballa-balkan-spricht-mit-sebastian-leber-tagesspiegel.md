@@ -22,8 +22,6 @@ blocks:
       In dieser Kurz-Episode spricht Danijel mit Sebastian Leber über das Erlebte, seine Recherchen und über die Hintergründe der Push-Backs.
 
 
-
-
       **Shownotes** 
 
 
@@ -31,6 +29,9 @@ blocks:
 
 
       [Sebastian Leber schreibt im Tagesspiegel über seine Festnahme (Paywall) ](https://plus.tagesspiegel.de/gesellschaft/wie-an-der-eu-aussengrenze-die-pressefreiheit-missachtet-wird-312349.html)
+
+
+      [Podcast von Erik Marquardt zur Lage von Flüchtenden in Bosnien-Herzegowina - Mit Krsto ](https://erik-marquardt.eu/podcasts/dickes-brett-13-lage-der-fluechtenden-in-bosnien-herzegowina-mit-krsto-lazarevic/)
 og_image: /images/upload/leber4.jpg
 og_title: "Interview mit dem Journalist Sebastian Leber, der in Kroatien
   festgenommen wurde "
