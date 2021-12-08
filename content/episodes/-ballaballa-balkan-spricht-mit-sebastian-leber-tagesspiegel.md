@@ -2,6 +2,7 @@
 publication_at: 2021-12-08T19:15:41.947Z
 title: "Ballaballa-Balkan spricht....mit Sebastian Leber (Tagesspiegel) "
 image: /images/upload/leber4.jpg
+apple_link: https://podcasts.apple.com/de/podcast/ballaballa-balkan-spricht-mit-sebastian-leber-tagesspiegel/id1170436903?i=1000544350216
 spotify_link: https://open.spotify.com/episode/0MRrySj3rnAbB1lylV7qcy?si=ad9b62c15359442a
 soundcloud_link: https://soundcloud.com/user-89524652/ballaballa-balkan-sprichtmit-sebastian-leber-tagesspiegel
 blocks:
