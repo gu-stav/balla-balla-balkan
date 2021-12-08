@@ -33,7 +33,7 @@ blocks:
 
       [Podcast von Erik Marquardt zur Lage von Flüchtenden in Bosnien-Herzegowina - Mit Krsto ](https://erik-marquardt.eu/podcasts/dickes-brett-13-lage-der-fluechtenden-in-bosnien-herzegowina-mit-krsto-lazarevic/)
 og_image: /images/upload/leber4.jpg
-og_title: "Interview mit dem Journalist Sebastian Leber, der in Kroatien
+og_title: "Gespräch mit dem Journalisten Sebastian Leber, der in Kroatien
   festgenommen wurde "
 og_description: "Eigentlich wollte Sebastian Leber nur seinen Job machen, doch
   dann nimmt ihn die kroatische Polizei fest und warf ihm Schleuserei vor. "
