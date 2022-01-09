@@ -20,11 +20,13 @@ blocks:
       serbische Volk. Ganz vorne dabei ist auch Noles Vater, der seinen Sohn mit
       Jesus verglich und in ihm nun den Führer der freien Welt sieht. 
 
+
+
       Das klingt völlig irre, aber überrascht nicht wirklich, wenn man sich Novak Đokovićs Aktionen und Äußerungen der vergangenen Jahre anschaut. Er pflegt eine Nähe zu Esoterikern, Alchemisten, Verschwörungsideologen, Nationalisten und einem Kriegsverbrecher. Wir haben uns das mal näher angeschaut und bei all dem Geschwurbel wurde uns etwas schwindlig im Kopf. 
 
+
+
       Außerdem erfahrt ihr, warum es zu Randalen bei den albanischen Konservativen kommt, das Kosovo das Schürfen von Kryptowährungen verbietet und wie der 30 Jahrestag der Republika Srpska in Bosnien-Herzegowina zur Glorifizierung eines Völkermordes genutzt wird. 
-
-
 
 
       **Shownotes**
