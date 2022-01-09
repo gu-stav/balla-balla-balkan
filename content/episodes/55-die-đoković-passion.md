@@ -59,7 +59,6 @@ blocks:
       * [Kosovo verbietet Schürfen von Kryptogeld](https://www.spiegel.de/wirtschaft/kosovo-verbietet-schuerfen-von-kryptogeld-a-cc2bfc25-4d1c-4eec-9035-75846c8d5de4) (Spiegel)
 og_image: /images/upload/titelnole2.jpg
 og_title: "Die Đoković-Passion  "
-og_description: "Der serbische Tennisstar will sich nicht impfen lassen und
-  pflegt eine große Nähe zu Alchemisten, Schwurblern, Esoterikern und
-  Kriegsverbrechern. "
+og_description: "Der serbische Impfgegner pflegt eine Nähe zu Nationalisten,
+  Schwurblern, Esoterikern und einem Kriegsverbrecher. "
 ---
