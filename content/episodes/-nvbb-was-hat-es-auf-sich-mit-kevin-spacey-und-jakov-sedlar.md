@@ -1,7 +1,7 @@
 ---
 publication_at: 2022-02-02T13:50:33.581Z
 title: "NvBB: Was hat es auf sich mit...Kevin Spacey und Jakov Sedlar "
-image: /images/upload/ballaballa_sedlar.jpg
+image: /images/upload/titelklein.jpg
 image_caption: ""
 apple_link: https://podcasts.apple.com/de/podcast/nvbb-was-hat-es-auf-sich-mit-kevin-spacey-und-jakov-sedlar/id1170436903?i=1000549770054
 spotify_link: https://open.spotify.com/episode/1CdopppnS2lKjTRX7CS0Wt?si=3e1620fe0b344a64
