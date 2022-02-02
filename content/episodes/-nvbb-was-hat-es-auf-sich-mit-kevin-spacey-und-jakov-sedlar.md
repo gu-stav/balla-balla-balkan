@@ -49,7 +49,7 @@ blocks:
 
       https://jungle.world/artikel/2016/19/im-namen-der-ustascha
 og_image: /images/upload/ballaballa_sedlar.jpg
-og_title: "Kevin Spacey spielt jetzt in einem kroatischen Film "
+og_title: "Kevin Spacey macht Film mit kroatischem Nationalisten "
 og_description: "Spacey arbeitet mit einem Regisseur zusammen, der Dokumente
   fälscht, um den Holocaust zu relativieren. "
 ---
