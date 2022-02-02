@@ -40,14 +40,9 @@ blocks:
 
       * [Croatian Propaganda Movie Wont\`t Revive Kevin Spacey\`s Career](https://balkaninsight.com/2022/01/17/croatian-propaganda-movie-wont-revive-kevin-spaceys-career/) (Balkan Insight) 
 
-      *
+      * [Kroatische Geschichtsfälschung auf der Leinwand ](https://www.fr.de/kultur/tv-kino/kroatische-geschichtsfaelschung-leinwand-11044704.html)(Danijels Artikel in der Frankfurter Rundschau) 
 
-      * # 
-        https://balkaninsight.com/2022/01/17/croatian-propaganda-movie-wont-revive-kevin-spaceys-career/
-
-      https://www.fr.de/kultur/tv-kino/kroatische-geschichtsfaelschung-leinwand-11044704.html
-
-      https://jungle.world/artikel/2016/19/im-namen-der-ustascha
+      * [Im Namen der Ustascha (Krstos Artikel in der Jungle World)](https://jungle.world/artikel/2016/19/im-namen-der-ustascha)
 og_image: /images/upload/ballaballa_sedlar.jpg
 og_title: "Kevin Spacey macht Film mit kroatischem Nationalisten "
 og_description: "Spacey arbeitet mit einem Regisseur zusammen, der Dokumente
