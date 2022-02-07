@@ -2,7 +2,7 @@
 number: "56"
 publication_at: 2022-02-07T00:50:43.807Z
 title: Jugoslawien Episode 1 – Das Königreich der Serben, Kroaten und Slowenen
-image: /images/upload/1280px-flag_of_yugoslavia_-1918–1941-.svg.png
+image: /images/upload/coat_of_arms_of_the_kingdom_of_yugoslavia.svg.png
 apple_link: https://podcasts.apple.com/de/podcast/episode-56-jugoslawien-episode-1-das-k%C3%B6nigreich-der/id1170436903?i=1000550252433
 spotify_link: https://open.spotify.com/episode/3Gxkb42op2JL9KKTQvVzxV?si=20c62f6d60b24ecc
 soundcloud_link: https://soundcloud.com/user-89524652/episode-56-jugoslawien-episode-1-das-konigreich-der-serben-kroaten-und-slowenen?si=9e5d093b9e0d497bb8f5ca6737fcc7a8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
