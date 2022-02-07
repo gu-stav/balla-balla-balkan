@@ -44,5 +44,5 @@ blocks:
 og_image: /images/upload/1280px-flag_of_yugoslavia_-1918–1941-.svg.png
 og_title: Jugoslawien Episode 1 – Das Königreich der Serben, Kroaten und Slowenen
 og_description: "Wie lief es im ersten Jugoslawien und wer hatte eigentlich die
-  Idee, dass diese Südslawen sich in einem Staat zusammentun sollten? "
+  Idee, dass die Südslawen sich in einem Staat zusammentun sollten? "
 ---
