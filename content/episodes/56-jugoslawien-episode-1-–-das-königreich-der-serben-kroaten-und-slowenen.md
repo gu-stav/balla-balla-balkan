@@ -24,14 +24,13 @@ blocks:
       der uns mit seiner Expertise aushilft. 
 
 
-
       Ansonsten erfahrt ihr wie Novak Đoković der Umweltbewegung in Serbien geholfen hat, warum es in Bosnien-Herzegowina erstmal keine Wahlrechtsreform geben wird, wie Corona auf dem Balkan wütet und warum in Montenegro nach gerade einmal 14 Monaten die Regierung gescheitert ist. 
 
 
       **Shownotes zur Sendung** 
 
 
-      * [Déjà-vu Geschichte Podcast von Ralf Grabuschnig ](https://ralfgrabuschnig.com/deja-vu-geschichte-podcast/)[](<* <https://ralfgrabuschnig.com/deja-vu-geschichte-podcast/>>)
+      * [Déjà-vu Geschichte Podcast von Ralf Grabuschnig](https://ralfgrabuschnig.com/deja-vu-geschichte-podcast/)
 
       * [Marie Janine Calic: Geschichte Jugoslawiens im 20. Jahrhundert ](https://www.chbeck.de/calic-janine-geschichte-jugoslawiens-20-jahrhundert/product/32095)
 
@@ -45,5 +44,5 @@ blocks:
 og_image: /images/upload/1280px-flag_of_yugoslavia_-1918–1941-.svg.png
 og_title: Jugoslawien Episode 1 – Das Königreich der Serben, Kroaten und Slowenen
 og_description: "Wie lief es im ersten Jugoslawien und wer hatte eigentlich die
-  Idee, dass die Südslawen sich in einem Staat zusammentun sollten? "
+  Idee, dass diese Südslawen sich in einem Staat zusammentun sollten? "
 ---
