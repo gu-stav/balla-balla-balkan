@@ -25,6 +25,36 @@ blocks:
 
 
       Nebenbei erfahrt Ihr, wie es der berühmteste Koks-Nazi der Welt so mit Putin hält, mit wem sich Krstos Verwandschaft so fotografieren lässt und warum Mitarbeiterinnen und Mitarbeiter des öffentlich-rechtlichen Rundfunks in Slowenien den Aufstand proben.
+
+
+
+
+      **Shownotes** [](https://www.zeit.de/politik/ausland/2021-12/bosnien-herzegowina-republika-srpska-abspaltung-milorad-dodik)
+
+
+      * [Sympathien Für Putin bei bosnisch-serbischen Nationalisten ](https://www.sueddeutsche.de/politik/balkan-putin-bonien-herzegowina-nationalismus-1.5543803)
+
+      * [Moskau zündelt auch in Bosnien](https://taz.de/Russlands-Einmischung-auf-dem-Balkan/!5831373/) (taz) 
+
+      * [Bosnia must counter Russias Cultivation of Far Rights Extremists ](https://balkaninsight.com/2021/08/26/bosnia-must-counter-russias-cultivation-of-far-right-extremists/)(Balkan Insights) 
+
+      * [Warum Serbien nicht von Putins Seite weicht](https://www.faz.net/aktuell/politik/ausland/ukraine-konflikt-warum-serbien-nicht-von-putins-seite-weicht-17864950.html) (FAZ)
+
+      * [Pandering to Putin comes back to bite Serbias Vucic](https://www.politico.eu/article/vladimir-putin-russia-serbia-aleksandar-vucic/) (Politico) 
+
+      * [Wie Putin im Nordkosovo gefeiert wird (](https://www.profil.at/ausland/wie-putin-eine-stadt-auf-dem-balkan-spaltet/401926810)Profil)
+
+      * [Pressemitteilung der Gesellschaft für bedrohte Völker ](https://www.presseportal.de/pm/29402/5160087)
+
+      * [Baerbock für engere Anbindung des Westbalkans an die EU ](https://www.spiegel.de/politik/deutschland/annalena-baerbock-fuer-engere-bindung-des-westbalkans-an-die-eu-a-d132180d-a5bf-44e4-9462-2b192cddb39e)(Spiegel)
+
+      * [Wie Gazprom Südosteuropa an sich bindet](https://www.faz.net/aktuell/wirtschaft/unternehmen/wie-gazprom-suedosteuropa-an-sich-bindet-17512210.html) (FAZ) 
+
+      * [Mafiaboss Belivuk will gegen serbische Regierung aussagen](https://www.spiegel.de/panorama/justiz/serbien-mutmasslicher-mafia-boss-will-gegen-die-regierung-aussagen-a-c0c83deb-dc8d-4832-a5c6-8c42ea5067b6) (Spiegel)
+
+      * [Die Belivuk-Archive bei KRIK](https://www.krik.rs/tag/veljko-belivuk/) (Serbisch, teilweise ins Englische übersetzt)
+
+      * [Kroatischer Bauminister Darko Horvat im Rahmen einer Korruptionsermittlung festgenommen ](https://glashrvatske.hrt.hr/de/politik/bauminister-darko-horvat-im-rahmen-einer-korruptionsermittlung-festgenommen-5570050)(HRT)
 og_image: /images/upload/putin-titelbreit.jpg
 og_title: Wir sprechen über Putins Verbündete und russischen Einfluss auf dem
   Balkan und darüber wie dort der Krieg in der Ukraine interpretiert wird.
