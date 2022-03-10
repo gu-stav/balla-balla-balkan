@@ -27,8 +27,6 @@ blocks:
       Nebenbei erfahrt Ihr, wie es der berühmteste Koks-Nazi der Welt so mit Putin hält, mit wem sich Krstos Verwandschaft so fotografieren lässt und warum Mitarbeiterinnen und Mitarbeiter des öffentlich-rechtlichen Rundfunks in Slowenien den Aufstand proben.
 
 
-
-
       **Shownotes** [](https://www.zeit.de/politik/ausland/2021-12/bosnien-herzegowina-republika-srpska-abspaltung-milorad-dodik)
 
 
@@ -55,8 +53,10 @@ blocks:
       * [Die Belivuk-Archive bei KRIK](https://www.krik.rs/tag/veljko-belivuk/) (Serbisch, teilweise ins Englische übersetzt)
 
       * [Kroatischer Bauminister Darko Horvat im Rahmen einer Korruptionsermittlung festgenommen ](https://glashrvatske.hrt.hr/de/politik/bauminister-darko-horvat-im-rahmen-einer-korruptionsermittlung-festgenommen-5570050)(HRT)
+
+      * [Dekoder.org ](https://www.dekoder.org/)
 og_image: /images/upload/putin-titelbreit.jpg
-og_title: Wir sprechen über Putins Verbündete und russischen Einfluss auf dem
-  Balkan und darüber wie dort der Krieg in der Ukraine interpretiert wird.
+og_title: "Wir sprechen über Putins Verbündete, russischen Einfluss auf dem
+  Balkan und darüber was der Krieg für die Region bedeutet. "
 og_description: Putins Einfluss auf dem Balkan
 ---
