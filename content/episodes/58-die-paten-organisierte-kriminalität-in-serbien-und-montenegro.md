@@ -2,7 +2,7 @@
 number: "58"
 publication_at: 2022-04-28T21:06:26.322Z
 title: Die Paten - Organisierte Kriminalität in Serbien und Montenegro
-image: /images/upload/paten.jpg
+image: /images/upload/titel-kachel.jpg
 apple_link: https://podcasts.apple.com/de/podcast/episode-58-die-paten-organisierte-kriminalit%C3%A4t-in-serbien/id1170436903?i=1000559030491
 spotify_link: https://open.spotify.com/episode/0NcBrUvzDnBRj3iChV6Ex6?si=b26d7b687ed84943
 soundcloud_link: https://soundcloud.com/user-89524652/episode-58-die-paten-eine-kurze-geschichte-der-organisierten-kriminalitat-in-serbien-und-montenegro
