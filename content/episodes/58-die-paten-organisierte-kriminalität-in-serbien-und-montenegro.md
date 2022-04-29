@@ -2,7 +2,7 @@
 number: "58"
 publication_at: 2022-04-28T21:06:26.322Z
 title: Die Paten - Organisierte Kriminalität in Serbien und Montenegro
-image: /images/upload/titel-groß.jpg
+image: /images/upload/paten.jpg
 apple_link: https://podcasts.apple.com/de/podcast/episode-58-die-paten-organisierte-kriminalit%C3%A4t-in-serbien/id1170436903?i=1000559030491
 spotify_link: https://open.spotify.com/episode/0NcBrUvzDnBRj3iChV6Ex6?si=b26d7b687ed84943
 soundcloud_link: https://soundcloud.com/user-89524652/episode-58-die-paten-eine-kurze-geschichte-der-organisierten-kriminalitat-in-serbien-und-montenegro
@@ -10,7 +10,6 @@ excerpt: Als Jugo ist man es gewohnt, für latent kriminell gehalten zu werden.
 blocks:
   - type: richtext
     richtext: >-
-      Als Jugo ist man es gewohnt, für latent kriminell gehalten zu werden.
       Böser Blick, Messer in der Tasche, zack ist das Schutzgeld erpresst. Doch
       abseits rassistischer Klischee hat der Balkan natürlich auch wirklich ein
       Problem mit organisierter Kriminalität. Und zwar ein gewaltiges.
@@ -47,7 +46,7 @@ blocks:
       * [Rätsel um Absturz einer Drohne in Zagreb](https://www.tagesschau.de/ausland/europa/drohnenabsturz-kroatien-101.html) (Tagesschau) 
 
       * [Perkovic i Mustac zaslusni su za ovakvu Hrvatsku](https://www.index.hr/vijesti/clanak/perkovic-i-mustac-zasluzni-su-za-ovakvu-hrvatsku-bas-zato-ih-ne-treba-pomilovati/2357332.aspx) (Index)
-og_image: /images/upload/titel-groß.jpg
+og_image: /images/upload/paten.jpg
 og_title: Die Paten - Organisierte Kriminalität in Serbien und Montenegro
 og_description: "Diesmal erfahrt ihr warum zwei Kartelle aus Montenegro sich
   gegenseitig auslöschen und auf wessen Seite der Staat steht. "
