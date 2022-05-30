@@ -2,7 +2,7 @@
 number: "59"
 publication_at: 2022-05-30T22:34:18.112Z
 title: Macht doch alle mal wieder Urlaub!
-image: /images/upload/mostar_symbolbild.jpg.jpg
+image: /images/upload/tisno.jpg.jpg
 apple_link: https://podcasts.apple.com/at/podcast/macht-doch-wieder-mal-urlaub/id1170436903?i=1000564599894
 spotify_link: https://open.spotify.com/episode/0L0AT4wBFqLkx8qZK5D4eF?si=d596330ae5704697
 soundcloud_link: https://soundcloud.com/user-89524652/macht-doch-wieder-mal-urlaub
@@ -50,7 +50,7 @@ blocks:
       * [Urteil zum Adoptionsrecht für Homosexuelle in Kroatien rechtskräftig ](https://www.derstandard.at/story/2000136072190/urteil-zum-adoptionsrecht-fuer-homosexuelle-in-kroatien-rechtskraeftig)(Der Standard) 
 
       * [Bundeswehreinsatz im Kosovo wird verlängert ](https://augengeradeaus.net/2022/05/bundeswehreinsatz-im-kosovo-soll-erneut-verlaengert-werden-und-wird-viel-billiger/)(Augen Geradeaus)
-og_image: /images/upload/mostar_symbolbild.jpg.jpg
+og_image: /images/upload/tisno2.jpg
 og_title: Macht doch alle mal wieder Urlaub!
 og_description: Nach zwei Jahren Pandemie erzählen wir euch, wo ihr mal hinreisen solltet.
 ---
