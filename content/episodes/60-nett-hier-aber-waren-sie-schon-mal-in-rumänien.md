@@ -63,7 +63,7 @@ blocks:
       * [Sebastian Czaja (FDP) behauptet Antifaschisten seien auch Faschisten ](https://twitter.com/sebczaja/status/1034374729493356544)
 
       * [Linas Reportage aus Bosnien ](https://www.spiegel.de/ausland/bosnien-herzegowina-steht-die-region-vor-einem-neuen-konflikt-a-5418d915-1861-40ae-a831-8166e2390a9d)(Spiegel)
-og_image: /images/upload/rumänien.jpg
+og_image: /images/upload/rumänien.jpg.jpg
 og_title: "Nett hier, aber waren Sie schon mal in Rumänien? "
 og_description: "Endlich geht es um das größte Land des BallaBalla-Balkans und
   darum was Adidas da eigentlich bedeutet. "
