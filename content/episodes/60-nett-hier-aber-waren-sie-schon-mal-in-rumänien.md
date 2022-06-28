@@ -6,7 +6,8 @@ image: /images/upload/rumänien.jpg
 apple_link: https://podcasts.apple.com/at/podcast/episode-60-nett-hier-aber-waren-sie-schon-mal-in-rum%C3%A4nien/id1170436903?i=1000568042013
 spotify_link: https://open.spotify.com/episode/0sBiDO5ujMyXZAQTenOaev?si=7afca2e627bb4fbc
 soundcloud_link: https://soundcloud.com/user-89524652/episode-60-nett-hier-aber-waren-sie-schon-mal-in-rumanien?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
-excerpt: "In dieser Folge geht es endlich um das größte Land auf dem Balkan: Rumänien. "
+excerpt: "In dieser Folge geht es endlich um das größte Land auf dem
+  BallaBalla-Balkan: Rumänien"
 blocks:
   - type: richtext
     richtext: >-
