@@ -2,7 +2,7 @@
 number: "60"
 publication_at: 2022-06-28T22:11:37.474Z
 title: "Nett hier, aber waren Sie schon mal in Rumänien? "
-image: /images/upload/rumänien.jpg
+image: /images/upload/rumänien.jpg.jpg
 apple_link: https://podcasts.apple.com/at/podcast/episode-60-nett-hier-aber-waren-sie-schon-mal-in-rum%C3%A4nien/id1170436903?i=1000568042013
 spotify_link: https://open.spotify.com/episode/0sBiDO5ujMyXZAQTenOaev?si=7afca2e627bb4fbc
 soundcloud_link: https://soundcloud.com/user-89524652/episode-60-nett-hier-aber-waren-sie-schon-mal-in-rumanien?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
