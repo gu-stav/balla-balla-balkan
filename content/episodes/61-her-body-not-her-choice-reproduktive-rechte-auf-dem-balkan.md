@@ -6,7 +6,9 @@ image: /images/upload/abtreibung1.jpg
 apple_link: https://podcasts.apple.com/de/podcast/episode-61-her-body-not-her-choice-reproduktive-rechte/id1170436903?i=1000571137557
 spotify_link: https://open.spotify.com/episode/175z0ETEkkOfJdZ20GKg8k?si=5e7319879c884b51
 soundcloud_link: https://soundcloud.com/user-89524652/episode-61-her-body-not-her-choice-reproduktive-rechte-auf-dem-balkan
-excerpt: "\n"
+excerpt: >
+  In allen Balkanländern besteht auf dem Papier das Recht auf einen
+  Schwangerschaftsabbruch, doch in der Praxis ist es komplizierter
 blocks:
   - type: richtext
     richtext: >-
