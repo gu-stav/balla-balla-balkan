@@ -38,7 +38,7 @@ blocks:
 
       * [Gresa Hasa auf Twitter](https://twitter.com/GresaHasa)
 
-      * [Abtreibungsrechte im Kosovo](https://kosovotwopointzero.com/en/walking-back-abortion-rights/)
+      * [Abtreibungsrechte im Kosovo](https://kosovotwopointzero.com/en/walking-back-abortion-rights/) (Kosovo 2.0)
 
       * [Wie die Mahnwachen nach Deutschland kamen](<* https://www.derstandard.at/story/1373512936928/mazedonierinnen-sollen-mehr-kinder-gebaeren>) (Danijel in der FR) 
 
