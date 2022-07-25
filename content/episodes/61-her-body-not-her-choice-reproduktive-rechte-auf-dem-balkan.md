@@ -27,6 +27,32 @@ blocks:
 
 
       Nebenbei erfahrt ihr, warum einem an deutschen Kiosken kroatische Jugendliche mit dem Hitlergruß begrüßen können, warum gerade in Bosnien helle Aufregung um den Hohen Repräsentanten herrscht und wieso Aleksandar Vučić nicht nach Kroatien einreisen durfte.
+
+
+      **Shownotes** 
+
+
+      * [Pariter](https://pariter.hr/)
+
+      * [Magazin Shota](https://shota.al/)
+
+      * [Gresa Hasa auf Twitter](https://twitter.com/GresaHasa)
+
+      * [Abtreibungsrechte im Kosovo](https://kosovotwopointzero.com/en/walking-back-abortion-rights/)
+
+      * [Wie die Mahnwachen nach Deutschland kamen](<* https://www.derstandard.at/story/1373512936928/mazedonierinnen-sollen-mehr-kinder-gebaeren>) (Danijel in der FR) 
+
+      * [Kroatien und der Fall Cavajda](<* https://www.mdr.de/nachrichten/welt/osteuropa/politik/abtreibung-kroatien-100.html>) (MDR) 
+
+      * [Kroatien und der Fall Cavjada](https://www.zeit.de/gesellschaft/2022-05/kroatien-abtreibung-demonstration-frauenrechte) (Zeit Online) 
+
+      * [Mädchenabtreibungen in Montenegro](https://www.mdr.de/nachrichten/welt/osteuropa/land-leute/montenegro-maedchen-abtreibungen-100.html) (MDR)
+
+      * [Mazedonierinnen sollen mehr Kinder gebären](<* https://www.derstandard.at/story/1373512936928/mazedonierinnen-sollen-mehr-kinder-gebaeren>) (Standard) 
+
+      * [Selektive Abtreibungen in Albanien ](<* https://www.deutschlandfunk.de/selektive-abtreibung-in-albanien-aerztin-es-ist-mord-100.html>)(Deutschlandfunk) 
+
+      * [Danijel in Übermedien über den Hrvatski Tjednik](https://uebermedien.de/73036/ganz-rechts-im-zeitschriftenregal-hrvatski-tjednik-kroatien/)
 og_image: /images/upload/abtreibung2.jpg
 og_title: "Her Body, not her Choice - Reproduktive Rechte auf dem Balkan "
 og_description: In allen Balkanländern besteht auf dem Papier das Recht auf
