@@ -38,6 +38,8 @@ blocks:
 
       * [Gresa Hasa auf Twitter](https://twitter.com/GresaHasa)
 
+      * [Treffen von Abtreibungsgegnern in Verona 2019 und ihre Netzwerke ](https://www.woz.ch/-989d)(Krsto in der Woz)
+
       * [Abtreibungsrechte im Kosovo](https://kosovotwopointzero.com/en/walking-back-abortion-rights/) (Kosovo 2.0)
 
       * [Wie die Mahnwachen nach Deutschland kamen](<* https://www.derstandard.at/story/1373512936928/mazedonierinnen-sollen-mehr-kinder-gebaeren>) (Danijel in der FR) 
@@ -52,7 +54,7 @@ blocks:
 
       * [Selektive Abtreibungen in Albanien ](<* https://www.deutschlandfunk.de/selektive-abtreibung-in-albanien-aerztin-es-ist-mord-100.html>)(Deutschlandfunk) 
 
-      * [Danijel in Übermedien über den Hrvatski Tjednik](https://uebermedien.de/73036/ganz-rechts-im-zeitschriftenregal-hrvatski-tjednik-kroatien/)
+      * [Danijel in Übermedien über den Hrvatski Tjedni](https://uebermedien.de/73036/ganz-rechts-im-zeitschriftenregal-hrvatski-tjednik-kroatien/)k
 og_image: /images/upload/abtreibung2.jpg
 og_title: "Her Body, not her Choice - Reproduktive Rechte auf dem Balkan "
 og_description: In allen Balkanländern besteht auf dem Papier das Recht auf
