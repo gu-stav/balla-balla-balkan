@@ -38,7 +38,7 @@ blocks:
 
       * [Croatia PM Supports Planned Changes to Bosnia's Election Law](https://balkaninsight.com/2022/07/25/croatia-pm-supports-planned-changes-to-bosnias-election-law/) (Balkan Insight) 
 
-      * Homepage von Adis Ahmetović
+      * [Homepage von Adis Ahmetović](https://adis-ahmetovic.de/)
 
       * [Vedran Džihić auf Twitter ](https://twitter.com/vedrandzihic)
 
