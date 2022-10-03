@@ -33,7 +33,7 @@ blocks:
       **Shownotes** 
 
 
-      * [K﻿rsto im Gespräch mit der Standard ](https://www.derstandard.de/story/2000139209970/belgrader-europride-die-sicherheitslage-war-prekaer)
+      * [﻿K﻿rsto im Gespräch mit der St](https://www.derstandard.de/story/2000139209970/belgrader-europride-die-sicherheitslage-war-prekaer)andard ﻿
 
       * [K﻿rsto im Interview mit WDR 3](https://www1.wdr.de/mediathek/audio/wdr3/wdr3-kultur-am-mittag/audio-europride--in-serbien-nur-unter-polizeischutz-100.html) (Kultur am Mittag)
 
