@@ -7,8 +7,7 @@ image_caption: "© Presseservice Wien "
 apple_link: https://podcasts.apple.com/de/podcast/no-euro-no-pride-backlash-in-serbien/id1170436903?i=1000581448920
 spotify_link: https://open.spotify.com/episode/473fvPJYKMbr1B9mi2kL6T?si=dce1ad2b179d4a39
 soundcloud_link: https://soundcloud.com/user-89524652/no-euro-no-pride-backlash-in-serbien?si=05e631aa1a094875b1b4796829c3cfbb&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
-excerpt: "Eigentlich wollten nur ein paar queere Menschen durch Belgrad
-  spazieren, doch dann wurden Ängste vor GAYROPA mobilisiert. "
+excerpt: ""
 blocks:
   - type: richtext
     richtext: >-
