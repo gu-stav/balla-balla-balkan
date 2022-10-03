@@ -3,6 +3,7 @@ number: "63"
 publication_at: 2022-10-03T19:34:08.850Z
 title: "No Euro, No Pride - Backlash in Serbien "
 image: /images/upload/europride-2022_presseservice-wien.jpg
+image_caption: "© Presseservice Wien "
 apple_link: https://podcasts.apple.com/de/podcast/no-euro-no-pride-backlash-in-serbien/id1170436903?i=1000581448920
 spotify_link: https://open.spotify.com/episode/473fvPJYKMbr1B9mi2kL6T?si=dce1ad2b179d4a39
 soundcloud_link: https://soundcloud.com/user-89524652/no-euro-no-pride-backlash-in-serbien?si=05e631aa1a094875b1b4796829c3cfbb&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
@@ -37,6 +38,8 @@ blocks:
 
       * [K﻿rsto im Interview mit WDR 3](https://www1.wdr.de/mediathek/audio/wdr3/wdr3-kultur-am-mittag/audio-europride--in-serbien-nur-unter-polizeischutz-100.html) (Kultur am Mittag)
 
+      * [Q﻿ueer-Beauftragter zu den Attacken auf der Europride ](https://www.tagesspiegel.de/gesellschaft/queerspiegel/queer-beauftragter-zu-den-attacken-auf-den-europride-das-krasseste-was-ich-jemals-in-sachen-csd-erlebt-habe-8660827.html)(Tagesspiegel) 
+
       * [Attacken auf Teilnehmende bei Europride-Parade in Belgrad](https://www.tagesspiegel.de/gesellschaft/queerspiegel/trotz-widerstand-der-behorden-europride-parade-marschiert-in-belgrad-8654599.html) (tagesspiegel) 
 
       * [Viktor Ivančić: Oklopno Pravoslavlje﻿ ](https://pescanik.net/oklopno-pravoslavlje/)(Peščanik)
@@ -55,11 +58,11 @@ blocks:
 
       * [C﻿yberangriff: Albanien beendet Beziehungen zum Iran](https://www.tagesschau.de/ausland/europa/albanien-iran-cyberangriff-101.html) (tagesschau) 
 
-      * [﻿W﻿ochenlange Cyberangriffe auf Montenegro ](https://orf.at/stories/3284892/)(ORF 1)
+      * [﻿W﻿ochenlange Cyberangriffe auf Montenegro ](https://orf.at/stories/3284892/)(ORF)
 
-      *
+      * [W﻿ahlen in Bosnien-Herzegowina](https://www.tagesschau.de/ausland/europa/wahl-bosnien-herzegowina-101.html) (tagesschau) 
 
-      *
+      * [K﻿roatien: Neuer Vorstand bei INA nach Korruptionsaffäre](https://orf.at/stories/3287467/) (ORF)
 og_image: /images/upload/europride-2022_presseservice-wien.jpg
 og_title: "No Euro, No Pride - Backlash in Serbien "
 og_description: Eigentlich wollten nur ein paar queere Menschen durch Belgrad
