@@ -35,13 +35,7 @@ blocks:
 
       * [K﻿rsto im Gespräch mit der Standard ](https://www.derstandard.de/story/2000139209970/belgrader-europride-die-sicherheitslage-war-prekaer)
 
-      *
-
-      *
-
-
-      <!---->
-
+      * [K﻿rsto im Interview mit WDR 3](https://www1.wdr.de/mediathek/audio/wdr3/wdr3-kultur-am-mittag/audio-europride--in-serbien-nur-unter-polizeischutz-100.html) (Kultur am Mittag)
 
       * [Attacken auf Teilnehmende bei Europride-Parade in Belgrad](https://www.tagesspiegel.de/gesellschaft/queerspiegel/trotz-widerstand-der-behorden-europride-parade-marschiert-in-belgrad-8654599.html) (tagesspiegel) 
 
@@ -58,6 +52,14 @@ blocks:
       * [﻿N﻿adine Lange über den Angriff auf sie](https://twitter.com/VerpennteKatze/status/1571402789972066304) (Twitter) 
 
       * [Albanian LGBT+ activists attacked by extremists in Belgrade](https://euronews.al/en/balkans/2022/09/18/albanian-lgbt-activists-attacked-by-extremists-in-belgrade/) (euronews)
+
+      * [C﻿yberangriff: Albanien beendet Beziehungen zum Iran](https://www.tagesschau.de/ausland/europa/albanien-iran-cyberangriff-101.html) (tagesschau) 
+
+      * [﻿W﻿ochenlange Cyberangriffe auf Montenegro ](https://orf.at/stories/3284892/)(ORF 1)
+
+      *
+
+      *
 og_image: /images/upload/europride-2022_presseservice-wien.jpg
 og_title: "No Euro, No Pride - Backlash in Serbien "
 og_description: Eigentlich wollten nur ein paar queere Menschen durch Belgrad
