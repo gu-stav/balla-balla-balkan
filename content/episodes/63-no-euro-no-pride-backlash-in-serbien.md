@@ -3,7 +3,7 @@ number: "63"
 publication_at: 2022-10-03T19:34:08.850Z
 title: "No Euro, No Pride - Backlash in Serbien "
 image: /images/upload/europride-2022_presseservice-wien.jpg
-apple_link: ""
+apple_link: https://podcasts.apple.com/de/podcast/no-euro-no-pride-backlash-in-serbien/id1170436903?i=1000581448920
 spotify_link: https://open.spotify.com/episode/473fvPJYKMbr1B9mi2kL6T?si=dce1ad2b179d4a39
 soundcloud_link: https://soundcloud.com/user-89524652/no-euro-no-pride-backlash-in-serbien?si=05e631aa1a094875b1b4796829c3cfbb&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
 excerpt: "Eigentlich wollten nur ein paar queere Menschen durch Belgrad
@@ -30,30 +30,34 @@ blocks:
       Nebenbei erfahrt Ihr, was sich der Hohe Repräsentant Christian Schmidt jetzt wieder für Bosnien ausgedacht hat, weshalb wir über die vergangene Basketball-Europameisterschaft den Mantel des Schweigens hüllen und warum Bulgarien wieder in der Hand des "männlichsten Mann-Politikers" der Region liegt. 
 
 
-
-
       **Shownotes** 
 
 
-      * [Viktor Ivančić: Oklopno Pravoslavlje﻿ ](https://pescanik.net/oklopno-pravoslavlje/)(Peščanik)
+      * [K﻿rsto im Gespräch mit der Standard ](https://www.derstandard.de/story/2000139209970/belgrader-europride-die-sicherheitslage-war-prekaer)
+
+      *
+
+      *
 
 
       <!---->
 
+
+      * [Attacken auf Teilnehmende bei Europride-Parade in Belgrad](https://www.tagesspiegel.de/gesellschaft/queerspiegel/trotz-widerstand-der-behorden-europride-parade-marschiert-in-belgrad-8654599.html) (tagesspiegel) 
+
+      * [Viktor Ivančić: Oklopno Pravoslavlje﻿ ](https://pescanik.net/oklopno-pravoslavlje/)(Peščanik)
 
       * [﻿I﻿n Serbien wird Putin vergöttert ](https://www.stern.de/politik/ausland/wladimir-putin--darum-vergoettert-serbien-den-russischen-praesidenten-32504940.html)(Stern) 
 
-      * ﻿Stimmung kip[](https://de.euronews.com/2022/04/21/stimmung-in-serbien-kippt-44-der-menschen-sind-gegen-eu-beitritt)
+      * ﻿[Stimmung kippt: Mehr Serben gegen EU-Beitritt ](https://de.euronews.com/2022/04/21/stimmung-in-serbien-kippt-44-der-menschen-sind-gegen-eu-beitritt)(euronews)[](https://de.euronews.com/2022/04/21/stimmung-in-serbien-kippt-44-der-menschen-sind-gegen-eu-beitritt)
 
+      * [T﻿erry Reintke auf Twitter ](https://twitter.com/TerryReintke/status/1571423954199355394)
 
-      <!---->
+      * [Boris Mijatović auf Twitter](https://twitter.com/borismijatovic/status/1571598025562152962)
 
+      * [﻿N﻿adine Lange über den Angriff auf sie](https://twitter.com/VerpennteKatze/status/1571402789972066304) (Twitter) 
 
-      *
-
-      *
-
-      *
+      * [Albanian LGBT+ activists attacked by extremists in Belgrade](https://euronews.al/en/balkans/2022/09/18/albanian-lgbt-activists-attacked-by-extremists-in-belgrade/) (euronews)
 og_image: /images/upload/europride-2022_presseservice-wien.jpg
 og_title: "No Euro, No Pride - Backlash in Serbien "
 og_description: Eigentlich wollten nur ein paar queere Menschen durch Belgrad
