@@ -30,7 +30,7 @@ blocks:
 
       * [T﻿agesschau über die Wahlen ](https://www.tagesschau.de/ausland/europa/wahl-bosnien-herzegowina-101.html)
 
-      * [E﻿U-Kommission empfiehlt Kan](https://www.tagesschau.de/ausland/europa/eu-kandidatenstatus-bosnien-und-herzogowina-101.html)didatenstatus 
+      * [EU-Kommission empfiehlt Kandidatenstatus](https://www.tagesschau.de/ausland/europa/eu-kandidatenstatus-bosnien-und-herzogowina-101.html)
 
       * [C﻿hristian Schmidt änderte in der Wahlnacht Wahlgesetz (Der Standard) ](https://www.derstandard.de/story/2000139667748/bosnien-repraesentant-schmidt-aenderte-in-der-wahlnacht-das-wahlgesetz)
 
