@@ -26,7 +26,7 @@ blocks:
       **S﻿hownotes** 
 
 
-      * [Beitrag über "Neues vom Ballaballa-Balkan" im NDR ](<-	Danijel und Krsto im NDR https://www.ndr.de/fernsehen/sendungen/das/Neues-vom-Ballaballa-Balkan-Was-ist-so-los-auf-diesem-Balkan,dasx30156.html>)
+      * [Beitrag über "Neues vom Ballaballa-Balkan" im NDR ](https://www.ndr.de/fernsehen/sendungen/das/Neues-vom-Ballaballa-Balkan-Was-ist-so-los-auf-diesem-Balkan,dasx30156.html)
 
       * [D﻿anijels Thread zu den kroatischen Präsidentschaftswahlen ](https://twitter.com/DanijelMajic/status/1208692634237177856?t=a5NGPu-OaCpsE0xvCA-nMA&s=19)
 
