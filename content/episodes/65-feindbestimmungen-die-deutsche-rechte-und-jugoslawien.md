@@ -28,10 +28,6 @@ blocks:
 
       * [Randgänge der neuen Rechten](https://www.transcript-verlag.de/media/pdf/e6/50/b5/oa97838394599667MDsvAIag9jhn.pdf) - mit Krstos Beitrag 
 
-
-      <!---->
-
-
       * [Verfassungsgericht in Bosnien lehnt Eilantrag gegen Schmidtsche Reformen ab](https://www.slobodnaevropa.org/a/ustavni-sud-bih-odbio-zahtjeve-za-privremeno-suspendiranje-izbornog-zakona/32159184.html) (Slobodna Evropa)
 
       * [S﻿ituation im Kosovo ](https://www.deutschlandfunk.de/entspannung-in-sicht-kosovo-serbien-streit-um-autoschilder-100.html)
@@ -44,10 +40,13 @@ blocks:
 
       * [﻿Branimir Jelic - Der Ustascha bei der CDU](https://www.spiegel.de/politik/liebesgruesse-aus-belgrad-a-1bbb7da9-0002-0001-0000-000043231085) (Spiegel 1971) 
 
-      *
+      * [S﻿erbiens Visapolitik ](https://www.faz.net/aktuell/politik/ausland/warum-serbien-drittstaatler-ohne-visum-einreisen-laesst-18463520.html)(FAZ) 
+
+      * [﻿F﻿rontex auf dem Balkan ](https://www.tagesschau.de/ausland/eu-aktionsplan-westbalkanroute-101.html)(Tagesschau) 
+
+      * [S﻿livovitz wird Weltkulturerbe](https://www.zeit.de/kultur/2022-12/unesco-immaterielles-kulturerbe-floesserei-sliwowitz-serbien) (Zeit Online)
 og_image: /images/upload/neue-rechte.jpg
 og_title: "Feindbestimmungen - Die (deutsche) Rechte und Jugoslawien "
-og_description: "Wir schauen uns an wie die deutsche Rechte als
-  Projektionsfläche Jugoslawien blickt und wie sich dieser Blick verändert hat.
-  "
+og_description: "Wir erklären wie sich der Blick der deutschen Rechten auf die
+  Jugoslawienkriege verändert hat. "
 ---
