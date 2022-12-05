@@ -42,10 +42,11 @@ blocks:
 
       * [S﻿erbiens Visapolitik ](https://www.faz.net/aktuell/politik/ausland/warum-serbien-drittstaatler-ohne-visum-einreisen-laesst-18463520.html)(FAZ) 
 
-      * ﻿F﻿rontex auf dem Balkan /
+      * [﻿F﻿rontex auf dem Balkan ](https://www.tagesschau.de/ausland/eu-aktionsplan-westbalkanroute-101.html)(Tagesschau) 
+
+      * [S﻿livovitz wird Weltkulturerbe](https://www.zeit.de/kultur/2022-12/unesco-immaterielles-kulturerbe-floesserei-sliwowitz-serbien) (Zeit Online)
 og_image: /images/upload/neue-rechte.jpg
 og_title: "Feindbestimmungen - Die (deutsche) Rechte und Jugoslawien "
-og_description: "Wir schauen uns an wie die deutsche Rechte als
-  Projektionsfläche Jugoslawien blickt und wie sich dieser Blick verändert hat.
-  "
+og_description: "Wir erklären wie sich der Blick der deutschen Rechten auf die
+  Jugoslawienkriege verändert hat. "
 ---
