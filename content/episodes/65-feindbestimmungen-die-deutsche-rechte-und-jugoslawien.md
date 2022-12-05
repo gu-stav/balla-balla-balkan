@@ -23,61 +23,28 @@ blocks:
       Nebenbei erfahrt Ihr, wie Neues vom Ballaballa-Balkan das Jahr ausklingen lassen wird, warum Šljivovica mehr als nur ein Schnaps ist - jetzt auch hochoffiziell - und wie sich die Lage im Kosovo so entwickelt hat.
 
 
-
-
       **Shownotes**
 
 
-      * \-[Verfassungsgericht in Bosnien lehnt Eilantrag gegen Schmidtsche Reformen ab](https://www.slobodnaevropa.org/a/ustavni-sud-bih-odbio-zahtjeve-za-privremeno-suspendiranje-izbornog-zakona/32159184.html) (Slobodna Evropa)
+      * [Randgänge der neuen Rechten](https://www.transcript-verlag.de/media/pdf/e6/50/b5/oa97838394599667MDsvAIag9jhn.pdf) - mit Krstos Beitrag 
 
 
       <!---->
 
 
+      * [Verfassungsgericht in Bosnien lehnt Eilantrag gegen Schmidtsche Reformen ab](https://www.slobodnaevropa.org/a/ustavni-sud-bih-odbio-zahtjeve-za-privremeno-suspendiranje-izbornog-zakona/32159184.html) (Slobodna Evropa)
+
+      * [S﻿ituation im Kosovo ](https://www.deutschlandfunk.de/entspannung-in-sicht-kosovo-serbien-streit-um-autoschilder-100.html)
+
+      * [R﻿eferendum in Slowenien](https://balkaninsight.com/2022/11/28/slovenians-vote-in-referendum-to-restore-public-broadcasters-independence/) (Balkan Insight) 
+
+      * [K﻿roatische Fans und der kanadische Torwart ](https://www.kosmo.at/fifa-leitet-verfahren-gegen-kroatien-wegen-milan-borjan-ein/)(Kosmo) 
+
+      * [S﻿erbische Fans in Wien](https://www.berliner-zeitung.de/news/eklat-in-wien-serbische-fans-singen-albaner-toeten-und-schlachten-li.293671) (Berliner Zeitung) 
+
+      * [﻿Branimir Jelic - Der Ustascha bei der CDU](https://www.spiegel.de/politik/liebesgruesse-aus-belgrad-a-1bbb7da9-0002-0001-0000-000043231085) (Spiegel 1971) 
+
       *
-
-
-      Norbert Mappes-Niedieck in der FR:\
-
-      \
-
-      \
-
-      \
-
-      Situation im Kosovo\
-
-      https://www.deutschlandfunk.de/entspannung-in-sicht-kosovo-serbien-streit-um-autoschilder-100.html\
-
-      \
-
-      Referenden in Slowenien\
-
-      https://balkaninsight.com/2022/11/28/slovenians-vote-in-referendum-to-restore-public-broadcasters-independence/\
-
-      \
-
-      Kroatische Fans und der kanadische Torwart\
-
-      https://www.kosmo.at/fifa-leitet-verfahren-gegen-kroatien-wegen-milan-borjan-ein/\
-
-      \
-
-      Serbische Fans ins Wien\
-
-      https://www.berliner-zeitung.de/news/eklat-in-wien-serbische-fans-singen-albaner-toeten-und-schlachten-li.293671\
-
-      \
-
-      \
-
-      Branimir Jelic - Der Ustascha bei der CDU\
-
-      \
-
-      https://www.youtube.com/watch?v=bolGXVqrqRw&t=472s\
-
-      https://www.spiegel.de/politik/liebesgruesse-aus-belgrad-a-1bbb7da9-0002-0001-0000-000043231085
 og_image: /images/upload/neue-rechte.jpg
 og_title: "Feindbestimmungen - Die (deutsche) Rechte und Jugoslawien "
 og_description: "Wir schauen uns an wie die deutsche Rechte als
