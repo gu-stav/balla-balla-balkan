@@ -3,6 +3,7 @@ publication_at: 2023-02-15T00:04:37.998Z
 title: "Die Jugoliga - Gastarbeiterfußball im Abseits "
 image: /images/upload/jugoliga-ulm.jpg
 image_caption: "Facebook: Jugoliga u Baden Württembergu "
+apple_link: https://podcasts.apple.com/de/podcast/die-jugoliga-gastarbeiterfu%C3%9Fball-im-abseits/id1170436903?i=1000599634639
 spotify_link: "https://open.spotify.com/episode/5M9uzTgrkMKVp40knoAXwq?si=7bbd8810a42f460e "
 soundcloud_link: "https://soundcloud.com/user-89524652/die-jugoliga-gastarbeite\
   rfusball-im-abseits "
