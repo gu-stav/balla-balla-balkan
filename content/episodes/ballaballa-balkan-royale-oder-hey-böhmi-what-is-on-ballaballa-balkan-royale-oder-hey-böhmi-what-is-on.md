@@ -3,6 +3,7 @@ number: Ballaballa-Balkan Royale oder Hey, Böhmi! What is on?
 publication_at: 2023-02-24T16:01:39.390Z
 title: Ballaballa-Balkan Royale oder Hey, Böhmi! What is on?
 image: /images/upload/jb-ballaballabalkan-900x900px_v2.png
+apple_link: https://podcasts.apple.com/de/podcast/extra-ballaballa-balkan-royale-oder-hey-b%C3%B6hmi-what-is-on/id1170436903?i=1000601475695
 spotify_link: https://open.spotify.com/episode/74sSuZav3kLYWLzknm6K2J?si=aa5821cb2daa4439
 soundcloud_link: https://soundcloud.com/user-89524652/extra-ballaballa-balkan-royale-oder-hey-bohmi-what-is-on
 blocks:
