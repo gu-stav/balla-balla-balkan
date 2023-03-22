@@ -25,8 +25,6 @@ blocks:
       **Shownotes**
 
 
-      * [Google Maps Streets named after Tito ](<* <https://www.google.com/maps/d/viewer?mid=1NHMtY6BDuSZfaxHuM1y6rBH4mog&ll=27.36527378802831%2C13.524220462500004&z=4>>)
-
       * [](https://www.wallstein-verlag.de/9783835339040-sozialismus-und-blockfreiheit.html)[Sozialismus und Blockfreiheit von Arno Trültzsch](https://www.wallstein-verlag.de/9783835339040-sozialismus-und-blockfreiheit.html)
 
       * Jože Pirjevec: [Tito Biografie](https://www.kunstmann.de/buch/jo-e__pirjevec-tito-9783956142420/t-0/)
@@ -44,6 +42,8 @@ blocks:
       * [Europa ist in sarajevo gestorben - zum Tod Dubravka Ugrešić](https://www.nzz.ch/feuilleton/europa-ist-in-sarajevo-gestorben-zum-tod-von-dubravka-ugresic-ld.1731136?reduced=true) (NZZ) 
 
       * [Wie deutsche Medien Desinformation in Serbien finanzieren ](https://www.tagesschau.de/faktenfinder/serbien-medien-finanzierung-101.html)(Tagesschau)
+
+      * [Karte von Straßen, die nach Tito benannt sind ](<* <https://www.google.com/maps/d/viewer?mid=1NHMtY6BDuSZfaxHuM1y6rBH4mog&ll=27.36527378802831%2C13.524220462500004&z=4>>)
 og_image: /images/upload/dieblockfreien-podcastfolgenbild-900x600px_v2.jpg
 og_title: "Blockfreiheit – Jugoslawische Außenpolitik nach dem 2. Weltkrieg "
 og_description: "Wir gehen der Frage nach, warum auf der ganzen Welt noch so
