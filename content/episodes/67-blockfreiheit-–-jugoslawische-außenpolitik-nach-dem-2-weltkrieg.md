@@ -25,17 +25,17 @@ blocks:
       **Shownotes**
 
 
-      * [Google Maps Streets named after Tito](<* <https://www.google.com/maps/d/viewer?mid=1NHMtY6BDuSZfaxHuM1y6rBH4mog&ll=27.36527378802831%2C13.524220462500004&z=4>>)
+      * [Google Maps Streets named after Tito ](<* <https://www.google.com/maps/d/viewer?mid=1NHMtY6BDuSZfaxHuM1y6rBH4mog&ll=27.36527378802831%2C13.524220462500004&z=4>>)
 
-      * [Sozialismus und Blockfreiheit von Arno Trültzsch ](<* <https://www.wallstein-verlag.de/9783835339040-sozialismus-und-blockfreiheit.html>>)
+      * [](https://www.wallstein-verlag.de/9783835339040-sozialismus-und-blockfreiheit.html)[Sozialismus und Blockfreiheit von Arno Trültzsch](https://www.wallstein-verlag.de/9783835339040-sozialismus-und-blockfreiheit.html)
 
       * Jože Pirjevec: [Tito Biografie](https://www.kunstmann.de/buch/jo-e__pirjevec-tito-9783956142420/t-0/)
 
       * Ivan Ivanji: [Titos Dolmetscher ](https://mediashop.at/buecher/titos-dolmetscher-2/)
 
-      * [Déjà-vu-Geschichte zu Blockfreiheit ](<https://ralfgrabuschnig.com/blockfreie-staaten/>)
+      * [Déjà-vu-Geschichte zu Blockfreiheit ](https://ralfgrabuschnig.com/blockfreie-staaten/)
 
-      * [Eine Stunde History ](<https://open.spotify.com/episode/0L7kbueM4MHU56fF5UdnmT?si=82b1a30d625a4c4b>)zu Blockfreiheit 
+      * [Eine Stunde History ](https://open.spotify.com/episode/0L7kbueM4MHU56fF5UdnmT?si=82b1a30d625a4c4b)zu Blockfreiheit 
 
       * [Bosnian Pride Activists blame Top Politicians for Violent Attack](https://balkaninsight.com/2023/03/20/bosnian-pride-activists-blame-top-politicians-for-violent-attack/) (Balkan Insight) 
 
