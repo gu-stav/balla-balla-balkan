@@ -3,6 +3,7 @@ publication_at: 2023-05-10T22:39:56.390Z
 title: Lipa oder wie im bosnischen Hinterland ein EU-Abschiebegefängnis
   errichtet wurde
 image: /images/upload/dt_idnay.jpeg
+apple_link: https://podcasts.apple.com/de/podcast/lipa-oder-wie-im-bosnischen-hinterland-ein-eu-abschiebegef%C3%A4ngnis/id1170436903?i=1000612559586
 spotify_link: https://open.spotify.com/episode/2lAYGB5eD6Kp558GX9VBaf?si=aa311e24efa44413
 soundcloud_link: https://soundcloud.com/user-89524652/lipa-oder-wie-im-bosnischen-hinterland-ein-eu-abschiebegefangnis-errichtet-wurde?si=9927fca0c5e74af89e71ffb1e10f49a7&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
 blocks:
