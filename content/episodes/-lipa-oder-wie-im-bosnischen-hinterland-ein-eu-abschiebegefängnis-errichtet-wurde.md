@@ -1,5 +1,5 @@
 ---
-publication_at: 2023-05-10T22:39:56.390Z
+publication_at: 2023-05-11T09:28:47.696Z
 title: Lipa oder wie im bosnischen Hinterland ein EU-Abschiebegefängnis
   errichtet wurde
 image: /images/upload/dt_idnay.jpeg
@@ -49,6 +49,6 @@ blocks:
 og_image: /images/upload/dt_idnay.jpeg
 og_title: Lipa oder wie im bosnischen Hinterland ein EU-Abschiebegefängnis
   errichtet wurde
-og_description: "Interniert werden sollen dort Menschen, die zuvor illegal aus
-  dem EU-Land Kroatien gepushbackt wurden. "
+og_description: "Petar Rosandić von der SOS-Balkanroute erzählt uns, was sie
+  über Lipa aufgedeckt haben. "
 ---
