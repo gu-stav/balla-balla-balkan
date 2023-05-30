@@ -3,6 +3,7 @@ number: "69"
 publication_at: 2023-05-30T23:27:58.873Z
 title: A History of Violence oder wankt Vučić wirklich?
 image: /images/upload/serbien-69.jpeg
+apple_link: https://podcasts.apple.com/de/podcast/a-history-of-violence-oder-wankt-vu%C4%8Di%C4%87-wirklich/id1170436903?i=1000615071015
 spotify_link: https://open.spotify.com/episode/7trKhz7jYhYiVr9qBfFUVo?si=c5cfb9da91e248eb
 soundcloud_link: https://soundcloud.com/user-89524652/a-history-of-violence-oder-wankt-vucic-wirklich
 excerpt: Anfang Mai kam es in Serbien zu zwei Amokläufen mit 17 Toten.
