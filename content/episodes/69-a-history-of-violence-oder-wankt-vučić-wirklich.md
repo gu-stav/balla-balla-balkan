@@ -10,9 +10,8 @@ excerpt: Anfang Mai kam es in Serbien zu zwei Amokläufen mit 17 Toten.
 blocks:
   - type: richtext
     richtext: >-
-      Anfang Mai kam es in Serbien zu zwei Amokläufen mit 17 Toten. Der
-      unwürdige Umgang der serbischen Regierung und des Präsidenten Aleksandar
-      Vučić brachte Zehntausende auf die Straße. Es sind die größten
+      Der unwürdige Umgang der serbischen Regierung und des Präsidenten
+      Aleksandar Vučić brachte Zehntausende auf die Straße. Es sind die größten
       Massenproteste seit dem Sturz des Milošević -Regimes im Oktober 2000.
 
 
@@ -23,6 +22,26 @@ blocks:
 
 
       Außerdem erfahrt ihr, warum ihr unbedingt den kürzlich verstorbenen Autor Dževad Karahasan lesen solltet, warum in Bulgarien erstmal nicht schon wieder gewählt werden muss und was Danijel und Krsto am 1. Juli in Heidelberg machen.
+
+
+      **Shownotes**
+
+
+      * [Massenprosteste in Serbien im RBB Inforatio Newsjunkies Podcast](https://www.inforadio.de/rubriken/newsjunkies/2023/05/serbien-demonstration-amoklauf-tote-gewalt-proteste-newsjunkies.html) (mit Krsto)
+
+      * [Zehntausende protestieren gegen Präsident Vucic ](https://www.tagesschau.de/ausland/proteste-serbien-106.html)(tagesschau) 
+
+      * [Serbien: Wettstreit um die größte Kundgebung](https://www.mdr.de/nachrichten/welt/osteuropa/politik/serbien-massenproteste-belgrad-100.html) (mdr) 
+
+      * [Live-Podcast mit Tijan Sila](https://feelit.de/#portfolio/31f6ad45-cb93-4dd4-8b40-92ab3d55d1af) am 1.07.2023 beim intenationalen Literaturfestival in Heidelberg
+
+      * [Serbien und Kosovo: Schudzuweisung statt Annäherung ](https://www.ndr.de/nachrichten/info/Serbien-und-Kosovo-Schuldzuweisungen-statt-Annaeherung,audio1394204.html)(NDR)
+
+      * [Wer profitiert von den Unruhen im Kosovo? ](https://www.tagesschau.de/ausland/europa/kosovo-serbien-126.html)(tagesschau) 
+
+      * [Bulgarien: Mitte-Rechts-Bündnis gewinnt die Wahlen](https://www.tagesschau.de/ausland/europa/bulgarien-wahlen-2023-105.html) (tagesschau) 
+
+      * [Der Autor Dževad Karahasan ist tot: Zeitzeuge des Zerfalls](https://www.sueddeutsche.de/kultur/dzevad-karahasan-nachruf-tot-1.5871207) (Süddeutsche Zeitung)
 og_image: /images/upload/serbien-69.jpeg
 og_title: A History of Violence oder wankt Vučić wirklich?
 og_description: "Wir befassen uns mit den Massenprotesten in Serbien und
