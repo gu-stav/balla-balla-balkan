@@ -56,6 +56,10 @@ blocks:
 
       * [Kultur der Lüge von Dubravka Ugrešić ](https://www.suhrkamp.de/buch/dubravka-ugresic-die-kultur-der-luege-t-9783518119631)
 
+      * [Mann im Mond von Lana Bastašić](https://www.fischerverlage.de/buch/lana-bastasic-mann-im-mond-9783103971538)
+
+      * [Fang den Hasen von Lana Bastašić](https://www.fischerverlage.de/buch/lana-bastasic-fang-den-hasen-9783596707713)
+
       * [Under Pressure von Faruk Šehić](https://www.theguardian.com/books/2019/jun/21/under-pressure-by-faruk-sehic-review-fearless)
 og_image: /images/upload/feelit_1_7_23_344.jpg
 og_title: Literaturtipps vom Ballaballa-Balkan mit Tijan Sila
