@@ -19,17 +19,44 @@ blocks:
       beschimpft. 
 
 
-
       Wir teilen uns dort die Bühne mit dem Autor Tijan Sila, dessen neues Buch „Radio Sarajevo“ am 21. August erscheint. 
-
 
 
       Der Schwerpunkt unseres Gesprächs liegt auf dem Werk der kürzlich verstorbenen Dževad Karahasan, den man mit gutem Recht als Chronisten der Belagerung Sarajevos bezeichnen kann und zu dem Tijan eine ganz besondere Anekdote zu erzählen hat. Wir stellen zudem noch einige weitere Werke von Autorinnen und Autoren aus der Region vor, die ihr in den Shownotes verlinkt findet. In diesem Sinne, genießt den Sommer und lest rein. 
 
 
-
-
       **Shownotes**
+
+
+      * [feeLit Internationales Literaturfestival Heidelberg ](https://feelit.de/)
+
+      * [Tijan Silas neue Roman (erscheint am 21.08.2023) - Radio Sarajevo](https://www.hanser-literaturverlage.de/buch/radio-sarajevo/978-3-446-27726-7/)
+
+      * [Ballaballa-Balkan Folge zum Roman "Krach" von Tijan Sila](https://ballaballa-balkan.de/episode/ballaballa-balkan-liest-krach-mit-tijan-sila)
+
+      * [Tierchen Unlimited von Tijan Sila ](https://www.kiwi-verlag.de/buch/tijan-sila-tierchen-unlimited-9783462050264)
+
+      * [Die Fahne der Wünsche von Tijan Sila ](https://www.kiwi-verlag.de/buch/tijan-sila-die-fahne-der-wuensche-9783462051346)
+
+      * [BBB-Folge "Familie Deluxe" mit Jagoda Marinić](https://ballaballa-balkan.de/episode/familie-deluxe-oder-weihnachten-in-der-vukojebina)
+
+      * [Einübung ins Schweben von Dževad Karahasan](https://www.suhrkamp.de/buch/dzevad-karahasan-einuebung-ins-schweben-t-9783518431221)
+
+      * [Sara und Serafina von Dževad Karahasan](https://www.suhrkamp.de/buch/dzevad-karahasan-sara-und-serafina-t-9783518465219)
+
+      * [Tagebuch der Übersiedlung von Dževad Karahasan](https://www.suhrkamp.de/buch/dzevad-karahasan-tagebuch-der-uebersiedlung-t-9783518429815)
+
+      * [Berichte aus einer dunklen Welt von Dževad Karahasan](https://www.suhrkamp.de/buch/dzevad-karahasan-berichte-aus-der-dunklen-welt-t-9783458173373)
+
+      * [Nennt mich Esteban von Lejla Kalamujić](<*  https://www.eta-verlag.de/produkt/nennt-mich-esteban/>)
+
+      * [Denk dir die Stadt von Lejla Kalamujić](https://www.eta-verlag.de/produkt/denk-dir-die-stadt/)
+
+      * [Balkan Blues von Elvira Mujčić](https://www.penguinrandomhouse.de/Taschenbuch/Balkan-Blues/Elvira-Mujcic/btb/e529596.rhd)
+
+      * [Kultur der Lüge von Dubravka Ugrešić ](https://www.suhrkamp.de/buch/dubravka-ugresic-die-kultur-der-luege-t-9783518119631)
+
+      * [Under Pressure von Faruk Šehić](https://www.theguardian.com/books/2019/jun/21/under-pressure-by-faruk-sehic-review-fearless)
 og_image: /images/upload/feelit_1_7_23_344.jpg
 og_title: Literaturtipps vom Ballaballa-Balkan mit Tijan Sila
 og_description: Sommerzeit ist Bücherzeit und wir haben da einige Empfehlungen
