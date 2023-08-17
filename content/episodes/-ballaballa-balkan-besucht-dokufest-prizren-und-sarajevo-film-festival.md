@@ -5,7 +5,7 @@ image: /images/upload/prizren.jpeg
 apple_link: https://podcasts.apple.com/de/podcast/ballaballa-balkan-besucht-dokufest-prizren-und-sarajevo/id1170436903?i=1000624814423
 spotify_link: https://open.spotify.com/episode/49HLK2MmW4Opa7UUuFHIdV?si=cbef9bf94f8a4224
 soundcloud_link: https://soundcloud.com/user-89524652/ballaballa-balkan-bsucht-dokufest-prizren-und-sarajevo-film-festival
-excerpt: "Wir stellen Filmfestivals vor. "
+excerpt: ""
 blocks:
   - type: richtext
     richtext: >-
