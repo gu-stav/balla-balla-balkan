@@ -44,6 +44,9 @@
     "simple-oauth2": "^2.5.2",
     "slugify": "^1.6.1"
   },
+  "engines": {
+    "node": ">= 18"
+  },
   "husky": {
     "hooks": {
       "pre-commit": "npm run format"
