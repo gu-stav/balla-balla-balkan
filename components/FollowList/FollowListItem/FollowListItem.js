@@ -63,14 +63,14 @@ const FollowListItem = ({ type, href, label, theme, prefix = 'podcast' }) => {
   const postfixLabel = prefix === 'podcast' ? 'folgen' : 'anhören';
 
   return (
-    <Link href={href}>
-      <a
-        className={cn(styles.link, styles[`theme--${theme}`])}
-        aria-label={`${prefixLabel} auf ${label} ${postfixLabel}.`}
-      >
-        <Icon />
-      </a>
-    </Link>
+    (<Link
+      href={href}
+      className={cn(styles.link, styles[`theme--${theme}`])}
+      aria-label={`${prefixLabel} auf ${label} ${postfixLabel}.`}>
+
+      <Icon />
+
+    </Link>)
   );
 };
 

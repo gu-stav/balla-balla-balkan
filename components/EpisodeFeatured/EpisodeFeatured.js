@@ -49,11 +49,11 @@ const EpisodeFeatured = ({
       <div className={styles.inner}>
         <div className={styles.contentContainer}>
           {path ? (
-            <Link href={path}>
-              <a className={styles.link}>
-                <Title title={title} tagline={tagline} />
-              </a>
-            </Link>
+            (<Link href={path} className={styles.link}>
+
+              <Title title={title} tagline={tagline} />
+
+            </Link>)
           ) : (
             <Title title={title} tagline={tagline} />
           )}
@@ -90,11 +90,11 @@ const EpisodeFeatured = ({
         </Stack>
 
         {path && (
-          <Link href={path}>
-            <a className={styles.fauxLink} tabIndex="-1" aria-hidden="true">
-              {title}
-            </a>
-          </Link>
+          (<Link href={path} className={styles.fauxLink} tabIndex="-1" aria-hidden="true">
+
+            {title}
+
+          </Link>)
         )}
       </div>
     </section>

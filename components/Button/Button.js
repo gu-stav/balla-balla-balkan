@@ -20,8 +20,8 @@ const Button = ({ href, children, invert = false, ...rest }) => {
 
   if (href) {
     return (
-      <Link href={href}>
-        <a {...props}>{children}</a>
+      <Link href={href} {...props}>
+        {children}
       </Link>
     );
   }

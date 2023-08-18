@@ -13,14 +13,14 @@ const Header = ({
 }) => (
   <header className={styles.header}>
     <nav className={styles.inner}>
-      <Link href={items[0][0]}>
-        <a className={styles.item}>{items[0][1]}</a>
+      <Link href={items[0][0]} className={styles.item}>
+        {items[0][1]}
       </Link>
 
-      <Link href="/">
-        <a aria-label="Zur Ballaballa-Balkan Startseite">
-          <Logo />
-        </a>
+      <Link href="/" aria-label="Zur Ballaballa-Balkan Startseite">
+
+        <Logo />
+
       </Link>
 
       <div className={styles.ctaContainer}>

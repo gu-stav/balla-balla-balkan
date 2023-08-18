@@ -20,8 +20,8 @@ const Footer = ({ marginTop = true, items = [] }) => {
     >
       <nav className={styles.nav}>
         {items.map(([href, label]) => (
-          <Link href={href} key={`footer-${href}`}>
-            <a className={styles.item}>{label}</a>
+          <Link href={href} key={`footer-${href}`} className={styles.item}>
+            {label}
           </Link>
         ))}
       </nav>

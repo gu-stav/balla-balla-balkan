@@ -33,12 +33,12 @@ const EpisodeItem = ({
       </div>
 
       <div className={styles.contentContainer}>
-        <Link href={path}>
-          <a className={styles.link}>
-            <Headline level={2} className={styles.titleContainer}>
-              <span className={styles.title}>{title}</span>
-            </Headline>
-          </a>
+        <Link href={path} className={styles.link}>
+
+          <Headline level={2} className={styles.titleContainer}>
+            <span className={styles.title}>{title}</span>
+          </Headline>
+
         </Link>
 
         <Paragraph className={styles.excerpt}>{excerpt}</Paragraph>
@@ -65,10 +65,10 @@ const EpisodeItem = ({
         </Stack>
       </div>
 
-      <Link href={path}>
-        <a className={styles.fauxLink} tabIndex="-1" aria-hidden="true">
-          {title}
-        </a>
+      <Link href={path} className={styles.fauxLink} tabIndex="-1" aria-hidden="true">
+
+        {title}
+
       </Link>
     </div>
   );
