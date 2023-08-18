@@ -1,5 +1,5 @@
 ---
-publication_at: 2023-08-17T22:35:43.119Z
+publication_at: 2023-08-18T09:52:21.071Z
 title: Ballaballa-Balkan besucht Dokufest Prizren und Sarajevo Film Festival
 image: /images/upload/prizren.jpeg
 apple_link: https://podcasts.apple.com/de/podcast/ballaballa-balkan-besucht-dokufest-prizren-und-sarajevo/id1170436903?i=1000624814423
