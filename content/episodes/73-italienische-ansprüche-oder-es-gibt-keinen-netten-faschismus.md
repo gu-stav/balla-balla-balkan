@@ -12,11 +12,8 @@ excerpt: "In dieser Episode machen sich Krsto und Danijel mal wieder unbeliebt,
 blocks:
   - type: richtext
     richtext: >-
-      WeiterIn dieser Episode machen sich Krsto und Danijel mal wieder
-      unbeliebt, denn sie reden über ein Land, dass grundsätzlich bei vielen
-      Leuten hoch angesehen dürfte: Italien - gutes Essen, schöne Strände und
-      nicht zu vernachlässigende Beiträge zur Popkultur, über deren Qualität man
-      durchaus streiten kann.
+      \- gutes Essen, schöne Strände und nicht zu vernachlässigende Beiträge zur
+      Popkultur, über deren Qualität man durchaus streiten kann.
 
 
       Allerdings ist es auch das Geburtsland des Faschismus. Darüber wird auch geredet. Eher weniger wird darüber geredet, was der italienische Faschismus auf dem Balkan so veranstaltet hat. Denn tatsächlich ist der Versuch von Mussolini und Co. ein Großreich in vorwiegend nicht-italienisch bewohnten Gebieten entlang der Adria zu errichten, direkt verantwortlich für den Tod von zehntausenden Menschen.
