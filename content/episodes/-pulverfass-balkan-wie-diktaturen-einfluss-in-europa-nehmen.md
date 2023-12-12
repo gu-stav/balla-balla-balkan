@@ -27,8 +27,7 @@ blocks:
 
       * [Das Hörbuch auf Spotify ](https://open.spotify.com/intl-de/album/3WJGtcMoCDB7fa9g9tpRHR)
 og_image: /images/upload/81f0dnuatyl._ac_uf894-1000_ql80_.jpg
-og_title: Florian Bieber erklärt, wie Diktaturen Einfluss auf den Westbalkan
-  nehmen und warum das für ganz Europa ein Probem ist.
+og_title: Pulverfass Balkan - Wie Diktaturen Einfluss in Europa nehmen
 og_description: Florian Bieber erklärt, wie Diktaturen Einfluss auf den
   Westbalkan nehmen und warum das für ganz Europa ein Probem ist.
 ---
