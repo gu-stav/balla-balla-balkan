@@ -30,6 +30,8 @@ blocks:
 
       * [Lepa Brena singt "Jugoslovenka" in Zagreb](https://www.youtube.com/watch?v=akzedqGWzgg) (Youtube)
 
+      * [Im Yugotaxi mit Danko Rabrenović](https://about-us.ch/projects/yugo-taxi) (Homepage)
+
       * [Yugowerbung in den USA in den 80ern](https://www.youtube.com/watch?v=yQI49lWSOaw) (Youtube)
 
       * [Krsto spricht über die Parlamentswahlen in Serbien](https://detektor.fm/politik/zurueck-zum-thema-wahlen-in-serbien) (Detektor.fm, 8 Min)
@@ -40,11 +42,13 @@ blocks:
 
       * [Sali Berishas Immunität aufgehoben](<* https://balkaninsight.com/2023/12/21/albanias-parliament-lifts-immunity-of-former-pm-sali-berisha/>) (Balkan Insight)
 
-      * [Trailer: Otpisani](https://www.youtube.com/watch?v=akzedqGWzgg) (Youtube)
+      * [Trailer: Otpisani](https://www.youtube.com/watch?v=IguyjzDt_88) (Youtube)
 
       * [Rokeri S Moravu](<* https://www.youtube.com/watch?v=akzedqGWzgg>) (Youtube)
 
       * [Radenska](<* https://www.youtube.com/watch?v=uOEHuTQG5OA>) (Youtube)
+
+      * [Jugoslawien wird Basketballweltmeister 1990](https://www.youtube.com/watch?v=r4tnShlAQ90&t=3812s) (Youtube, ab 1.03.00 die Stelle aus der Folge)
 og_image: /images/upload/everybodyneedsayugosometime-v3-900x600px.png
 og_title: Jugo-Nostalgie oder Everybody needs a Yugo sometime
 og_description: "Nehmt ein Glas, get in the mood, es wird emotional - denn es
