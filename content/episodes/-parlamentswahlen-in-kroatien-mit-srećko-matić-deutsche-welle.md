@@ -2,6 +2,8 @@
 publication_at: 2024-04-24T13:48:37.369Z
 title: "Parlamentswahlen in Kroatien (mit Srećko Matić, Deutsche Welle) "
 image: /images/upload/titel-quadrat.jpg
+apple_link: https://podcasts.apple.com/de/podcast/extra-parlamentswahlen-in-kroatien-mit-sre%C4%87ko-mati%C4%87/id1170436903?i=1000653461197
+spotify_link: https://open.spotify.com/episode/2softZogn5cgEbWwGYfrEm?si=0da2a98efe5d4fa0
 soundcloud_link: "
   https://soundcloud.com/user-89524652/extra-parlamentswahlen-in-kroatien-mit-s\
   recko-matic"
@@ -33,7 +35,7 @@ blocks:
 
       * [Srećko Matić Profil auf X ](https://twitter.com/srecko_matic?lang=de)
 og_image: /images/upload/titel-breit.jpg
-og_title: Parlamentswahlen in Kroatien (mit Srećko Matić)
+og_title: Parlamentswahlen in Kroatien
 og_description: Kroatien steht vor einem Rechtsruck und dazu hat das Gebaren des
   sozialdemokratischen Staatspräsidenten Milanović beigetragen.
 ---
