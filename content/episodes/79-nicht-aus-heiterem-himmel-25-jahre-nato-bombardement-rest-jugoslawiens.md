@@ -20,7 +20,7 @@ blocks:
       In Serbien spricht man bis heute immer noch von der NATO-Aggression. Als ob der 78 Tage währende Militäreinsatz keine Vorgeschichte gehabt hätte. Und in den letzten Jahren wird wieder verstärkt ein - freundlich gesagt - starkt verkürztes Opfer-Narrativ gepflegt, das leider auch in Teilen der westlichen Öffentlichkeit immer noch verfängt.
 
 
-      Es geht also in dieser Episode vor allem um die Rezeption und Instrumentalisierung des Gedenkens an das Bombardement von 1999. Darüber und über einige andere Aspekte unterhalten sich Krsto und Danijel mit der Historikerin Elisa Satjukow, die ihre Dissertation zu dem Thema geschrieben hat.
+      Es geht also in dieser Episode vor allem um die Rezeption und Instrumentalisierung des Gedenkens an das Bombardement von 1999. Darüber und über einige andere Aspekte unterhalten sich Krsto und Danijel mit der Historikerin Dr. Elisa Satjukow, die ihre Dissertation zu dem Thema geschrieben hat.
 
 
       Nebenbei erfahrt Ihr sehr viel über Wahlen. In Nordmazedonien, Kroatien und Serbien. Und ein bisschen was über die neuesten Entwicklungen in Sachen Pressefreiheit auf dem Balkan.
@@ -29,7 +29,7 @@ blocks:
       **S﻿hownotes**
 
 
-      * [E﻿lisa Sutjakow: Die andere Seite der Interverntion.](https://www.transcript-verlag.de/978-3-8376-4939-0/die-andere-seite-der-intervention/?number=978-3-8394-4939-4) Eine serbische Erfahrungsgeschichte der NATO-Bombardierung 1999 (transcript) 
+      * [D﻿r. E﻿lisa Satjukow: Die andere Seite der Interverntion.](https://www.transcript-verlag.de/978-3-8376-4939-0/die-andere-seite-der-intervention/?number=978-3-8394-4939-4) Eine serbische Erfahrungsgeschichte der NATO-Bombardierung 1999 (transcript) 
 
       * [Als Bomben auf die Brücke von Varvarin fielen](https://www.derstandard.at/story/2000038314165/die-bruecke-von-varvarin) (der Standard) 
 
