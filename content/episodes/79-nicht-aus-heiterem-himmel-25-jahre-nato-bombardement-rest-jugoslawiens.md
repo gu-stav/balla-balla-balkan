@@ -48,13 +48,11 @@ blocks:
       * [S﻿erbia names US-Sanctioned, Pro-Russian Politicians as Ministers](https://balkaninsight.com/2024/04/30/serbia-names-us-sanctioned-pro-russian-politicians-as-ministers/) (Balkan Insight) 
 
 
-
-
       **N﻿ews** 
 
 
-      * [U﻿NO-Resolution zu Srebrenica](<* https://taz.de/Uno-Resolution-zum-Srebrenica-Massaker/!6005560/
-          https://www.derstandard.de/story/3000000218305/un-resolution-soll-srebrenica-gedenktag-auf-den-weg-bringen>) (taz) 
+      * [U﻿NO-Resolution zu Srebrenica](https://taz.de/Uno-Resolution-zum-Srebrenica-Massaker/!6005560/) (taz)
+
       * [W﻿ahlen in Nordmazedonien](https://www.tagesschau.de/ausland/europa/wahl-nordmazedonien-102.html) (der Standard) 
 
       * [B﻿alkan States Fall in Press Freedom Rankings](https://balkaninsight.com/2024/05/03/balkan-states-fall-in-press-freedom-rankings/) (Balkan Insight) 
@@ -62,8 +60,6 @@ blocks:
       * [X﻿i Jinping wird in Serbien als Freund empfangen](https://www.faz.net/aktuell/politik/ausland/xi-jinping-wird-in-serbien-als-freund-empfangen-19704370.html) (FAZ) 
 
       * [X﻿i Jinpings Gastbeitrag auf Englisch](https://www.politika.rs/scc/clanak/612985/May-the-Light-of-Our-Ironclad-Friendship-Shine-on-the-Path-of-China-Serbia-Cooperation) (Politika) 
-
-
 
 
       **A﻿ndere Episoden mit Bezug zum Thema** 
