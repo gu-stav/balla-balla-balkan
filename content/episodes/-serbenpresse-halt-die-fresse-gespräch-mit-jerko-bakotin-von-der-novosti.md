@@ -2,7 +2,7 @@
 number: ""
 publication_at: 2024-05-20T22:23:21.718Z
 title: "Serbenpresse halt die Fresse - Gespräch mit Jerko Bakotin von der Novosti "
-image: /images/upload/jerko-bakotin.jpg
+image: /images/upload/jerko-bakotin-geschnitten.jpg
 apple_link: https://podcasts.apple.com/de/podcast/serbenpresse-auf-die-fresse-vor-auphonic-mixdown/id1170436903?i=1000656194775
 spotify_link: "https://open.spotify.com/episode/5InMkfwtGW5RDHJdGNTbKe?si=11f68895a4164c8f "
 soundcloud_link: https://soundcloud.com/user-89524652/serbenpresse-auf-die-fresse-vor-auphonic-mixdown?si=046ee309ebe1478f9e422f1a80138575&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
