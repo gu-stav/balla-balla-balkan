@@ -24,6 +24,46 @@ blocks:
 
 
       Abseits davon erfahrt Ihr, wie die EU-Wahl in den Balkanstaaten ausgegangen ist, was Nancy Faeser so in Bosnien treibt und warum Aleksandar Vučić schon wieder am Heulen ist...diesmal in New York.
+
+
+      **S﻿hownotes** 
+
+
+      * [G﻿astbeitrag von Xi Jinping in der Politika](https://www.politika.rs/sr/clanak/612985/May-the-Light-of-Our-Ironclad-Friendship-Shine-on-the-Path-of-China-Serbia-Cooperation) (englisch und serbisch): May the Light of Our Ironclad Friendship Shine on the Path of China-Serbia Cooperation 
+
+      * [B﻿ergbau auf Chinesisch: Die Kupferminen in der ostserbischen Stadt Bor ](https://www.deutschlandfunk.de/bergbau-auf-chinesisch-die-kupferminen-in-der-ostserbischen-stadt-bor-dlf-b1218b4d-100.html)(Deutschlandfunk Reportage von Dirk Auer, 55 Min.) 
+
+      * [C﻿hinesische Investoren in Bor: Von Umweltschutz halten sie nichts ](https://www.faz.net/aktuell/politik/ausland/chinesen-investieren-in-serbiens-schwerindustrie-17473109.html)(FAZ, Michael Martens) 
+
+      * [C﻿hina greift Europas Stahlindustrie an - über den Balkan](https://www.spiegel.de/wirtschaft/unternehmen/china-kauft-stahlwerk-in-serbien-eurofer-schlaegt-alarm-a-1102780.html) (Spiegel)
+
+      * [Vergiftet Chinas Stahlwerk die serbische Stadt Smederevo](https://www.youtube.com/watch?v=Cd9JjBeMA2Q) (DW, Film, 9 min)
+
+      * [S﻿chmutzige Reifen für Europa: Ling Long ](https://www.hoerspielundfeature.de/linglong-100.html)(Deutschlandfunk, Reportage von Zoran Solumun, 51 Min.)
+
+      * [F﻿oreign Workers in Zrenjanin forced to live in extremely poor condition](https://www.masina.rs/eng/foreign-workers-in-zrenjanin-forced-to-live-in-extremely-poor-accomodation/) (Mašina)﻿
+
+      * [The case of Vietnamnese Workers in LingLong - How Human Rights and Freedom of the Press have been systemically Destroyed.](https://openurl.ebsco.com/EPDB%3Agcd%3A3%3A21008803/detailv2?sid=ebsco%3Aplink%3Ascholar&id=ebsco%3Agcd%3A159588085&crl=f) (Ivana Gordić Perc)
+
+      * [S﻿olidaritätsaward der Südosteuropa-Gesellschaft an Ivana Gordić Perc](https://www.youtube.com/watch?v=JqJbwqJmJKA) (Youtube)
+
+      * [P﻿restigeprojekt Autobahn - Montenegros Deal mit China](https://www.arte.tv/de/videos/104426-005-A/re-prestigeprojekt-autobahn/) (Arte RE, Reportage, 32 Min.) 
+
+      * [A﻿utobahn in die Abhängigkeit](https://www.jungle.world/artikel/2021/17/autobahn-die-abhaengigkeit) (Krstos Text in der Jungle World) 
+
+      * [D﻿urch Kroatien fahren ohne Grenzkontrolle - die Peljesac-Brücke](https://www.tagesschau.de/ausland/europa/peljesac-bruecke-kroatien-101.html) (tagesschau) 
+
+
+      **N﻿ews** 
+
+
+      * [Deutsche Innenministerin besucht Bosnien, um Geflüchtete zu stoppen](https://www.tagesspiegel.de/politik/faeser-besucht-bosnien-bundesinnenministerin-sucht-losungen-gegen-irregulare-migration-11804975.html) (Tagesspiegel)
+
+      * [Ergebnisse der Europawahlen nach Staaten geordnet](https://www.politico.eu/europe-poll-of-polls/european-parliament-election/) (Politico)
+
+      * [Montenegrinisches Parlament beschließt Reformpaket](https://www.dw.com/de/montenegrinisches-parlament-beschlie%C3%9Ft-reformpaket/a-69309757) (DW)
+
+      * [B﻿erufungsgericht erkennt Sali Berisha als Vorsitzenden der DP an](https://kosovapress.com/de/gjykata-e-apelit-e-njohu-si-kryetar-te-pd-se-ky-eshte-reagimi-i-sali-berishes) (Kosova Press)
 og_image: /images/upload/bruder-xi.jpg
 og_title: Danke, Bruder Xi! Chinas Rolle auf dem Balkan
 og_description: "China investiert massiv auf dem Balkan und versucht damit
