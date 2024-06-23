@@ -24,13 +24,13 @@ blocks:
       **S﻿hownotes** 
 
 
-      * [Rechte blamieren sich mit Fake über Fan-Schlägerei in Gelsenkirchen](<* <https://www.volksverpetzer.de/aktuelles/fake-fan-schlaegerei-eigentor/>>) (Volksverpetzer von Ruben Gerzcikow) [](https://www.volksverpetzer.de/aktuelles/fake-fan-schlaegerei-eigentor/)
+      * ﻿Rechte blamieren sich mit Fake über Fan-Schlägerei in Gelsenkirchen (Volksverpetzer von Ruben Gerzcikow) ﻿﻿
 
-      * [Nicht die „EM-Gewalt“ ist außer Kontrolle, sondern Julian Reichelt](<https://uebermedien.de/96417/nicht-die-em-gewalt-ist-ausser-kontrolle-sondern-julian-reichelt/>) (Annika Schneider in Übermedien) 
+      * [Nicht die „EM-Gewalt“ ist außer Kontrolle, sondern Julian Reichelt](https://uebermedien.de/96417/nicht-die-em-gewalt-ist-ausser-kontrolle-sondern-julian-reichelt/) (Annika Schneider in Übermedien) 
 
-      * [Serbien zieht Drohung mit EM-Rückzug zurück](<https://www.zeit.de/sport/2024-06/serbien-fussball-em-albanien-kroatien>) (Zeit Online)
+      * [Serbien zieht Drohung mit EM-Rückzug zurück](https://www.zeit.de/sport/2024-06/serbien-fussball-em-albanien-kroatien) (Zeit Online)
 
-      * [UEFA sperrt albanischen Stürmer für zwei Spiele](<https://www.zeit.de/sport/2024-06/mirlind-daku-uefa-sperrung-albanien-stuermer-fussball-em>) (Zeit Online)
+      * [UEFA sperrt albanischen Stürmer für zwei Spiele](https://www.zeit.de/sport/2024-06/mirlind-daku-uefa-sperrung-albanien-stuermer-fussball-em) (Zeit Online)
 
       * [E﻿pisode 8: Der BallaballaBall ist rund: Fußball und Politik ](https://ballaballa-balkan.de/episode/der-ballaballa-ball-ist-rund-fussball-und-politik)
 
