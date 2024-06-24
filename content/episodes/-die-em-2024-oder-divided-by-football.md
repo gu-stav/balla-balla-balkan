@@ -24,7 +24,9 @@ blocks:
       **S﻿hownotes** 
 
 
-      * ﻿Rechte blamieren sich mit Fake über Fan-Schlägerei in Gelsenkirchen (Volksverpetzer von Ruben Gerzcikow) ﻿﻿
+      * [﻿Rechte blamieren sich mit Fake über Fan-Schlägerei in Gelsenkirchen ](https://www.volksverpetzer.de/aktuelles/fake-fan-schlaegerei-eigentor/)(Volksverpetzer von Ruben Gerzcikow) ﻿﻿
+
+      * [D﻿ario Brentin aux X ](https://x.com/DarioBrentin?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 
       * [Nicht die „EM-Gewalt“ ist außer Kontrolle, sondern Julian Reichelt](https://uebermedien.de/96417/nicht-die-em-gewalt-ist-ausser-kontrolle-sondern-julian-reichelt/) (Annika Schneider in Übermedien) 
 
