@@ -1,7 +1,7 @@
 ---
 publication_at: 2024-08-05T19:08:17.436Z
 title: "Olaf Scholz, Lithium und Rio Tinto in Serbien "
-image: /images/upload/1200x600.png
+image: /images/upload/1200x1200.png
 apple_link: https://podcasts.apple.com/de/podcast/olaf-scholz-lithium-und-rio-tinto-in-serbien/id1170436903?i=1000664403791
 spotify_link: https://open.spotify.com/episode/5GWYV2OSYLr0OdX1IN9575?si=cb1a71ff6b8b485d
 soundcloud_link: https://soundcloud.com/user-89524652/olaf-scholz-lithium-und-rio-tinto-in-serbien
