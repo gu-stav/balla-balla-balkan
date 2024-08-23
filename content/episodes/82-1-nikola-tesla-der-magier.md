@@ -23,6 +23,34 @@ blocks:
 
 
       Nebenbei erfahrt Ihr, warum Danijel sich weigert, das Serbische Haus auf Korfu zu besuchen, wer von den beiden Moderatoren weniger Ahnung von Physik hat und was in Serbien Zehntausende Menschen auf die Straße treibt.
+
+
+      **S﻿hownotes**
+
+
+      * [T﻿esla: Erfinder des elektrischen Zeitalters ](https://www.thalia.de/shop/home/artikeldetails/A1039774947)- Biografie von W. Bernard Carlson 
+
+      * [Nikola Tesla und der Beginn des elektrischen Zeitalters](https://www.swr.de/swrkultur/wissen/nikola-tesla-und-der-beginn-des-elektrischen-zeitalters-104.html) - SWR Feature, 29 min., 2023
+
+      * [T﻿esla - das betrogene Genie](https://www.youtube.com/watch?v=Bwb7Qp72Bjo) - Terra X, 43 Min, 2024
+
+      * [M﻿y Inventions ](https://en.wikipedia.org/wiki/My_Inventions:_The_Autobiography_of_Nikola_Tesla)- Autobiografie von Nikola Tesla, 1919
+
+      * [E﻿dison vs. Tesla - Epic Rap Battles in History](https://www.youtube.com/watch?v=gJ1Mz7kGVf0) (Youtube)
+
+
+      **N﻿ews** 
+
+
+      * [W﻿aldbrände in Bosnien-Herzegowina ](https://taz.de/Waldbraende-in-Bosnien-und-Herzegowina/!6027100/)(taz)
+
+      * [W﻿aldbrände in Südosteuropa](https://www.derstandard.de/story/3000000232374/waldbraende-in-suedosteuropa-wenn-es-sommer-wird-kommt-das-feuer) (der Standard)
+
+      * [B﻿rücke spaltet Kosovo-Albaner und Kosovo-Serben](https://www.dw.com/de/kosovo-eine-br%C3%BCcke-spaltet-kosovo-albaner-und-serben/video-69935906) (DW)
+
+      * [L﻿ithiumabbau in Serbien und Proteste](https://www.zeit.de/politik/ausland/2024-08/lithium-serbien-batterien-elektromobilitaet-metall) (Zeit Online)
+
+      * [H﻿ausmeister tötet drei Menschen in Schule in Sanski Most ](https://www.derstandard.at/story/3000000233323/schulwart-erschoss-direktor-lehrerin-und-sekretaerin-an-schule-in-bosnien)(Der Standard)
 og_image: /images/upload/tesla.jpg
 og_title: Nikola Tesla - Der Magier
 og_description: "Herkunft, Aufstieg und Erfolge von Nikola Tesla sind Thema des
