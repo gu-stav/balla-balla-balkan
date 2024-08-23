@@ -6,7 +6,7 @@ image: /images/upload/tesla-klein.jpg
 apple_link: https://podcasts.apple.com/de/podcast/82-1-nikola-tesla-der-magier/id1170436903?i=1000666345093
 spotify_link: https://open.spotify.com/episode/1IIWk9yXH36sPsfg52til3?si=39615de63b1a442b
 soundcloud_link: https://soundcloud.com/user-89524652/821-nikola-tesla-der-magier
-excerpt: "Wir sprechen über den größten Erfinder vom Balkan. "
+excerpt: ""
 blocks:
   - type: richtext
     richtext: >-
