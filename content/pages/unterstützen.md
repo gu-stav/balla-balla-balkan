@@ -3,7 +3,7 @@ title: Unterstützen
 blocks:
   - type: richtext
     richtext: >-
-      ## Liebe Hörerinnen und Hörer 
+      ## Liebe Hörerinnen und Hörer
 
 
       Seit September 2016 ist "Neues vom Ballaballa-Balkan" auf Sendung. Wir sprechen über Politik, Kultur, Sport, Geschichte und vieles mehr, was einen Bezug zum Balkan aufweist.
@@ -21,7 +21,10 @@ blocks:
 
       \
 
-      Zum Beispiel hoffen wir in Zukunft mit Eurer Unterstützung, des Öfteren nicht nur über den Balkan zu berichten, sondern wenn notwendig auch von dort.
+      Zum Beispiel hoffen wir in Zukunft mit Eurer Unterstützung, des Öfteren nicht nur über den Balkan zu berichten, sondern wenn notwendig auch von dort. 
+
+
+      Als kleines Dankeschön erhaltet ihr mindestens einmal im Jahr eine handgeschriebene Postkarte aus dem Balkan von uns. Wenn es euch egal ist, ob ihr via Steady oder Paypal unterstützt, empfehlen wir Paypal, weil dann mehr bei uns ankommt. Dann müsstet ihr uns aber nochmal eure Adresse via Mail mitteilen - bei Steady könnt ihr die Adresse einfach angeben und wir senden euch dann eine Karte. 
 
 
       [Unterstütze uns bei Steady](https://steadyhq.com/en/neuesvomballaballabalkan)
