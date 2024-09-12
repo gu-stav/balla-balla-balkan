@@ -58,5 +58,5 @@ blocks:
 og_image: /images/upload/putin-titelbreit.jpg
 og_title: "Wir sprechen über Putins Verbündete, russischen Einfluss auf dem
   Balkan und darüber was der Krieg für die Region bedeutet. "
-og_description: Putins Einfluss auf dem Balkan
+og_description: ""
 ---
