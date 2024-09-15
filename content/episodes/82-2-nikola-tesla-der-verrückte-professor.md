@@ -38,16 +38,20 @@ blocks:
       * [M﻿y Inventions ](https://en.wikipedia.org/wiki/My_Inventions:_The_Autobiography_of_Nikola_Tesla)- Autobiografie von Nikola Tesla, 1919
 
 
-
-
       **N﻿ews**
 
 
-      * ﻿Zum Urteil über das "historische" Wappen in Bleiburg (Novosti, Kroatisch)
+      * [﻿Zum Urteil über das "historische" Wappen in Bleiburg](https://www.portalnovosti.com/demontaza-bijelog-polja) (Novosti, Kroatisch)
 
-      *
+      * [Wehrpflicht in Serbien](<* https://www.deutschlandfunk.de/praesident-vucic-gibt-gruenes-licht-fuer-einfuehrung-der-wehrpflicht-100.html>) (Deutschlandfunk)
+
+      * [A﻿nklage zu Banjska im Kosovo ](https://balkaninsight.com/2024/09/11/kosovo-indicts-45-for-deadly-attack-by-armed-serb-group-in-banjska/)(Balkan Insight) 
+
+      * [M﻿ladic und Karadzic werden laut neuen Lehrplänen Grundschulen der Republika Srpska künftig als Helden vorgestellt, ohne ihre Verbrechen zu nennen](https://balkaninsight.com/2024/09/13/bosnian-serb-schoolchildren-to-be-taught-mladic-karadzic-were-heroes/) (Balkan Insight)
+
+      * [S﻿everina an serbischer Grenze verhört ](https://kurier.at/mehr-platz/verbaldelikt-serbien-kroatien-grenze-vorfall-popstar-severina/402940663)(Kurier)
 og_image: /images/upload/tesla-groß.jpeg
 og_title: Nikola Tesla - Der verrückte Professor
-og_description: "Im zweiten Teslateil geht es um Unbeglichene Rechnungen,
-  Größenwahnsinn, Außerirdische und Verschwörungstheorien "
+og_description: Im zweiten Teil geht es um Unbeglichene Rechnungen,
+  Größenwahnsinn, Außerirdische, Verschwörungstheorien und die Rezeption Teslas.
 ---
