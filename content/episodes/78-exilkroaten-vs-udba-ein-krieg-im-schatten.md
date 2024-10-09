@@ -43,6 +43,8 @@ blocks:
 
       * Christian Axboe Nielsen: [Yugoslavia and Political Assassinations](https://www.bloomsbury.com/us/yugoslavia-and-political-assassinations-9780755634903/)
 
+      * Dr. Bernd Robionek: [Mercenaries of a Phantom War - The “Hostile Emigration” in Yugoslavia’s\
+        Globalized Ideology of Insecurity](https://czasopisma.kul.pl/index.php/ehr/article/view/16820/14796)
 
       **Zu den News:**
 
