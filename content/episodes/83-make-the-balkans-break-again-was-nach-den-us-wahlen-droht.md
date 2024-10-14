@@ -2,7 +2,7 @@
 number: "83"
 publication_at: 2024-10-14T19:57:58.781Z
 title: "Make the Balkans break again - Was nach den US-Wahlen droht "
-image: /images/upload/vucic-tump-melania.jpeg
+image: /images/upload/vucic-tump-melania-1zu1.jpg
 apple_link: https://podcasts.apple.com/de/podcast/make-the-balkans-break-again-was-uns-nach-den-us-wahlen-droht/id1170436903?i=1000673073460
 spotify_link: https://open.spotify.com/episode/3yjTpbYuW3HnJE4XQb6wwc?si=ff19d250ff204d25
 soundcloud_link: https://soundcloud.com/user-89524652/make-the-balkans-break-again-was-uns-nach-den-us-wahlen-droht?si=0dce0ef5305f430391e039e138d488f3&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
