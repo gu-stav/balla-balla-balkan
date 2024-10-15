@@ -23,7 +23,7 @@ blocks:
       **Shownotes**
 
 
-      * [BALKANGAMBIT – Eine Region im Fadenkreuz der Großmächte ](https://www.bpb.de/mediathek/podcasts/balkangambit/>)(Podcast der Bundeszentrale für politische Bildung)
+      * [BALKANGAMBIT – Eine Region im Fadenkreuz der Großmächte ](https://www.bpb.de/mediathek/podcasts/balkangambit/)(Podcast der Bundeszentrale für politische Bildung)
 
       * [Serbia Approves Contract With Jared Kushner for Hotel Complex](https://www.nytimes.com/2024/05/16/us/politics/kushner-serbia-hotel.html) (New York Times)
 
