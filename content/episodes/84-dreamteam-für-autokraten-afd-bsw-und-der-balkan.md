@@ -23,6 +23,15 @@ blocks:
 
 
       **S﻿hownotes**
+
+
+      * [Andreja Lović – Mitarbeiter der BSW-Mitgründerin Żaklin Nastić – ist prorussischer Nationalist](https://correctiv.org/aktuelles/russland-ukraine-2/2024/10/17/mitarbeiter-der-bsw-mitgruenderin-nastic-ist-prorussischer-nationalist/) (Correctiv)
+
+      *
+
+      *
+
+      *
 og_image: /images/upload/signal-2024-11-07-095538_002.jpeg
 og_title: Dreamteam für Autokraten - AfD, BSW und der Balkan
 og_description: Wir analysieren, warum die Balkan-Positionen von AfD und BSW so
