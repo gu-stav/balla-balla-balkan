@@ -62,6 +62,8 @@ blocks:
       * [B﻿esuch bei Andrej Gnyot im Hausarrest im September](https://www.woz.ch/2438/gefangen-in-serbien/kaempft-die-demokratie-jetzt-auch-fuer-mich/!JVMX60DJ7J2J) (Krstos Reportage in der woz)
 
       *
+
+      *
 og_image: /images/upload/signal-2024-11-07-095538_002.jpeg
 og_title: Dreamteam für Autokraten - AfD, BSW und der Balkan
 og_description: Wir analysieren, warum die Balkan-Positionen von AfD und BSW so
