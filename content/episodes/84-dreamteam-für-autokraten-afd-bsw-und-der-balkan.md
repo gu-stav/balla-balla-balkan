@@ -45,7 +45,7 @@ blocks:
 
       * [P﻿etr Bystron zu Gast bei Informer](https://www.youtube.com/watch?v=XgNfEz2AqEE) (Informer, Youtube, Serbisch)
 
-      *   [Tino Chrupalla hält mit der rechtsextremen serbischen Ministerin Milica Đurđević Stamenkovski ein serbisch-nationalistisches Shirt in die Kamera ](https://bsky.app/profile/krstorevic.bsky.social/post/3kv2w4j53ak2d)(Krstos Einordnung auf Bluesky)
+      * [Tino Chrupalla hält mit der rechtsextremen serbischen Ministerin Milica Đurđević Stamenkovski ein serbisch-nationalistisches Shirt in die Kamera ](https://bsky.app/profile/krstorevic.bsky.social/post/3kv2w4j53ak2d)(Krstos Einordnung auf Bluesky)
 
 
       **N﻿ews und Palaver**
@@ -61,9 +61,11 @@ blocks:
 
       * [B﻿esuch bei Andrej Gnyot im Hausarrest im September](https://www.woz.ch/2438/gefangen-in-serbien/kaempft-die-demokratie-jetzt-auch-fuer-mich/!JVMX60DJ7J2J) (Krstos Reportage in der woz)
 
-      *
+      * [C﻿lemens Mayer sauer, weil er Buchpreis nicht bekommt](https://taz.de/Clemens-Meyer-auf-der-Buchmesse/!6041184/) (taz)
 
-      *
+      * [C﻿lemens Meyer: Die Projektoren](https://www.fischerverlage.de/buch/clemens-meyer-die-projektoren-9783100022462) (Fischer Verlag)
+
+      * [M﻿artina Hefter: Hey, guten morgen, wie geht es dir](https://www.klett-cotta.de/produkt/martina-hefter-hey-guten-morgen-wie-geht-es-dir-9783608988260-t-8742) (Klett-Cota)
 og_image: /images/upload/signal-2024-11-07-095538_002.jpeg
 og_title: Dreamteam für Autokraten - AfD, BSW und der Balkan
 og_description: Wir analysieren, warum die Balkan-Positionen von AfD und BSW so
