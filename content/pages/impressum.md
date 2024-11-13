@@ -16,7 +16,7 @@ blocks:
       ### **Kontakt**
 
 
-      E-Mail: [krstol@gmx.de](mailto:krstol@gmx.de)
+      E﻿-Mail: neuesvom@ballaballa-balkan.de  
 
 
       **Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:**\
