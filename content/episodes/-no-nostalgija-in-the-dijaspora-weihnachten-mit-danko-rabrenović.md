@@ -2,7 +2,7 @@
 number: ""
 publication_at: 2024-12-24T00:21:04.237Z
 title: " No Nostalgija in the Dijaspora - Weihnachten mit Danko Rabrenović "
-image: /images/upload/signal-2024-12-24-010650_002.jpeg
+image: /images/upload/danko.jpg
 apple_link: https://podcasts.apple.com/de/podcast/no-nostalgija-in-the-dijaspora-weihnachten-mit-danko/id1170436903?i=1000681496736
 spotify_link: https://open.spotify.com/episode/6khyFAr0OUGStjJv45FXzt?si=7906cd1f7a9c4c3e
 soundcloud_link: https://soundcloud.com/user-89524652/no-nostalgija-in-the-dijaspora-weihnachten-mit-danko-rabrenovic
