@@ -26,7 +26,7 @@ blocks:
       SHOWNOTES:
 
 
-      * [Senad Palić auf Instagram](<* https://www.instagram.com/palicsenad/>)
+      * [Senad Palić auf Instagram](https://www.instagram.com/palicsenad/)
 
       * [Senads Homepage](https://retro.wtf/)
 
@@ -42,7 +42,7 @@ blocks:
 
       * [Doku über den Galaksija Computer](https://www.youtube.com/watch?v=RxzgW-WP13I)
 
-      * [Jacobin-Artikel über den Galaksija ](<* https://jacobin.de/artikel/diy-computer-galaksija-voja-antonic-jugoslawien-open-source>)
+      * [Jacobin-Artikel über den Galaksija ](https://jacobin.de/artikel/diy-computer-galaksija-voja-antonic-jugoslawien-open-source)
 
       * [Obscure Systems: PEL Varazdin Orao ](https://www.youtube.com/watch?v=ZhaC9nGlJLA)
 og_image: /images/upload/titel-ballaballa-breit.jpg
