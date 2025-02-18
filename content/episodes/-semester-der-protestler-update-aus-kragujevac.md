@@ -35,6 +35,10 @@ blocks:
       * [K﻿rstos Instastory zu den Protesten ](https://www.instagram.com/stories/highlights/18013259774693612/)
 
       * [Veliki broj autobusa sa BIH tablicama usao u Vojvodinu](https://www.danas.rs/vesti/politika/veliki-broj-autobusa-sa-bih-tablicama-usao-u-vojvodinu/) (Danas)
+
+      * [Episode 86: Semester der Protestler ](https://ballaballa-balkan.de/episode/semester-der-protestler-serbiens-studierende-auf-den-barrikaden)- Serbiens Studierende auf den Barrikaden
+
+      * [U﻿pdate von den Protesten ](https://ballaballa-balkan.de/episode/semester-der-protestler-update-aus-serbien)nach dem Rücktritt von Miloš Vučević
 og_image: /images/upload/kragujevac-breit.jpg
 og_title: "Semester der Protestler - Update aus Kragujevac "
 og_description: "Die Proteste in Serbien haben in Kragujevac eine neue Dimension
