@@ -1,6 +1,6 @@
 ---
 publication_at: 2025-03-17T01:01:05.358Z
-title: "Semster der Protestler - Hat Vučić fertig? "
+title: "Semester der Protestler - Hat Vučić fertig? "
 image: /images/upload/signal-2025-03-16-205634_003.jpeg
 apple_link: https://podcasts.apple.com/de/podcast/semster-der-protestler-hat-vu%C4%8Di%C4%87-fertig/id1170436903?i=1000699433174
 spotify_link: https://open.spotify.com/episode/3ajyIEawJTC1XZqlWcum3X?si=54d6620037fc4c68
@@ -18,6 +18,6 @@ excerpt: >
 
   Doch all das konnte den Protest nicht brechen. Um 19.11 Uhr, während einer Schweigeminute, brach plötzlich Panik aus. Menschen flohen in Seitengassen, suchten Schutz in Hauseingängen. Experten vermuten den Einsatz einer Schallkanone – eine Technologie, die Massen mit extremen Frequenzen in Angst versetzt. Die Regierung dementierte, doch der Verdacht bleibt. Krsto war vor Ort und berichtet.
 og_image: /images/upload/signal-2025-03-16-205634_002.jpeg
-og_title: "Semster der Protestler - Hat Vučić fertig? "
+og_title: "Semester der Protestler - Hat Vučić fertig? "
 og_description: Hunderttausende trotzen in Belgrad Vučićs Einschüchterungen
 ---
