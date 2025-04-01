@@ -13,11 +13,11 @@ blocks:
 
       \
 
-      "Neues vom Ballaballa-Balkan" soll zumindest einen kleinen Beitrag dazu leisten, die gewaltigen Lücken in der Balkan-Berichterstattung der großen deutschsprachigen Medien zu schließen. Das bedeutet einiges an Aufwand: Recherche, Ausfindigmachen von Gesprächspartnern, Aufnehmen, Schneiden. Wir investieren Zeit und Geld in den Podcast. Und wir hoffen, dass Ihr hier ein wenig unterstützt.\
+      "Neues vom Ballaballa-Balkan" soll zumindest einen kleinen Beitrag dazu leisten, die gewaltigen Lücken in der Balkan-Berichterstattung der großen deutschsprachigen Medien zu schließen. Das bedeutet einiges an Aufwand: Recherche, Ausfindigmachen von Gesprächspartnern, Aufnehmen, Schneiden. Wir investieren viel Zeit in den Podcast. Und wir hoffen, dass Ihr hier ein wenig unterstützt.\
 
       \
 
-      Vorneweg: "Neues vom Ballaballa-Balkan" bleibt auch in Zukunft komplett werbefrei und kostenlos verfügbar. Doch natürlich freuen wir uns, wenn ihr uns mit einem kleinen monatlichen Beitrag in unserer Arbeit unterstützt. Das Geld ermöglicht uns, zusätzliche Zeit und Ressourcen in den Podcast zu stecken - sowie neue Format auszuprobieren oder auch Menschen zu bezahlen, die uns bei der Homepage, dem Design und anderen Teilen der Arbeit unterstützen, mit dem wir uns nicht so gut auskennen. \
+      Vorneweg: "Neues vom Ballaballa-Balkan" bleibt auch in Zukunft komplett kostenlos verfügbar. Doch natürlich freuen wir uns, wenn ihr uns mit einem kleinen monatlichen Beitrag in unserer Arbeit unterstützt. Das Geld ermöglicht uns, zusätzliche Zeit und Ressourcen in den Podcast zu stecken - sowie neue Format auszuprobieren oder auch Menschen zu bezahlen, die uns bei der Homepage, dem Design und anderen Teilen der Arbeit unterstützen, mit dem wir uns nicht so gut auskennen. \
 
       \
 
