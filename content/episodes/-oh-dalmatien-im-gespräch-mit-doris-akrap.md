@@ -8,8 +8,7 @@ soundcloud_link: https://soundcloud.com/user-89524652/oh-dalmatien-im-gesprach-m
 blocks:
   - type: richtext
     richtext: >-
-      <!--StartFragment-->
-
+      
 
       In dieser Zwischenfolge geht es um die vermutlich - zumindest bei TouristInnen - bekannteste Region Kroatiens. Dalmatien, das sind traumhafte aber oft komplett überfüllte Strände, wunderschöne historische Städte, in denen ein Cappucino schon mal mehr kosten kann als in Paris, und ein kaum beachtetes Hinterland.
 
@@ -30,9 +29,6 @@ blocks:
 
 
       [Die Band "Valentino Bošlović" auf Youtube](https://www.youtube.com/@valentinoboskovic8383)
-
-
-      <!--EndFragment-->
 og_image: /images/upload/titelbreit-doris.jpg
 og_title: Oh! Dalmatien - Im Gespräch mit Doris Akrap
 og_description: Ihr denkt vielliecht, Ihr wisst schon alles über Dalmatien. Aber
