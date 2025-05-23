@@ -64,7 +64,6 @@ blocks:
       * [Albanien: Konrad Adenauer-Stiftung unterstützt Möchtegern-Trump](<Stiftungen aus Deutschland und den USA stärken Albaniens Möchtegern-Trump den Rücken>) (Correctiv)
 og_image: /images/upload/titelbreit1.jpg
 og_title: "80 Jahre Sieg der Tito-Partisanen über den Faschismus "
-og_description: Die jugoslawischen Partisanen haben die wohl die wohl
-  erfolgreichste Widerstandsbewegung im besetzten Europa aufgebaut - aber wie
-  eigentlich?
+og_description: Die jugoslawischen Partisanen haben die wohl erfolgreichste
+  Widerstandsbewegung im besetzten Europa aufgebaut - aber wie eigentlich?
 ---
