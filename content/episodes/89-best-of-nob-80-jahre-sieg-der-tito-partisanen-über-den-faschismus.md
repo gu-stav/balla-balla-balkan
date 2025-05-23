@@ -29,7 +29,7 @@ blocks:
       **Shownotes**
 
 
-      * [Homepage des Klub der Kärntner slowenischen Akademiker in Wien](https://www.ksssd.org/de/zgodovina.php)
+      * [](https://www.ksssd.org/de/zgodovina.php)[](https://www.ksssd.org/de/zgodovina.php)[Homepage des Klubs slowenischer Studierender in Wien](https://www.ksssd.org/de/zgodovina.php)
 
       * [Homepage der Gedenkstätte Peršmanhof](https://www.memorialmuseums.org/memorialmuseum/gedenkstatte-persmanhof)
 
