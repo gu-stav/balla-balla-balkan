@@ -20,7 +20,7 @@ blocks:
       Doch wie kam es dazu, dass eine verhältnismäßig kleine Partei wie die KPJ die wohl erfolgreichste Widerstandsbewegung im besetzten Europa aufbauen konnte? Dieser Frage gehen Krsto und Danijel in dieser Folge nach...und liefern ein Best-of des Volksbefreiungskampfes in Jugoslawien.
 
 
-      Aufgezeichnet wurde sie am 9. Mai. Und so einen Feiertag begeht man als Balkan-Podcast natürlich in einer Balkan-Metropole: Wien - besser gesagt: Dunja. Auf Einladung unserer FreundInnen vom Klub Slowenischer Student*Innen (KSŠŠD) in Wien durften wir diesen Podcast Live in ihren Klubräumen aufzeichnen. Und auch wenn Danijel es nicht ganz geheuer war, vor so vielen Sloweninnen und Slowenen aufzutreten, war es doch ein grandiose Abend, an dem wir Euch hiermit teilhaben lassen.
+      Aufgezeichnet wurde sie am 9. Mai. Und so einen Feiertag begeht man als Balkan-Podcast natürlich in einer Balkan-Metropole: Wien - besser gesagt: Dunaj. Auf Einladung unserer FreundInnen vom Klub Slowenischer Student*Innen (KSŠŠD) in Wien durften wir diesen Podcast Live in ihren Klubräumen aufzeichnen. Und auch wenn Danijel es nicht ganz geheuer war, vor so vielen Sloweninnen und Slowenen aufzutreten, war es doch ein grandiose Abend, an dem wir Euch hiermit teilhaben lassen.
 
 
       Nebenbei erfahrt Ihr, wie die eine oder andere Wahl auf dem Balkan gelaufen ist, warum Milorad Dodik jetzt weniger Geld in der Tasche hat und warum in Kroatien ausgerechnet MinderheitenvertreterInnen die Wahlversprechen von Rechtsextremisten erfüllen.
