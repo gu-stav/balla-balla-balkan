@@ -2,7 +2,7 @@
 number: ""
 publication_at: 2025-06-05T21:36:42.421Z
 title: Stehlen, Schimpfen, Spielen mit Barbi Marković
-image: /images/upload/barbi-markovic-c-apollonia-t.-bitzan_web-aspect-ratio-4-3-1-768x576.jpg
+image: /images/upload/markovic-barbi-1-c-apollonia-theresa-bitzan_20190808141209_8q3a4690-2-3.webp
 image_caption: © Apollonia T. Bitzan
 apple_link: https://podcasts.apple.com/de/podcast/stehlen-schimpfen-spielen-mit-barbi-markovi%C4%87/id1170436903?i=1000711740702
 spotify_link: https://open.spotify.com/episode/5QfD5Wy81jb1KkOM7MbNNn?si=220fb9fc319e4f4f
