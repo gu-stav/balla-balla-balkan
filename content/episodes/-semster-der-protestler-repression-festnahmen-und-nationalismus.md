@@ -1,6 +1,6 @@
 ---
 publication_at: 2025-07-05T00:06:09.502Z
-title: "Semster der Protestler - Repression, Festnahmen und Nationalismus "
+title: "Semester der Protestler - Repression, Festnahmen und Nationalismus "
 image: /images/upload/protest_na_slaviji-_vidimo_se_na_vidovdan_mašina_1.jpg
 apple_link: https://podcasts.apple.com/de/podcast/semster-der-protestler-repression-festnahmen-und-nationalismus/id1170436903?i=1000715776885
 spotify_link: https://open.spotify.com/episode/5QC2GR8i2A6SW6iMArKKN9?si=6d1ab098a33a4703
