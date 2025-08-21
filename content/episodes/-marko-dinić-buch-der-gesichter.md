@@ -7,7 +7,7 @@ spotify_link: https://open.spotify.com/episode/2NXv8Bu4fcJeuHXH6rilm0?si=b620aa1
 soundcloud_link: https://soundcloud.com/user-89524652/marko-dinic-das-buch-der-gesichter
 excerpt: >
   Einen Tag nach seinem Erscheinen landete Marko Dinićs Buch der Gesichter auf
-  der Longlist des Deutschen Buchpreises. 
+  der Longlist des Deutschen Buchpreises.
 blocks:
   - type: richtext
     richtext: >-
@@ -18,7 +18,6 @@ blocks:
       Bewegung in Bosnien-Herzegowina und vieles mehr.
 
 
-
       In seinem Episodenroman legt Dinić den Schwerpunkt auf die einfachen Leute, die in die Gewaltspiralen des 20. Jahrhunderts auf dem Gebiet Jugoslawiens hineingezogen werden. Acht Kapitel mit acht unterschiedlichen Perspektiven ergeben einen Roman der Erinnerungsliteratur für uns, die wir nach den großen Menschheitsverbrechen der Nazis geboren wurden. Ein Buch über die Gewaltgeschichte Europas, dass den Opfern des Faschismus gewidmet ist. 
 
 
@@ -26,7 +25,43 @@ blocks:
 
 
       * [Buch der Gesichter](https://www.hanser-literaturverlage.de/buch/marko-dinic-buch-der-gesichter-9783552075771-t-5698) (Zsolnay Verlag)
-og_image: /images/upload/buch-der-gesichter.jpg
+
+      * [Marko Dinić - Jugoautor auf Wikipedia](https://de.wikipedia.org/wiki/Marko_Dini%C4%87)
+
+      * [Die guten Tage](https://www.hanser-literaturverlage.de/buch/marko-dinic-die-guten-tage-9783552059375-t-4729) (Zsolnay Verlag) 
+
+      * [ Marko Dinić liest und singt beim Bachmannpreis 2016](https://bachmannpreis.orf.at/v2/stories/2773152/)
+
+      * [Hintergrund zu Rabbi Alkalai](https://en.wikipedia.org/wiki/Judah_Alkalai) (Wikipedia) 
+
+      * [Staging Proto-Zionism. Jewish Quarter of Zemun](https://www.mdpi.com/2076-0752/9/1/27) (Čedomila Marinković) 
+
+      * [Der Song "Balkan" von Azra](https://www.youtube.com/watch?v=vVOUrPyNfh8) (Live auf Youtube)
+
+
+
+
+      **Literatur**
+
+
+      * Danilo Kiš – Enzyklopädie der Toten
+
+      * David Albahari - Götz und Meyer
+
+      * Aleksandar Tišma – Das Buch Blam
+
+      * Friederike Manner – Die dunklen Jahre
+
+      * Milo Dor – Tote auf Urlaub
+
+      * Jean Améry – Jenseits von Schuld und Sühne
+
+      * Ruth Klüger – weiter leben. Eine Jugend 
+
+      * Cordelia Edvardson - Gebranntes Kind sucht das Feuer
+
+      * Miloš Crnjanski – Seobe
+og_image: /images/upload/pxl_20250820_220455826~2.jpg
 og_title: Marko Dinić - Buch der Gesichter
 og_description: Dinić beleuchtet in acht Episoden, wie gewöhnliche Menschen von
   der Gewaltspirale des 20. Jahrhunderts erfasst wurden.
