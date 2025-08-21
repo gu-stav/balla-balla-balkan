@@ -1,7 +1,7 @@
 ---
 publication_at: 2025-08-21T00:14:47.218Z
 title: Marko Dinić - Buch der Gesichter
-image: /images/upload/marko-dinic-potrait-.png
+image: /images/upload/marko2.png
 apple_link: https://podcasts.apple.com/de/podcast/marko-dini%C4%87-das-buch-der-gesichter/id1170436903?i=1000722878001
 spotify_link: https://open.spotify.com/episode/2NXv8Bu4fcJeuHXH6rilm0?si=b620aa1674a24c02
 soundcloud_link: https://soundcloud.com/user-89524652/marko-dinic-das-buch-der-gesichter
