@@ -1,22 +1,24 @@
 {
   "name": "balla-balla-balkan",
+  "private": true,
   "version": "2.0.0",
   "description": "",
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
     "lint": "next lint",
-    "format": "prettier --write './**/*.{js,jsx,ts,tsx,css,md,json}'"
+    "format": "prettier --write './**/*.{js,jsx,ts,tsx,css,md,json}'",
+  "prepare": "husky install",
+  "dev": "pnpm -r dev",
+  "build": "pnpm -r build"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jib-collective/balla-balla-balkan.git"
   },
   "keywords": [],
-  "author": "Gustav Pursche <pursche@posteo.de>",
-  "license": "ISC",
+  "author": "Gustav Pursche <gu@stav.dev>",
+  "license": "MIT",
   "homepage": "https://ballaballa-balkan.de",
+  "packageManager": "pnpm@10",
   "dependencies": {
     "@reach/slider": "^0.16.0",
     "buffer-image-size": "^0.6.4",

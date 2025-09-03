@@ -1,0 +1,25 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { PortableText } from "astro-portabletext";
+import { getPage, getPages } from '../utils/pages';
+
+const { slug } = Astro.params;
+const page = await getPage(slug);
+
+export async function getStaticPaths() {
+  const pages = await getPages();
+
+  return pages.map((page) => ({
+    params: {
+      slug: page.slug.current
+    }
+  }))
+}
+---
+<Layout title={page.title}>
+  <article class="flex flex-col gap-2 max-w-3xl my-12">
+    <h1 class="font-bold text-4xl text-red">{page.title}</h1>
+
+  <PortableText value={page.richtext} />
+  </article>
+</Layout>

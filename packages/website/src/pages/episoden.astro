@@ -1,0 +1,19 @@
+---
+import { getEpisodes } from "../utils/episodes";
+import Layout from "../layouts/Layout.astro";
+import Episode from "../components/Episode.astro";
+
+const episodes = await getEpisodes();
+
+---
+<Layout title="Alle Episoden">
+	<div class="flex justify-center w-full">
+		<ol class="flex flex-col gap-4 w-full">
+			{episodes.map((episode) => (
+				<li class="flex justify-center w-full">
+					<Episode episode={episode} />
+				</li>
+			))}
+		</ol>
+	</div>
+</Layout>

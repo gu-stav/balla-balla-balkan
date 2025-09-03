@@ -1,0 +1,14 @@
+---
+import { PortableText } from "astro-portabletext";
+
+const { authors } = Astro.props;
+---
+
+<div class="bg-red flex gap-12 p-12 text-white">
+	{authors.map((author) => (
+		<div class="flex flex-col gap-4">
+			<h3 class="font-medium text-3xl tracking-tighter underline">{author.title}</h3>
+			<PortableText value={author.body} />
+		</div>
+	))}
+</div>

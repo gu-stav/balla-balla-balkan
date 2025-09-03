@@ -1,0 +1,27 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { getEpisode, getEpisodes } from '../../utils/episodes';
+import { PortableText } from "astro-portabletext";
+
+const { slug } = Astro.params;
+const episode = await getEpisode(slug);
+
+export async function getStaticPaths() {
+    const episodes = await getEpisodes();
+
+  return episodes.map((episode) => ({
+    params: {
+      slug: episode.slug
+    }
+  }));
+}
+---
+<Layout title={episode.title}>
+    <article class="flex flex-col gap-4 max-w-3xl my-12">
+        <h1 class="font-sans text-5xl text-red tracking-tighter ">{episode.title}</h1>
+        <p class="font-sans text-2xl tracking-tight">{episode.excerpt}</p>
+        <div class="flex flex-col gap-2">
+            <PortableText value={episode.richtext} />
+        </div>
+    </article>
+</Layout>

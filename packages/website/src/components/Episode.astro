@@ -1,0 +1,44 @@
+---
+import { Image } from 'astro:assets';
+
+const { episode } = Astro.props;
+---
+<article class="flex gap-10 max-w-4xl p-10 w-full">
+
+	<Image alt="" class="object-contain self-start" src={episode.imageUrl} width={200} height={200} />
+
+    <div class="flex flex-col gap-8">
+        <div class="flex flex-col gap-4">
+            <a class="font-medium font-sans text-3xl text-red tracking-tighter underline" href={`/episode/${episode.slug}`}>{episode.title}</a>
+            <p class="font-sans leading-6 text-xl tracking-tight">{episode.excerpt}</p>
+        </div>
+
+        <div class="flex items-center gap-3">
+            <a class="font-sans rounded-md self-start text-xl text-red" href={`/episode/${episode.slug}`}>
+                Anhören
+            </a>
+
+            oder auf
+
+            <ul class="flex gap-3">
+                <li>
+                    <a href={episode.appleLink} class="font-sans text-md text-red">
+                        Apple Podcasts
+                    </a>
+                </li>
+
+                <li>
+                    <a href={episode.soundcloudLink} class="font-sans text-md text-red">
+                        SoundCloud
+                    </a>
+                </li>
+
+                <li>
+                    <a href={episode.spotifyLink} class="font-sans text-md text-red">
+                        Spotify
+                    </a>
+                </li>
+            </ul>
+        </div>
+	</div>
+</article>
