@@ -2,7 +2,16 @@ import { client } from "./client";
 
 export async function getEpisode(slug: string) {
   const episode = await client.fetch(
-    `*[_type == "episode" && slug.current == "${slug}"][0]`,
+    `*[_type == "episode" && slug.current == "${slug}"]{
+      "title": title,
+      "excerpt": excerpt,
+      "richtext": richtext,
+      "slug": slug.current,
+      "appleLink": appleLink,
+      "soundcloudLink": soundcloudLink,
+      "spotifyLink": spotifyLink,
+      "imageUrl": image.asset->url
+    }[0]`,
   );
 
   return episode;

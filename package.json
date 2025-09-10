@@ -18,7 +18,7 @@
   "author": "Gustav Pursche <gu@stav.dev>",
   "license": "MIT",
   "homepage": "https://ballaballa-balkan.de",
-  "packageManager": "pnpm@10",
+  "packageManager": "pnpm",
   "dependencies": {
     "@reach/slider": "^0.16.0",
     "buffer-image-size": "^0.6.4",

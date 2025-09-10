@@ -4,7 +4,9 @@ import PlayButton from './PlayButton.svelte';
 
 const { episode } = Astro.props;
 ---
-<article class="bg-yellow flex gap-20 max-w-5xl mb-4 -mt-14 px-14 py-16 w-full">
+<article class="bg-yellow flex gap-14 max-w-5xl mb-4 -mt-14 px-14 py-16 w-full">
+	<Image alt="" class="object-contain self-start" src={episode.imageUrl} width={300} height={300} />
+
 	<div class="flex flex-col gap-12">
 		<div class="flex flex-col gap-6">
 			
@@ -77,5 +79,5 @@ const { episode } = Astro.props;
 		</div>
 	</div>
 
-	<Image alt="" class="object-contain self-start" src={episode.imageUrl} width={300} height={300} />
+	
 </article>
