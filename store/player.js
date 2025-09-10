@@ -20,7 +20,7 @@ export const Provider = ({ children }) => {
         setEpisode,
         setTiming,
         setPlayState,
-        setApiLoaded
+        setApiLoaded,
       }}
     >
       {children}

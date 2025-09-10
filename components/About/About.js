@@ -19,13 +19,17 @@ const About = ({ title, description, social_media }) => {
             </Paragraph>
             <FollowList
               theme="brand"
-              items={social_media.map(item => ([item.type, item.url, item.type]))}
+              items={social_media.map((item) => [
+                item.type,
+                item.url,
+                item.type,
+              ])}
             />
           </Stack>
         </div>
       </div>
     </section>
   );
-}
+};
 
 export default About;

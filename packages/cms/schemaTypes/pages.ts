@@ -19,10 +19,10 @@ export default defineType({
       validation: (Rule) => Rule.required(),
     }),
     defineField({
-        name: 'richtext',
-        title: 'Text',
-        type: 'blockContent',
-        validation: (Rule) => Rule.required().min(1),
-    })
+      name: 'richtext',
+      title: 'Text',
+      type: 'blockContent',
+      validation: (Rule) => Rule.required().min(1),
+    }),
   ],
 })

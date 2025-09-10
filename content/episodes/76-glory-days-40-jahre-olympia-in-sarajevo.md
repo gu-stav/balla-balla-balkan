@@ -7,7 +7,7 @@ apple_link: https://podcasts.apple.com/nl/podcast/glory-days-40-jahre-olympia-in
 spotify_link: https://open.spotify.com/episode/2YFAVrN9VMco5hDntUqnvC?si=0e66b243359341c8
 soundcloud_link: https://soundcloud.com/user-89524652/glory-days-40-jahre-olympia-in-sarajevo
 excerpt: |
-  Vor 40 Jahren lag Sarajevo im Zentrum des Weltinteresses – 
+  Vor 40 Jahren lag Sarajevo im Zentrum des Weltinteresses –
 blocks:
   - type: richtext
     richtext: >-

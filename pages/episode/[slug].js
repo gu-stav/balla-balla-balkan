@@ -9,18 +9,30 @@ import SEO from "../../components/SEO";
 import Stack from "../../components/Stack";
 
 const EpisodePage = ({
-  episode: { title, number, image, blocks, excerpt, externalLinks, soundcloud_link, og_image, og_title, og_description },
+  episode: {
+    title,
+    number,
+    image,
+    blocks,
+    excerpt,
+    externalLinks,
+    soundcloud_link,
+    og_image,
+    og_title,
+    og_description,
+  },
   settings,
 }) => (
   <Layout>
     <SEO
       title={og_title || title}
       description={og_description || excerpt}
-      ogImage={og_image || image} />
+      ogImage={og_image || image}
+    />
 
     <Stack gap="tiny" center>
       <EpisodeFeatured
-        tagline={number && number !== 'undefined' ? `Episode ${number}` : ''}
+        tagline={number && number !== "undefined" ? `Episode ${number}` : ""}
         title={title}
         image={image}
         backgroundImage={settings.image}
@@ -29,13 +41,7 @@ const EpisodePage = ({
         soundcloud_link={soundcloud_link}
       />
       <article>
-        <Article>
-          {blocks && (
-            <Blocks
-              blocks={blocks}
-            />
-          )}
-        </Article>
+        <Article>{blocks && <Blocks blocks={blocks} />}</Article>
       </article>
     </Stack>
   </Layout>

@@ -26,12 +26,7 @@ export default defineConfig([
               S.listItem()
                 .title('Einstellungen')
                 .id('settings')
-                .child(
-                  S.editor()
-                    .id('settings')
-                    .schemaType('settings')
-                    .documentId('settings')
-                ),
+                .child(S.editor().id('settings').schemaType('settings').documentId('settings')),
             ]),
       }),
     ],
@@ -49,10 +44,12 @@ export default defineConfig([
       },
       actions: (prev, {schemaType}) => {
         if (singletonTypes.has(schemaType)) {
-          return prev.filter(({action}) => action && ['publish', 'discardChanges', 'restore'].includes(action))
+          return prev.filter(
+            ({action}) => action && ['publish', 'discardChanges', 'restore'].includes(action),
+          )
         }
         return prev
       },
     },
-  }
+  },
 ])

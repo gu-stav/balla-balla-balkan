@@ -5,10 +5,10 @@
   "description": "",
   "scripts": {
     "lint": "next lint",
-    "format": "prettier --write './**/*.{js,jsx,ts,tsx,css,md,json}'",
-  "prepare": "husky install",
-  "dev": "pnpm -r dev",
-  "build": "pnpm -r build"
+    "format": "prettier --write './**/*.{js,jsx,ts,tsx,css,md,json,svelte,astro}'",
+    "prepare": "husky install",
+    "dev": "pnpm -r dev",
+    "build": "pnpm -r build"
   },
   "repository": {
     "type": "git",

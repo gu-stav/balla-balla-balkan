@@ -4,7 +4,7 @@ import Image from "next/image";
 import Script from "react-load-script";
 
 import { usePlayer } from "../../store/player";
-import Spinner from './Spinner';
+import Spinner from "./Spinner";
 
 import "@reach/slider/styles.css";
 import styles from "./Player.module.css";
@@ -19,25 +19,26 @@ const msToTime = (s) => {
 
   return `${`${hrs}`.padStart(2, "0")}:${`${mins}`.padStart(
     2,
-    "0"
+    "0",
   )}:${`${secs}`.padStart(2, "0")}`;
 };
 
 const ControlContainer = memo(({ widget, playState }) => {
-  return <div className={styles.controlButtonContainer}>
-    <button
-      type="button"
-      className={styles.controlButton}
-      onClick={() => {
-        if (widget && playState === "play") {
-          widget.pause();
-        }
+  return (
+    <div className={styles.controlButtonContainer}>
+      <button
+        type="button"
+        className={styles.controlButton}
+        onClick={() => {
+          if (widget && playState === "play") {
+            widget.pause();
+          }
 
-        if (widget && playState === "pause") {
-          widget.play();
-        }
-      }}
-    >
+          if (widget && playState === "pause") {
+            widget.play();
+          }
+        }}
+      >
         {playState === "pause" && (
           <svg
             aria-hidden="true"
@@ -69,52 +70,53 @@ const ControlContainer = memo(({ widget, playState }) => {
             ></path>
           </svg>
         )}
-    </button>
-  </div>;
-})
+      </button>
+    </div>
+  );
+});
 
 const TitleContainer = memo(({ image, title }) => {
-  return <>
-    {image && (
-      <Image src={image} width={100} height={100} layout="fixed" />
-    )}
+  return (
+    <>
+      {image && <Image src={image} width={100} height={100} layout="fixed" />}
 
-    <strong className={styles.title}>
-      {title}
-    </strong>
-  </>
+      <strong className={styles.title}>{title}</strong>
+    </>
+  );
 });
 
-const CloseButton = memo(({ onClick = () => {}}) => {
-  return <button
-    type="button"
-    className={styles.close}
-    onClick={() => onClick()}
-  >
-    <svg
-      aria-hidden="true"
-      focusable="false"
-      role="img"
-      xmlns="http://www.w3.org/2000/svg"
-      viewBox="0 0 320 512"
-      className={styles.closeIcon}
-    >
-      <path
-        fill="currentColor"
-        d="M207.6 256l107.72-107.72c6.23-6.23 6.23-16.34 0-22.58l-25.03-25.03c-6.23-6.23-16.34-6.23-22.58 0L160 208.4 52.28 100.68c-6.23-6.23-16.34-6.23-22.58 0L4.68 125.7c-6.23 6.23-6.23 16.34 0 22.58L112.4 256 4.68 363.72c-6.23 6.23-6.23 16.34 0 22.58l25.03 25.03c6.23 6.23 16.34 6.23 22.58 0L160 303.6l107.72 107.72c6.23 6.23 16.34 6.23 22.58 0l25.03-25.03c6.23-6.23 6.23-16.34 0-22.58L207.6 256z"
-      ></path>
-    </svg>
-  </button>
+const CloseButton = memo(({ onClick = () => {} }) => {
+  return (
+    <button type="button" className={styles.close} onClick={() => onClick()}>
+      <svg
+        aria-hidden="true"
+        focusable="false"
+        role="img"
+        xmlns="http://www.w3.org/2000/svg"
+        viewBox="0 0 320 512"
+        className={styles.closeIcon}
+      >
+        <path
+          fill="currentColor"
+          d="M207.6 256l107.72-107.72c6.23-6.23 6.23-16.34 0-22.58l-25.03-25.03c-6.23-6.23-16.34-6.23-22.58 0L160 208.4 52.28 100.68c-6.23-6.23-16.34-6.23-22.58 0L4.68 125.7c-6.23 6.23-6.23 16.34 0 22.58L112.4 256 4.68 363.72c-6.23 6.23-6.23 16.34 0 22.58l25.03 25.03c6.23 6.23 16.34 6.23 22.58 0L160 303.6l107.72 107.72c6.23 6.23 16.34 6.23 22.58 0l25.03-25.03c6.23-6.23 6.23-16.34 0-22.58L207.6 256z"
+        ></path>
+      </svg>
+    </button>
+  );
 });
 
-const Iframe = memo(forwardRef(({ soundcloud_link }, ref) => {
-  return <iframe
-    ref={ref}
-    className={styles.iframe}
-    allow="autoplay"
-    src={`https://w.soundcloud.com/player/?url=${soundcloud_link}`}
-  />
-}));
+const Iframe = memo(
+  forwardRef(({ soundcloud_link }, ref) => {
+    return (
+      <iframe
+        ref={ref}
+        className={styles.iframe}
+        allow="autoplay"
+        src={`https://w.soundcloud.com/player/?url=${soundcloud_link}`}
+      />
+    );
+  }),
+);
 
 const Player = () => {
   const {
@@ -125,7 +127,7 @@ const Player = () => {
     playState,
     setPlayState,
     apiLoaded,
-    setApiLoaded
+    setApiLoaded,
   } = usePlayer();
 
   const { title, image, soundcloud_link } = episode;
@@ -213,11 +215,7 @@ const Player = () => {
           </div>
 
           <div className={styles.lengthContainer}>
-            {soundcloudReady && (
-              <>
-                {msToTime(actualDuration - timing)}
-              </>
-            )}
+            {soundcloudReady && <>{msToTime(actualDuration - timing)}</>}
           </div>
 
           <CloseButton onClick={() => setEpisode({})} />

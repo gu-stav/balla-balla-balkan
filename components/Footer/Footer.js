@@ -15,7 +15,7 @@ const Footer = ({ marginTop = true, items = [] }) => {
       className={cn(
         styles.footer,
         { [styles.withMarginTop]: marginTop },
-        { [styles.withPlayer]: Object.keys(episode).length !== 0 }
+        { [styles.withPlayer]: Object.keys(episode).length !== 0 },
       )}
     >
       <nav className={styles.nav}>

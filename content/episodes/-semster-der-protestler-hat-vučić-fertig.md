@@ -6,7 +6,7 @@ apple_link: https://podcasts.apple.com/de/podcast/semster-der-protestler-hat-vu%
 spotify_link: https://open.spotify.com/episode/3ajyIEawJTC1XZqlWcum3X?si=54d6620037fc4c68
 soundcloud_link: https://soundcloud.com/user-89524652/semster-der-protestler-hat-vucic-fertig?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing&si=7c105bbe7dea4729ae177cc9fa78c60d
 excerpt: |
-  Am 15. März erreichten die Proteste in Serbien ihren Höhepunkt: 
+  Am 15. März erreichten die Proteste in Serbien ihren Höhepunkt:
 blocks:
   - type: richtext
     richtext: >-

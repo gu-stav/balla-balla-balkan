@@ -4,10 +4,7 @@ module.exports = {
     es2021: true,
     node: true,
   },
-  extends: [
-    "eslint:recommended",
-    "next"
-  ],
+  extends: ["eslint:recommended", "next"],
   parserOptions: {
     ecmaFeatures: {
       jsx: true,

@@ -49,18 +49,22 @@ const EpisodeFeatured = ({
       <div className={styles.inner}>
         <div className={styles.contentContainer}>
           {path ? (
-            (<Link href={path} className={styles.link}>
-
+            <Link href={path} className={styles.link}>
               <Title title={title} tagline={tagline} />
-
-            </Link>)
+            </Link>
           ) : (
             <Title title={title} tagline={tagline} />
           )}
         </div>
 
         <div className={styles.imageContainer}>
-          <Image src={image} width={340} height={340} objectFit="cover" alt="" />
+          <Image
+            src={image}
+            width={340}
+            height={340}
+            objectFit="cover"
+            alt=""
+          />
         </div>
 
         <Stack
@@ -80,9 +84,18 @@ const EpisodeFeatured = ({
             }
           >
             Anhören
-
-            <svg aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" className={styles.acionIcon}>
-              <path fill="currentColor" d="M424.4 214.7L72.4 6.6C43.8-10.3 0 6.1 0 47.9V464c0 37.5 40.7 60.1 72.4 41.3l352-208c31.4-18.5 31.5-64.1 0-82.6z"></path>
+            <svg
+              aria-hidden="true"
+              focusable="false"
+              role="img"
+              xmlns="http://www.w3.org/2000/svg"
+              viewBox="0 0 448 512"
+              className={styles.acionIcon}
+            >
+              <path
+                fill="currentColor"
+                d="M424.4 214.7L72.4 6.6C43.8-10.3 0 6.1 0 47.9V464c0 37.5 40.7 60.1 72.4 41.3l352-208c31.4-18.5 31.5-64.1 0-82.6z"
+              ></path>
             </svg>
           </Button>
 
@@ -90,11 +103,14 @@ const EpisodeFeatured = ({
         </Stack>
 
         {path && (
-          (<Link href={path} className={styles.fauxLink} tabIndex="-1" aria-hidden="true">
-
+          <Link
+            href={path}
+            className={styles.fauxLink}
+            tabIndex="-1"
+            aria-hidden="true"
+          >
             {title}
-
-          </Link>)
+          </Link>
         )}
       </div>
     </section>

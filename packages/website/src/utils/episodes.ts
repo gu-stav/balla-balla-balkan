@@ -1,7 +1,9 @@
 import { client } from "./client";
 
 export async function getEpisode(slug: string) {
-  const episode = await client.fetch(`*[_type == "episode" && slug.current == "${slug}"][0]`);
+  const episode = await client.fetch(
+    `*[_type == "episode" && slug.current == "${slug}"][0]`,
+  );
 
   return episode;
 }

@@ -11,7 +11,11 @@
 }
 
 .player::before {
-  background-image: linear-gradient(to bottom, transparent, rgba(0, 0, 0, 0.15));
+  background-image: linear-gradient(
+    to bottom,
+    transparent,
+    rgba(0, 0, 0, 0.15)
+  );
   bottom: 100%;
   content: "";
   height: 0.5rem;

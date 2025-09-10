@@ -9,7 +9,7 @@ export default defineType({
       name: 'number',
       title: 'Nummer',
       type: 'string',
-  validation: (Rule) => Rule.regex(/^\d+$/).error('Nur Ziffern erlaubt (0-9)'),
+      validation: (Rule) => Rule.regex(/^\d+$/).error('Nur Ziffern erlaubt (0-9)'),
     }),
 
     defineField({
@@ -61,10 +61,10 @@ export default defineType({
     }),
 
     defineField({
-        name: 'richtext',
-        title: 'Text',
-        type: 'blockContent',
-        validation: (Rule) => Rule.required().min(1),
+      name: 'richtext',
+      title: 'Text',
+      type: 'blockContent',
+      validation: (Rule) => Rule.required().min(1),
     }),
 
     defineField({
@@ -86,7 +86,7 @@ export default defineType({
       title: 'Soundcloud Link',
       type: 'url',
     }),
-    
+
     defineField({
       name: 'ogImage',
       title: 'Social Media Vorschau Bild',

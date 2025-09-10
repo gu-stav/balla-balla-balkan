@@ -8,7 +8,7 @@ spotify_link: https://open.spotify.com/episode/0nRdlEmuF6Yb9qcB1AwsrX?si=6e024a4
 soundcloud_link: https://soundcloud.com/user-89524652/78-exilkroaten-vs-udba-ein-krieg-im-schatten
 excerpt: >
   In dieser Episode befassen sich Krsto und Danijel mal wieder mit Geschichte.
-  Und was für einer! 
+  Und was für einer!
 blocks:
   - type: richtext
     richtext: >-

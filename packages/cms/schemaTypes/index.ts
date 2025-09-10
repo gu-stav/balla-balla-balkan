@@ -6,12 +6,12 @@ import settings from './settings'
 import {socialAccount} from './objects'
 
 export const schemaTypes = [
-	// objects
-	blockContent,
-	socialAccount,
-	// documents
-	episode,
-	author,
-	page,
-	settings,
+  // objects
+  blockContent,
+  socialAccount,
+  // documents
+  episode,
+  author,
+  page,
+  settings,
 ]

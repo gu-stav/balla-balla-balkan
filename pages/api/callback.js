@@ -18,7 +18,7 @@ export default async (req, res) => {
       renderBody("success", {
         token: token.access_token,
         provider: "github",
-      })
+      }),
     );
   } catch (e) {
     res.status(200).send(renderBody("error", e));

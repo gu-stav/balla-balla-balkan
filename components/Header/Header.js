@@ -18,9 +18,7 @@ const Header = ({
       </Link>
 
       <Link href="/" aria-label="Zur Ballaballa-Balkan Startseite">
-
         <Logo />
-
       </Link>
 
       <div className={styles.ctaContainer}>

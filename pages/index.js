@@ -33,7 +33,8 @@ const HomePage = ({ authors, episodes, settings }) => {
         <EpisodeList
           episodes={recentEpisodes}
           moreLabel="Ältere Episoden"
-          moreHref="/episoden/" />
+          moreHref="/episoden/"
+        />
 
         <div style={{ width: "100%" }}>
           <About {...settings} />

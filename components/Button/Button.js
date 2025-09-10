@@ -14,7 +14,7 @@ const Button = ({ href, children, invert = false, ...rest }) => {
       },
       {
         [styles.invert]: invert,
-      }
+      },
     ),
   };
 

@@ -3,6 +3,7 @@ import '../styles/global.css'
 
 import Logo from '../components/Logo.astro'
 import { getSettings } from '../utils/settings';
+import Player from '../components/Player.svelte';
 
 const settings = await getSettings();
 const { title } = Astro.props
@@ -22,7 +23,7 @@ const { title } = Astro.props
                 <a class="font-sans text-2xl text-white" href="/episoden">Alle Episoden</a>
 
                 <a href="/">
-                    <Logo class="fill-white -mb-7 w-80" />
+                    <Logo class="fill-white -mb-7 w-72" />
                 </a>
 
                 <a class="font-sans text-2xl text-white" href="/unterstuetzen">Unterstützen</a>
@@ -40,5 +41,7 @@ const { title } = Astro.props
                 <a class="font-medium text-red" href="/unterstuetzen">Unterstützen</a>
             </nav>
         </footer>
+
+        <Player client:load />
 	</body>
 </html>

@@ -8,7 +8,8 @@ spotify_link: https://open.spotify.com/episode/0sBD3xGJDKRTblfxk8bWaW?si=f4410eb
 soundcloud_link: https://soundcloud.com/user-89524652/radio-sarajevo-mit-tijan-sila?si=654fec3046af49fd97ad84757842d1e0&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
 blocks:
   - type: richtext
-    richtext: Krsto spricht mit Tijan Sila über sein neues Buch Radio Sarajevo und
+    richtext:
+      Krsto spricht mit Tijan Sila über sein neues Buch Radio Sarajevo und
       seine Erfahrungen als Kind während der Belagerung Sarajevos.
 og_image: /images/upload/radio-sarajevo.jpg
 og_title: "Radio Sarajevo von Tijan Sila "

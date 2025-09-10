@@ -7,7 +7,7 @@ apple_link: https://podcasts.apple.com/de/podcast/episode-56-jugoslawien-episode
 spotify_link: https://open.spotify.com/episode/3Gxkb42op2JL9KKTQvVzxV?si=20c62f6d60b24ecc
 soundcloud_link: https://soundcloud.com/user-89524652/episode-56-jugoslawien-episode-1-das-konigreich-der-serben-kroaten-und-slowenen?si=9e5d093b9e0d497bb8f5ca6737fcc7a8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
 excerpt: |
-  Auch wenn es gerne übersehen wird, aber es gab ein Jugoslawien vor Tito. 
+  Auch wenn es gerne übersehen wird, aber es gab ein Jugoslawien vor Tito.
 blocks:
   - type: richtext
     richtext: >-

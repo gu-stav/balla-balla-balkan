@@ -19,7 +19,7 @@ const Stack = ({
         styles[direction],
         styles[`gap--${gap}`],
         { [styles.centered]: center },
-        className
+        className,
       )}
     >
       {children}
