@@ -1,7 +1,7 @@
 ---
 publication_at: 2025-09-12T22:32:47.716Z
 title: EVERYBODY LOVES TOMISLAV - (Fast) Alles über den ersten kroatischen König
-image: /images/upload/titel-kt-breit.jpg
+image: /images/upload/signal-2025-09-12-185306_002.jpeg
 apple_link: https://podcasts.apple.com/de/podcast/everybody-loves-tomislav-fast-alles-%C3%BCber-den-ersten/id1170436903?i=1000726580107
 spotify_link: https://open.spotify.com/episode/3FpJPL2KgbmI8GKidxqGIh?si=zw9E_kZWTyGCajXLvMxhvg
 soundcloud_link: https://soundcloud.com/user-89524652/everybody-loves-tomislav-fast-alles-uber-den-ersten-kroatischen-konig
@@ -33,4 +33,5 @@ blocks:
       Das Buch: ["Geschichte Kroatiens. vom Mittelalter bis zur Gegenwart."](https://www.verlag-pustet.de/shop/item/9783791731322/geschichte-kroatiens-von-ludwig-steindorff-gebundenes-buch#)
 og_image: /images/upload/titel-kt-kachel.jpg
 og_title: EVERYBODY LOVES TOMISLAV
+og_description: "Schaltet also ein und verfolgt mit, wie Danijels Weltbild erschüttert wird. "
 ---
