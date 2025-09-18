@@ -4,7 +4,10 @@ import PlayButton from './PlayButton.svelte';
 
 const { episode } = Astro.props;
 ---
-<article class="flex gap-10 max-w-4xl p-10 w-full">
+<article class="flex gap-10 max-w-4xl p-10 relative w-full">
+    <a class="absolute inset-0 opacity-0 z-1" href={`/episode/${episode.slug}`}>
+        {episode.title}
+    </a>
 
 	<Image alt="" class="object-contain self-start" loading="lazy" src={episode.imageUrl} width={200} height={200} />
 
@@ -19,7 +22,7 @@ const { episode } = Astro.props;
             </p>
         </div>
 
-        <div class="flex items-center gap-3">
+        <div class="flex items-center gap-3 z-2">
             <PlayButton client:load episode={episode} />
 
             oder auf

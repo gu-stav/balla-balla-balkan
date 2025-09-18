@@ -2,6 +2,7 @@
 import Layout from '../layouts/Layout.astro';
 import { PortableText } from "astro-portabletext";
 import { getPage, getPages } from '../utils/pages';
+import { components } from '../components/PortableText';
 
 const { slug } = Astro.params;
 const page = await getPage(slug);
@@ -18,8 +19,9 @@ export async function getStaticPaths() {
 ---
 <Layout title={page.title}>
   <article class="flex flex-col gap-2 max-w-5xl px-16 py-24 text-xl">
-    
-            <h1 class="font-bold text-4xl text-red">{page.title}</h1> 
-            <PortableText value={page.richtext} />
+            <div class="flex flex-col gap-4 max-w-5xl px-16 text-xl">
+              <h1 class="font-bold text-4xl text-red">{page.title}</h1> 
+              <PortableText components={components} value={page.richtext} />
+            </div>
   </article>
 </Layout>
