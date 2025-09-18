@@ -24,7 +24,7 @@ export async function getStaticPaths() {
             <EpisodeLatest episode={episode} list={false} />
         </div>
 
-        <div class="flex flex-col gap-4 max-w-5xl px-16 text-xl">
+        <div class="flex flex-col gap-4 max-w-5xl px-4 sm:px-16 text-xl">
             <PortableText components={components} value={episode.richtext} />
         </div>
     </article>
