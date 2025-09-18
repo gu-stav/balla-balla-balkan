@@ -4,7 +4,7 @@ import PlayButton from './PlayButton.svelte';
 
 const { episode, list = true } = Astro.props;
 ---
-<article class="bg-yellow flex gap-14 max-w-5xl mb-4 -mt-14 px-14 py-16 w-full">
+<article class="bg-yellow flex gap-14 max-w-5xl mb-4 -mt-14 px-14 py-16 relative w-full">
 	<a class="absolute inset-0 opacity-0 z-1" href={`/episode/${episode.slug}`}>
         {episode.title}
     </a>
