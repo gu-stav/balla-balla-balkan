@@ -9,7 +9,6 @@ export default defineType({
       name: 'number',
       title: 'Nummer',
       type: 'string',
-      validation: (Rule) => Rule.regex(/^\d+$/).error('Nur Ziffern erlaubt (0-9)'),
     }),
 
     defineField({
@@ -25,16 +24,6 @@ export default defineType({
       type: 'slug',
       options: {
         source: 'title',
-        slugify: (input: string, _?, context?: any) => {
-          const base = input
-            .toLowerCase()
-            .replace(/[^a-z0-9\s-]/g, '')
-            .trim()
-            .replace(/\s+/g, '-')
-            .slice(0, 96)
-          const num = context?.parent?.number?.toString()?.trim()
-          return num ? `${num}-${base}` : base
-        },
       },
       validation: (Rule) => Rule.required(),
     }),
