@@ -1,6 +1,23 @@
 import { client } from "./client";
 
-export async function getEpisode(slug: string) {
+type Episode = {
+  title: string;
+  excerpt: string;
+  richtext: any[];
+  slug: string;
+  appleLink?: string;
+  soundcloudLink?: string;
+  spotifyLink?: string;
+  imageUrl?: string;
+  imageCaption?: string;
+  number: number;
+  ogImage?: string;
+  ogTitle?: string;
+  ogDescription?: string;
+  publishedAt?: string;
+}
+
+export async function getEpisode(slug: string): Promise<Episode | null> {
   const episode = await client.fetch(
     `*[_type == "episode" && slug.current == "${slug}"]{
       "title": title,
@@ -22,7 +39,7 @@ export async function getEpisode(slug: string) {
   return episode;
 }
 
-export async function getEpisodes(limit = Infinity) {
+export async function getEpisodes(limit = Infinity): Promise<Episode[]> {
   const episodes = await client.fetch(`*[_type == "episode"] {
     "title": title,
     "excerpt": excerpt,

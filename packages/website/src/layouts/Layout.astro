@@ -6,6 +6,8 @@ import Player from '../components/Player.svelte';
 
 const settings = await getSettings();
 const { title, description, image } = Astro.props
+
+const ogImage = image ?? settings?.ogImageFallback;
 ---
 
 <html lang="en">
@@ -15,7 +17,7 @@ const { title, description, image } = Astro.props
         <meta name="description" content={description ?? settings?.description} />
         <meta name="og:title" content={title ? `${title} | ${settings?.title}` : settings?.title} />
         <meta name="og:description" content={description ?? settings?.description} />
-        {image && <meta name="og:image" content={image} />}
+        {ogImage && <meta name="og:image" content={ogImage} />}
 		<title>{title ? `${title} | ` : ''} {settings?.title}</title>
 	</head>
 
