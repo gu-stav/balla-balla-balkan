@@ -1,0 +1,8 @@
+---
+import { usePortableText } from "astro-portabletext";
+
+const { getDefaultComponent } = usePortableText(Astro.props.node);
+const A = getDefaultComponent();
+---
+
+<A {...Astro.props} class="text-red hover:text-black underline"><slot /></A>

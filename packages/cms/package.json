@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "main": "package.json",
   "license": "UNLICENSED",
+  "type": "module",
   "scripts": {
     "dev": "sanity dev",
     "start": "sanity start",
@@ -15,6 +16,8 @@
     "sanity"
   ],
   "dependencies": {
+    "@portabletext/block-tools": "^3.5.5",
+    "@sanity/schema": "^4.8.1",
     "@sanity/vision": "^4.5.0",
     "react": "^19.1",
     "react-dom": "^19.1",
@@ -22,11 +25,23 @@
     "styled-components": "^6.1.18"
   },
   "devDependencies": {
+    "@sanity/block-tools": "^3.70.0",
+    "@sanity/client": "^7.10.0",
     "@sanity/eslint-config-studio": "^5.0.2",
     "@types/react": "^19.1",
     "eslint": "^9.28",
+    "gray-matter": "^4.0.3",
+    "jsdom": "^26.1.0",
     "prettier": "^3.5",
-    "typescript": "^5.8"
+    "remark-extract-frontmatter": "^3.2.0",
+    "remark-frontmatter": "^5.0.0",
+    "remark-html": "^16.0.1",
+    "remark-parse": "^11.0.0",
+    "slugify": "^1.6.6",
+    "tiny-glob": "^0.2.9",
+    "typescript": "^5.8",
+    "unified": "^11.0.5",
+    "yaml": "^2.8.1"
   },
   "prettier": {
     "semi": false,

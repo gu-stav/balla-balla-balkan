@@ -2,7 +2,7 @@
 publication_at: 2025-01-26T21:23:21.597Z
 title: Živjela RetroSlavija! Homecomputer, Retrograming & Nerdtum im ehemaligen
   Jugoslawien
-image: /images/upload/titel-kachel.jpg
+image: /images/upload/titel-kachel1.jpg
 apple_link: https://podcasts.apple.com/de/podcast/%C5%BEivjela-retroslavija-homecomputer-retrogaming-nerdtum/id1170436903?i=1000685530020
 spotify_link: https://open.spotify.com/show/6JGCB0wtTLdzljxL3SeLZo?si=34a8bfb12a01451a
 soundcloud_link: https://soundcloud.com/user-89524652/zivjela-retroslavija-homecomputer-retrograming-nerdtum-im-ehemaligen-jugoslawien

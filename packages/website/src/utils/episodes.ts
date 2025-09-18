@@ -10,14 +10,19 @@ export async function getEpisode(slug: string) {
       "appleLink": appleLink,
       "soundcloudLink": soundcloudLink,
       "spotifyLink": spotifyLink,
-      "imageUrl": image.asset->url
+      "imageUrl": image.asset->url,
+      "imageCaption": imageCaption,
+      "number": number,
+      "ogImage": ogImage.asset->url,
+      "ogTitle": ogTitle,
+      "ogDescription": ogDescription,
     }[0]`,
   );
 
   return episode;
 }
 
-export async function getEpisodes() {
+export async function getEpisodes(limit = Infinity) {
   const episodes = await client.fetch(`*[_type == "episode"] {
     "title": title,
     "excerpt": excerpt,
@@ -25,7 +30,10 @@ export async function getEpisodes() {
     "appleLink": appleLink,
     "soundcloudLink": soundcloudLink,
     "spotifyLink": spotifyLink,
-    "imageUrl": image.asset->url
-  }`);
+    "imageUrl": image.asset->url,
+    "imageCaption": imageCaption,
+    "number": number,
+    "publishedAt": publishedAt
+  } | order(publishedAt desc) ${limit === Infinity ? '' : `[0...${limit}]`}`);
   return episodes;
 }

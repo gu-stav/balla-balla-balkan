@@ -4,9 +4,7 @@
   "version": "2.0.0",
   "description": "",
   "scripts": {
-    "lint": "next lint",
     "format": "prettier --write './**/*.{js,jsx,ts,tsx,css,md,json,svelte,astro}'",
-    "prepare": "husky install",
     "dev": "pnpm -r dev",
     "build": "pnpm -r build"
   },
@@ -18,36 +16,10 @@
   "author": "Gustav Pursche <gu@stav.dev>",
   "license": "MIT",
   "homepage": "https://ballaballa-balkan.de",
-  "packageManager": "pnpm",
-  "dependencies": {
-    "@reach/slider": "^0.16.0",
-    "buffer-image-size": "^0.6.4",
-    "classnames": "^2.3.1",
-    "eslint": "^8.47.0",
-    "eslint-plugin-import": "^2.25.2",
-    "eslint-plugin-jsx-a11y": "^6.4.1",
-    "eslint-plugin-prettier": "^5.0.0",
-    "eslint-plugin-react": "^7.33.2",
-    "eslint-plugin-react-hooks": "^4.6.0",
-    "gray-matter": "^4.0.3",
-    "husky": "^6.0.0",
-    "lint-staged": "^11.2.6",
-    "netlify-cms-app": "^2.15.72",
-    "next": "^13.4.18",
-    "next-compose-plugins": "^2.2.1",
-    "next-fonts": "^1.5.1",
-    "prettier": "^3.0.0",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-load-script": "0.0.6",
-    "react-markdown": "^5.0.3",
-    "serialize-error": "^8.1.0",
-    "sharp": "^0.29.2",
-    "simple-oauth2": "^2.5.2",
-    "slugify": "^1.6.1"
-  },
+  "packageManager": "pnpm@10.17.0",
+  "dependencies": {},
   "engines": {
-    "node": ">= 18"
+    "node": ">= 22"
   },
   "husky": {
     "hooks": {
@@ -58,9 +30,5 @@
     "*.{js,jsx}": [
       "npm run lint"
     ]
-  },
-  "devDependencies": {
-    "eslint-config-next": "^13.4.18",
-    "eslint-config-prettier": "^8.3.0"
   }
 }

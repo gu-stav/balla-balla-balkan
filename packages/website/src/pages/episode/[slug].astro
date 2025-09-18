@@ -3,6 +3,9 @@ import Layout from '../../layouts/Layout.astro';
 import { getEpisode, getEpisodes } from '../../utils/episodes';
 import { PortableText } from "astro-portabletext";
 import EpisodeLatest from '../../components/EpisodeLatest.astro';
+import Link from '../../components/PortableText/Link.astro';
+import List from '../../components/PortableText/List.astro';
+import ListItem from '../../components/PortableText/ListItem.astro';
 
 const { slug } = Astro.params;
 const episode = await getEpisode(slug);
@@ -16,15 +19,24 @@ export async function getStaticPaths() {
     }
   }));
 }
+
+const components = {
+  list: List,
+  listItem: ListItem,
+  mark: {
+    link: Link
+  }
+}
+
 ---
-<Layout title={episode.title}>
+<Layout title={episode.title} image={episode.ogImage ? `${episode.ogImage}?h=630&w=1280` : `${episode.imageUrl}?fit=fillmax&h=630&w=1280&bg=faffbd`} description={episode.excerpt}>
     <article>
         <div class="flex flex-col gap-8 items-center pb-6 w-full">
-            <EpisodeLatest episode={episode} />
+            <EpisodeLatest episode={episode} list={false} />
         </div>
 
         <div class="flex flex-col gap-4 max-w-5xl px-16 text-xl">
-            <PortableText value={episode.richtext} />
+            <PortableText components={components} value={episode.richtext} />
         </div>
     </article>
 </Layout>

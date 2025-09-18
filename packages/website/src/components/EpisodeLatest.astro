@@ -2,17 +2,34 @@
 import { Image } from 'astro:assets';
 import PlayButton from './PlayButton.svelte';
 
-const { episode } = Astro.props;
+const { episode, list = true } = Astro.props;
 ---
 <article class="bg-yellow flex gap-14 max-w-5xl mb-4 -mt-14 px-14 py-16 w-full">
-	<Image alt="" class="object-contain self-start" src={episode.imageUrl} width={300} height={300} />
+	<figure class="flex flex-col gap-2 shrink-0 w-max">
+		<Image alt="" class="object-contain self-start" src={episode.imageUrl} width={300} height={300} />
+		{episode.imageCaption && <figcaption class="mt-2 font-sans text-sm text-black">{episode.imageCaption}</figcaption>}
+	</figure>
 
 	<div class="flex flex-col gap-12">
 		<div class="flex flex-col gap-6">
+			{list ? (
+				<a class="flex flex-col gap-1 font-medium font-sans text-5xl text-red tracking-tighter" href={`/episode/${episode.slug}`}>
+					{(episode.number || list) && <span class="block font-medium text-black text-sm tracking-normal uppercase">
+						{list && `Neueste Episode`}
+						{episode.number && `${list ? ' • ' : ''}Episode ${episode.number}`}
+					</span>}
+					{episode.title}
+				</a>
+			) : (
+				<h1 class="flex flex-col gap-1 font-medium font-sans text-5xl text-red tracking-tighter">
+					{(episode.number || list) && <span class="block font-medium text-black text-sm tracking-normal uppercase">
+						{list && `Neueste Episode`}
+						{episode.number && `${list ? ' • ' : ''}Episode ${episode.number}`}
+					</span>}
+					{episode.title}
+				</h1>
+			)}
 			
-			<a class="flex flex-col gap-1 font-medium font-sans text-5xl text-red tracking-tighter" href={`/episode/${episode.slug}`}>
-				<span class="block font-medium font-sans text-black text-xl tracking-tighter">Neueste Episode</span>
-				{episode.title}</a>
 			<p class="font-sans leading-6 text-2xl tracking-tight">{episode.excerpt}</p>
 		</div>
 		

@@ -1,0 +1,14 @@
+---
+import type { ListProps } from "astro-portabletext/types";
+import { usePortableText } from "astro-portabletext";
+
+export type Props = ListProps;
+
+const props = Astro.props;
+const { getDefaultComponent } = usePortableText(props.node);
+const listItemIs = (listItem: string) => listItem === props.node.listItem;
+
+const List = getDefaultComponent()
+---
+
+<List {...props} class="ml-5"><slot /></List>

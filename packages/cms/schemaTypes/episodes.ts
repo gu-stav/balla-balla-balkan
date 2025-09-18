@@ -40,6 +40,13 @@ export default defineType({
     }),
 
     defineField({
+      name: 'publishedAt',
+      title: 'Veröffentlicht am',
+      type: 'datetime',
+      validation: (Rule) => Rule.required(),
+    }),
+
+    defineField({
       name: 'image',
       title: 'Bild',
       type: 'image',
@@ -64,7 +71,6 @@ export default defineType({
       name: 'richtext',
       title: 'Text',
       type: 'blockContent',
-      validation: (Rule) => Rule.required().min(1),
     }),
 
     defineField({

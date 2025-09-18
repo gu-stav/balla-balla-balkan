@@ -7,7 +7,7 @@ import Authors from "../components/Authors.astro";
 import EpisodeLatest from "../components/EpisodeLatest.astro";
 import Episode from "../components/Episode.astro";
 
-const episodes = await getEpisodes();
+const episodes = await getEpisodes(4);
 const authors = await getAuthors();
 
 ---
@@ -21,7 +21,7 @@ const authors = await getAuthors();
 			))}
 		</ol>
 
-		<a href="/episoden" class="font-medium text-2xl tracking-tighter underline">
+		<a href="/episoden" class="font-medium hover:text-red text-2xl tracking-tighter underline">
 			Alle Episoden
 		</a>
 	</div>
