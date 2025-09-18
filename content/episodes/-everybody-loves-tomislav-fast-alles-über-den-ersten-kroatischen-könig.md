@@ -8,7 +8,7 @@ soundcloud_link: https://soundcloud.com/user-89524652/everybody-loves-tomislav-f
 blocks:
   - type: richtext
     richtext: >-
-      
+
 
       In dieser kleinen Zwischenfolge versucht sich Danijel mal wieder als History-Podcaster. Und wenn wir History sagen, meinen wir - regelmäßige HörerInnen wissen das natürlich schon - die "Tatsache", dass auf dem Feld von Danijels Familie der erste kroatische König gekrönt wurde.
 

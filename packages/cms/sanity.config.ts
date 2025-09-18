@@ -19,7 +19,14 @@ export default defineConfig([
           S.list()
             .title('Inhalte')
             .items([
-              S.documentTypeListItem('episode').title('Episoden'),
+              S.documentTypeListItem('episode')
+                .title('Episoden')
+                .child(
+                  S.documentList()
+                    .id('episodeList')
+                    .filter('_type == "episode"')
+                    .defaultOrdering([{field: 'publishedAt', direction: 'desc'}]),
+                ),
               S.documentTypeListItem('page').title('Seiten'),
               S.documentTypeListItem('author').title('Autoren'),
               S.divider(),

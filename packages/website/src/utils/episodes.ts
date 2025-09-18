@@ -34,6 +34,6 @@ export async function getEpisodes(limit = Infinity) {
     "imageCaption": imageCaption,
     "number": number,
     "publishedAt": publishedAt
-  } | order(publishedAt desc) ${limit === Infinity ? '' : `[0...${limit}]`}`);
+  } | order(publishedAt desc) ${limit === Infinity ? "" : `[0...${limit}]`}`);
   return episodes;
 }

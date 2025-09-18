@@ -1,13 +1,13 @@
-import glob  from 'tiny-glob'
-import { readFile, writeFile } from 'node:fs/promises'
-import { unified } from 'unified';
-import matter from 'gray-matter';
-import remarkParse from 'remark-parse';
-import remarkFrontmatter from 'remark-frontmatter';
+import glob from 'tiny-glob'
+import {readFile, writeFile} from 'node:fs/promises'
+import {unified} from 'unified'
+import matter from 'gray-matter'
+import remarkParse from 'remark-parse'
+import remarkFrontmatter from 'remark-frontmatter'
 import remarkHtml from 'remark-html'
-import slugify from 'slugify';
+import slugify from 'slugify'
 import {htmlToBlocks} from '@portabletext/block-tools'
-import { JSDOM } from 'jsdom';
+import {JSDOM} from 'jsdom'
 import {defineField, defineArrayMember, defineType} from 'sanity'
 import {Schema} from '@sanity/schema'
 
@@ -149,7 +149,7 @@ const blockContentType = defineType({
 })
 
 const schema = Schema.compile({
-    types: [blockContentType, episodeType]
+  types: [blockContentType, episodeType],
 })
 
 const blockContentSchema = schema
@@ -157,80 +157,98 @@ const blockContentSchema = schema
   .fields.find((field) => field.name === 'richtext').type
 
 async function getEpisodes() {
-    const episodes = await glob('**/*.md', {
-        cwd: '../../../content/episodes'
-    })
+  const episodes = await glob('**/*.md', {
+    cwd: '../../../content/episodes',
+  })
 
-    return episodes.map((file) => `../../../content/episodes/${file}`);
+  return episodes.map((file) => `../../../content/episodes/${file}`)
 }
 
 async function extractFileContents(path) {
-    const content = await readFile(path, 'utf-8');
-    return { path, content };
+  const content = await readFile(path, 'utf-8')
+  return {path, content}
 }
 
 async function extractFrontmatter(fileContent) {
-    const { data } = matter(fileContent);
+  const {data} = matter(fileContent)
 
-    return data;
+  return data
 }
 
 async function extractMarkdown(fileContent) {
-    return await unified()
-        .use(remarkParse)
-        .use(remarkFrontmatter, ['yaml'])
-        .use(remarkHtml)
-        .process(fileContent);
+  return await unified()
+    .use(remarkParse)
+    .use(remarkFrontmatter, ['yaml'])
+    .use(remarkHtml)
+    .process(fileContent)
 }
 
 async function convertToSanityDocument(jsonData, index) {
-    const slug = slugify(jsonData.frontmatter.title, {
-                lower: true,
-                remove: /[*+~.()'"!:@?]/g,
-                locale: "de",
-            })
+  const slug = slugify(jsonData.frontmatter.title, {
+    lower: true,
+    remove: /[*+~.()'"!:@?]/g,
+    locale: 'de',
+  })
 
-    let richtext = []
+  let richtext = []
 
-    try {
-        richtext = createPortableText(jsonData.frontmatter.title, jsonData.body)
-    } catch(e) {
-        console.error('Error creating portable text for:', jsonData.frontmatter.title)
-    }
+  try {
+    richtext = createPortableText(jsonData.frontmatter.title, jsonData.body)
+  } catch (e) {
+    console.error('Error creating portable text for:', jsonData.frontmatter.title)
+  }
 
-    return {
-        _id: `episode-${index}`,
-        _type: 'episode',
-        title: jsonData.frontmatter.title,
-        number: jsonData.frontmatter.number && jsonData.frontmatter.number.length > 0 ? jsonData.frontmatter.number : undefined,
-        slug: {
-            current: slug
-        },
-        excerpt: jsonData.frontmatter.excerpt,
-        appleLink: jsonData.frontmatter.apple_link,
+  return {
+    _id: `episode-${index}`,
+    _type: 'episode',
+    title: jsonData.frontmatter.title,
+    number:
+      jsonData.frontmatter.number && jsonData.frontmatter.number.length > 0
+        ? jsonData.frontmatter.number
+        : undefined,
+    slug: {
+      current: slug,
+    },
+    excerpt: jsonData.frontmatter.excerpt,
+    appleLink: jsonData.frontmatter.apple_link,
 
-        publishedAt: jsonData.frontmatter.publication_at ? new Date(jsonData.frontmatter.publication_at).toISOString() : undefined,
-        richtext,
+    publishedAt: jsonData.frontmatter.publication_at
+      ? new Date(jsonData.frontmatter.publication_at).toISOString()
+      : undefined,
+    richtext,
 
-        spotifyLink: jsonData.frontmatter.spotify_link,
-        soundcloudLink: jsonData.frontmatter.soundcloud_link,
+    spotifyLink: jsonData.frontmatter.spotify_link,
+    soundcloudLink: jsonData.frontmatter.soundcloud_link,
 
-        image: {
-            "_type": "image",
-            "_sanityAsset": `image@file://./upload/${jsonData.frontmatter.image.replace('/images/upload/', '')}`,
-        },
+    image: {
+      _type: 'image',
+      _sanityAsset: `image@file://./upload/${jsonData.frontmatter.image.replace('/images/upload/', '')}`,
+    },
 
-        ogTitle: jsonData.frontmatter.og_title && jsonData.frontmatter.og_title !== jsonData.frontmatter.title ? jsonData.frontmatter.og_title : undefined,
-        ogDescription: jsonData.frontmatter.og_description && jsonData.frontmatter.og_description !== jsonData.frontmatter.excerpt ? jsonData.frontmatter.og_description : undefined,
-        ogImage: jsonData.frontmatter.og_image && jsonData.frontmatter.og_image !== jsonData.frontmatter.image ? {
-            "_type": "image",
-            "_sanityAsset": `image@file://./upload/${jsonData.frontmatter.og_image.replace('/images/upload/', '')}`,
-        } : undefined,
-    }
+    ogTitle:
+      jsonData.frontmatter.og_title && jsonData.frontmatter.og_title !== jsonData.frontmatter.title
+        ? jsonData.frontmatter.og_title
+        : undefined,
+    ogDescription:
+      jsonData.frontmatter.og_description &&
+      jsonData.frontmatter.og_description !== jsonData.frontmatter.excerpt
+        ? jsonData.frontmatter.og_description
+        : undefined,
+    ogImage:
+      jsonData.frontmatter.og_image && jsonData.frontmatter.og_image !== jsonData.frontmatter.image
+        ? {
+            _type: 'image',
+            _sanityAsset: `image@file://./upload/${jsonData.frontmatter.og_image.replace('/images/upload/', '')}`,
+          }
+        : undefined,
+  }
 }
 
 async function writeToFile(files) {
-    await writeFile('./documents/documents.ndjson', files.map(file => JSON.stringify(file)).join('\n'));
+  await writeFile(
+    './documents/documents.ndjson',
+    files.map((file) => JSON.stringify(file)).join('\n'),
+  )
 }
 
 function createPortableText(title, content) {
@@ -247,21 +265,23 @@ function createPortableText(title, content) {
 
 const episodes = await getEpisodes()
 const episodeContentsRaw = await Promise.all(episodes.map(extractFileContents))
-const episodeJSON = await Promise.all(episodeContentsRaw.map(async ({ path, content }) => {
-    const frontmatter = await extractFrontmatter(content);
-    let body = '';
+const episodeJSON = await Promise.all(
+  episodeContentsRaw.map(async ({path, content}) => {
+    const frontmatter = await extractFrontmatter(content)
+    let body = ''
 
     for (let block of frontmatter?.blocks ?? []) {
-        body += await extractMarkdown(block.richtext);
-        body += '\n';
+      body += await extractMarkdown(block.richtext)
+      body += '\n'
     }
 
     return {
-        path,
-        frontmatter,
-        body
+      path,
+      frontmatter,
+      body,
     }
-}))
+  }),
+)
 
 const documents = await Promise.all(episodeJSON.map(convertToSanityDocument))
 
