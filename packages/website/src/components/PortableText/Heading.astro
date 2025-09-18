@@ -1,0 +1,8 @@
+---
+const props = Astro.props;
+const Comp = props.node.style
+
+---
+<Comp class="font-medium mt-4 text-2xl" {...props}>
+    <slot />
+</Comp>
