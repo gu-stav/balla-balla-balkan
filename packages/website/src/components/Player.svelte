@@ -82,7 +82,7 @@
 </script>
 
 {#if currentEpisode()}
-    <div class="bottom-0 fixed flex justify-center w-full">
+    <div class="bottom-0 fixed flex justify-center w-full z-10">
         <div class="bg-yellow flex gap-8 items-center max-w-5xl px-12 relative w-full">
             <button class="cursor-pointer p-2" on:click={() => {
                 if (isPlaying) {
