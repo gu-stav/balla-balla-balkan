@@ -9,7 +9,7 @@ type Settings = {
 
 export async function getSettings(): Promise<Settings> {
   const settings = await client.fetch(`*[_type == "settings"]{
-    "ogImageFallback": ogImageFallback.asset->url,,
+    "ogImageFallback": ogImageFallback.asset->url,
     title,
     description,
     social_media
