@@ -13,11 +13,11 @@ const { episode } = Astro.props;
 
     <div class="flex flex-col gap-4 sm:gap-8">
         <div class="flex flex-col gap-4">
-            <a class="font-medium font-sans text-3xl text-red tracking-tighter hover:underline focus:underline" href={`/episode/${episode.slug}`}>
+            <a class="font-medium font-sans text-2xl sm:text-3xl text-red tracking-tighter hover:underline focus:underline" href={`/episode/${episode.slug}`}>
                 {episode.number && (<span class="block text-black text-xs tracking-normal uppercase">Episode {episode.number}</span>)}
                 {episode.title}
             </a>
-            <p class="font-sans leading-6 text-xl tracking-tight">
+            <p class="font-sans leading-6 text-lg sm:text-xl tracking-tight">
                 {episode.excerpt}
             </p>
         </div>
