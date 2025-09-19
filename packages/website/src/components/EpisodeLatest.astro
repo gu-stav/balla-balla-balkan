@@ -4,7 +4,7 @@ import PlayButton from './PlayButton.svelte';
 
 const { episode, list = true } = Astro.props;
 ---
-<article class="bg-yellow flex gap-4 sm:gap-14 max-w-5xl sm:mb-4 -mt-14 px-4 sm:px-7 py-6 sm:px-14 sm:py-16 mx-2 sm:mx-0 relative w-full">
+<article class="bg-yellow flex gap-4 sm:gap-12 max-w-6xl sm:mb-4 -mt-18 px-4 sm:px-7 py-6 sm:px-18 sm:pt-18 sm:pb-17 mx-2 sm:mx-0 relative w-full">
 	{list && (<a class="absolute inset-0 opacity-0 z-1" href={`/episode/${episode.slug}`}>
         {episode.title}
     </a>)}
@@ -17,16 +17,16 @@ const { episode, list = true } = Astro.props;
 	<div class="flex flex-col gap-4 sm:gap-12">
 		<div class="flex flex-col gap-4 sm:gap-6">
 			{list ? (
-				<a class="flex flex-col gap-1 font-medium font-sans text-3xl sm:text-5xl text-red tracking-tighter" href={`/episode/${episode.slug}`}>
-					{(episode.number || list) && <span class="block font-medium text-black text-xs sm:text-sm tracking-normal uppercase">
+				<a class="flex flex-col gap-1 font-medium font-sans text-3xl sm:text-5xl text-red tracking-tight" href={`/episode/${episode.slug}`}>
+					{(episode.number || list) && <span class="block font-medium text-black text-xs sm:text-sm tracking-normal uppercase uppercase -mt-7">
 						{list && `Neueste Episode`}
 						{episode.number && `${list ? ' • ' : ''}Episode ${episode.number}`}
 					</span>}
 					{episode.title}
 				</a>
 			) : (
-				<h1 class="flex flex-col gap-1 font-medium font-sans text-3xl sm:text-5xl text-red tracking-tighter">
-					{(episode.number || list) && <span class="block font-medium text-black text-xs sm:text-sm tracking-normal uppercase">
+				<h1 class="flex flex-col gap-1 font-medium font-sans text-3xl sm:text-5xl text-red tracking-tight">
+					{(episode.number || list) && <span class="block font-medium text-black text-xs sm:text-sm tracking-normal uppercase -mt-7">
 						{list && `Neueste Episode`}
 						{episode.number && `${list ? ' • ' : ''}Episode ${episode.number}`}
 					</span>}
@@ -34,10 +34,10 @@ const { episode, list = true } = Astro.props;
 				</h1>
 			)}
 			
-			<p class="font-sans leading-6 text-lg sm:text-2xl tracking-tight">{episode.excerpt}</p>
+			<p class="font-sans leading-7 text-lg sm:text-2xl">{episode.excerpt}</p>
 		</div>
 		
-		<div class="flex items-center gap-3 z-2">
+		<div class="flex items-center gap-3 justify-self-end mt-auto z-2">
 			<PlayButton client:load episode={episode} />
 
 			<span class="hidden sm:inline">oder auf</span>

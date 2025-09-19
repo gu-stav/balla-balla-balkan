@@ -7,8 +7,8 @@ const { authors } = Astro.props;
 <div class="bg-red flex flex-col sm:flex-row gap-12 justify-center px-4 sm:px-12 py-8 sm:py-12 text-white w-full">
 	{authors.map((author) => (
 		<div class="flex flex-col gap-4 max-w-lg">
-			<h3 class="font-medium text-3xl tracking-tighter">{author.title}</h3>
-			<PortableText value={author.body} />
+			<h3 class="font-medium text-4xl tracking-tight">{author.title}</h3>
+			<div class="leading-7 text-xl"><PortableText value={author.body} /></div>
 		</div>
 	))}
 </div>

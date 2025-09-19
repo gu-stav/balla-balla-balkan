@@ -13,7 +13,7 @@ const authors = await getAuthors();
 ---
 <Layout>
 	<div class="flex flex-col gap-8 items-center pb-24 w-full">
-		<ol class="flex flex-col gap-4 w-full">
+		<ol class="flex flex-col gap-6 w-full">
 			{episodes.map((episode, index) => (
 				<li class="flex justify-center w-full">
 					{index === 0 ? <EpisodeLatest episode={episode} /> : <Episode episode={episode} />}

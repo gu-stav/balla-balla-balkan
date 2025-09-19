@@ -5,7 +5,10 @@
     let { episode } = $props();
 </script>
 
-<button class="bg-black hover:bg-red focus:bg-red cursor-pointer sm:flex font-sans gap-2 hidden items-center py-2 px-4 rounded-sm self-start text-xl text-white" href="/episode/{episode.slug}" on:click|preventDefault={() => setEpisode(episode)}>
+<button class="bg-black hover:bg-red focus:bg-red cursor-pointer sm:flex font-sans gap-2 hidden items-center py-2 px-6 rounded-sm self-start text-xl text-white" onclick={(event) => {
+    event.preventDefault();
+    setEpisode(episode);
+}}>
     Anhören
     <Play class="fill-white h-4 w-4" />
 </button>

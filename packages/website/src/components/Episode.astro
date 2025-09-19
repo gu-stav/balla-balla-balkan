@@ -4,25 +4,25 @@ import PlayButton from './PlayButton.svelte';
 
 const { episode } = Astro.props;
 ---
-<article class="flex gap-5 sm:gap-10 max-w-4xl p-4 sm:p-10 relative w-full">
+<article class="flex gap-5 sm:gap-8 max-w-4xl p-4 sm:p-10 relative w-full">
     <a class="absolute inset-0 opacity-0 z-1" href={`/episode/${episode.slug}`}>
         {episode.title}
     </a>
 
 	<Image alt="" class="object-contain self-start" loading="lazy" src={episode.imageUrl} width={200} height={200} />
 
-    <div class="flex flex-col gap-4 sm:gap-8">
+    <div class="flex flex-col gap-4 sm:gap-2">
         <div class="flex flex-col gap-4">
-            <a class="font-medium font-sans text-2xl sm:text-3xl text-red tracking-tighter hover:underline focus:underline" href={`/episode/${episode.slug}`}>
-                {episode.number && (<span class="block text-black text-xs tracking-normal uppercase">Episode {episode.number}</span>)}
+            <a class="font-medium font-sans text-2xl sm:text-4xl text-red tracking-tight hover:underline focus:underline" href={`/episode/${episode.slug}`}>
+                {episode.number && (<span class="block text-black text-xs tracking-normal uppercase -mt-5">Episode {episode.number}</span>)}
                 {episode.title}
             </a>
-            <p class="font-sans leading-6 text-lg sm:text-xl tracking-tight">
+            <p class="font-sans leading-7 text-lg sm:text-xl">
                 {episode.excerpt}
             </p>
         </div>
 
-        <div class="flex items-center gap-3 z-2">
+        <div class="flex items-center gap-3 justify-self-end mt-auto z-2">
             <PlayButton client:load episode={episode} />
 
             <span class="hidden sm:inline">oder auf</span>
