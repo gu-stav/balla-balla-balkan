@@ -83,8 +83,8 @@
 
 {#if currentEpisode()}
     <div class="bottom-0 fixed flex justify-center w-full z-10">
-        <div class="bg-yellow flex gap-8 items-center max-w-5xl px-12 relative w-full">
-            <button class="cursor-pointer p-2" on:click={() => {
+        <div class="bg-yellow flex gap-8 items-center max-w-5xl px-8 relative w-full">
+            <button class="cursor-pointer p-2" onclick={() => {
                 if (isPlaying) {
                     soundcloudWidget.pause()
                 } else {
@@ -92,21 +92,21 @@
                 }
             }}>
                 {#if isPlaying}
-                    <CirclePause class="stroke-red h-[38px] w-[38px]" />
+                    <CirclePause class="stroke-red hover:stroke-black h-[38px] w-[38px]" />
                 {:else}
-                    <CirclePlay class="stroke-red h-[38px] w-[38px]" />
+                    <CirclePlay class="stroke-red hover:stroke-black h-[38px] w-[38px]" />
                 {/if}
             </button>
 
             <img src={currentEpisode().imageUrl} width="100" />
 
             <div class="flex gap-2 flex-col">
-                <strong class="font-medium font-sans text-xl text-red tracking-tighter">
+                <strong class="font-medium font-sans text-2xl text-red tracking-tight">
                     {currentEpisode()?.title}
                 </strong>
 
                 <div class="flex gap-8 items-center">
-                    <input type="range" value={position} min="0" max={duration} on:change={(e) => {
+                    <input type="range" value={position} min="0" max={duration} onchange={(e) => {
                         soundcloudWidget.seekTo(e.target.value);
                     }} />
 
@@ -121,7 +121,10 @@
                 </div>
             {/if}
 
-            <button class="absolute bg-red cursor-pointer right-0 top-0" type="button" on:click|preventDefault={setEpisode(null)}>
+            <button class="absolute bg-black hover:bg-red cursor-pointer right-0 top-0" type="button" onclick={(event) => {
+                event.preventDefault();
+                setEpisode(null);
+            }}>
                 <X class="h-[24px] stroke-white w-[24px]" />
             </button>
         </div>
