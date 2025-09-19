@@ -3,7 +3,6 @@ import '../styles/global.css'
 import { getSettings } from '../utils/settings';
 import Header from '../components/Header.astro';
 import Player from '../components/Player.svelte';
-import { undefined } from 'astro:schema';
 
 const settings = await getSettings();
 const { title, description, image } = Astro.props
