@@ -4,20 +4,20 @@ import PlayButton from './PlayButton.svelte';
 
 const { episode } = Astro.props;
 ---
-<article class="flex gap-5 sm:gap-8 max-w-4xl p-4 sm:p-10 relative w-full">
+<article class="flex gap-4 sm:gap-8 max-w-4xl p-4 sm:p-10 relative w-full">
     <a class="absolute inset-0 opacity-0 z-1" href={`/episode/${episode.slug}`}>
         {episode.title}
     </a>
 
-	<Image alt="" class="object-contain self-start" loading="lazy" src={episode.imageUrl} width={200} height={200} />
+	<Image alt="" class="shrink-0 max-w-1/3 sm:w-max object-contain self-start" loading="lazy" src={episode.imageUrl} width={200} height={200} />
 
-    <div class="flex flex-col gap-4 sm:gap-2">
-        <div class="flex flex-col gap-4">
-            <a class="font-medium font-sans text-2xl sm:text-4xl text-red tracking-tight hover:underline focus:underline" href={`/episode/${episode.slug}`}>
+    <div class="flex flex-col gap-2">
+        <div class="flex flex-col gap-2 sm:gap-4">
+            <a class="font-medium font-sans text-xl sm:text-4xl text-red tracking-tight hover:underline focus:underline" href={`/episode/${episode.slug}`}>
                 {episode.number && (<span class="block text-black text-xs tracking-normal uppercase -mt-5">Episode {episode.number}</span>)}
                 {episode.title}
             </a>
-            <p class="font-sans leading-7 text-lg sm:text-xl">
+            <p class="font-sans leading-base sm:leading-7 text-base sm:text-xl">
                 {episode.excerpt}
             </p>
         </div>
