@@ -21,14 +21,14 @@ const ogImage = image ? image : settings.ogImageFallback ? `${settings?.ogImageF
 		<title>{title ? `${title} | ` : ''} {settings?.title}</title>
 	</head>
 
-	<body class="bg-gray">
+	<body class="bg-gray flex flex-col gap-10 min-h-screen">
         <Header />
 
         <main class="flex flex-col items-center w-full">
           <slot />
         </main>
 
-        <footer class="flex justify-center p-10">
+        <footer class="bg-yellow flex justify-center p-10 -mt-10">
             <nav class="flex gap-8 max-w-3xl">
                 <a class="font-medium text-red hover:underline" href="/impressum">Impressum</a>
                 <a class="font-medium text-red hover:underline" href="/datenschutzerklaerung">Datenschutz</a>
