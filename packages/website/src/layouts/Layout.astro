@@ -10,17 +10,29 @@ const { title, description, image } = Astro.props
 
 const ogImage = image ? image : settings.ogImageFallback ? `${settings?.ogImageFallback}?h=630&w=1280` : undefined;
 const ogImageOptimized = ogImage ? await getImage({ src: ogImage, format: 'webp', width: 1280, height: 630 }) : undefined;
+
+const twitterImage = image ? image : settings.ogImageFallback ? `${settings?.ogImageFallback}?h=675&w=1200` : undefined;
+const twitterImageOptimized = twitterImage ? await getImage({ src: twitterImage, format: 'webp', width: 1200, height: 675 }) : undefined;
 ---
 
 <html lang="en">
 	<head>
 		<meta charset="utf-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+        <title>{title ? `${title} | ` : ''} {settings?.title}</title>
         <meta name="description" content={description ?? settings?.description} />
+
+        <meta property="og:type" content="website" />
         <meta name="og:title" content={title ? `${title} | ${settings?.title}` : settings?.title} />
         <meta name="og:description" content={description ?? settings?.description} />
         {ogImageOptimized && <meta name="og:image" content={ogImageOptimized.src} />}
-		<title>{title ? `${title} | ` : ''} {settings?.title}</title>
+
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content={title ? `${title} | ${settings?.title}` : settings?.title} />
+        <meta name="twitter:description" content={description ?? settings?.description} />
+        {twitterImageOptimized && <meta name="twitter:image" content={twitterImageOptimized.src} />}
+
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.svg" sizes="392x392" type="image/svg+xml" />
 	</head>
 
