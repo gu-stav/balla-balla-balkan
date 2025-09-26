@@ -15,6 +15,11 @@ export default defineConfig({
 
   integrations: [svelte()],
 
+  image: {
+    domains: ['cdn.sanity.io'],
+    remotePatterns: [{ protocol: "https" }],
+  },
+
   redirects: redirects.reduce((acc, redirect) => {
     acc[redirect[0]] = redirect[1];
     return acc;
