@@ -15,7 +15,7 @@ const { episode } = Astro.props;
     </a>}
 
 	<figure class="flex flex-col gap-2 shrink-0 max-w-1/3 sm:w-max">
-		<Image alt="" class="object-contain self-start" src={episode.imageUrl} width={300} height={300} />
+		<Image alt="" class="object-contain self-start" format="avif" src={episode.imageUrl} width={300} height={300} />
 		{episode.imageCaption && (<figcaption class="mt-2 font-sans text-sm text-black">{episode.imageCaption}</figcaption>)}
 	</figure>
 

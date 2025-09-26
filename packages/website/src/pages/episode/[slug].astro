@@ -24,7 +24,7 @@ export async function getStaticPaths() {
         <div class="flex flex-col gap-8 items-center w-full">
             <div class="flex flex-col sm:flex-row gap-4 sm:gap-12 max-w-6xl px-4 sm:px-7 p-6 sm:py-18 mx-2 sm:mx-0 w-full">
               <figure class="flex flex-col gap-2 shrink-0 max-w-1/2 sm:w-max">
-                <Image alt="" class="object-contain self-start" src={episode.imageUrl} width={300} height={300} />
+                <Image alt="" class="object-contain self-start" format='avif' src={episode.imageUrl} width={300} height={300} />
                 {episode.imageCaption && <figcaption class="mt-2 font-sans text-sm text-black">{episode.imageCaption}</figcaption>}
               </figure>
 
