@@ -12,7 +12,7 @@ const ogImage = image ? image : settings.ogImageFallback ? `${settings?.ogImageF
 const ogImageOptimized = ogImage ? await getImage({ src: ogImage, format: 'webp', width: 1280, height: 630 }) : undefined;
 
 const twitterImage = image ? image : settings.ogImageFallback ? `${settings?.ogImageFallback}?h=675&w=1200` : undefined;
-const twitterImageOptimized = twitterImage ? await getImage({ src: twitterImage, format: 'webp', width: 1200, height: 675 }) : undefined;
+const twitterImageOptimized = twitterImage ? await getImage({ src: twitterImage, format: 'png', width: 1200, height: 675 }) : undefined;
 ---
 
 <html lang="en">
