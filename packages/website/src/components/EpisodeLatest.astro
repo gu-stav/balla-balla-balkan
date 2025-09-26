@@ -4,7 +4,7 @@ import PlayButton from './PlayButton.svelte';
 
 const { episode, list = true } = Astro.props;
 ---
-<article class="flex gap-4 sm:gap-12 max-w-6xl px-4 sm:px-7 p-6 sm:p-18 mx-2 sm:mx-0 relative w-full">
+<article class="flex flex-col sm:flex-row gap-4 sm:gap-12 max-w-6xl px-4 sm:px-7 p-6 sm:p-18 mx-2 sm:mx-0 relative w-full">
 	{list && (<a class="absolute inset-0 opacity-0 z-1" href={`/episode/${episode.slug}`}>
         {episode.title}
     </a>)}
@@ -15,9 +15,9 @@ const { episode, list = true } = Astro.props;
 	</figure>
 
 	<div class="flex flex-col gap-4 sm:gap-12">
-		<div class="flex flex-col gap-2 sm:gap-6">
+		<div class="flex flex-col gap-2 sm:gap-4">
 			{list ? (
-				<a class="flex flex-col gap-1 font-medium font-sans text-xl sm:text-5xl text-red tracking-tight" href={`/episode/${episode.slug}`}>
+				<a class="flex flex-col gap-1 font-medium font-sans text-3xl sm:text-5xl text-red tracking-tight" href={`/episode/${episode.slug}`}>
 					{(episode.number || list) && <span class="block font-medium text-black text-xs sm:text-sm tracking-normal uppercase uppercase -mt-7">
 						{list && `Neueste Episode`}
 						{episode.number && `${list ? ' • ' : ''}Episode ${episode.number}`}
@@ -25,7 +25,7 @@ const { episode, list = true } = Astro.props;
 					{episode.title}
 				</a>
 			) : (
-				<h1 class="flex flex-col gap-1 font-medium font-sans text-xl sm:text-5xl text-red tracking-tight">
+				<h1 class="flex flex-col gap-1 font-medium font-sans text-3xl sm:text-5xl text-red tracking-tight">
 					{(episode.number || list) && <span class="block font-medium text-black text-xs sm:text-sm tracking-normal uppercase -mt-7">
 						{list && `Neueste Episode`}
 						{episode.number && `${list ? ' • ' : ''}Episode ${episode.number}`}
@@ -34,7 +34,7 @@ const { episode, list = true } = Astro.props;
 				</h1>
 			)}
 			
-			<p class="font-sans leading-base sm:leading-7 text-base sm:text-2xl">{episode.excerpt}</p>
+			<p class="font-sans leading-6 sm:leading-7 text-xl sm:text-2xl">{episode.excerpt}</p>
 		</div>
 		
 		<div class="flex items-center gap-3 justify-self-end mt-auto z-2">
@@ -47,7 +47,7 @@ const { episode, list = true } = Astro.props;
 					<a href={episode.appleLink} class="font-sans text-md text-red hover:text-black focus:text-black">
 						<svg
 							aria-hidden="true"
-							class="w-6"
+							class="w-7 sm:w-6"
 							focusable="false"
 							role="img"
 							xmlns="http://www.w3.org/2000/svg"
@@ -83,7 +83,7 @@ const { episode, list = true } = Astro.props;
 					<a href={episode.spotifyLink} class="font-sans text-md text-red hover:text-black focus:text-black">
 						<svg
 							aria-hidden="true"
-							class="w-6"
+							class="w-7 sm:w-6"
 							focusable="false"
 							role="img"
 							xmlns="http://www.w3.org/2000/svg"
