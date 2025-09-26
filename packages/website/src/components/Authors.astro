@@ -9,10 +9,10 @@ interface Props {
 const { authors } = Astro.props;
 ---
 
-<div class="bg-yellow flex flex-col sm:flex-row gap-12 justify-center px-4 sm:px-12 py-8 sm:py-12 text-red w-full">
+<div class="bg-yellow flex flex-col sm:flex-row gap-12 justify-center px-4 sm:px-12 py-10 sm:py-12 text-red w-full">
 	{authors.map((author) => (
 		<div class="flex flex-col gap-4 max-w-lg">
-			<h3 class="font-medium text-2xl sm:text-4xl tracking-tight">{author.title}</h3>
+			<h3 class="font-medium text-3xl sm:text-4xl tracking-tight">{author.title}</h3>
 			<div class="leading-7 text-lg sm:text-xl"><PortableText value={author.body} /></div>
 		</div>
 	))}
