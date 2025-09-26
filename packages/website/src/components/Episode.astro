@@ -1,6 +1,11 @@
 ---
 import { Image } from 'astro:assets';
 import PlayButton from './PlayButton.svelte';
+import type { Episode } from '../utils/episodes';
+
+interface Props {
+    episode: Episode
+}
 
 const { episode } = Astro.props;
 ---

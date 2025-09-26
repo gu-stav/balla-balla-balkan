@@ -3,7 +3,7 @@ import { client } from "./client";
 type Page = {
   title: string;
   slug: { current: string };
-  content: any[];
+  richtext: any[];
 };
 
 export async function getPage(slug: string): Promise<Page | null> {

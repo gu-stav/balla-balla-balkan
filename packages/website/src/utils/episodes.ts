@@ -1,6 +1,6 @@
 import { client } from "./client";
 
-type Episode = {
+export type Episode = {
   title: string;
   excerpt: string;
   richtext: any[];
@@ -8,7 +8,7 @@ type Episode = {
   appleLink?: string;
   soundcloudLink?: string;
   spotifyLink?: string;
-  imageUrl?: string;
+  imageUrl: string;
   imageCaption?: string;
   number: number;
   ogImage?: string;

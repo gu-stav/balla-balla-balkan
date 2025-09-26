@@ -1,8 +1,8 @@
 import { client } from "./client";
 
-type Author = {
+export type Author = {
   title: string;
-  body: Record<string, unknown>[];
+  body: any[];
 }
 
 export async function getAuthors(): Promise<Author[]> {

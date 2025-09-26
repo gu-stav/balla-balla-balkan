@@ -1,5 +1,10 @@
 ---
 import { PortableText } from "astro-portabletext";
+import type { Author } from "../utils/authors";
+
+interface Props {
+	authors: Author[]
+}
 
 const { authors } = Astro.props;
 ---

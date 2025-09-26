@@ -7,7 +7,7 @@ import { components } from '../../components/PortableText';
 import PlayButton from '../../components/PlayButton.svelte';
 
 const { slug } = Astro.params;
-const episode = await getEpisode(slug);
+const episode = (await getEpisode(slug))!;
 
 export async function getStaticPaths() {
     const episodes = await getEpisodes();

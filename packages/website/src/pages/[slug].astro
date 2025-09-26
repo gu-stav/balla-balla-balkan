@@ -5,7 +5,7 @@ import { getPage, getPages } from '../utils/pages';
 import { components } from '../components/PortableText';
 
 const { slug } = Astro.params;
-const page = await getPage(slug);
+const page = (await getPage(slug))!;
 
 export async function getStaticPaths() {
   const pages = await getPages();
