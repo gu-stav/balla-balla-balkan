@@ -15,7 +15,7 @@ export type Episode = {
   ogTitle?: string;
   ogDescription?: string;
   publishedAt?: string;
-}
+};
 
 export async function getEpisode(slug: string): Promise<Episode | null> {
   const episode = await client.fetch(

@@ -8,7 +8,8 @@ export default defineType({
     defineField({
       name: 'ogImageFallback',
       title: 'Fallback Social Media Bild',
-      description: 'Dieses Bild wird verwendet, wenn kein spezifisches Bild für eine Seite oder einen Beitrag festgelegt ist.',
+      description:
+        'Dieses Bild wird verwendet, wenn kein spezifisches Bild für eine Seite oder einen Beitrag festgelegt ist.',
       type: 'image',
       options: {hotspot: true},
       validation: (Rule) => Rule.required(),

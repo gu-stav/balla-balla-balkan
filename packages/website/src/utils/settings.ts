@@ -4,7 +4,7 @@ type Settings = {
   ogImageFallback: string;
   title: string;
   description: string;
-  social_media: { type: 'apple' | 'soundcloud' | 'spotify'; url: string }[];
+  social_media: { type: "apple" | "soundcloud" | "spotify"; url: string }[];
 };
 
 export async function getSettings(): Promise<Settings> {
