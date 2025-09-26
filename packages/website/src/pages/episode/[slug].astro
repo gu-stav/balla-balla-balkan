@@ -20,7 +20,7 @@ export async function getStaticPaths() {
 }
 ---
 <Layout title={episode.title} image={episode.ogImage ? `${episode.ogImage}?h=630&w=1280` : `${episode.imageUrl}?fit=fillmax&h=630&w=1280&bg=faffbd`} description={episode.excerpt}>
-    <article class="mb-10">
+    <article class="mb-14">
         <div class="flex flex-col gap-8 items-center w-full">
             <div class="flex flex-col sm:flex-row gap-4 sm:gap-12 max-w-6xl px-4 sm:px-7 p-6 sm:p-18 mx-2 sm:mx-0 w-full">
               <figure class="flex flex-col gap-2 shrink-0 max-w-1/2 sm:w-max">
@@ -45,12 +45,12 @@ export async function getStaticPaths() {
 
                   <span class="hidden sm:inline">oder auf</span>
 
-                  <ul class="flex gap-3 items-center">
+                  <ul class="flex gap-5 sm:gap-4 items-center">
                     <li>
                       <a href={episode.appleLink} class="font-sans text-md text-red hover:text-black focus:text-black">
                         <svg
                           aria-hidden="true"
-                          class="w-6"
+                          class="w-7 sm:w-6"
                           focusable="false"
                           role="img"
                           xmlns="http://www.w3.org/2000/svg"
@@ -86,7 +86,7 @@ export async function getStaticPaths() {
                       <a href={episode.spotifyLink} class="font-sans text-md text-red hover:text-black focus:text-black">
                         <svg
                           aria-hidden="true"
-                          class="w-6"
+                          class="w-7 sm:w-6"
                           focusable="false"
                           role="img"
                           xmlns="http://www.w3.org/2000/svg"
