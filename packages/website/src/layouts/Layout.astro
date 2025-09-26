@@ -19,6 +19,7 @@ const ogImage = image ? image : settings.ogImageFallback ? `${settings?.ogImageF
         <meta name="og:description" content={description ?? settings?.description} />
         {ogImage && <meta name="og:image" content={ogImage} />}
 		<title>{title ? `${title} | ` : ''} {settings?.title}</title>
+        <link rel="icon" href="/favicon.svg" sizes="392x392" type="image/svg+xml" />
 	</head>
 
 	<body class="bg-gray flex flex-col gap-4 sm:gap-10 min-h-screen">
