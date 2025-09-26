@@ -9,7 +9,7 @@ interface Props {
 
 const { episode } = Astro.props;
 ---
-<article class="flex flex-col sm:flex-row gap-4 sm:gap-12 max-w-6xl px-4 sm:px-7 p-6 sm:p-18 mx-2 sm:mx-0 relative w-full">
+<article class="flex flex-col sm:flex-row gap-4 sm:gap-12 max-w-6xl px-4 sm:px-7 p-6 sm:py-18 mx-2 sm:mx-0 relative w-full">
 	{<a class="absolute inset-0 opacity-0 z-1" href={`/episode/${episode.slug}`}>
         {episode.title}
     </a>}
