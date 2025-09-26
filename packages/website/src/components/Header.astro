@@ -2,14 +2,14 @@
 import Logo from './Logo.astro'
 ---
 
-<header class="bg-yellow flex justify-center p-8">
+<header class="bg-yellow flex justify-center pt-8 sm:p-8">
     <nav class="flex flex-col sm:flex-row gap-2 justify-between sm:gap-16 items-center sm:items-end max-w-3xl">
         <a class="font-sans font-semibold hidden md:block hover:underline text-sm sm:text-lg text-red tracking-wide uppercase" href="/episoden">Alle Episoden</a>
 
         <a href="/" class="block">
-            <Logo class="fill-red sm:-mb-7 w-52 sm:w-72" />
+            <Logo class="fill-red sm:-mb-7 w-64 sm:w-72" />
         </a>
 
-        <a class="font-sans font-semibold hover:underline text-sm sm:text-lg text-red tracking-wide uppercase" href="/unterstuetzen">Unterstützen</a>
+        <a class="block border-red border-t-1 sm:border-none sm:inline font-sans font-semibold hover:underline py-6 px-8 sm:p-0 text-md sm:text-lg text-red tracking-wide uppercase" href="/unterstuetzen">Unterstützen</a>
     </nav>
 </header>
