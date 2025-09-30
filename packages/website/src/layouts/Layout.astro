@@ -4,6 +4,7 @@ import { getSettings } from '../utils/settings';
 import Header from '../components/Header.astro';
 import Player from '../components/Player.svelte';
 import { getImage } from 'astro:assets';
+import  SpeedInsights  from "@vercel/speed-insights/astro"
 
 const settings = await getSettings();
 const { title, description, image } = Astro.props
@@ -52,5 +53,6 @@ const twitterImageOptimized = twitterImage ? await getImage({ src: twitterImage,
         </footer>
 
         <Player client:load />
+        <SpeedInsights />
 	</body>
 </html>
