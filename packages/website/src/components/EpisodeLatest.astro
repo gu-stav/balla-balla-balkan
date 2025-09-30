@@ -22,7 +22,7 @@ const { episode } = Astro.props;
 	<div class="flex flex-col gap-4 sm:gap-12">
 		<div class="flex flex-col gap-2 sm:gap-4">
 			<a class="flex flex-col gap-1 font-medium font-sans text-3xl sm:text-5xl text-red tracking-tight" href={`/episode/${episode.slug}`}>
-				{(episode.number) && <span class="block font-medium text-black text-xs sm:text-sm tracking-normal uppercase uppercase -mt-7">
+				{(episode.number) && <span class="block font-medium text-black text-xs sm:text-sm tracking-normal uppercase uppercase sm:-mt-7">
 					Neueste Episode
 					{episode.number ? ` • Episode ${episode.number}` : ''}
 				</span>}
