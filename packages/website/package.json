@@ -3,6 +3,11 @@
   "private": true,
   "type": "module",
   "version": "0.0.1",
+  "pnpm": {
+    "overrides": {
+      "vite": "npm:rolldown-vite@latest"
+    }
+  },
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
