@@ -16,31 +16,31 @@
     "sanity"
   ],
   "dependencies": {
-    "@portabletext/block-tools": "^5.0.0",
-    "@sanity/schema": "^5.12.0",
-    "@sanity/vision": "^5.12.0",
-    "react": "^19.2.3",
-    "react-dom": "^19.2.3",
-    "sanity": "^5.12.0",
-    "styled-components": "^6.3.11"
+    "@portabletext/block-tools": "^5.1.1",
+    "@sanity/schema": "^5.24.0",
+    "@sanity/vision": "^5.24.0",
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6",
+    "sanity": "^5.24.0",
+    "styled-components": "^6.4.1"
   },
   "devDependencies": {
-    "@sanity/client": "^7.16.0",
+    "@sanity/client": "^7.22.0",
     "@sanity/eslint-config-studio": "^6.0.0",
-    "@types/react": "^19.2.7",
-    "eslint": "^9.39.2",
+    "@types/react": "^19.2.14",
+    "eslint": "^10.3.0",
     "gray-matter": "^4.0.3",
-    "jsdom": "^27.4.0",
-    "prettier": "^3.8.1",
+    "jsdom": "^29.1.1",
+    "prettier": "^3.8.3",
     "remark-extract-frontmatter": "^3.2.0",
     "remark-frontmatter": "^5.0.0",
     "remark-html": "^16.0.1",
     "remark-parse": "^11.0.0",
-    "slugify": "^1.6.6",
+    "slugify": "^1.6.9",
     "tiny-glob": "^0.2.9",
-    "typescript": "^5.9.3",
+    "typescript": "^6.0.3",
     "unified": "^11.0.5",
-    "yaml": "^2.8.2"
+    "yaml": "^2.8.4"
   },
   "prettier": {
     "semi": false,
